@@ -1,1 +1,1 @@
-mbib
+mbib-resources
