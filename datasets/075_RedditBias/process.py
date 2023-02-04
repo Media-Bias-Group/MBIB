@@ -1,5 +1,4 @@
 import os
-import sys
 import pandas as pd
 from datasets.data_utils import prepare_text
 

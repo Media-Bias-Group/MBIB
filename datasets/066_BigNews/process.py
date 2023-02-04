@@ -1,10 +1,8 @@
 import os
 import pandas as pd
 from datasets.data_utils import prepare_text
-import json
 from csv import writer
 import ijson
-from tqdm import tqdm
 
 
 project_path = os.getcwd()
@@ -29,7 +27,7 @@ with open(csv_path, 'a', newline='') as f_object:
     for file, label, category in [(path_center, 0, 0), (path_left, 1, 1), (path_right, 1, 2)]:
         with open(file, 'rb') as f:
             writer_object = writer(f_object)
-            for i in tqdm(ijson.items(f, "item")):
+            for i in ijson.items(f, "item"):
                 text = i['text']
                 id_add = 0
                 for sentence in text:
