@@ -1,8 +1,6 @@
 import os
-import sys
 import pandas as pd
 from datasets.data_utils import prepare_text
-import json
 
 project_path = os.getcwd()
 local_path = 'datasets/072_Liar'
