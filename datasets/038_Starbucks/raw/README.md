@@ -1,0 +1,1 @@
+1. clone the [github repository](https://github.com/skymoonlight/biased-sents-annotation) and copy its contents to this folder.

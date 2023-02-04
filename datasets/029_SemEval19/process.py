@@ -1,7 +1,6 @@
 import os
 import pandas as pd
 from datasets.data_utils import prepare_text
-import json
 from bs4 import BeautifulSoup as bs
 
 project_path = os.getcwd()
