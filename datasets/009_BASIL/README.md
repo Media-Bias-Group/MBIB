@@ -1,7 +1,16 @@
 # 009 BASIL
+The dataset contains 1,726 manually annotated biased
+spans from 300 articles. The dataset includes articles from various sources, including mainstream and alternative media. The articles were collected over several years
+and span a wide range of topics, including politics, health, science, and technology.
+Spans were annotated by human annotators trained to detect bias and misinformation in the statements. Annotations were then cross-checked for high inter-annotator
+agreement. While the annotations contain more detailed information on the type of
+bias and its direction, for this task, only whether a span was annotated as biased
+was considered.
 
 ## Original repository:
 https://github.com/launchnlp/BASIL
+
+
 
 ## Citation:
 ```
