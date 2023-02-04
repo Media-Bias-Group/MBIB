@@ -1,4 +1,9 @@
 # 066 BigNews
+contains a crawl of articles classified by the media outlet’s political leaning as defined by allsites.com. The 3.689.229
+articles were classified as neutral or left/right-leaning. The label for left/right was
+concatenated to one bias label to binarize it. The articles were split on the sentence
+level to make the length compatible with the rest of the data. The resulting data,
+however, is only distantly labeled.
 
 ## Original repository:
 https://github.com/launchnlp/POLITICS

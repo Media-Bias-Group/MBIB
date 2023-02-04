@@ -1,4 +1,11 @@
 # 075 RedditBias
+is made out of 10,583 annotated
+Reddit posts. The dataset consists of four subcategories: Religion, race, gender,
+and queerness. It covers diverse topics, such as news, politics, entertainment, and
+technology. Out of a collection of more than 1.2 million comments, a representative
+subset was chosen and annotated by crowdsourcing. Annotators were given training
+examples and required a high accuracy to be included. In the dataset, sentences and
+entire phrases were annotated on whether they are biased.
 
 ## Original repository:
 https://github.com/umanlp/RedditBias

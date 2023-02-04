@@ -1,4 +1,11 @@
 # 076 Contextual Abuse Dataset
+the authors collected comments and posts from 116 subreddits. They manually annotated them for various
+types of abusive or hateful language and the target of the abusive language. The
+collected comments were annotated by crowdsourcing. Annotators were required
+to reach a consensus regarding the annotation choice. Annotation conflicts were
+therefore discussed among annotators until a consensus was reached. Afterward,
+annotations were reviewed by an expert. After missing text entries were dropped,
+26,235 were labeled neutral or abusive.
 
 ## Original repository:
 https://github.com/dongpng/cad_naacl2021

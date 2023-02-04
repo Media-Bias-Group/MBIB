@@ -1,5 +1,8 @@
 # 072 Liar
-
+contains 12,835 statements with six different labels for the degree of truthfulness of the statements and was specifically designed
+to evaluate models for detecting fake news. The statements were scraped from politifacts.com but stem from various sources, from fake news websites to reputable
+sources such as The New York Times, and were manually annotated. The dataset
+was balanced so that the number of true and false news is similar. For the construction of MBIB, the labels were collapsed to a binary true or false format.
 
 ## Citation:
 ```

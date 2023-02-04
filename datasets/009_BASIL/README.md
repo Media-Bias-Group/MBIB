@@ -1,5 +1,5 @@
 # 009 BASIL
-The dataset contains 1,726 manually annotated biased
+ contains 1,726 manually annotated biased
 spans from 300 articles. The dataset includes articles from various sources, including mainstream and alternative media. The articles were collected over several years
 and span a wide range of topics, including politics, health, science, and technology.
 Spans were annotated by human annotators trained to detect bias and misinformation in the statements. Annotations were then cross-checked for high inter-annotator

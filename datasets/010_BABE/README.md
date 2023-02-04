@@ -1,5 +1,14 @@
 # 010 BABE
 
+ contains 3,673 manually
+annotated news article-based sentences. It was specifically designed for media bias research
+and stands out through its thorough annotator training. Annotators were required
+to have a substantial background in the media bias domain, underwent specific
+training, and were provided with annotation guidelines. BABE provides binary bias
+labels and various information on biased words, label opinions, or outlet labels. The
+BABE dataset has been used previously to set a benchmark for automated media
+bias detection.
+
 ## Original repository:
 https://github.com/Media-Bias-Group/Neural-Media-Bias-Detection-Using-Distant-Supervision-With-BABE
 

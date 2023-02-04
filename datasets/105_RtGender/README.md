@@ -1,4 +1,11 @@
 # 105 RtGender
+ is a collection of five
+datasets with comments from Facebook, Reddit, TED, and Fitocracy to study the
+perception of gender. The five datasets contain unlabeled posts from public figures
+and their responses, as well as comment response pairs where the gender of the author is known. The authors then labeled a small subset of those five datasets
+using crowd-sourcing. The resulting labeled dataset consists of 15,351 manually
+annotated posts and responses. For the data collection, only labeled posts and comments were taken and labeled either neutral or biased (if they were annotated with
+a "positive" or "negative" gender perception).
 
 ## Citation:
 ```

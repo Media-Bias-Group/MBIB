@@ -1,4 +1,10 @@
 # 029 SemEval 2019
+dataset created for the SemEval 2019 Task 4, which was focused on detecting partisan news. Partisan news is news coverage that is slanted toward a
+political ideology. Here, a news article is called partisan if it is either left or right
+leaning. If an article is annotated as classified, it is considered politically biased for
+the political bias task. The International Workshop on Semantic Evaluation (SemEval) organizes annual tasks to evaluate computational systems doing semantic
+analyses. Tasks include, among others, sentiment analysis, semantic role labeling,
+and, as seen here, partisan news detection.
 
 ## Citation
 ```

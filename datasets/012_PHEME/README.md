@@ -1,4 +1,12 @@
 # 012 Pheme
+The Pheme dataset, from the Pheme challenge, provides 5,222 tweets labeled on
+the veracity and rumor detection. The Pheme challenge is organized by the Pheme
+project (led by the University of Sheffield) and aims to develop models for analyzing
+online misinformation. The challenges usually include manually annotated social
+media posts, and the participants aim at automatically classifying them as rumors
+or checking their veracity. For the usage in the fake news task, only the veracity
+of the statements was considered. The extended Pheme version focuses on nine news events. All annotations were done by journalists who
+fact-checked all tweets and classified them as false if there was no confirming evidence found.
 
 ## Citation:
 ```

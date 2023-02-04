@@ -1,4 +1,11 @@
 # 092 HateXplain
+entails 20,148 tweets from Twitter and Gab annotated by Amazon Mechanical Turk  for
+hate speech as well as offensive language. Annotations include the target of the hate
+speech and the text identified in the tweets motivating the label choice. Tweets were
+either collected randomly from Twitter based on lexicons or reused from a previous dataset. Before starting the annotation procedure, the
+annotators underwent a pilot annotation where they were provided with detailed
+guidelines and examples. After the pilot, around one-third of the original annotators were chosen for the primary annotation round. For the hate speech task, only
+hate speech and not offensive language was considered.
 
 ## Original repository:
 https://github.com/hate-alert/HateXplain

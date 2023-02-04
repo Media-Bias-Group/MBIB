@@ -1,4 +1,10 @@
 # 026 Wiki Neutrality Corpus
+is  based on Wikipedia’s
+POV labels and was. It contains biased
+statements as well as their neutral corrections. Opposed to the  `003_WikiNPOV` 
+, crowdsourcing annotators did not review the statements. For the MBIB
+task, the dataset was split up, and every statement was labeled biased or unbiased
+based on its POV-flagged statement or correction. 
 
 ## Original repository:
 https://github.com/rpryzant/neutralizing-bias/tree/master/

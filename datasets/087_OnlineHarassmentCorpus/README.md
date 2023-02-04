@@ -1,4 +1,10 @@
 # 087 Online Harassment Corpus
+provides 20,427 tweets
+annotated for harassment. For the authors, harassment includes threats, hate
+speech, and direct harassment (language meant to violate a certain group or person directly). To collect tweets, the authors searched for tweets based on a set of
+terms deemed to be connected to harassment frequently. Every tweet needed to be
+annotated by at least two human annotators instructed by an extensive codebook,
+including examples.
 
 ## Citation:
 ```

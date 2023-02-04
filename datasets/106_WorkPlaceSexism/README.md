@@ -1,4 +1,8 @@
 # 106 WorkPlaceSexism
+consists of 1,136 sentences labeled with regard to sexism.  This dataset is different from other datasets in that it tries to exclude "hostile sexism," which can
+be more often found on social media and less in the workplace where the occurring
+sexism is often more subtle. As in news coverage, the present sexism will also likely
+be more subtle it is a good fit for a transfer of results toward media bias.
 
 ## Original repository:
 https://github.com/dylangrosz/Automatic_Detection_of_Sexist_Statements_Commonly_Used_at_the_Workplace

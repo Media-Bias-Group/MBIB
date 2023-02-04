@@ -1,4 +1,10 @@
 # 025 FakeNewsNet
+ is a collection of articles classified as fake news.
+Additionally to the truth value of the articles, the authors provide "news content,
+social context, and spatiotemporal information". The authors
+collected articles from multiple fact-checking websites to gather the articles and
+truth values. Only the articles and their veracity label were used for the fake news
+task. The articles were split up to a sentence level, resulting in 6,337 sentences.
 
 ## Original repository:
 https://github.com/KaiDMML/FakeNewsNet
