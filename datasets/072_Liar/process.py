@@ -8,8 +8,8 @@ project_path = os.getcwd()
 local_path = 'datasets/072_Liar'
 raw_path = os.path.join(project_path,local_path,'raw')
 clean_path = os.path.join(project_path,local_path,'072-liar_dataset.csv')
-files = [ele for ele in os.listdir(raw_path) if ".tsv" in ele]
 
+files = [ele for ele in os.listdir(raw_path) if ".tsv" in ele]
 id = 0
 ds_lst = []
 for entry in files:
