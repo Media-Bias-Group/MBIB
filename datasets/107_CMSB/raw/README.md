@@ -1,0 +1,1 @@
+1. download `sexism_data.csv` from [here](https://search.gesis.org/research_data/SDN-10.7802-2251?doi=10.7802/2251).
