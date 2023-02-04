@@ -9,6 +9,9 @@ raw_path = os.path.join(project_path,local_path,'raw')
 clean_path = os.path.join(project_path,local_path,'075-RedditBias.csv')
 files = ['reddit_comments_gender_female_processed_phrase_annotated.csv', 'reddit_comments_orientation_lgbtq_processed_phrase_annotated.csv', 'reddit_comments_race_black_processed_phrase_annotated.csv','reddit_comments_religion1_jews_processed_phrase_annotated.csv', 'reddit_comments_religion2_muslims_processed_phrase_annotated.csv']
 
+if len(os.listdir(raw_path)) == 1:
+    print("Raw data of " + local_path.split('/')[1] + " are missing.")
+    quit()
 
 df = pd.DataFrame(columns= ['text', 'label', 'category'])
 for file in files:

@@ -8,6 +8,9 @@ local_path = 'datasets/076_CAD'
 raw_path = os.path.join(project_path,local_path,'raw/cad_v1_1.tsv')
 clean_path = os.path.join(project_path,local_path,'076-ContextualAbuse.csv')
 
+if not os.path.isfile(raw_path):
+    print("Raw data of " + local_path.split('/')[1] + " are missing.")
+    quit()
 
 #word_count = []
 categories = {"Neutral": 0, "AffiliationDirectedAbuse": 1, "Slur": 2, "PersonDirectedAbuse": 3, "IdentityDirectedAbuse": 4, "CounterSpeech": 5}

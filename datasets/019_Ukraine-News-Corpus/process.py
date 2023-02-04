@@ -8,6 +8,10 @@ local_path = 'datasets/019_Ukraine-News-Corpus'
 raw_path = os.path.join(project_path,local_path,'raw')
 clean_path = os.path.join(project_path,local_path,'019-MultidimensionalDataset.csv')
 
+if len(os.listdir(raw_path)) == 1:
+    print("Raw data of " + local_path.split('/')[1] + " are missing.")
+    quit()
+
 files = [ele for ele in os.listdir(raw_path) if '.json' in ele]
 
 article_id = 0

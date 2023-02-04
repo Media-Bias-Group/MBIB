@@ -7,6 +7,10 @@ local_path = 'datasets/026_WikiNeutralityCorpus'
 raw_path = os.path.join(project_path,local_path,'raw/biased.full')
 clean_path = os.path.join(project_path,local_path,'026-WNC.csv')
 
+if not os.path.isfile(raw_path):
+    print("Raw data of " + local_path.split('/')[1] + " are missing.")
+    quit()
+
 with open(raw_path, "r", errors='replace') as fd:
     file = fd.readlines()
 file_split = [ele.split("\t") for ele in file]

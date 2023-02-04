@@ -7,6 +7,10 @@ local_path = 'datasets/106_WorkPlaceSexism'
 raw_path = os.path.join(project_path,local_path,'raw/ISEP Sexist Data labeling.xlsx')
 clean_path = os.path.join(project_path,local_path,'106-workplacesexism.csv')
 
+if not os.path.isfile(raw_path):
+    print("Raw data of " + local_path.split('/')[1] + " are missing.")
+    quit()
+
 df = pd.read_excel(raw_path)
 
 df['id'] = pd.DataFrame(range(len(df))) + 1

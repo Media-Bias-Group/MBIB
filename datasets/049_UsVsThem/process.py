@@ -7,6 +7,9 @@ local_path = 'datasets/049_UsVsThem'
 raw_path = os.path.join(project_path,local_path,'raw/Reddit_dataset.csv')
 clean_path = os.path.join(project_path,local_path,'049-USvsThem.csv')
 
+if not os.path.isfile(raw_path):
+    print("Raw data of " + local_path.split('/')[1] + " are missing.")
+    quit()
 
 df_original = pd.read_csv(raw_path)
 df = pd.DataFrame()

@@ -16,6 +16,10 @@ path_center = os.path.join(raw_path,'BIGNEWSBLN_train_center.json')
 path_left = os.path.join(raw_path,'BIGNEWSBLN_train_left.json')
 path_right = os.path.join(raw_path,'BIGNEWSBLN_train_right.json')
 
+if len(os.listdir(raw_path)) == 1:
+    print("Raw data of " + local_path.split('/')[1] + " are missing.")
+    quit()
+
 df = pd.DataFrame(columns= ['text', 'label', 'category'])
 df.index.name='id'
 csv_path = clean_path

@@ -7,6 +7,10 @@ local_path = 'datasets/040_Jigsaw'
 raw_path = os.path.join(project_path,local_path,'raw/all_data.csv')
 clean_path = os.path.join(project_path,local_path,'040-Jigsaw-balanced.csv')
 
+if not os.path.isfile(raw_path):
+    print("Raw data of " + local_path.split('/')[1] + " are missing.")
+    quit()
+
 df_original = pd.read_csv(raw_path)
 df = pd.DataFrame()
 df['text'] = df_original['comment_text'].apply(lambda x: prepare_text(str(x)))

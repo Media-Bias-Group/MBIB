@@ -7,6 +7,9 @@ local_path = 'datasets/105_RtGender'
 raw_path = os.path.join(project_path,local_path,'raw/annotations.csv')
 clean_path = os.path.join(project_path,local_path,'105-rtgender.csv')
 
+if not os.path.isfile(raw_path):
+    print("Raw data of " + local_path.split('/')[1] + " are missing.")
+    quit()
 
 df = pd.read_csv(raw_path)
 

@@ -11,6 +11,10 @@ clean_path = os.path.join(project_path,local_path,'029-SemEval2019.csv')
 articles = [os.path.join(raw_path, 'articles-training-byarticle-20181122.xml'), os.path.join(raw_path, 'articles-test-byarticle-20181207.xml')]
 ground_truth = [os.path.join(raw_path, 'ground-truth-training-byarticle-20181122.xml'), os.path.join(raw_path, 'ground-truth-test-byarticle-20181207.xml')]
 
+if len(os.listdir(raw_path)) == 1:
+    print("Raw data of " + local_path.split('/')[1] + " are missing.")
+    quit()
+
 df_final = pd.DataFrame(columns=['id', 'text', 'label'])
 for z in range(len(articles)):
     with open(articles[z], 'r', errors='replace') as f:

@@ -7,6 +7,10 @@ local_path = 'datasets/087_OnlineHarassmentCorpus'
 raw_path = os.path.join(project_path,local_path,'raw/onlineHarassmentDataset.tdf')
 clean_path = os.path.join(project_path,local_path,'087-OnlineHarassment.csv')
 
+if not os.path.isfile(raw_path):
+    print("Raw data of " + local_path.split('/')[1] + " are missing.")
+    quit()
+
 with open(raw_path, errors= 'replace') as fd:
     file = fd.readlines()
     file_split = [ele.split("\t") for ele in file]

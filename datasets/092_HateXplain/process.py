@@ -9,6 +9,10 @@ local_path = 'datasets/092_HateXplain'
 raw_path = os.path.join(project_path,local_path,'raw/dataset.json')
 clean_path = os.path.join(project_path,local_path,'092-HateXplain.csv')
 
+if not os.path.isfile(raw_path):
+    print("Raw data of " + local_path.split('/')[1] + " are missing.")
+    quit()
+
 with open(raw_path, 'r') as fd:
         ds_json = json.load(fd)
 

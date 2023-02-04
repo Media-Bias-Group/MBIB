@@ -9,6 +9,10 @@ local_path = 'datasets/025_FakeNewsNet'
 raw_path = os.path.join(project_path,local_path,'raw/Data')
 clean_path = os.path.join(project_path,local_path,'025-FakeNewsNet.csv')
 
+if not os.path.isdir(raw_path):
+    print("Raw data of " + local_path.split('/')[1] + " are missing.")
+    quit()
+
 article_id = 0
 ds = []
 for source in os.listdir(raw_path):

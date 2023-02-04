@@ -1,11 +1,17 @@
 import os
 import pandas as pd
 from datasets.data_utils import prepare_text
+import warnings
+warnings.simplefilter(action='ignore', category=FutureWarning)
 
 project_path = os.getcwd()
 local_path = 'datasets/038_Starbucks'
 raw_path = os.path.join(project_path,local_path,'raw/Sora_LREC2020_biasedsentences.csv')
 clean_path = os.path.join(project_path,local_path,'038-Starbucks.csv')
+
+if not os.path.isfile(raw_path):
+    print("Raw data of " + local_path.split('/')[1] + " are missing.")
+    quit()
 
 df_original = pd.read_csv(raw_path)
 df_text = df_original.groupby('id_article').min().reset_index()

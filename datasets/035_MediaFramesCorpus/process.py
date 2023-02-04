@@ -8,6 +8,10 @@ local_path = 'datasets/035_MediaFramesCorpus'
 raw_path = os.path.join(project_path,local_path,'raw/mfc_v4.0')
 clean_path = os.path.join(project_path,local_path,'035-MFC.csv')
 
+if not os.path.isdir(raw_path):
+    print("Raw data of " + local_path.split('/')[1] + " are missing.")
+    quit()
+
 files = [ele for ele in os.listdir(raw_path) if "." not in ele]
 
 id = 0

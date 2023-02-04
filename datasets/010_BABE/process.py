@@ -7,6 +7,9 @@ local_path = 'datasets/010_BABE'
 raw_path = os.path.join(project_path,local_path,'raw/final_labels_SG2.xlsx')
 clean_path = os.path.join(project_path,local_path,'010-babe.csv')
 
+if not os.path.isfile(raw_path):
+    print("Raw data of " + local_path.split('/')[1] + " are missing.")
+    quit()
 
 df_original = pd.read_excel(raw_path)
 df = pd.DataFrame()

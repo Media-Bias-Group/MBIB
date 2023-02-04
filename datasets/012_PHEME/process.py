@@ -9,9 +9,15 @@ local_path = 'datasets/012_PHEME'
 raw_path = os.path.join(project_path,local_path,'raw/all-rnr-annotated-threads')
 clean_path = os.path.join(project_path,local_path,'012-Pheme.csv')
 
+if not os.path.isdir(raw_path):
+    print("Raw data of " + local_path.split('/')[1] + " are missing.")
+    quit()
+
 df = pd.DataFrame(columns= ['tweetID', 'text', 'label', 'rumour'])
 tweet = TweetLoader()
 topics = [ele for ele in os.listdir(raw_path) if '.' not in ele]
+
+
 
 for topic in topics:
     articles_nr = [ele for ele in os.listdir(os.path.join(raw_path, topic, 'non-rumours')) if '.' not in ele] # List of all non-roumor articles

@@ -8,6 +8,11 @@ raw_path = os.path.join(project_path,local_path,'raw')
 clean_path = os.path.join(project_path,local_path,'003-NPOV.csv')
 files = ['statements_biased','statements_neutral_type_balanced','statements_neutral_featured','statements_neutral_cw-hard']
 
+#
+if len(os.listdir(raw_path)) == 1:
+    print("Raw data of " + local_path.split('/')[1] + " are missing.")
+    quit()
+
 ds_lst = []
 id = 0
 for filename in files:
