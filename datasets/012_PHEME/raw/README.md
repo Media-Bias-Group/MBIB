@@ -1,0 +1,1 @@
+1. Download data from [here](https://figshare.com/articles/dataset/PHEME_dataset_for_Rumour_Detection_and_Veracity_Classification/6392078) and extract into this folder.
