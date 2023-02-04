@@ -1,0 +1,1 @@
+1. Download and unzip data from [zenodo](https://zenodo.org/record/1489920#.Y95mcNLMJIQ).
