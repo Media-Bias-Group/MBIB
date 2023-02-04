@@ -1,0 +1,1 @@
+1. clone the original github [repository](https://github.com/tgh499/racial_bias_twitter)
