@@ -1,0 +1,65 @@
+{
+    "source": "nyt",
+    "main-entities": ["Joe Arpaio", "Rick Perry"],
+    "main-event": "Joe Arpaio endorsed Texas Governor Rick Perry for the Republican presidential nomination",
+    "title": "Perry Wins Endorsement of Sheriff Joe ",
+    "url": "http://thecaucus.blogs.nytimes.com/2011/11/29/rick-perry-wins-the-endorsement-of-sheriff-joe-arpaio/?ref=josephmarpaio",
+    "word-count": 687,
+    "date": "2011-11-29",
+    "uuid": "735f7d37-c9da-4a58-b025-5db832e77192",
+    "triplet-uuid": "0ffb34cd-c367-4d90-aca7-7fcac3ed8f3d",
+    "body-paragraphs": [
+        [
+            "AMHERST, N.H. \u2014 Gov. Rick Perry of Texas on Tuesday said he would back a federal policy \u201cto detain and to deport every illegal alien that we apprehend.\u201d"
+        ],
+        [
+            "Mr. Perry, in his most expansive comments about illegal immigration since last week\u2019s Republican presidential debate, was not suggesting any rounding up of illegal immigrants, an aide later made clear, but calling for all people arrested or detained \u2014 and later found to be undocumented \u2014 to be expelled from the country after an expedited hearing."
+        ],
+        [
+            "The candidate sought to draw a contrast with the Obama administration, which he criticized as having a \u201ccatch-and-release\u201d policy that allows some nonviolent illegal immigrants to be released back into the general public."
+        ],
+        [
+            "It\u2019s a \u201chorrific policy,\u201d Mr. Perry said."
+        ],
+        [
+            "Backers of the policy say it allows officials to focus resources on deporting illegal immigrants who have been convicted of serious crimes or who are a threat to the public safety or the national interest."
+        ],
+        [
+            "With a little more than a month to go before the New Hampshire primary, the Texas governor is trying to shore up his credentials on immigration: On Tuesday he won an endorsement from one of the nation\u2019s most outspoken and controversial public officials on that issue: Sheriff Joe Arpaio of Maricopa County, Ariz., who unabashedly calls himself the \u201ctoughest sheriff\u201d in the country."
+        ],
+        [
+            "Appearing at Joey\u2019s Diner here, in the southern end of the state, Mr. Arpaio, who had also been courted by Representative Michele Bachmann and Herman Cain, praised what he called Mr. Perry\u2019s efforts to interdict illegal crossings by sending Texas Rangers and other state law enforcement to the Texas border with Mexico."
+        ],
+        [
+            "\u201cHe doesn\u2019t just talk about it; he does something about it,\u201d Mr. Arpaio said."
+        ],
+        [
+            "Mr. Perry was widely criticized within his own party for backing a state plan that gives some children of illegal immigrants the same lower-cost in-state college tuition that is enjoyed by American citizens who attend the state\u2019s public universities and who have been Texas residents at least three years."
+        ],
+        [
+            "At one point he suggested that those who opposed his position were heartless.",
+            "On Tuesday he repeated his apology for that comment, calling it \u201cvery inappropriate,\u201d his latest effort to try to win back some Republican primary voters who abandoned him as rivals sought to paint him as too soft on illegal immigration."
+        ],
+        [
+            "But it remains to be seen how much an endorsement from Sheriff Arpaio will help him in this state, where Mr. Perry is polling far behind the leader, Mitt Romney.",
+            "According to one recent poll, immigration was cited by only 4 percent of likely Republican voters as the most important issue."
+        ],
+        [
+            "Mr. Arpaio is also a polarizing figure.",
+            "Last year, the Justice Department filed a lawsuit against the sheriff for not cooperating with an investigation into whether the Maricopa County Sheriff\u2019s Department is systematically violating the rights of Hispanics.",
+            "It was the first time in a generation, according to officials, that the federal government has filed suit to force a law enforcement agency to cooperate with such an investigation."
+        ],
+        [
+            "The sheriff has called the Justice Department\u2019s action an attempt to intimidate him and he has said he does not engage in racial profiling.",
+            "Mr. Arpaio, who gained wide notice for forcing inmates to wear pink underwear and housing them in tents, is popular in his state, where he has repeatedly won re-election by a sizable margin."
+        ],
+        [
+            "Even so, there are signs that the state\u2019s aggressive immigration policies have begun to turn off some: Earlier this month a longtime Arpaio ally, Arizona State Sen. Russell Pearce, was defeated in a recall election by a more moderate Republican.",
+            "Mr. Pearce had pushed through a controversial law last year that would have turned police officers throughout the state into de facto immigration agents."
+        ],
+        [
+            "The Justice Department is fighting the law, which has not taken effect yet.",
+            "On Tuesday, Mr. Perry signaled that he would not support the continuation of that lawsuit if he were elected president, saying that the federal government should not \u201cbe suing states for making decisions that they think\u201d are in the best interests of their citizens."
+        ]
+    ]
+}

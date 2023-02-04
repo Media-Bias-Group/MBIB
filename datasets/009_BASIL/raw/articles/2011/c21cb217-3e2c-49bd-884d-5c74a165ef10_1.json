@@ -1,0 +1,70 @@
+{
+    "source": "nyt",
+    "main-entities": ["Anthony Weiner"],
+    "main-event": "Weiner Denies Sending Photo",
+    "title": "Weiner Denies Sending Photo but Is Less Sure About Its Origin",
+    "url": "http://www.nytimes.com/2011/06/02/nyregion/weiner-denies-sending-photo-over-twitter-but-is-less-sure-of-its-origin.html?hp&_r=0",
+    "word-count": 699,
+    "date": "2011-06-01",
+    "uuid": "4ed618f7-7991-4588-aba4-eb4f8da647c0",
+    "triplet-uuid": "c21cb217-3e2c-49bd-884d-5c74a165ef10",
+    "body-paragraphs": [
+        [
+            "WASHINGTON \u2014 Representative Anthony D. Weiner, trying to put to rest a bizarre episode that is overshadowing his role as liberal pugilist and threatening his dream of becoming New York\u2019s mayor, emphatically denied on Wednesday that he had sent a suggestive photograph to a woman in Washington State but said he could not be sure that he is not the person in the image."
+        ],
+        [
+            "\u201cThis was essentially a hacked account that had a gag photo sent out on it,\u201d Mr. Weiner, a Democrat, said during an interview in his office here.",
+            "\u201cI can\u2019t say with certainty very much about where the photograph came from.\u201d"
+        ],
+        [
+            "On Tuesday, Mr. Weiner presided over two testy news briefings at which he had dodged a variety of questions.",
+            "On Wednesday, he adopted a strikingly different approach, sitting patiently for a series of interviews at which he insisted he had done nothing wrong and marveled at what he said on MSNBC was the \u201cAlice in Wonderland world\u201d in which a wayward Twitter message had become the talk of the town."
+        ],
+        [
+            "Mr. Weiner, one of Congress\u2019s most enthusiastic users of social media to engage with constituents and supporters, said he believed his Twitter account, or a related photo-sharing site, had been infiltrated by a hacker or a prankster, who had then sent the offending photo out late Friday."
+        ],
+        [
+            "He said that he had hired an Internet security company and a lawyer to look into the matter, but that he did not believe the episode merited investigation by federal law enforcement.",
+            "He did not rule out the possibility that the photo was of him, but said he did not know who could have sent it."
+        ],
+        [
+            "He said he did not know the woman who received the photo, Gennette Cordova, a student at Whatcom Community College in Bellingham, Wash.; she followed him on Twitter.",
+            "He said he regretted that Ms. Cordova was caught in the middle of the controversy.",
+            "She issued a statement over the weekend saying she had never met him, and she has not spoken out since."
+        ],
+        [
+            "\u201cI just feel terrible for her,\u201d Mr. Weiner said, adding that he had never corresponded with her.",
+            "\u201cShe has committed no crime except to follow me on Twitter.\u201d"
+        ],
+        [
+            "The congressman also expressed concern about the toll the episode was taking on his wife, Huma Abedin, a longtime aide to Secretary of State Hillary Rodham Clinton.",
+            "\u201cI\u2019m protecting my wife, who every day is waking up to these insane stories that are getting so far from reality,\u201d he told CNN.",
+            "\u201cYou know, we\u2019ve been married less than a year.\u201d"
+        ],
+        [
+            "Asked on CNN whether he still wished to be mayor, he said, \u201cPut it this way: It\u2019s the only better job than the one I have.\u201d"
+        ],
+        [
+            "Jack Levin, the chief executive of yFrog, the Twitter-affiliated image and video service that was used to upload the photo, said in an interview on Wednesday that his company did not have reason to believe that its user passwords were exposed or stolen.",
+            "He said it was possible that the photo could have been sent from Mr. Weiner\u2019s yFrog account through his Twitter password or through a yFrog password."
+        ],
+        [
+            "Mr. Levin said neither Mr. Weiner\u2019s office nor any law enforcement authorities had contacted him or his company to inquire about the photo."
+        ],
+        [
+            "Twitter, which does not comment on individual user accounts for privacy reasons, has declined to say whether Mr. Weiner\u2019s account was hacked."
+        ],
+        [
+            "Despite the swirl of events that has buffeted him for several days, Mr. Weiner has not abandoned his sharp humor.",
+            "Suggesting that the photo might have been altered, he alluded to a \u201cDaily Show\u201d sketch on Tuesday in which the comedian Jon Stewart, a longtime friend, had joked that the photo could not have been of the congressman."
+        ],
+        [
+            "\u201cI don\u2019t have memory of this photograph,\u201d Mr. Weiner said in the interview in his office.",
+            "\u201cBut I also ... you know, Jon Stewart might have had it right last night: that there were elements of this photograph that might have been doctored.\u201d"
+        ],
+        [
+            "He paused, then added: \u201cBut I don\u2019t know that.",
+            "And I don\u2019t want that to be the headline.\u201d"
+        ]
+    ]
+}

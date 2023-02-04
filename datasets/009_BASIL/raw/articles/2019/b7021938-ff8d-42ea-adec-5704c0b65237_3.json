@@ -1,0 +1,53 @@
+{
+    "source": "hpo",
+    "main-entities": ["Adam Schiff", "GOP committee members", "Donald Trump"],
+    "main-event": "House Intelligence Committee demand Adam Schiff's resignation",
+    "title": "House Intelligence Committee Republicans Demand Chairman Adam Schiff's Resignation",
+    "url": "https://www.huffpost.com/entry/house-intelligence-committee-republicans-demand-chairman-adam-schiff-resignation_n_5c9cda34e4b08c450cd2a7d4",
+    "word-count": 403,
+    "date": "2019-03-28",
+    "uuid": "b9500510-3f10-4330-9bb0-daee08ad4564",
+    "triplet-uuid": "b7021938-ff8d-42ea-adec-5704c0b65237",
+    "body-paragraphs": [
+        [
+            "All nine Republican members of the House Intelligence Committee are calling on Rep. Adam Schiff (D-Calif.) to resign as its chairman over his public comments about the Russia investigation, which did not determine that President Donald Trump or anyone on his campaign conspired with Russia to win the 2016 election."
+        ],
+        [
+            "Schiff has maintained his strong belief that the Trump campaign colluded with Russia, after the nearly two-year probe came to an end last week without directly implicating the president."
+        ],
+        [
+            "\u201cUndoubtedly there is collusion,\u201d Schiff told The Washington Post on Tuesday.",
+            "\u201cWe will continue to investigate the counterintelligence issues.",
+            "That is, is the president or people around him compromised in any way by a hostile foreign power? ...",
+            "It doesn\u2019t appear that was any part of [special counsel Robert] Mueller\u2019s report.\u201d"
+        ],
+        [
+            "In a letter dated Thursday, the GOP committee members accused Schiff of standing \u201cat the center of a well-orchestrated media campaign\u201d about a possible Trump-Russia connection.",
+            "The group even went so far as to link Schiff to leaked information about the investigation."
+        ],
+        [
+            "\u201cYour willingness to continue to promote a demonstrably false narrative is alarming,\u201d they said, joining other top Republican lawmakers demanding Schiff\u2019s ouster."
+        ],
+        [
+            "Trump himself called on Schiff to resign Thursday in an early-morning tweet that accused the chairman of \u201cunlawfully lying and leaking\u201d information.",
+            "The president said Schiff should be \u201cforced\u201d to step down from Congress entirely."
+        ],
+        [
+            "Somewhat misleadingly, the GOP committee members stated in their letter that Mueller\u2019s findings \u201cconclusively refute\u201d Schiff\u2019s \u201cpast and present assertions\u201d about the investigation.",
+            "While Mueller says his report \u201cdoes not conclude that the President committed a crime,\u201d it \u201calso does not exonerate him.\u201d"
+        ],
+        [
+            "Questions about what the full report uncovered are still at the forefront of many Democrats\u2019 minds, and the party is uniformly calling for the Justice Department to release it publicly."
+        ],
+        [
+            "The Intelligence Committee Republicans\u2019 letter concluded, \u201cYour actions both past and present are incompatible with your duty as Chairman of this Committee, which alone in the House of Representatives has the obligation and authority to provide effective oversight of the U.S. intelligence community.\u201d"
+        ],
+        [
+            "Schiff, in response to his critics, doubled down on his questions about the special counsel\u2019s investigation, which indicted more than 30 people \u2015 including several close to Trump."
+        ],
+        [
+            "\u201cI don\u2019t think it\u2019s OK,\u201d he said Thursday.",
+            "\u201cI think it\u2019s immoral. I think it\u2019s unethical. I think it\u2019s unpatriotic, and yes, I think it\u2019s corrupt and evidence of collusion.\u201d"
+        ]
+    ]
+}

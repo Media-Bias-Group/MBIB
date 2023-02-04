@@ -1,0 +1,83 @@
+{
+    "source": "nyt",
+    "main-entities": ["Barack Obama","White House officials and lawmakers"],
+    "main-event": "Obama willing to use executive orders on guns",
+    "title": "Obama Poised to Back Comprehensive Plan to Curb Gun Violence",
+    "url": "http://www.nytimes.com/2013/01/15/us/politics/biden-meets-with-house-democrats-on-gun-violence-proposals.html",
+    "word-count": 1051,
+    "date": "2013-01-14",
+    "uuid": "807cd714-a095-45b6-841c-ca2e76640429",
+    "triplet-uuid": "526cabb7-02a3-4adb-8e90-ec781c40c498",
+    "body-paragraphs": [
+        [
+            "Obama Willing to Use Executive Orders on Guns"
+        ],
+        [
+            "WASHINGTON \u2014 President Obama this week will embrace a comprehensive plan to reduce gun violence that will call for major legislation to expand background checks for gun purchases and lay out 19 separate actions the president could take by invoking the power of his office, lawmakers who were briefed on the plan said Monday."
+        ],
+        [
+            "Lawmakers and other officials said that the president could use a public event as soon as Wednesday to signal his intention to engage in the biggest Congressional fight over guns in nearly two decades, focusing on the heightened background checks and including efforts to ban assault weapons and their high-capacity clips.",
+            "But given the difficulty of pushing new rules through a bitterly divided Congress, Mr. Obama will also promise to act on his own to reduce gun violence wherever possible."
+        ],
+        [
+            "Actions the president could take on his own are likely to include imposing new limits on guns imported from overseas, compelling federal agencies to improve sharing of mental health records and directing the Centers for Disease Control and Prevention to conduct research on gun violence, according to those briefed on the effort."
+        ],
+        [
+            "White House aides believe Mr. Obama can also ratchet up enforcement of existing laws, including tougher prosecution of people who lie on their background checks."
+        ],
+        [
+            "At a news conference on Monday, exactly one month after the school massacre in Newtown, Conn., Mr. Obama said a task force led by Vice President Joseph R. Biden Jr. had \u201cpresented me now with a list of sensible, common-sense steps that can be taken to make sure that the kinds of violence we saw at Newtown doesn\u2019t happen again.",
+            "He added: \u201cMy starting point is not to worry about the politics.",
+            "My starting point is to focus on what makes sense, what works.\u201d"
+        ],
+        [
+            "The administration\u2019s strategy reflects the uncertainty of gun politics in America and the desire by White House officials to address the Connecticut shooting while also confronting the broader deficiencies in the country\u2019s criminal justice and mental health systems."
+        ],
+        [
+            "By proposing to use the independent power of his office, Mr. Obama is inviting political attacks by gun owners who have already expressed fear that he will abuse that authority to restrict their rights.",
+            "Representative Steve Stockman, Republican of Texas, threatened Monday to file articles of impeachment if the president seeks to regulate guns with executive orders.",
+            "\u201cI will seek to thwart this action by any means necessary,\u201d Mr. Stockman said in a statement."
+        ],
+        [
+            "White House officials and Democratic lawmakers said that there are clear limits to what the president can and cannot do, and that Mr. Obama has no plans to push beyond what he would need Congressional authority to accomplish."
+        ],
+        [
+            "On Capitol Hill, Mr. Obama\u2019s legislative effort will face intense opposition from gun rights groups, including the National Rifle Association, and the lawmakers they support with millions of dollars at election time and who see gun rights as a defining issue in their districts.",
+            "But Mr. Obama\u2019s allies see a rare opening for tighter gun rules after Congress has shied away from the politically charged issue for years."
+        ],
+        [
+            "\u201cHe\u2019s putting together a pretty comprehensive list of what could be done to make a difference in this area,\u201d said Representative Mike Thompson of California, who is heading a Democratic task force in the House.",
+            "\u201cThere\u2019s some huge, huge holes in the process that are set up to keep communities safe.",
+            "We need to close those holes.\u201d"
+        ],
+        [
+            "Representative Jackie Speier, Democrat of California, said Vice President Biden had informed lawmakers during a two-hour briefing on Monday that there are \u201c19 independent steps that the president can take by executive order.\u201d",
+            "Ms. Speier said the executive action is part of the \u201cmost comprehensive gun safety effort in a generation.\u201d"
+        ],
+        [
+            "Rahm Emanuel, the mayor of Chicago and Mr. Obama\u2019s former chief of staff, joined the debate on Monday and said that the president should \u201cclear the table\u201d by doing whatever he can administratively so small issues do not get in the way of the bigger legislative fights over access to guns."
+        ],
+        [
+            "\u201cDon\u2019t allow a side issue to derail these things,\u201d Mr. Emanuel said during a discussion about gun policy.",
+            "While many gun control advocates are eager to harness what they believe is a ripe moment in American life for new and robust restrictions on the kinds of guns that were used in Newtown, there is an emerging consensus on Capitol Hill and among gun education groups that improving the system of background check legislation that currently exempts private gun sales and gun shows is the most viable legislative route to pursue."
+        ],
+        [
+            "\u201cThe assault-weapons ban is a low priority relative to the other measures the Biden task force is considering,\u201d Matt Bennett, a spokesman for Third Way, a left-leaning research group, said after hearing from Mr. Biden last week.",
+            "\u201cPolitical capital in the gun debate only goes so far.",
+            "We think it should be spent on things that would have the greatest impact on gun violence, like universal background checks and cracking down on gun trafficking.\u201d"
+        ],
+        [
+            "Any efforts to get gun legislation through Congress will require an enormous and ceaseless pressure campaign by the administration.",
+            "Mr. Obama and Mr. Biden are likely to keep up the pressure on lawmakers with public events in the weeks and months ahead, according to those familiar with the White House strategy."
+        ],
+        [
+            "Scores of senators, including many Democrats, will be wary of voting on any effort to curb access to guns or ammunition.",
+            "Senator Harry Reid of Nevada, the Democratic leader, is a longtime supporter of gun rights.",
+            "Still, gun legislation is likely to begin in the Senate because the House is controlled by Republicans, many of whom oppose new restrictions on guns."
+        ],
+        [
+            "With fiscal issues continuing to dominate the political calendar for the next several weeks, White House officials and lawmakers say the gun safety effort is likely to be debated in separate pieces of legislation that could be introduced over time.",
+            "In coming weeks, Senator Charles E. Schumer, Democrat of New York, will reintroduce a measure that would require every gun buyer, with limited exceptions, to undergo a background check and would force states to feed all relevant data into the background check system so those with criminal convictions and the mentally ill could be flagged."
+        ]
+    ]
+}

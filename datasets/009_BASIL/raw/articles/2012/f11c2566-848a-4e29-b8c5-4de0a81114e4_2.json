@@ -1,0 +1,37 @@
+{
+    "source": "hpo",
+    "main-entities": ["John Boehner", "Democrats", "Republicans"],
+    "main-event": "John Boehner discusses chance GOP will lose House",
+    "title": "John Boehner: '1 In 3 Chance' Republicans Lose Control Of House",
+    "url": "https://www.huffingtonpost.com/2012/04/23/john-boehner-house-majority_n_1446992.html",
+    "word-count": 273,
+    "date": "2012-04-23",
+    "uuid": "ddfb315c-8334-44cf-9662-a71e0d9cab85",
+    "triplet-uuid": "f11c2566-848a-4e29-b8c5-4de0a81114e4",
+    "body-paragraphs": [
+        [
+            "House Speaker John Boehner (R-Ohio) admitted there's a \"1 in 3\" chance that the Republicans will lose their majority in the House of Representatives in an interview Tuesday on Fox News' \"America\u2019s Newsroom.\""
+        ],
+        [
+            "\"I would say that there is a 2 in 3 chance that we win control of the House again.",
+            "But there\u2019s a 1 in 3 chance that we could lose.",
+            "And I\u2019m being myself, frank, we\u2019ve got a big challenge and we\u2019ve got work to do,\" he said to Fox News' Bill Hemmer."
+        ],
+        [
+            "Expanding on tough races, Boehner said, \"We have 50 of our members in tough races; 89 freshmen running for their first re-elections.",
+            "And we have 32 districts that are in states where there is no presidential campaign going to be run, no big Senate race and we call these orphan districts.\""
+        ],
+        [
+            "He went on, \"You take 18 of them -- California, Illinois and New York, where you know we\u2019re not likely to do well at the top of the ticket -- and those districts are frankly pretty vulnerable.\""
+        ],
+        [
+            "Boehner also dismissed top Obama campaign strategist David Axelrod's comment on Sunday that House Republicans are under a \"reign of terror\" brought about by the far right of their party.",
+            "\"That that is just outrageous talk,\" Boehner said.",
+            "\"They\u2019re trying to make this election, as I said earlier, about anything other than the president\u2019s failed economic policies.",
+            "And so they\u2019re going to look for every boogeyman known to man,\" he said."
+        ],
+        [
+            "\"Listen, if Republicans were walking in lockstep, my job would be a whole lot easier,\" he added."
+        ]
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "source": "fox",
+    "main-entities": ["Hillary Clinton"],
+    "main-event": "Hillary Clinton releases tax returns and health records",
+    "title": "Clinton camp releases candidate's clean bill of health, tax returns",
+    "url": "http://www.foxnews.com/politics/2015/07/31/clintoncamp-to-release-doctor-note-saying-in-excellent-condition.html",
+    "word-count": 453,
+    "date": "2015-07-31",
+    "uuid": "13075870-5bc4-4080-9e18-8f40760281db",
+    "triplet-uuid": "6e502405-bc90-4416-a787-3122918aa648",
+    "body-paragraphs": [
+        [
+            "WASHINGTON \u2013 Hillary Clinton's presidential campaign on Friday released a statement from her doctor declaring she is in \u201cexcellent physical condition and fit to serve as president of the United States,\u201d along with eight years of tax returns showing the Clintons paid tens of millions of dollars in federal taxes."
+        ],
+        [
+            "The release comes on the same day the State Department released thousands of emails relating to her tenure as secretary of state."
+        ],
+        [
+            "In the tax returns, released late Friday afternoon, the documents show the Clintons have paid $43 million in federal taxes since 2007.",
+            "They also donated $15 million to charity, and paid an additional $13.6 million in state taxes."
+        ],
+        [
+            "The Clintons' effective federal tax rate for 2014 was 35.7 percent, while the effective tax rate for federal, state and local taxes was 45.8 percent."
+        ],
+        [
+            "Meanwhile, the statement on her health, from Dr. Lisa Bardack, an internist and chairman of the Department of Medicine at the Mount Kisco Medical Group in Mount Kisco, New York, said the former secretary of state has seasonal pollen allergies and listed \"deep vein thrombosis,\" an elbow fracture and her 2012 concussion in her recent medical history.",
+            "Following the concussion, a subsequent blood clot developed in her brain."
+        ],
+        [
+            "As a result, Clinton experienced double vision and wore glasses with a Fresnel prism for two months.",
+            "During Clinton\u2019s follow-up evaluations, she was found to have a \u201ctransverse sinus venous thrombosis\u201d and started \u201canticoagulation therapy\u201d to dissolve the clot."
+        ],
+        [
+            "In 2013, she tested \u201cnegative\u201d for all clotting disorders, though continues a daily anticoagulation as a precaution, Bardack said."
+        ],
+        [
+            "Clinton\u2019s current medications also include Armour Thyroid, which is used to treat underactive thyroids, antihistamines and Vitamin B12."
+        ],
+        [
+            "She doesn\u2019t smoke, drinks occasionally and eats a diet rich in protein.",
+            "She also exercises regularly, practices yoga, swims, walks and weight trains, her doctor said."
+        ],
+        [
+            "At her most recent physical on March 21, her blood pressure was 100/65 and her heart rate was 72.",
+            "Her cholesterol came back at 195, with an LDL of 118, HDL of 64 and triglycerides of 69."
+        ],
+        [
+            "\u201c(Clinton\u2019s) cancer screening evaluations are all negative,\u201d Bardack added.. \u201cShe is in excellent physical condition and fit to serve as president of the United States.\u201d"
+        ],
+        [
+            "Clinton\u2019s camp is touting the fact she is the first 2016 candidate to release any kind of health information, though she only officially released a one-and-a-half-page letter from her doctor."
+        ],
+        [
+            "Both these releases come as the State Department releases thousands of pages of emails from her time running the department.",
+            "It was the third major release of Clinton\u2019s email records."
+        ],
+        [
+            "The State Department has made available several hundred pages of documents in prior releases related to the 2012 terrorist attacks in Benghazi, Libya, and other issues."
+        ]
+    ]
+}

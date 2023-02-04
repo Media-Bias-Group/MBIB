@@ -1,0 +1,36 @@
+{
+    "source": "hpo",
+    "main-entities": ["Asa Hutchinson"],
+    "main-event": "state legislature passed a new version of the Religious Freedom Reformation Act",
+    "title": "Arkansas Gov. Signs Amended Religious Freedom Bill",
+    "url": "http://www.huffingtonpost.com/2015/04/02/asa-hutchinson-arkansas-rfra_n_6995826.html",
+    "word-count": 244,
+    "date": "2015-04-02",
+    "uuid": "a3865e91-25a6-450b-b0c8-db9b37981c29",
+    "triplet-uuid": "2742e9c1-2943-496f-8b23-faf5332e1612",
+    "body-paragraphs": [
+        [
+            "Arkansas Gov. Asa Hutchinson (R) signed a revised version of the state's Religious Freedom Reformation Act on Thursday, one day after refusing to sign an earlier version of the bill over concerns about discrimination against lesbian, gay, bisexual and transgender individuals."
+        ],
+        [
+            "Earlier Thursday, the Republican-controlled state legislature passed a new version of the bill at the governor's request, amending provisions that would have allowed businesses to discriminate against LGBT customers.",
+            "The amended legislation mirrors the federal RFRA."
+        ],
+        [
+            "Meanwhile, legislators in Indiana have made changes to the controversial RFRA signed into law by Gov. Mike Pence (R) last week.",
+            "On Thursday, the state's general assembly passed new language explicitly stating that the law does not allow discrimination based on sexual orientation or gender identity.",
+            "The changes came amid immense national backlash, with dozens of politicians, business leaders and celebrities speaking out against the bill."
+        ],
+        [
+            "In a Wednesday press conference announcing his opposition to the initial version of the bill, Hutchinson said his son had asked him to veto the legislation."
+        ],
+        [
+            "\"My son Seth signed the petition asking me, Dad, the governor, to veto this bill,\" he said.",
+            "\"And he gave me permission to make that reference, and it shows that families -- and there's a generational difference of opinion on these issues.\""
+        ],
+        [
+            "Hutchinson also faced pressure from Walmart, which is headquartered in the state.",
+            "CEO Doug McMillon called on the governor to veto the bill, which he said \"threatens to undermine the spirit of inclusion.\""
+        ]
+    ]
+}

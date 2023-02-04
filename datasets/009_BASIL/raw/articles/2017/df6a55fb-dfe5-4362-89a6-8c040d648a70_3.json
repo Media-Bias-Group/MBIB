@@ -1,0 +1,59 @@
+{
+    "source": "nyt",
+    "main-entities": ["Michael Flynn", "Adam Schiff", "Donald Trump"],
+    "main-event": "House Intelligence committee prepares to subpoena Michael Flynn",
+    "title": "House Intelligence Committee Will Subpoena Flynn, Schiff Says",
+    "url": "https://mobile.nytimes.com/2017/05/24/us/politics/flynn-subpoena-house-intelligence-committee.html",
+    "word-count": 525,
+    "date": "2017-05-24",
+    "uuid": "f508943e-e091-4924-8c33-c1a3b0215ffd",
+    "triplet-uuid": "df6a55fb-dfe5-4362-89a6-8c040d648a70",
+    "body-paragraphs": [
+        [
+            "WASHINGTON \u2014 The House Intelligence Committee will issue subpoenas to Michael T. Flynn, President Trump\u2019s first national security adviser, the committee\u2019s senior Democrat said on Wednesday, escalating Mr. Flynn\u2019s troubles with Congress."
+        ],
+        [
+            "The Democrat, Representative Adam B. Schiff of California, said Mr. Flynn had declined the panel\u2019s request for documents and an interview as part of its investigation into Russian meddling in last year\u2019s election."
+        ],
+        [
+            "\u201cThose subpoenas will be designed to maximize our chance of getting the information that we need,\u201d Mr. Schiff told reporters during a breakfast hosted by The Christian Science Monitor.",
+            "\u201cAnd I think we need to use whatever compulsory methods are necessary to get the information that he possesses.\u201d"
+        ],
+        [
+            "Mr. Schiff said he hoped the committee would issue the subpoenas this week, before Congress leaves for a one-week recess.",
+            "It was unclear whether the subpoenas would seek documents or Mr. Flynn\u2019s testimony, or both."
+        ],
+        [
+            "The subpoenas could not be issued without at least some support from Republicans, who make up the majority of the committee.",
+            "A spokeswoman for Representative K. Michael Conaway of Texas, the Republican leading the investigation, did not immediately respond to a request for comment.",
+            "Mr. Conaway has repeatedly refused to comment on the details of the investigation while it is continuing."
+        ],
+        [
+            "The announcement was made mere hours after the top Republican and Democrat on the Senate Intelligence Committee issued subpoenas Tuesday afternoon to Mr. Flynn\u2019s two firms, seeking information that could shed light on his lobbying work on behalf of Turkish interests last year, among other connections."
+        ],
+        [
+            "On Monday, Mr. Flynn, in a letter from his legal team, rejected a subpoena for documents from the Senate committee, citing the Fifth Amendment\u2019s protections against self-incrimination.",
+            "He also declined the Senate committee\u2019s invitation for an interview."
+        ],
+        [
+            "Mr. Flynn\u2019s rejection of the subpoena put him at risk of being held in contempt of Congress, a rarely invoked process that, should lawmakers choose to pursue it, could result in a criminal citation."
+        ],
+        [
+            "The Flynn Intel Group was paid more than $500,000 to represent Turkey in a dispute with the United States government while Mr. Flynn was advising the Trump campaign.",
+            "He belatedly registered as a foreign agent for that work after being forced out of the Trump administration for misrepresenting his communications with the Russian ambassador to Vice President Mike Pence."
+        ],
+        [
+            "Mr. Flynn\u2019s legal troubles have only mounted in recent days.",
+            "On Monday, it was revealed that he had misled Pentagon investigators about his foreign contacts and sources of income while seeking a renewed security clearance in February 2016.",
+            "Among the payments he did not disclose was a $45,000 fee from a Russian state-backed news organization for a speech he gave in Moscow two months before.",
+            "During that trip, he was photographed at a gala sitting next to the Russian president, Vladimir V. Putin."
+        ],
+        [
+            "Lying to federal officials is a felony, punishable by up to five years in prison."
+        ],
+        [
+            "As recently as Monday, in his letter to the Senate committee, Mr. Flynn has reiterated his offer to testify in exchange for immunity from prosecution.",
+            "Senator Richard M. Burr of North Carolina, the Republican chairman of the committee, has dismissed that option."
+        ]
+    ]
+}

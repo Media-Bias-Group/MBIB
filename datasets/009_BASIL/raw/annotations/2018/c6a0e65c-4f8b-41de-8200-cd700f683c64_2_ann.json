@@ -1,0 +1,73 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Donald_Trump": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "conservative",
+        "you_feeling_Donald_Trump": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 131,
+            "id": "p12",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 96,
+            "target": "Donald_Trump",
+            "txt": "I wouldn\u2019t trust what he says there"
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 113,
+            "id": "p19",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_neutral",
+            "start": 96,
+            "target": "Donald_Trump",
+            "txt": "president\u2019s buddy"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 91,
+            "id": "p7",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 1,
+            "target": "Donald_Trump",
+            "txt": "These indictments are further proof of what everyone but the president seems to understand"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 111,
+            "id": "p11",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 0,
+            "target": "Donald_Trump",
+            "txt": "\u201cI would not trust the president alone with Putin without some other Americans in the administration in there,\u201d"
+        }
+    ],
+    "triplet-uuid": "c6a0e65c-4f8b-41de-8200-cd700f683c64",
+    "uuid": "8fab0133-9b78-42b9-b0c3-e35f9134a298"
+}

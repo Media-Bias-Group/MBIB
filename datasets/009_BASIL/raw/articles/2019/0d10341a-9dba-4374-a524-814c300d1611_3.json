@@ -1,0 +1,81 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Donald Trump"
+    ],
+    "main-event": "Trump continues government shutdown for border wall",
+    "title": "Trump\u2019s Border Wall Shutdown Continues Into A New Congress With A Democratic House",
+    "url": "https://www.huffingtonpost.com/entry/trump-shutdown-no-deal_us_5c2d3767e4b0407e9087d626",
+    "word-count": 813,
+    "date": "2019-01-02",
+    "uuid": "5f38d03e-3faa-417a-988e-83f67952594c",
+    "triplet-uuid": "0d10341a-9dba-4374-a524-814c300d1611",
+    "body-paragraphs": [
+        [
+            "WASHINGTON \u2015 President Donald Trump\u2019s partial government shutdown over his border wall closed in on the two-week mark and a brand-new Congress on Wednesday with no end in sight."
+        ],
+        [
+            "Senate Minority Leader Chuck Schumer and House Speaker-to-be Nancy Pelosi made their first visit to the White House since their Dec. 11 meeting with Trump, when he said he would be \u201cproud\u201d to take responsibility for a government shutdown in his effort to force Congress to spend billions of dollars on a wall along the southern border.",
+            "On Wednesday, the Democratic leaders emerged from the White House after 90 minutes, unified on not giving in to Trump."
+        ],
+        [
+            "\u201cThey are now feeling the heat,\u201d Schumer said."
+        ],
+        [
+            "Pelosi, who is expected to return to the House speakership Thursday afternoon after eight years as minority leader, intends as her first action to pass spending bills that won Republican support last year to reopen the closed agencies."
+        ],
+        [
+            "\u201cWe\u2019re asking the president to open the government,\u201d she told reporters on the White House driveway.",
+            "\u201cWe are giving him a Republican path to do that.",
+            "Why would he not do that?\u201d"
+        ],
+        [
+            "Senate Majority Leader Mitch McConnell, though, said he will not take up legislation that Trump has not endorsed, which means the shutdown will continue."
+        ],
+        [
+            "About a quarter of the federal government ran out of operating money at midnight Dec. 21 after Trump reneged on his commitment to a sign a short-term spending bill that had already passed the Senate on a unanimous vote.",
+            "Trump changed his mind after Fox News and talk radio hosts ridiculed him for again backing down on his demand for wall money."
+        ],
+        [
+            "Trump is now insisting that Congress appropriate $5.7 billion for that project, while Democrats want a short-term spending bill for the Department of Homeland Security and full-year funding for the other affected agencies while funding for the wall is negotiated separately."
+        ],
+        [
+            "In the meantime, about 800,000 federal employees \u2015 about half furloughed, half deemed \u201cessential\u201d and required to work anyway \u2015 face real problems with their household finances.",
+            "Many will miss their first paycheck on Jan. 11 unless Trump signs a spending bill before then.",
+            "Employees would have to dip into their savings or borrow money to pay their bills, as there is no government program to help them."
+        ],
+        [
+            "Trump, however, did not mention them during extended remarks he offered shortly before his meeting with the eight top Democratic and Republican congressional leaders."
+        ],
+        [
+            "When asked how long the shutdown would last, the president replied, \u201cAs long as it takes,\u201d calling his wall, a signature campaign promise, a matter of \u201cnational security.\u201d"
+        ],
+        [
+            "Trump\u2019s comments came at what was billed as the first Cabinet meeting of 2019.",
+            "Instead, Trump spent the first hour and a half of it complaining about a variety of issues, such as former Defense Secretary James Mattis\u2019 performance and the late Sen. John McCain\u2019s vote against Trump\u2019s repeal of Obamacare, as well as offering his musings on such things as the utility of wheels and his desire for Russia to invade Afghanistan again."
+        ],
+        [
+            "Trump\u2019s remarks were riddled with falsehoods on everything from trade to the number of illegal immigrants in the country to the way NATO works."
+        ],
+        [
+            "The White House did not respond to HuffPost queries about whether Trump understood that what he was saying was false and, if he did, why he was doing so anyway."
+        ],
+        [
+            "Trump promised hundreds of times during his campaign that the wall would cost taxpayers nothing because he would get Mexico to pay for it.",
+            "But since taking office, Trump has never asked Mexico for payment.",
+            "Instead, he began threatening to shut down the government early last year unless Congress gave him billions of dollars to build it \u2015 even though the type of structure he wants remains unclear."
+        ],
+        [
+            "During the campaign, he promised a \u201cgreat, great\u201d wall made of reinforced concrete that would rise 30 feet or more and extend so far underground that it would be impossible to tunnel underneath.",
+            "In recent months, he has at times said the wall could just be steel slats, which would be like the \u201cbollard fencing\u201d developed during President Barack Obama\u2019s administration."
+        ],
+        [
+            "In a tweet Wednesday morning, Trump claimed, falsely, that Mexico was already paying for a border wall, thanks to a newly renegotiated trade deal, and that the wall was already largely done but he needed billions of dollars anyway."
+        ],
+        [
+            "Despite numerous requests over several weeks, the White House has not provided any economic analysis to back up Trump\u2019s claims.",
+            "Outside economists and trade experts, however, said the revisions in the North American Free Trade Agreement, which Trump has rebranded the United States Mexico Canada Agreement, will not bring in to the U.S. Treasury anywhere near what is necessary to pay for a wall.",
+            "More important, what extra money does come in will be from tariffs, which are paid by people in the U.S., not Mexico."
+        ]
+    ]
+}

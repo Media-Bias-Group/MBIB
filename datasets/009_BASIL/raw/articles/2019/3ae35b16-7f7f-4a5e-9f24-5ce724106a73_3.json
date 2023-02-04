@@ -1,0 +1,161 @@
+{
+    "source": "nyt",
+    "main-entities": ["Donald Trump"],
+    "main-event": "Trump declares national emergency over border wall",
+    "title": "Trump Declares a National Emergency, and Provokes a Constitutional Clash",
+    "url": "https://www.nytimes.com/2019/02/15/us/politics/national-emergency-trump.html",
+    "word-count": 1847,
+    "date": "2019-02-15",
+    "uuid": "32dfaacf-e2ea-4f8d-9c55-feafefb40b6f",
+    "triplet-uuid": "3ae35b16-7f7f-4a5e-9f24-5ce724106a73",
+    "body-paragraphs": [
+        [
+            "WASHINGTON \u2014 President Trump declared a national emergency on the border with Mexico on Friday in order to access billions of dollars that Congress refused to give him to build a wall there, transforming a highly charged policy dispute into a confrontation over the separation of powers outlined in the Constitution."
+        ],
+        [
+            "Trying to regain momentum after losing a grinding two-month battle with lawmakers over funding the wall, Mr. Trump asserted that the flow of drugs, criminals and illegal immigrants from Mexico constituted a profound threat to national security that justified unilateral action."
+        ],
+        [
+            "\u201cWe\u2019re going to confront the national security crisis on our southern border, and we\u2019re going to do it one way or the other,\u201d he said in a televised statement in the Rose Garden barely 13 hours after Congress passed a spending measure without the money he had sought.",
+            "\u201cIt\u2019s an invasion,\u201d he added. \u201cWe have an invasion of drugs and criminals coming into our country.\u201d"
+        ],
+        [
+            "But with illegal border crossings already down and critics accusing him of manufacturing a crisis, he may have undercut his own argument that the border situation was so urgent that it required emergency action.",
+            "\u201cI didn\u2019t need to do this, but I\u2019d rather do it much faster,\u201d he said.",
+            "\u201cI just want to get it done faster, that\u2019s all.\u201d"
+        ],
+        [
+            "The president\u2019s decision incited instant condemnation from Democrats, who called it an unconstitutional abuse of his authority and vowed to try to overturn it with the support of Republicans who also objected to the move."
+        ],
+        [
+            "\u201cThis is plainly a power grab by a disappointed president, who has gone outside the bounds of the law to try to get what he failed to achieve in the constitutional legislative process,\u201d Speaker Nancy Pelosi of California and Senator Chuck Schumer of New York, the Democratic leader, said in a joint statement."
+        ],
+        [
+            "Mr. Trump\u2019s announcement came during a freewheeling, 50-minute appearance in which he ping-ponged from topic to topic, touching on the economy, China trade talks and his coming summit meeting with North Korea\u2019s leader, Kim Jong-un.",
+            "The president again suggested that he should win the Nobel Peace Prize, and he reviewed which conservative commentators had been supportive of him, while dismissing Ann Coulter, who has not."
+        ],
+        [
+            "Sounding alternately defensive and aggrieved, Mr. Trump explained his failure to secure wall funding during his first two years in office when Republicans controlled both houses of Congress by saying, \u201cI was a little new to the job.\u201d",
+            "He blamed \u201ccertain people, a particular one, for not having pushed this faster,\u201d a clear reference to former Speaker Paul D. Ryan of Wisconsin, a Republican."
+        ],
+        [
+            "Mr. Trump\u2019s assertions were replete with misinformation and, when challenged by reporters, he refused to accept statistics produced by his own government that conflicted with his narrative."
+        ],
+        [
+            "\u201cThe numbers that you gave are wrong,\u201d he told one reporter.",
+            "\u201cIt\u2019s a fake question.\u201d"
+        ],
+        [
+            "On point after point, the president insisted that he would be proved correct.",
+            "\u201cPeople said, \u2018Trump is crazy,\u2019\u201d he said at one point, discussing his outreach to Mr. Kim.",
+            "\u201cAnd you know what it ended up being? A very good relationship.\u201d"
+        ],
+        [
+            "Mr. Trump acknowledged that his declaration of a national emergency would be litigated in the courts and even predicted a rough road for his side.",
+            "\u201cLook, I expect to be sued,\u201d he said, launching into a mocking riff about how he anticipated lower court rulings against him.",
+            "\u201cAnd we\u2019ll win in the Supreme Court,\u201d he predicted."
+        ],
+        [
+            "Indeed, Public Citizen, an advocacy group, filed suit by the end of the day on behalf of three Texas landowners whose property might be taken for a barrier.",
+            "California and New York likewise announced that they will sue over what Gov. Gavin Newsom of California called the president\u2019s \u201cvanity project,\u201d and a roster of other groups lined up to do the same.",
+            "\u201cFortunately, Donald Trump is not the last word,\u201d said Mr. Newsom, a Democrat.",
+            "\u201cThe courts will be the last word.\u201d"
+        ],
+        [
+            "Among those predicting a flurry of judicial decisions against Mr. Trump was George T. Conway III, a conservative lawyer and the husband of Kellyanne Conway, the president\u2019s counselor.",
+            "\u201cIf he knows he is going to lose,\u201d Mr. Conway, a vocal critic of Mr. Trump, wrote on Twitter, \u201cthen he knows he is violating the Constitution and laws he has sworn to uphold.\u201d"
+        ],
+        [
+            "The House Judiciary Committee announced Friday that it would investigate the president\u2019s emergency claim, while House Democrats plan to introduce legislation to block it.",
+            "That measure could pass both houses of Congress if it wins the votes of the half-dozen Republican senators who have criticized the declaration, forcing Mr. Trump to issue the first veto of his presidency."
+        ],
+        [
+            "The emergency declaration, according to White House officials, enables the president to divert $3.6 billion from military construction projects to the wall.",
+            "Mr. Trump will also use more traditional presidential discretion to tap $2.5 billion from counternarcotics programs and $600 million from a Treasury Department asset forfeiture fund."
+        ],
+        [
+            "Combined with $1.375 billion authorized for fencing in the spending package passed on Thursday night, Mr. Trump would have about $8 billion in all for barriers, significantly more than the $5.7 billion he unsuccessfully demanded from Congress."
+        ],
+        [
+            "The president opted not to tap hurricane relief money from Texas or Puerto Rico, an idea that had generated angry complaints from Republicans.",
+            "But he expressed no concern that diverting military construction money would delay projects benefiting the troops like base housing, schools and gyms.",
+            "\u201cIt didn\u2019t sound too important to me,\u201d he said."
+        ],
+        [
+            "Neither the White House nor the Pentagon had yet identified which projects may be shelved as a result, but Pentagon lawyers and other officials planned to work over the weekend to identify which construction funds would be diverted."
+        ],
+        [
+            "The declaration also provided that land may be transferred to the Defense Department from other federal agencies or from privately purchased or condemned land.",
+            "The next step would be to secure those lands, where the Pentagon would erect barriers.",
+            "The declaration gives Patrick Shanahan, the acting defense secretary, broad latitude to carry out this process."
+        ],
+        [
+            "Most Americans oppose Mr. Trump\u2019s emergency declaration, according to polls.",
+            "One released this week by Fox News found 56 percent against it, including 20 percent of Republicans."
+        ],
+        [
+            "Mr. Trump\u2019s desire for approval by Fox and other conservative news outlets was on display when he identified various pundits as supporters, naming Sean Hannity, Laura Ingraham, Tucker Carlson and Rush Limbaugh, although he insisted that \u201cthey don\u2019t decide policy.\u201d"
+        ],
+        [
+            "But Ms. Coulter, who has viscerally attacked Mr. Trump for caving on the wall, has clearly gotten under his skin.",
+            "\u201cI don\u2019t know her,\u201d he said before quickly correcting himself. \u201cI hardly know her.",
+            "I haven\u2019t spoken to her in way over a year.\u201d",
+            "He noted, though, that she was an early predictor of his election victory.",
+            "\u201cSo I like her, but she\u2019s off the reservation,\u201d he said.",
+            "\u201cBut anybody that knows her understands that.\u201d"
+        ],
+        [
+            "Ms. Coulter fired back shortly afterward.",
+            "\u201cThe only national emergency is that our president is an idiot,\u201d she said on KABC radio in Los Angeles."
+        ],
+        [
+            "White House officials rejected criticism from across the ideological spectrum that Mr. Trump was creating a precedent that future presidents could use to ignore the will of Congress.",
+            "Republicans have expressed concern that a Democratic commander in chief could cite Mr. Trump\u2019s move to declare a national emergency over gun violence or climate change without legislation from Congress."
+        ],
+        [
+            "\u201cIt actually creates zero precedent,\u201d Mick Mulvaney, the acting White House chief of staff, told reporters.",
+            "\u201cThis is authority given to the president in law already.",
+            "It\u2019s not as if he just didn\u2019t get what he wanted so he\u2019s waving a magic wand and taking a bunch of money.\u201d"
+        ],
+        [
+            "Presidents have declared national emergencies under a 1970s-era law about five dozen times, and 31 of those prior emergencies remain active.",
+            "But most of them dealt with foreign crises and involved freezing property, blocking trade or exports or taking other actions against national adversaries, not redirecting money without explicit congressional authorization."
+        ],
+        [
+            "White House officials cited only two times that such emergency declarations were used by presidents to spend money without legislative approval \u2014 once by President George Bush in 1990 during the run-up to the Persian Gulf war, and again by his son, President George W. Bush, in 2001 after the terrorist attacks in New York, Washington and Pennsylvania."
+        ],
+        [
+            "In both of those cases, the presidents were responding to new events \u2014 the Iraqi invasion of Kuwait and Al Qaeda\u2019s assault on the United States \u2014 and were moving military funds around for a military purposes.",
+            "Neither was taking action specifically rejected by Congress."
+        ],
+        [
+            "In Mr. Trump\u2019s case, he is defining a longstanding problem at the border as an emergency even though border apprehensions have actually fallen in recent years, to 400,000 in the last fiscal year from a peak of 1.6 million in the 2000 fiscal year.",
+            "And unlike either of the Bushes, he is taking action after failing to persuade lawmakers to go along with his plans through the regular appropriations process."
+        ],
+        [
+            "The spending package passed Thursday by Congress included none of the $5.7 billion that Mr. Trump demanded for 234 miles of steel wall.",
+            "Instead, it provided $1.375 billion for about 55 miles of fencing.",
+            "Mr. Trump signed the package into law on Friday anyway to avoid a second government shutdown after the impasse over border wall funding closed the doors of many federal agencies for 35 days and left 800,000 workers without pay."
+        ],
+        [
+            "For weeks, Republicans led by Senator Mitch McConnell of Kentucky urged Mr. Trump not to declare a national emergency, but the president opted to go ahead anyway to find a way out of the political corner he had put himself in with the failed effort to force Congress to finance the wall."
+        ],
+        [
+            "Mr. McConnell privately told the president that he would support the move despite his own reservations, but warned Mr. Trump that he had about two weeks to win over critical Republicans to avoid having Congress vote to reject the declaration."
+        ],
+        [
+            "Mr. Trump was among those Republicans who criticized President Barack Obama for using his executive authority to spare millions of illegal immigrants from deportation after failing to persuade Congress to do so.",
+            "\u201cRepubs must not allow Pres Obama to subvert the Constitution of the US for his own benefit & because he is unable to negotiate w/ Congress,\u201d Mr. Trump tweeted in 2014."
+        ],
+        [
+            "But Mr. Trump sought to drive home the personal toll of illegal immigration, inviting to the Rose Garden several relatives of Americans killed by people in the country without authorization.",
+            "Some of the relatives, known as \u201cangel moms,\u201d stood up holding pictures of loved ones who had died."
+        ],
+        [
+            "\u201cMatthew\u2019s death was preventable and should have been prevented,\u201d one of the women, Maureen Maloney, said in an interview after the event.",
+            "Her son Matthew Denice, 23, was killed in 2011 in a motorcycle accident in Massachusetts after colliding with an automobile driven by an undocumented immigrant.",
+            "\u201cHe should have never been here in the first place,\u201d she said.",
+            "\u201cIf he wasn\u2019t here, it wouldn\u2019t have happened.\u201d"
+        ]
+    ]
+}

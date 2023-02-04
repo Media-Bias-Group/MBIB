@@ -1,0 +1,73 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Barack_Obama": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "liberal",
+        "you_feeling_Barack_Obama": "str-pos"
+    },
+    "pair-uuid": "1b96a5db-8974-46d3-82d7-5dfef02f650e",
+    "phrase-level-annotations": [
+        {
+            "aim": "ind_pro",
+            "bias": "lex",
+            "end": 28,
+            "id": "p1",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "White House",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 22,
+            "target": "Barack_Obama",
+            "txt": "defeat"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 94,
+            "id": "p24",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Barack_Obama",
+            "txt": "During his nearly two full terms in office, Obama had never had a veto overridden by Congress."
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 18,
+            "id": "p3",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 8,
+            "target": "Barack_Obama",
+            "txt": "last-ditch"
+        },
+        {
+            "aim": "ind_general",
+            "bias": "inf",
+            "end": 74,
+            "id": "p4",
+            "indirect-ally-opponent-sentiment": "pos",
+            "indirect-target-name": "bill",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 0,
+            "target": "Barack_Obama",
+            "txt": "\"This bill is about respecting the voices and rights of American victims,\""
+        }
+    ],
+    "uuid": "8e27adc0-63b6-44d3-adf6-dbe5d035c00b"
+}

@@ -1,0 +1,58 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Donald_Trump": "neu",
+        "author_feeling_main_event": "pos",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Donald_Trump": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 148,
+            "id": "p18",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 118,
+            "target": "Donald_Trump",
+            "txt": "a moment of historic cowardice"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 94,
+            "id": "p17",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 61,
+            "target": "Donald_Trump",
+            "txt": "\"a moment of historic cowardice.\""
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 106,
+            "id": "p23",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 0,
+            "target": "Donald_Trump",
+            "txt": "\u201cFailure to stand up to Putin would constitute a profound betrayal of the Constitution and our democracy.\u201d"
+        }
+    ],
+    "triplet-uuid": "c6a0e65c-4f8b-41de-8200-cd700f683c64",
+    "uuid": "2da92159-d4e4-4045-85c2-bc67c0f3872c"
+}

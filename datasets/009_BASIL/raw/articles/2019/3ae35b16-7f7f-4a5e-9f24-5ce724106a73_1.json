@@ -1,0 +1,97 @@
+{
+    "source": "hpo",
+    "main-entities": ["Donald Trump"],
+    "main-event": "Trump declares national emergency over border wall",
+    "title": "Trump Declares National Emergency To Fund U.S.-Mexico Border Wall",
+    "url": "https://www.huffpost.com/entry/trump-national-emergency-border-wall_n_5c382a82e4b05cb31c411c8d",
+    "word-count": 831,
+    "date": "2019-02-15",
+    "uuid": "6ea16a66-c839-4de9-8f05-6244498bd216",
+    "triplet-uuid": "3ae35b16-7f7f-4a5e-9f24-5ce724106a73",
+    "body-paragraphs": [
+        [
+            "President Donald Trump on Friday declared a national emergency at the southern U.S. border in an effort to unilaterally seize funding to begin building his long-promised wall between the U.S. and Mexico."
+        ],
+        [
+            "Trump, who was accompanied by parents of children killed by unauthorized immigrants, said he was declaring the national emergency for \u201cvirtual invasion purposes.\u201d"
+        ],
+        [
+            "But he also acknowledged another reason: He didn\u2019t want to wait on Congress to approve the funds."
+        ],
+        [
+            "\u201cI could do the wall over a longer period of time \u2015 I didn\u2019t need to do this,\u201d Trump said in a televised speech, even as he contended the situation on the southern border amounted to a national emergency.",
+            "\u201cBut I\u2019d rather do it much faster.\u201d"
+        ],
+        [
+            "Trump is also expected to approve Congress\u2019 spending bill, which grants him $1.375 billion for the wall, as opposed to the $5.7 billion he initially demanded.",
+            "The national emergency declaration gives Trump a chance to reroute other government money to fund the project \u2015 and sets up a legal battle that could tie up the president\u2019s signature project for months or years."
+        ],
+        [
+            "To justify the wall, Trump repeatedly insisted criminals, gang members and drug traffickers were pouring over the border and that only a wall could stop them."
+        ],
+        [
+            "\u201cWe have far more people trying to get into our country today than probably ever before,\u201d Trump said."
+        ],
+        [
+            "In fact, arrests for illegal border crossings are at their lowest levels since the 1970s.",
+            "There were roughly 520,000 arrests for unauthorized border crossings last year, which is about one-third of the 1.6 million arrests that happened in 2000.",
+            "Since 2014, a high proportion of those crossing have been Central American children and families seeking to make humanitarian claims such as asylum."
+        ],
+        [
+            "The total wall funding will now come to about $8 billion, partially approved by Congress but mostly by Trump alone.",
+            "That will buy the administration some 234 miles of border wall, a senior administration official told reporters Friday."
+        ],
+        [
+            "The national emergency declaration will allow the Trump administration to use about $3.6 billion from Defense Department construction projects to build the wall, along with another $2.5 billion the department had allocated for counter-drug activities, acting White House chief of staff Mick Mulvaney told reporters."
+        ],
+        [
+            "The Trump administration also plans to take executive action to move about $200 million from the Department of Homeland Security and another $600 million from the Treasury Department\u2019s asset forfeiture account."
+        ],
+        [
+            "None of the money will come from hurricane relief, Mulvaney said."
+        ],
+        [
+            "The DHS funding bill included restrictions on where new border wall could be constructed.",
+            "Those restrictions won\u2019t apply to the portions built with national emergency money, a senior administration official said."
+        ],
+        [
+            "Senate Majority Leader Mitch McConnell (R-Ky.) announced Thursday on the Senate floor that Trump planned to sign the bill and declare a national emergency at the same time, adding that he supported the decision.",
+            "Congress passed a government funding bill Thursday evening."
+        ],
+        [
+            "McConnell warned Trump in private that declaring an emergency would spark a backlash among Republicans, according to The Washington Post."
+        ],
+        [
+            "A national emergency declaration grants a president the ability to circumvent certain government rules so that an administration can respond to a crisis.",
+            "In this case, Trump is sidestepping Congress so that he can gain access to certain federal funds without congressional approval."
+        ],
+        [
+            "Administration officials cited dozens of previous national emergency declarations, insisting that Trump would not break with historical precedent by \u201cunlocking\u201d new pots of money for the border wall he seeks."
+        ],
+        [
+            "\u201cIt\u2019s not as if he just didn\u2019t get what he wanted so he\u2019s waving a magic wand and taking a bunch of money,\u201d Mulvaney said."
+        ],
+        [
+            "The move is almost certain to be challenged in court."
+        ],
+        [
+            "\u201cAny crisis on our border is of President Trump\u2019s own making: family separations, child detention, turning our backs on asylum seekers, and more.",
+            "There is no national emergency,\u201d California Attorney General Xavier Becerra, who has sued the Trump administration multiple times, said in a statement.",
+            "\u201cIf Trump oversteps his authority and abandons negotiations with Congress by declaring a fabricated national emergency, we won\u2019t only call his bluff, we will do what we must to hold him accountable.\u201d"
+        ],
+        [
+            "Prior to the declaration, House Speaker Nancy Pelosi (D-Calif.) called the proclamation a \u201cgross abuse of the power of the presidency\u201d and vowed that \u201cCongress will defend our constitutional authorities.\u201d"
+        ],
+        [
+            "For two months, Democrats in Congress have been enmeshed in stalled negotiations with Trump as he refused to accept anything less than $5.7 billion in the federal budget for his border wall.",
+            "The stalemate caused a record-breaking partial government shutdown that forced an estimated 800,000 government employees to go without pay for 35 days."
+        ],
+        [
+            "Trump reopened the government for three weeks on Jan. 25, allowing government workers to get back to work as border security negotiations continued."
+        ],
+        [
+            "In January, Trump asserted that he had \u201cthe absolute right to declare a national emergency,\u201d according to CNN.",
+            "He called it \u201cthe easy route\u201d while insisting that he\u2019d rather Congress approve his border wall funding."
+        ]
+    ]
+}

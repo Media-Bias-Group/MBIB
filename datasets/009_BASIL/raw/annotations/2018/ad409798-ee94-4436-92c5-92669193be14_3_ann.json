@@ -1,0 +1,60 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Donald_Trump": "neg",
+        "author_feeling_main_event": "neg",
+        "author_feeling_social_media_companies": "neu",
+        "notes": "",
+        "relative_stance": "liberal",
+        "you_feeling_Donald_Trump": "neu",
+        "you_feeling_social_media_companies": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 48,
+            "id": "p0",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 39,
+            "target": "Donald_Trump",
+            "txt": "tear into"
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 36,
+            "id": "p1",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 29,
+            "target": "Donald_Trump",
+            "txt": "Sort of"
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 112,
+            "id": "p5",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 95,
+            "target": "Donald_Trump",
+            "txt": "now familiar rant"
+        }
+    ],
+    "triplet-uuid": "ad409798-ee94-4436-92c5-92669193be14",
+    "uuid": "295c19d2-7264-42a5-a721-4b24a6df8559"
+}

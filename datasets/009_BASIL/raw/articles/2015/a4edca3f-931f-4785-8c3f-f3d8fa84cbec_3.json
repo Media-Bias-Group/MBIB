@@ -1,0 +1,82 @@
+{
+    "source": "fox",
+    "main-entities": ["Hillary Clinton"],
+    "main-event": "Hillary Clinton used a personal email account to exclusively conduct official business",
+    "title": "Hillary Clinton's use of private email address while secretary of state draws scrutiny",
+    "url": "http://www.foxnews.com/politics/2015/03/03/hillary-clinton-exclusively-used-private-email-account-while-secretary-state-ny.html",
+    "word-count": 806,
+    "date": "2015-03-03",
+    "uuid": "e8ddc809-1dc1-4ca6-8959-7ddd142dba1c",
+    "triplet-uuid": "a4edca3f-931f-4785-8c3f-f3d8fa84cbec",
+    "body-paragraphs": [
+        [
+            "Former Secretary of State Hillary Clinton used a personal email account to exclusively conduct official business during her time at the State Department, a move that raises questions about access to the full archive of her correspondence, as well as the possibility that she violated federal law requiring official messages to be retained for the record."
+        ],
+        [
+            "The existence of the account was discovered by the House select committee investigating the deadly 2012 attacks on the U.S. Consulate in Benghazi, Libya, and was first reported by The New York Times."
+        ],
+        [
+            "Clinton did not even have a government email address during her tenure as America's top diplomat, which lasted from 2009 to 2013, and The Times reports that her aides took no action to preserve her emails on department servers, as required by the Federal Records Act."
+        ],
+        [
+            "Instead, the paper reports, Clinton's advisers selected which of her emails to turn over to the State Department for archival purposes after going through tens of thousands of pages of correspondence.",
+            "The department said late Monday that it had received 55,000 pages of Clinton's emails as part of a request made to previous secretaries of state to turn over any official documents they may have had in their possession."
+        ],
+        [
+            "It is not clear how many total emails from that period were in Clinton's personal account, nor is it clear how Clinton's advisers decided which emails to hand over to the State Department."
+        ],
+        [
+            "Nick Merrill, a Clinton spokesman, said the former secretary of state expected that emails to State Department officials -- which she sent to department accounts -- would be preserved.",
+            "\"When the Department asked former Secretaries last year for help ensuring their emails were in fact retained, we immediately said yes,\" he said.",
+            "\"Both the letter and spirit of the rules permitted State Department officials to use non-government email, as long as appropriate records were preserved.\""
+        ],
+        [
+            "The fate of emails to foreign leaders, private citizens, and non-State Department officials is unclear."
+        ],
+        [
+            "\"The State Department has long had access to a wide array of Secretary Clinton's records -- including emails between her and Department officials with state.gov accounts,\" State Department Deputy Spokesperson Marie Harf told Fox News late Monday.",
+            "Harf added that the department turned over about 300 emails to the Benghazi select committee, and noted that Clinton's successor as secretary of state, John Kerry, \"is the first ... to rely primarily on a state.gov email account.\""
+        ],
+        [
+            "According to the Times, however, while past secretaries of state often used personal email, updated regulations required such emails to be preserved."
+        ],
+        [
+            "Clinton and her aides reportedly did not follow that requirement at the time -- until her office turned over documents."
+        ],
+        [
+            "Republicans seized on the developments on Tuesday.",
+            "Rep. Darrell Issa, R-Calif., former chairman of the House oversight committee, said in a statement that Clinton \"failed\" to follow records law."
+        ],
+        [
+            "\"The use of a personal e-mail address to skirt public records laws, aside from failing to meet the security standards one would expect of the nation's top diplomat, enabled Clinton to shield her official communications from scrutiny by the media and the American public,\" he said."
+        ],
+        [
+            "White House Press Secretary Josh Earnest was peppered with questions at Tuesday's briefing."
+        ],
+        [
+            "He said the administration policy is that employees \"should use their official email accounts when they're conducting official government business.\"",
+            "He said personal emails also should be preserved and said Clinton's team responded to the request by the department seeking them."
+        ],
+        [
+            "Earnest would not say whether the White House believes Clinton broke the law."
+        ],
+        [
+            "Records officials interviewed by The Times expressed grave concern over Clinton's practice, saying it represents a severe ethical breach and noting that personal email accounts are far less secure than official ones."
+        ],
+        [
+            "Jason Baron, a former director of litigation at the National Archives, told the paper he found it \"very difficult to conceive of a scenario \u2014 short of nuclear winter \u2014 where an agency would be justified in allowing its cabinet-level head officer to solely use a private email communications channel for the conduct of government business.\"",
+            "Baron added that the use of private e-mail accounts is meant to be reserved only for emergencies, such as when a department's server is not working or compromised."
+        ],
+        [
+            "However, The Times reports that the imposition of penalties for not complying with federal record-keeping requirements are rare because the National Archives has so few enforcement mechanisms."
+        ],
+        [
+            "The report has drawn heavy criticism from Republicans, including at least one potential challenger in the 2016 presidential race.",
+            "Former Florida Gov. Jeb Bush, who released 250,000 emails from his gubernatorial tenure this past December, tweeted about the contrast between his disclosures and Clinton's secrecy."
+        ],
+        [
+            "Clinton is widely believed to be the front-runner for the Democratic nomination in 2016.",
+            "The Wall Street Journal reported late Sunday that she was expected to formally launch her candidacy next month."
+        ]
+    ]
+}

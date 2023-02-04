@@ -1,0 +1,83 @@
+{
+    "source": "fox",
+    "main-entities": ["Barack Obama"],
+    "main-event": "Senate set to override Obama's veto on 9/11 bill",
+    "title": "Congress rejects Obama veto of 9/11 bill, in first override of presidency",
+    "url": "http://www.foxnews.com/politics/2016/09/29/congress-rejects-obama-veto-911-bill-in-first-override-presidency.html",
+    "word-count": 653,
+    "date": "2016-09-29",
+    "uuid": "8e27adc0-63b6-44d3-adf6-dbe5d035c00b",
+    "triplet-uuid": "1b96a5db-8974-46d3-82d7-5dfef02f650e",
+    "body-paragraphs": [
+        [
+            "Congress on Wednesday overwhelmingly rejected President Obama\u2019s veto of a bipartisan bill letting families of Sept. 11 victims sue the Saudi Arabian government, in the first successful veto override of Obama\u2019s presidency."
+        ],
+        [
+            "Marking a significant defeat for the White House, the House ensured the bill will become law after voting 348-77 to override Wednesday afternoon.",
+            "This followed a 97-1 vote hours earlier in the Senate."
+        ],
+        [
+            "Despite last-ditch warnings from the Obama administration that the legislation could hurt national security and was \u201cbadly misguided,\u201d lawmakers dismissed the concerns."
+        ],
+        [
+            "\"This bill is about respecting the voices and rights of American victims,\" Sen. John Cornyn, R-Texas, said."
+        ],
+        [
+            "Sen. Charles Schumer, D-N.Y., speaking on the Senate floor moments before Wednesday's vote in that chamber, pushed back hard on Saudi government objections to the legislation."
+        ],
+        [
+            "\u201cIt\u2019s very simple.",
+            "If the Saudis were culpable, they should be held accountable.",
+            "If they had nothing to do with 9/11, they have nothing to fear,\u201d Schumer said."
+        ],
+        [
+            "Lawmakers in both chambers needed to muster a two-thirds majority to override, and did so easily.",
+            "The lone \"no\" vote in the Senate was Senate Minority Leader Harry Reid, D-Nev."
+        ],
+        [
+            "With elections just over a month away, many lawmakers were reluctant to oppose a measure backed by 9/11 families who say they are still seeking justice 15 years after the attacks that killed nearly 3,000 people.",
+            "A group of senators pledged to find ways to improve the measure during a post-election, lame-duck session of Congress."
+        ],
+        [
+            "Despite an expectation that Congress would override, the White House made a last-ditch attempt to fight it.",
+            "In a letter to Senate Majority Leader Mitch McConnell and Reid, Obama warned the bill could cause chaos in U.S. foreign affairs, as other countries would use the measure to justify the creation of ways to target \"U.S. policies and activities that they oppose.\""
+        ],
+        [
+            "\"As a result, our nation and its armed forces, State Department, intelligence officials and others may find themselves subject to lawsuits in foreign courts.\"",
+            "Obama wrote in a letter delivered Tuesday."
+        ],
+        [
+            "But Cornyn, one of the bill's leading proponents, dismissed Obama's concerns as \"unpersuasive.\"",
+            "Cornyn, the Senate's No. 2 Republican, and other supporters said the bill is narrowly tailored and applies only to acts of terrorism that occur on U.S. soil."
+        ],
+        [
+            "The Justice Against Sponsors of Terrorism Act, or JASTA, moved to the floor of the Senate in May and passed by voice vote.",
+            "The bill cleared the House earlier this month, also by voice vote."
+        ],
+        [
+            "Defense Secretary Ash Carter, in a letter Monday to a senior member of Congress, said he's sympathetic to the intent of the measure.",
+            "But the legislation could lead to the public disclosure of American secrets and even undercut counterterrorism efforts by sowing mistrust among U.S. partners and allies, according to Carter."
+        ],
+        [
+            "With the override, the bill will now become law.",
+            "During his nearly two full terms in office, Obama had never had a veto overridden by Congress."
+        ],
+        [
+            "The legislation gives victims' families the right to sue in U.S. court for any role that elements of the Saudi government may have played in the 2001 attacks.",
+            "Fifteen of the 19 Sept. 11 hijackers were Saudi nationals."
+        ],
+        [
+            "Courts would be permitted to waive a claim of foreign sovereign immunity when an act of terrorism occurs inside U.S. borders, according to the terms of the bill.",
+            "Saudi Arabia has objected vehemently to the legislation."
+        ],
+        [
+            "Obama vetoed the measure last week, telling lawmakers the bill would make the U.S. vulnerable to retaliatory litigation in foreign courts that could put U.S. troops in legal jeopardy."
+        ],
+        [
+            "But the bill's proponents have disputed Obama's rationale as \"unconvincing and unsupportable,\" saying the measure is narrowly tailored and applies only to acts of terrorism that occur on U.S. soil."
+        ],
+        [
+            "Kristen Breitweiser, a 9/11 widow and co-chair of September 11th Advocates, criticized Carter's assessment, saying that the defense secretary had testified before Congress last week that he wasn't an expert on the bill."
+        ]
+    ]
+}

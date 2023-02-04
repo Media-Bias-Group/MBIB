@@ -1,0 +1,40 @@
+{
+    "uuid": "9e1c1946-d568-4435-a7fe-20df1bbf3618",
+    "date": "2011-12-13",
+    "main-entities": ["Donald Trump"],
+    "main-event": "Donald Trump drops plans to moderate presidential debate",
+    "source": "NYT",
+    "url": "http://thecaucus.blogs.nytimes.com/2011/12/13/trump-wont-go-forward-with-debate/",
+    "keywords": "Trump Donald J,Debates (Political),Presidential Election of 2012,Republican Party,Iowa",
+    "triplet-uuid": "97566c74-e000-49fb-b091-e6ec6e179de0",
+    "body-paragraphs": [
+        [
+            "Donald J. Trump has dropped plans to moderate a presidential debate, but don\u2019t expect him to fade quietly from the political scene."
+        ],
+        [
+            "In fact, Republicans may have gotten more than they bargained for by shunning him.",
+            "Mr. Trump\u2019s statement on Tuesday that he was bowing out of the Newsmax debate seemed certain to open the door to another round of \u201cI just might \u2026\u201d threats from the real estate mogul."
+        ],
+        [
+            "\u201cIt is very important to me that the right Republican candidate be chosen to defeat the failed and very destructive Obama administration,\u201d Mr. Trump said in his statement.",
+            "\u201cBut if that Republican, in my opinion, is not the right candidate, I am not willing to give up my right to run as an independent candidate.\u201d"
+        ],
+        [
+            "Mr. Trump drew considerable criticism from the Republican establishment for moderating a presidential debate while openly saying that he might still run if he was displeased with the candidates.",
+            "Rather than go ahead with the debate and declare that he will not run \u2014 Mr. Trump has flirted with running for president several times since the 1980s but has always decided not to follow through \u2014 he chose to drop the debate."
+        ],
+        [
+            "\u201cI must leave all of my options open because, above all else, we must make America great again!\u201d he said."
+        ],
+        [
+            "Mr. Trump was facing a potentially awkward task: moderating a debate that only two candidates said they would attend.",
+            "Newt Gingrich and Rick Santorum were the only two Republicans who agreed to participate.",
+            "Mitt Romney, Rick Perry, Michele Bachmann, Jon M. Huntsman Jr. and Ron Paul all declined, putting a big dent in Mr. Trump\u2019s self-proclaimed status as Republican kingmaker."
+        ],
+        [
+            "Mr. Trump issued the following exclamation-point laden statement through his lawyer, Michael Cohen."
+        ]
+    ],
+    "title": "Trump Won't Go Forward With Debate",
+    "word-count": 687
+}

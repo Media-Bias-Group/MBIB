@@ -1,0 +1,90 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Deval_Patrick": "neu",
+        "author_feeling_William_Cowan": "pos",
+        "author_feeling_main_event": "pos",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Deval_Patrick": "neu",
+        "you_feeling_William_Cowan": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 58,
+            "id": "p3",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 43,
+            "target": "William_Cowan",
+            "txt": "were all smiles"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 109,
+            "id": "p6",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "Deval_Patrick",
+            "start": 0,
+            "target": "William_Cowan",
+            "txt": "\"It was a private fact, but now known publicly thanks to the lieutenant governor, that he also brought cool,\""
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 13,
+            "id": "p30",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 6,
+            "target": "William_Cowan",
+            "txt": "praised"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 36,
+            "id": "p7",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "William_Cowan",
+            "txt": "He and Cowan shook hands and hugged."
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 87,
+            "id": "p29",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 79,
+            "target": "Deval_Patrick",
+            "txt": "bristled"
+        }
+    ],
+    "triplet-uuid": "d3a1ce0a-fc48-4827-a278-8f0ce8c7a519",
+    "uuid": "3e600f15-2b94-4350-a9c8-d00e072386c4"
+}

@@ -1,0 +1,60 @@
+{
+    "article-level-annotations": {
+        "author_feeling_David_Brat": "neu",
+        "author_feeling_Eric_Cantor": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "left",
+        "you_feeling_David_Brat": "neu",
+        "you_feeling_Eric_Cantor": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 80,
+            "id": "p0",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 74,
+            "target": "David_Brat",
+            "txt": "novice"
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 44,
+            "id": "p1",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 36,
+            "target": "David_Brat",
+            "txt": "pull off"
+        },
+        {
+            "aim": "ind_pro",
+            "bias": "inf",
+            "end": 110,
+            "id": "p6",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "Brat supporters",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "David_Brat",
+            "txt": "Last month, a feisty crowd of Brat supporters booed Cantor in front of his family at a local party convention."
+        }
+    ],
+    "triplet-uuid": "ee05c9b3-529c-4268-ad72-19bd34f7197e",
+    "uuid": "e7636bcb-a5fa-465d-8846-e8eccb1f002e"
+}

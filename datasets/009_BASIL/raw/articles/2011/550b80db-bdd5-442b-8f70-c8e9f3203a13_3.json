@@ -1,0 +1,34 @@
+{
+    "source": "hpo",
+    "main-entities": ["Newsweek", "Michele Bachmann"],
+    "main-event": "Newsweek publishes unflattering cover of Michele Bachmann",
+    "title": "Newsweek's Michele Bachmann Cover Raises Eyebrows",
+    "url": "https://www.huffingtonpost.com/2011/08/08/newsweeks-michele-bachman_n_920860.html",
+    "word-count": 184,
+    "date": "2011-08-08",
+    "uuid": "4d662039-ba9a-4321-b624-249a0eb62c75",
+    "triplet-uuid": "550b80db-bdd5-442b-8f70-c8e9f3203a13",
+    "body-paragraphs": [
+        [
+            "Newsweek's latest issue features a Michele Bachmann cover that's sure to stir up controversy."
+        ],
+        [
+            "The cover shows Bachmann standing against a stark blue background, looking directly into the camera with a wide-eyed expression.",
+            "The headline advertising the magazine's story reads, \"THE QUEEN OF RAGE.\""
+        ],
+        [
+            "\"Rage\" is a word that doesn't appear in Newsweek's actual profile of Bachmann, though author Lois Romano does criticize what she calls the \"radical\" nature of the Tea Party that Bachmann champions."
+        ],
+        [
+            "Conservative websites are already crying foul over the cover, with some saying it makes Bachmann look \"crazy\" and one blogger asking, \"Can anyone really say with a straight face that the mainstream media is not totally biased against conservatives?\""
+        ],
+        [
+            "It's not the first time Newsweek has faced conservative backlash for a cover.",
+            "In June, the magazine portrayed Mitt Romney as one of the stars of the Broadway show \"The Book of Mormon.\"",
+            "And, of course, it drew widespread criticism for its infamous Sarah Palin cover in 2009."
+        ],
+        [
+            "See the Bachmann cover below, and tell us whether you think it crosses a line."
+        ]
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Barack_Obama": "neu",
+        "author_feeling_Rick_Santorum": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Barack_Obama": "neu",
+        "you_feeling_Rick_Santorum": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 124,
+            "id": "p7",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Rick_Santorum",
+            "txt": "An incredulous Bob Schieffer began his interview with Santorum Sunday by asking, \"What in the world were you talking about?\""
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 150,
+            "id": "p13",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "Rick_Santorum",
+            "start": 102,
+            "target": "Barack_Obama",
+            "txt": "we cull the ranks of the disabled in our society"
+        },
+        {
+            "aim": "ind_pro",
+            "bias": "inf",
+            "end": 69,
+            "id": "p25",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "GOP",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 0,
+            "target": "Rick_Santorum",
+            "txt": "\"I think the GOP race has been, in many cases, a race to the bottom.\""
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 22,
+            "id": "p6",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "Rick_Santorum",
+            "start": 17,
+            "target": "Barack_Obama",
+            "txt": "phony"
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 40,
+            "id": "p6",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "Rick_Santorum",
+            "start": 35,
+            "target": "Barack_Obama",
+            "txt": "phony"
+        }
+    ],
+    "triplet-uuid": "65cb14cb-2d27-41e5-a2be-6fd6314f4363",
+    "uuid": "c7c1dccd-747f-4f19-98f1-8e323096efe3"
+}

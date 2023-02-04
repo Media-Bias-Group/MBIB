@@ -1,0 +1,48 @@
+{
+    "source": "nyt",
+    "main-entities": ["Mike Huckabee"],
+    "main-event": "Mike Huckabee announced his run for the presidency",
+    "title": "Mike Huckabee on the Issues",
+    "url": "https://www.nytimes.com/2015/05/06/us/politics/mike-huckabee-on-the-issues.html",
+    "word-count": 415,
+    "date": "2015-05-05",
+    "uuid": "4d51331a-0056-411b-a8e7-effe5f0b33d6",
+    "triplet-uuid": "af4a3f41-eeb5-49fa-a276-e97c230b25f0",
+    "body-paragraphs": [
+        [
+            "Mike Huckabee, a former Republican governor of Arkansas and preacher who has announced his run for the presidency on Tuesday, has been outspoken on a range of matters, particularly foreign policy and social issues like same-sex marriage.",
+            "Here are his stances on important issues."
+        ],
+        [
+            "Mr. Huckabee warns that radical Islam is a grave threat to the United States and says President Obama too frequently defends Islam.",
+            "He supports forceful military action against the Islamic State."
+        ],
+        [
+            "A strong defender of Israel, he has been sharply critical of Mr. Obama\u2019s treatment of Prime Minister Benjamin Netanyahu, and said a proposed nuclear deal with Iran is \u201cterrible\u201d because Iran cannot be trusted.",
+            "Mr. Huckabee has talked of the possibility of using military force against Iran."
+        ],
+        [
+            "As governor of Arkansas in 2002, he called for lifting the economic embargo of Cuba, which would have helped rice farmers in his state.",
+            "But he now opposes Mr. Obama\u2019s warming of relations with Havana, calling Cuba\u2019s government tyrannical."
+        ],
+        [
+            "In 2007 Mr. Huckabee was quoted as saying, \u201cClimate change is here, it\u2019s real.\u201d But more recently he has minimized it as a threat, and said he opposes \u201ccap and trade\u201d legislation meant to curtail carbon emissions.",
+            "\u201cThis kind of mandatory energy policy would have a horrible impact on this nation\u2019s job market,\u201d he said."
+        ],
+        [
+            "Mr. Huckabee opposes same-sex marriage, suggesting as recently as February that homosexuality is a lifestyle choice akin to drinking or swearing."
+        ],
+        [
+            "Mr. Huckabee said Mr. Obama exceeded his authority by issuing executive actions shielding millions of undocumented immigrants from deportation.",
+            "But Mr. Huckabee said the immigrant children whose parents brought them into the country illegally should not be deported because \u201cyou don\u2019t punish a child for something his parents did.\u201d"
+        ],
+        [
+            "Mr. Huckabee has focused his economic message on what he calls wage stagnation under Mr. Obama.",
+            "But the former governor has opposed calls for a higher minimum wage, calling it government intrusion, and he has suggested that policies that encourage a dependency on federal benefits have helped hold wages down."
+        ],
+        [
+            "Unlike other Republican candidates, Mr. Huckabee is a strong defender of entitlement programs, opposing plans to raise the retirement age for collecting Social Security and criticizing plans to curtail Medicare.",
+            "Republicans who back such changes, he said, \u201care embracing a government that lied to its people \u2014 that took money from its people under one pretense and then took it away at the time when they started wanting to actually get what they have paid for all these years.\u201d"
+        ]
+    ]
+}

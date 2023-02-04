@@ -1,0 +1,62 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Barack_Obama": "neu",
+        "author_feeling_Benjamin_Netanyahu": "neu",
+        "author_feeling_Secure_America_Now": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Barack_Obama": "neu",
+        "you_feeling_Benjamin_Netanyahu": "neu",
+        "you_feeling_Secure_America_Now": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 113,
+            "id": "p1",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 88,
+            "target": "Secure_America_Now",
+            "txt": "attempts to stoke anxiety"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 114,
+            "id": "p3",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Secure_America_Now",
+            "txt": "For dramatic effect, a soundtrack fit for an episodic drama like \u201cHomeland\u201d plays as the prime minister continues."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 97,
+            "id": "p12",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Secure_America_Now",
+            "txt": "A senior Israeli official said the government was not consulted on the ad and did not approve it."
+        }
+    ],
+    "triplet-uuid": "b4dbeda7-a1f3-4711-ae77-db23809d1ed2",
+    "uuid": "fde38be9-5895-4bed-9b1b-2370210f3b63"
+}

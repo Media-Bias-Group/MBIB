@@ -1,0 +1,74 @@
+{
+    "source": "nyt",
+    "main-entities": ["Mike Pence","Religious Freedom Restoration Act"],
+    "main-event": "Mike Pence seeks legislation to clarify the Religious Freedom Restoration Act",
+    "title": "Indiana Governor Says Legislators May Clarify Religious Beliefs Law",
+    "url": "https://www.nytimes.com/2015/03/30/us/politics/legislators-in-indiana-may-clarify-beliefs-law.html",
+    "word-count": 655,
+    "date": "2015-03-29",
+    "uuid": "0be5b4d1-ad0c-4f8a-8f78-29bfcde0cb52",
+    "triplet-uuid": "4f473faf-f928-4cfd-8bed-00578be9db9a",
+    "body-paragraphs": [
+        [
+            "Gov. Mike Pence of Indiana, moving to address a growing political firestorm over a religious freedom law enacted last week, said over the weekend that he would seek legislation to clarify the intent of the law, and rejected assertions that it sanctioned discrimination against gays and lesbians."
+        ],
+        [
+            "The governor, a Republican, told The Indianapolis Star on Saturday that he was taken aback by negative reactions to the state\u2019s Religious Freedom Restoration Act, which he signed into law on Thursday.",
+            "He told the newspaper that he expected legislation clarifying the law to be introduced in the General Assembly this week, but offered no details."
+        ],
+        [
+            "The law aims to protect individuals or companies from being forced to take actions that impose a substantial burden on their religious beliefs.",
+            "Proponents say the law should allow Christian vendors to refuse service to same-sex couples without fear of legal reprisals."
+        ],
+        [
+            "\u201cI support religious liberty, and I support this law,\u201d the governor said.",
+            "\u201cBut we are in discussions with legislative leaders this weekend to see if there\u2019s a way to clarify the intent of the law.\u201d"
+        ],
+        [
+            "Mr. Pence appeared on ABC\u2019s \u201cThis Week\u201d on Sunday, and the host, George Stephanopoulos, asked him whether signing the law was a mistake."
+        ],
+        [
+            "\u201cAbsolutely not,\u201d Mr. Pence said, adding later: \u201cI signed the bill.",
+            "We\u2019re going to continue to explain it to people who don\u2019t understand it, and if possible, we will find a way to amplify what this bill really is in the legislative process.\u201d"
+        ],
+        [
+            "But his answers to other questions were less clear.",
+            "Mr. Pence did not directly answer whether the law might protect, for example, a Christian florist who denied service to a gay couple.",
+            "Asserting that the legislation was not about discrimination, he said, \u201cThe issue here is, you know, is tolerance a two-way street or not?\u201d"
+        ],
+        [
+            "On Saturday, thousands of protesters gathered at the Statehouse as businesses and other governments announced a halt to business with the state and the capital, Indianapolis, over the law."
+        ],
+        [
+            "Marc Benioff, the chief executive officer of Salesforce.com, said on Thursday that his company would halt all corporate travel to Indiana.",
+            "On Saturday, Mayor Ed Murray of Seattle announced a ban on city employees traveling to Indiana for work using city funds."
+        ],
+        [
+            "The same day, Bill Oesterle, the chief executive officer of Angie\u2019s List, said his company would abandon a deal with Indiana and Indianapolis to expand its headquarters.",
+            "His opposition was seen as an indication of dissatisfaction with the law beyond the liberal political left; he was the campaign director for Mitch Daniels\u2019s successful Republican bid for governor in 2004."
+        ],
+        [
+            "The debate cast a shadow over preparations in Indianapolis for the N.C.A.A. men\u2019s basketball tournament, which will take place in Indianapolis on Saturday and next Monday.",
+            "In a statement on Thursday, the N.C.A.A. president, Mark Emmert, said the organization was \u201cdeeply concerned\u201d about the legislation."
+        ],
+        [
+            "\u201cWe intend to closely examine the implications of this bill and how it might affect future events as well as our work force,\u201d he said."
+        ],
+        [
+            "The backlash has been an unexpected political headache for Mr. Pence, who is juggling whether to run for re-election or for president in 2016."
+        ],
+        [
+            "Defending the law in the interviews with The Star and Mr. Stephanopoulos, the governor pointed to its origins in federal legislation signed by President Bill Clinton and adopted by about 19 other states.",
+            "Indiana\u2019s bill was drafted from a version that President Obama voted for when he was a state senator in Illinois, Mr. Pence said.",
+            "Critics, however, say the Indiana law includes different wording that could open the door to wider discrimination."
+        ],
+        [
+            "Critics also note that in many of the states with similar laws, including Illinois, sexual orientation is protected under civil rights law.",
+            "In Indiana, gays and lesbians are not a protected class."
+        ],
+        [
+            "When asked if he would seek those protections, the governor said that he would not.",
+            "\u201cThat\u2019s not on my agenda,\u201d he said on \u201cThis Week.\u201d"
+        ]
+    ]
+}

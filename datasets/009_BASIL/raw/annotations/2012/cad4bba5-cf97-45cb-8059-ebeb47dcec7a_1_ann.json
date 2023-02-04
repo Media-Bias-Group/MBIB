@@ -1,0 +1,45 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Barack_Obama": "neu",
+        "author_feeling_John_Boehner": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Barack_Obama": "neu",
+        "you_feeling_John_Boehner": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 28,
+            "id": "p14",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 12,
+            "target": "John_Boehner",
+            "txt": "refused to budge"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 114,
+            "id": "p22",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "other_pro",
+            "start": 0,
+            "target": "Barack_Obama",
+            "txt": "He wants to makes sure, first and foremost, that the middle class does not have their taxes go up on January 1st.\u201d"
+        }
+    ],
+    "triplet-uuid": "cad4bba5-cf97-45cb-8059-ebeb47dcec7a",
+    "uuid": "8d93d939-9306-4f40-b178-3f2db2a77fa7"
+}

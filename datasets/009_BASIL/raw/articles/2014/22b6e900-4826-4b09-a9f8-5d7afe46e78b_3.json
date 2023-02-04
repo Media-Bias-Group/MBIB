@@ -1,0 +1,41 @@
+{
+    "source": "fox",
+    "main-entities": ["Bruce Braley", "Chuck Grassley"],
+    "main-event": "Bruce Braley apologizes for farmer comments",
+    "title": "Dem running for Senate in Iowa mocks Grassley as farmer 'who never went to law school'",
+    "url": "http://www.foxnews.com/politics/2014/03/25/rep-braley-mocks-sen-grassley-as-just-iowa-farmer-who-never-went-to-law-school/",
+    "word-count": 342,
+    "date": "2014-03-25",
+    "uuid": "3cee11ac-7cd0-40f3-bbe4-c16ef043b090",
+    "triplet-uuid": "22b6e900-4826-4b09-a9f8-5d7afe46e78b",
+    "body-paragraphs": [
+        [
+            "Iowa Democratic Rep. Bruce Braley is under fire after a video surfaced Tuesday of him mocking Sen. Chuck Grassley, R-Iowa, as a \u201cfarmer from Iowa who never went to law school\u201d \u2014 in the middle of Braley\u2019s campaign for Senate in the state known for its agriculture industry."
+        ],
+        [
+            "Braley apologized for the remarks in a written statement after the video was released.",
+            "He said he \u201crespects\u201d Grassley and proclaimed his support for Iowa\u2019s farmers."
+        ],
+        [
+            "\u201cI have tremendous respect for Iowa farmers and appreciate how important they are to our state, and I\u2019m grateful to have the support of hundreds of farmers across Iowa,\u201d he said."
+        ],
+        [
+            "The video, which was posted online by the conservative super PAC America Rising, apparently shows Braley speaking to a group of lawyers at a fundraiser in Texas."
+        ],
+        [
+            "Braley says if elected to the Senate to replace retiring Democratic Sen. Tom Harkin, he would want to serve on the Senate Judiciary Committee.",
+            "He said Grassley, though, would likely become chairman of that committee if Republicans take the Senate."
+        ],
+        [
+            "\u201cTo put this in stark contrast, if you help me win this race you may have someone with your background, your experience, your voice, someone who\u2019s been literally fighting tort reform for thirty years, in a visible or public way, on the Senate Judiciary Committee,\u201d he said.",
+            "\u201cOr, you might have a farmer from Iowa who never went to law school, never practiced law, serving as the next chair of the Senate Judiciary Committee.\u201d"
+        ],
+        [
+            "A spokesperson for Grassley fired back Tuesday, telling FoxNews.com that by Braley\u2019s logic he, as a trial lawyer, would not be eligible to speak out on a number of policy issues like agriculture, energy or health care.",
+            "The spokesperson also touted Grassley\u2019s \u201cstrong record\u201d on the judiciary committee."
+        ],
+        [
+            "\u201cAlongside that, Sen. Grassley\u2019s one of only two working family farmers in the United States Senate, where he brings Iowa common sense to work for ag, anti-trust, transportation, environmental, energy, trade, health care, communications, national security, and tax policy that works for all of America,\u201d the aide said."
+        ]
+    ]
+}

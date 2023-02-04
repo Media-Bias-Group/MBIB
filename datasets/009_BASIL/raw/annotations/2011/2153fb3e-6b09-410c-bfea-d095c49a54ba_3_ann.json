@@ -1,0 +1,60 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Barack_Obama": "neu",
+        "author_feeling_Senate_Republicans": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "conservative",
+        "you_feeling_Barack_Obama": "neu",
+        "you_feeling_Senate_Republicans": "neu"
+    },
+    "pair-uuid": "2153fb3e-6b09-410c-bfea-d095c49a54ba",
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 141,
+            "id": "p0",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 134,
+            "target": "Barack_Obama",
+            "txt": "mocking"
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 178,
+            "id": "p0",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 168,
+            "target": "Barack_Obama",
+            "txt": "supposedly"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 39,
+            "id": "p6",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "Barack_Obama",
+            "start": 0,
+            "target": "Senate_Republicans",
+            "txt": "That's not putting people back to work."
+        }
+    ],
+    "uuid": "7af8a225-e94f-4ea6-bbff-77f84f4e9884"
+}

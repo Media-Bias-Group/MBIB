@@ -1,0 +1,92 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Donald_Trump": "neu",
+        "author_feeling_House_Democrats": "neu",
+        "author_feeling_William_Barr": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "many quotes from Democrats in favor of releasing the report, but #2 insinuates that Trump is guilty",
+        "relative_stance": "center",
+        "you_feeling_Donald_Trump": "neu",
+        "you_feeling_House_Democrats": "neu",
+        "you_feeling_William_Barr": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 74,
+            "id": "p12",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "target Trump?",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "House_Democrats",
+            "start": 0,
+            "target": "William_Barr",
+            "txt": "A short letter from Trump's hand-picked Attorney General is not sufficient"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 59,
+            "id": "p20",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "House_Democrats",
+            "start": 32,
+            "target": "William_Barr",
+            "txt": "our democracy depends on it"
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 297,
+            "id": "p3",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "House_Democrats",
+            "start": 285,
+            "target": "Donald_Trump",
+            "txt": "ham-handedly"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 397,
+            "id": "p3",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "House_Democrats",
+            "start": 199,
+            "target": "Donald_Trump",
+            "txt": "\u201chave a president, who in my opinion beyond the shadow of a doubt, sought to, however ham-handedly, collude with the Russian government \u2015 a foreign power \u2015 to undermine and influence our elections.\u201d"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 163,
+            "id": "p4",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "House_Democrats",
+            "start": 98,
+            "target": "Donald_Trump",
+            "txt": "\u201cone of the most racist and uncivil presidents we have ever had.\u201d"
+        }
+    ],
+    "triplet-uuid": "e71d149d-0426-43f0-87e8-8c611dad7205",
+    "uuid": "a675738a-1b71-41cf-8954-a6c7dbc5e333"
+}

@@ -1,0 +1,56 @@
+{
+    "source": "hpo",
+    "main-entities": ["Barack Obama", "John Boehner"],
+    "main-event": "Obama and Boehner discuss deficits",
+    "title": "Obama Boehner Fiscal Cliff Meeting: Grasping For Last-Minute Solution",
+    "url": "https://www.huffingtonpost.com/2012/12/13/obama-boehner-fiscal-cliff-meeting_n_2296788.html",
+    "word-count": 477,
+    "date": "2012-12-13",
+    "uuid": "8d93d939-9306-4f40-b178-3f2db2a77fa7",
+    "triplet-uuid": "cad4bba5-cf97-45cb-8059-ebeb47dcec7a",
+    "body-paragraphs": [
+        [
+            "WASHINGTON -- President Barack Obama and House Speaker John Boehner (R-Ohio) met for nearly an hour on Thursday evening in their latest attempt to break the impasse on impending tax hikes and spending cuts.",
+            "True to form, neither said much of anything about what was discussed."
+        ],
+        [
+            "Shortly after the meeting ended, both camps put out identical, banal statements."
+        ],
+        [
+            "\"The President and Speaker had a frank meeting in the Oval Office tonight,\" said the statements.",
+            "\"It lasted approximately 50 minutes.",
+            "There will be no further readout of the meeting, but lines of communication remain open.\""
+        ],
+        [
+            "Boehner was back at the Capitol soon afterward, but said nothing new as he passed reporters eager for a readout.",
+            "\u201cNice to see all of you,\u201d he said as he kept walking, CNN\u2019s Deirdre Walsh tweeted.",
+            "Boehner is heading back to Ohio for the weekend."
+        ],
+        [
+            "A handful of others attended the meeting.",
+            "Timothy Geithner, the treasury secretary, and Rob Nabors, director of the White House Office of Legislative Affairs, joined Obama, a White House aide confirmed.",
+            "Boehner\u2019s chief of staff, Mike Sommers, and his policy director, Brett Loper, were also in attendance."
+        ],
+        [
+            "Thursday night\u2019s meeting marks the second time in a week the president and House speaker have met in person, and comes after at least two phone calls in recent days."
+        ],
+        [
+            "The continued dialogue provides some rays of hope to a negotiating process that, in recent days, has shown very little progress.",
+            "Boehner has refused to budge from his refusal to consider raising tax rates on top earners while arguing that heavy spending cuts are needed.",
+            "The White House, in contrast, has accused House Republican leadership of being deliberately vague on cuts, while insisting that no deal will end up getting the president's signature without a raising of tax rates."
+        ],
+        [
+            "With the year-end deadline for all rates to expire and $1 trillion in spending cuts to kick in, the prospect of actually failing to find agreement is coming into focus.",
+            "A top Senate Democratic aide told the Huffington Post on Thursday that Senate Majority Leader Harry Reid (D-Nev.) told his caucus that finalizing a deal by Christmas was now basically impossible."
+        ],
+        [
+            "Boehner, meanwhile, told lawmakers earlier Thursday not to make plans for Christmas, signaling that there may not realistically be a final deal until the very end of the month.",
+            "White House Press Secretary Jay Carney wouldn\u2019t say whether Obama is also bracing for dragged out negotiations"
+        ],
+        [
+            "\u201cI can\u2019t speculate about the time frame,\u201d Carney said at his daily briefing.",
+            "\u201cWhat the president is interested in is working with Congress to achieve a deal that avoids the fiscal cliff and, beyond that, addresses our long-term fiscal challenges in a balanced way.",
+            "He wants to makes sure, first and foremost, that the middle class does not have their taxes go up on January 1st.\u201d"
+        ]
+    ]
+}

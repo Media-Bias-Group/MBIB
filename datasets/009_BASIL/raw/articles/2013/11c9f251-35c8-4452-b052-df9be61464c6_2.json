@@ -1,0 +1,47 @@
+{
+    "uuid": "25af626f-79cd-464b-8efd-c36b5a96cb8b",
+    "keywords": "President Dick Cheney,Wyoming,Dick Cheney,Senator Mike Enzi,Vice President Cheney,social media,Mike Enzi,Mary Cheney,Senate candidate,Liz Cheney,Facebook",
+    "source": "FOX",
+    "main-entities": ["Mary Cheney", "Liz Cheney"],
+    "main-event": "Mary Cheney criticizes sister Liz on same-sex marriage",
+    "url": "http://www.foxnews.com/politics/2013/09/01/elizabeth-cheney-blasted-by-older-sister-over-gay-marriage-stance/",
+    "title": "Elizabeth Cheney blasted by older sister over gay-marriage stance",
+    "date": "2013-09-01",
+    "triplet-uuid": "11c9f251-35c8-4452-b052-df9be61464c6",
+    "word-count": 416,
+    "body-paragraphs": [
+        [
+            "Call it Cheney versus Cheney."
+        ],
+        [
+            "Mary Cheney, one of ex-Vice President Dick Cheney\u2019s two daughters, has taken to Facebook to blast her older sibling, Elizabeth, a Wyoming Senate candidate, for the latter\u2019s stance on same-sex marriage, The New York Times is reporting."
+        ],
+        [
+            "Mary Cheney, openly lesbian and married to Heather Poe since 2012, reportedly posted to her personal page on the social media site: \u201cFor the record, I love my sister, but she is dead wrong on the issue of marriage."
+        ],
+        [
+            "\u201cFreedom means freedom for everyone.",
+            "That means that all families \u2014 regardless of how they look or how they are made \u2014 all families are entitled to the same rights, privileges and protections as every other.\u201d"
+        ],
+        [
+            "The Times reports Liz Cheney on Friday first articulated her position on the controversial subject, saying it should be something for voters to decide on a state-by-state basis, and not a matter for \u201cjudges\u201d or \u201clegislators.\u201d"
+        ],
+        [
+            "\u201cI am not pro-gay marriage,\u201d Liz Cheney reportedly said.",
+            "\u201cI believe the issue of marriage must be decided by the states, and by the people in the states, not by judges and not even by legislators, but by the people themselves.\u201d"
+        ],
+        [
+            "Her sister replied by pulling no punches."
+        ],
+        [
+            "\u201cIt\u2019s not something to be decided by a show of hands,\u201d Mary Cheney reportedly wrote on her personal Facebook page, concluding her internecine post by saying, \u201cPlease like and share if you agree.\u201d"
+        ],
+        [
+            "Elizabeth Cheney declared in July she plans to challenge incumbent Senator Mike Enzi, also a Republican, in the state\u2019s Republican primary.",
+            "The election is slated for 2014."
+        ],
+        [
+            "Former Vice President Cheney has publicly voiced support for same-sex marriage and, mirroring Elizabeth\u2019s stance, has reportedly said the matter should be decided on a state-by-state basis."
+        ]
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "source": "nyt",
+    "main-entities": ["Nancy Pelosi", "House Democrats"],
+    "main-event": "Nancy Pelosi wins House minority leadership again",
+    "title": "Nancy Pelosi Beats Back House Democratic Leadership Challenge",
+    "url": "https://www.nytimes.com/2016/11/30/us/politics/nancy-pelosi-house-democrats-tim-ryan.html",
+    "word-count": 985,
+    "date": "2016-11-30",
+    "uuid": "80ed11ba-3e7c-444a-ace8-79869c77bc27",
+    "triplet-uuid": "79bf99c6-6fca-4ce4-8ae1-8771de026142",
+    "body-paragraphs": [
+        [
+            "WASHINGTON \u2014 House Democrats on Wednesday rejected appeals that they need new leaders to win back disaffected voters, re-electing Representative Nancy Pelosi of California to an eighth term as House leader over a Rust Belt congressman who said the party had lost its connection to the American working class."
+        ],
+        [
+            "Ms. Pelosi\u2019s victory over Representative Tim Ryan, a 43-year-old congressman from a blue-collar district anchored in Youngstown, Ohio, ensures that the party will be led in the next Congress by the established \u201ccoastal\u201d Democrats who have increasingly defined it \u2014 Ms. Pelosi, 76, who represents San Francisco, and Senator Chuck Schumer of New York, 66, who has held various leadership posts since 2005."
+        ],
+        [
+            "The leadership elections, conducted by secret ballot behind closed doors, stamped out calls for new leaders.",
+            "But while Ms. Pelosi won, 134 to 63, Mr. Ryan\u2019s significant share of the total served as a measure of internal discontent and in some ways a repudiation of Ms. Pelosi\u2019s leadership."
+        ],
+        [
+            "\u201cI think there\u2019s a lot of soul-searching,\u201d said Representative Carolyn B. Maloney of New York.",
+            "\u201cAnd a lot of really wanting to have a plan.\u201d"
+        ],
+        [
+            "For years, support for Ms. Pelosi has run so deep that few would even consider challenging her.",
+            "In 2010, after a wave of Tea Party Republicans swept Democrats out of power, she lost just 43 votes."
+        ],
+        [
+            "Ms. Pelosi, whose victory was mockingly cheered by Republicans as good news for them, dismissed the idea that House Democrats could no longer win with her at the helm.",
+            "And she vowed that Democrats would continue to stand as a foil to President-elect Donald J. Trump\u2019s administration."
+        ],
+        [
+            "\u201cWe know how to win elections,\u201d Ms. Pelosi said.",
+            "\u201cWe\u2019ve done it in the past. We will do it again by making that differentiation.\u201d"
+        ],
+        [
+            "Representative Kurt Schrader of Oregon, who backed Mr. Ryan, said after the vote that unless Democrats changed course and adopted \u201ca working man and woman\u2019s agenda,\u201d they should expect defeat."
+        ],
+        [
+            "\u201cI\u2019m very worried we just signed the Democratic Party\u2019s death certificate for the next decade and a half,\u201d Mr. Schrader said."
+        ],
+        [
+            "Democrats also re-elected Representative Steny H. Hoyer, 77, of Maryland as whip, the No. 2 position, as well as Representative James E. Clyburn, 76, of South Carolina in the No. 3 spot as the assistant Democratic leader.",
+            "Mr. Hoyer and Mr. Clyburn have been part of the Democratic leadership team since 2003 and 2007.",
+            "Both ran unopposed."
+        ],
+        [
+            "Representative Joseph Crowley of New York was also elected chairman of the House Democratic Caucus, and in a narrow victory, 98 to 96, Representative Linda T. S\u00e1nchez of California defeated another California Democrat, Representative Barbara Lee, to become vice chairwoman."
+        ],
+        [
+            "After a dismal Election Day for Democrats, the fight for Ms. Pelosi\u2019s post had become a proxy battle for the future of the party, with House Democrats agonizing over how to reconnect with the working-class voters who abandoned them."
+        ],
+        [
+            "\u201cWe got wiped out in the Midwest, and we\u2019re toxic in rural America,\u201d aides said Mr. Ryan told his colleagues behind closed doors before the vote.",
+            "\u201cUltimately, we\u2019re responsible.\u201d"
+        ],
+        [
+            "But in an interview Tuesday, Mr. Ryan suggested few ideas for how to appeal to voters beyond essentially crowdsourcing the task to more House Democrats, and he offered no indication that working with the Republican majority on any particular policy compromises would be a priority."
+        ],
+        [
+            "The Democratic leaders seemed short on concrete strategies, too, committing generally to refocus their message on economic issues.",
+            "Many also vowed to stand in opposition to the Trump administration, gambling that Mr. Trump and congressional Republicans would disappoint voters and prompt a return to the Democratic Party they rejected."
+        ],
+        [
+            "Some of the more specific strategies considered included starting a more aggressive recruitment campaign for Democratic candidates from more conservative areas, as well as increasing their outreach to traditionally \u201cred\u201d districts."
+        ],
+        [
+            "\u201cJust because you\u2019re only getting 30 percent of the vote in some area doesn\u2019t mean you shouldn\u2019t go there,\u201d said Representative Cedric L. Richmond of Louisiana.",
+            "\u201cYou should go there and engage people and tell them what you believe in.\u201d"
+        ],
+        [
+            "Disappointed by the outcome of the leadership election, a handful of Democrats who had backed Mr. Ryan vowed to press forward with a proposal to turn some jobs, such as the chairman of the party\u2019s campaign arm, into elected positions."
+        ],
+        [
+            "That plan is expected to meet resistance from Ms. Pelosi, who retains the power to appoint people to those positions, though some Democrats have expressed an interest in the idea.",
+            "Last week Ms. Pelosi selected Representative Ben Ray Luj\u00e1n of New Mexico to again lead the Democratic Congressional Campaign Committee, even though House Democrats picked up just six seats in this election."
+        ],
+        [
+            "Though he collected only a dozen or so public endorsements, Mr. Ryan mounted an unlikely challenge to Ms. Pelosi, long considered a legislative and fund-raising powerhouse.",
+            "Driven by the conviction that Democrats need a new leader, he tried to harness discontent with a leadership team that has failed three times to reclaim the majority since being swept out in 2010."
+        ],
+        [
+            "Trying to quell calls to replace her, Ms. Pelosi announced her nominations last week for a handful of other positions, and proposed that three members from Illinois, Pennsylvania and New York share the leadership duties of the party\u2019s messaging committee, offering more regional diversity.",
+            "She also released plans to incorporate more junior members into leadership roles, among other ideas, such as including a freshman Democrat in the leadership team\u2019s regular meetings."
+        ],
+        [
+            "But each new idea has underscored the fact that Ms. Pelosi refuses to relinquish much power and has cultivated a large, loyal following that does not expect her to.",
+            "It is from that sizable collection of House Democrats that she draws her picks for smaller leadership posts, making her a powerful ally and, for those like Mr. Ryan who have challenged her, a formidable opponent."
+        ],
+        [
+            "\u201cShe has a lot of friends,\u201d Mr. Ryan said.",
+            "\u201cThis is her caucus, clearly.\u201d"
+        ]
+    ]
+}

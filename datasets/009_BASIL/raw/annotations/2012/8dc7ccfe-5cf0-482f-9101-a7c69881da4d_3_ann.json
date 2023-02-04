@@ -1,0 +1,45 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Barack_Obama": "neu",
+        "author_feeling_Mitt_Romney": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Barack_Obama": "neu",
+        "you_feeling_Mitt_Romney": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 260,
+            "id": "p9",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 119,
+            "target": "Barack_Obama",
+            "txt": "\"has consistently fought against protecting the institution of marriage from radical social engineering at both the state and federal level.\""
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 107,
+            "id": "p10",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 62,
+            "target": "Mitt_Romney",
+            "txt": "an accusation Romney has some experience with"
+        }
+    ],
+    "triplet-uuid": "8dc7ccfe-5cf0-482f-9101-a7c69881da4d",
+    "uuid": "d5c8102a-ac43-4c17-ab3b-e84b9dcd5382"
+}

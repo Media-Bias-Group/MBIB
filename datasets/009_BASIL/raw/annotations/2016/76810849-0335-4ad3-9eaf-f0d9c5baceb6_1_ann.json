@@ -1,0 +1,92 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Barack_Obama": "neg",
+        "author_feeling_Donald_Trump": "neu",
+        "author_feeling_Hillary_Clinton": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "more evidence of shooter's ties to ISIS",
+        "relative_stance": "conservative",
+        "you_feeling_Barack_Obama": "neu",
+        "you_feeling_Donald_Trump": "neu",
+        "you_feeling_Hillary_Clinton": "neu"
+    },
+    "pair-uuid": "76810849-0335-4ad3-9eaf-f0d9c5baceb6",
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 69,
+            "id": "p1",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 48,
+            "target": "Donald_Trump",
+            "txt": "went so far as to say"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 29,
+            "id": "p3",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "Donald_Trump",
+            "start": 9,
+            "target": "Barack_Obama",
+            "txt": "our leaders are weak"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 126,
+            "id": "p11",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Donald_Trump",
+            "txt": "Trump has faced intense criticism from members of both parties for his calls to temporarily ban Muslim immigration to the U.S."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 38,
+            "id": "p13",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "Donald_Trump",
+            "start": 0,
+            "target": "Barack_Obama",
+            "txt": "Our leadership is weak and ineffective"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 40,
+            "id": "p23",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Hillary_Clinton",
+            "txt": "Clinton did not reference radical Islam."
+        }
+    ],
+    "uuid": "cf3767f6-71f7-4eb2-a5e8-956b1b16fc0d"
+}

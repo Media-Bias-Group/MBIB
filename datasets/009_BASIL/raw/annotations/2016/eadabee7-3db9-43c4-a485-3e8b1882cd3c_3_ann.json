@@ -1,0 +1,90 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Barack_Obama": "neu",
+        "author_feeling_Bernie_Sanders": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Barack_Obama": "neu",
+        "you_feeling_Bernie_Sanders": "neu"
+    },
+    "pair-uuid": "eadabee7-3db9-43c4-a485-3e8b1882cd3c",
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 213,
+            "id": "p20",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 91,
+            "target": "Bernie_Sanders",
+            "txt": "despite Mrs. Clinton\u2019s wide margin of victory and the fact that she had the support of enough delegates for the nomination"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 50,
+            "id": "p7",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Bernie_Sanders",
+            "txt": "He also praised the campaign that Mr. Sanders ran."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 152,
+            "id": "p10",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "target Obama?",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 136,
+            "target": "Bernie_Sanders",
+            "txt": "grinning broadly"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 51,
+            "id": "p16",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Bernie_Sanders",
+            "txt": "His face flushed, Mr. Sanders did not speak at all."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 142,
+            "id": "p21",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Bernie_Sanders",
+            "txt": "But some of his supporters have started to walk away, prompting growing calls that it is time to bring the party together to defeat Mr. Trump."
+        }
+    ],
+    "uuid": "5d340842-802a-4515-9608-3eaaf9e2d9cd"
+}

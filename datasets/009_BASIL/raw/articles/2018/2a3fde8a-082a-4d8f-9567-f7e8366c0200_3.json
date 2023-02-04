@@ -1,0 +1,52 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Donald Trump",
+        "Peter Strzok"
+    ],
+    "main-event": "Trump critic Peter Strzok fired from FBI",
+    "title": "FBI Agent Peter Strzok Fired Over Anti-Trump Text Messages",
+    "url": "https://www.huffingtonpost.com/entry/fbi-peter-strzok-fired_us_5b719e9de4b0ae32af9a1941",
+    "word-count": 531,
+    "date": "2018-08-13",
+    "uuid": "e2782a75-581f-41e3-9fd3-a1c5e7ec4cf0",
+    "triplet-uuid": "2a3fde8a-082a-4d8f-9567-f7e8366c0200",
+    "body-paragraphs": [
+        [
+            "WASHINGTON \u2015 FBI Special Agent Peter Strzok, who was taken off special counsel Robert Mueller\u2019s team after Justice Department investigators discovered his texts disparaging President Donald Trump, has been fired from the bureau despite the recommendations of a career FBI official."
+        ],
+        [
+            "Aitan Goelman, Strzok\u2019s attorney, said in a statement that Strzok was fired late Friday afternoon on the orders of FBI Deputy Director David Bowdich, despite an FBI career official\u2019s recommendation that Strzok face a 60-day suspension and a demotion."
+        ],
+        [
+            "Goelman called the decision \u201ca departure from typical Bureau practice\u201d and said it contradicted FBI Director Chris Wray\u2019s earlier guarantee that the bureau would follow its regular process, despite Trump\u2019s disdain for the now-former FBI official."
+        ],
+        [
+            "\u201cThis decision should be deeply troubling to all Americans.",
+            "A lengthy investigation and multiple rounds of Congressional testimony failed to produce a shred of evidence that Special Agent Strzok\u2019s personal views ever affected his work,\u201d Goelman said.",
+            "\u201cIn fact, in his decades of service, Special Agent Strzok has proved himself to be one of the country\u2019s top counterintelligence officers, leading to only one conclusion \u2015 the decision to terminate was taken in response to political pressure, and to punish Special Agent Strzok for political speech protected by the First Amendment, not on a fair and independent examination of the facts.",
+            "It is a decision that produces only one winner \u2015 those who seek to harm our country and weaken our democracy.\u201d"
+        ],
+        [
+            "Strzok exchanged texts with former FBI official Lisa Page that disparaged Trump as well as other politicians, including various Democrats.",
+            "He testified last month after the release of an inspector general report on the handling of the FBI\u2019s Hillary Clinton probe that described anti-Trump texts exchanged by bureau officials."
+        ],
+        [
+            "Strzok, a 21-year veteran of the FBI, played a prominent role in both of the investigations surrounding the Clinton and Trump campaigns during the 2016 election.",
+            "He was involved in the Clinton investigation, which was highly public, as well as the investigation into the Trump campaign and Russian interference in the 2016 election, which the bureau never publicly acknowledged until months into Trump\u2019s presidency.",
+            "Strzok subsequently joined the Mueller team, but left the team as soon as Mueller became aware of his anti-Trump texts."
+        ],
+        [
+            "The precise justification for Bowdich\u2019s decision to fire Strzok despite the recommendation of the FBI\u2019s Office of Professional Responsibility is unclear.",
+            "But DOJ\u2019s inspector general was \u201cdeeply troubled\u201d by texts Strzok sent that \u201cpotentially indicated or created the appearance that the investigative decisions were impacted by bias or improper considerations,\u201d and particularly focused on one anti-Trump text that implied a willingness \u201cto take official action to impact the presidential candidate\u2019s electoral prospects.\u201d",
+            "The inspector general report also criticized Strzok for his use of personal email to conduct FBI business."
+        ],
+        [
+            "It\u2019s possible that the former FBI counterintelligence official\u2019s extramarital relationship with Page also played a role in the FBI\u2019s decision.",
+            "Wray said at at a press conference in June that the bureau wouldn\u2019t \u201chesitate to hold people accountable for their actions\u201d after the disciplinary process."
+        ],
+        [
+            "Trump celebrated Strzok\u2019s firing on Twitter, writing Monday that the investigation into his campaign \u201cshould be dropped\u201d and that the investigation into Clinton \u201cshould be properly redone.\u201d"
+        ]
+    ]
+}

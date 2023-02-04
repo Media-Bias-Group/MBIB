@@ -1,0 +1,58 @@
+{
+    "source": "nyt",
+    "main-entities": ["Chris Christie"],
+    "main-event": "Christ Christie campaign documents subpoenaed",
+    "title": "U.S. Attorney Subpoenas Christie\u2019s Campaign and New Jersey G.O.P.",
+    "url": "https://mobile.nytimes.com/2014/01/24/nyregion/us-attorney-issues-subpoena-to-christies-re-election-campaign.html",
+    "word-count": 609,
+    "date": "2014-01-23",
+    "uuid": "baa71235-0662-4c29-8886-e4a77cb7f42b",
+    "triplet-uuid": "d1344998-0e7c-409e-aaad-df5be687fc94",
+    "body-paragraphs": [
+        [
+            "Federal prosecutors in New Jersey have issued grand jury subpoenas to Gov. Chris Christie\u2019s re-election campaign and to the state Republican Party as part of a preliminary inquiry into accusations that aides to Mr. Christie shut down access lanes to the George Washington Bridge as political retribution, the lawyer for the campaign and the party said Thursday."
+        ],
+        [
+            "A person briefed on the matter said the prosecutors had also issued subpoenas to some of the 20 people and entities \u2014 including potential witnesses and people who have come under scrutiny in the inquiry \u2014 that received subpoenas last week from a New Jersey legislative committee whose investigation largely parallels the federal one."
+        ],
+        [
+            "\u201cWe can confirm that the Christie for Governor re-election campaign and the New Jersey Republican State Committee received subpoenas for documents from the U.S. attorney\u2019s office, in addition to the subpoena the campaign previously received from the state legislative committee,\u201d the lawyer, Mark D. Sheridan, said in an email."
+        ],
+        [
+            "Mr. Sheridan is representing the campaign along with Robert D. Luskin; both men are partners at Patton Boggs."
+        ],
+        [
+            "\u201cThe campaign and the state party intend to cooperate with the U.S. attorney\u2019s office and the state legislative committee and will respond to the subpoenas accordingly,\u201d Mr. Sheridan said."
+        ],
+        [
+            "According to the person briefed on the matter, the subpoenas, issued by prosecutors in the office of the United States attorney for New Jersey, Paul J. Fishman, seek a broad range of records relating to the lane closings: emails, text messages, other correspondence and memorandums, calendar entries, spreadsheets, voice mail messages."
+        ],
+        [
+            "They also specifically seek records relating to three close aides to Mr. Christie who resigned or were fired when their roles in the lane closings were revealed.",
+            "They were the governor\u2019s deputy chief of staff, Bridget Anne Kelly, and Bill Baroni and David Wildstein, two senior officials and allies of Mr. Christie at the Port Authority of New York and New Jersey, which operates the bridge."
+        ],
+        [
+            "Federal Bureau of Investigation agents and prosecutors from Mr. Fishman\u2019s office have also undertaken what appears to be an unrelated inquiry.",
+            "On Saturday, the mayor of Hoboken, Dawn Zimmer, said Mr. Christie\u2019s lieutenant governor and another senior administration official had threatened in May to withhold federal recovery aid for Hurricane Sandy unless she supported a development favored by the Christie administration.",
+            "On Sunday, Ms. Zimmer issued a statement saying prosecutors in Mr. Fishman\u2019s office had interviewed her about her accusation."
+        ],
+        [
+            "The lieutenant governor, Kim Guadagno, emphatically denied the allegations on Monday.",
+            "Ms. Zimmer\u2019s account, however, was supported in some measure by two of the mayor\u2019s aides, who were interviewed by F.B.I. agents and told them that Ms. Zimmer had recounted the threat to them around the time she said it occurred, two people briefed on the matter have said.",
+            "A Hoboken city councilman, David Mello, also said that Ms. Zimmer told him several months later about the encounter with Ms. Guadagno."
+        ],
+        [
+            "The bridge inquiry being conducted by Mr. Fishman\u2019s office was confirmed this month.",
+            "The office said at the time that it would seek to determine whether any federal laws had been broken.",
+            "The subpoenas issued this week show that prosecutors have begun taking the necessary steps to answer that question."
+        ],
+        [
+            "A spokeswoman for Mr. Fishman\u2019s office, Rebekah Carmichael, said Thursday afternoon that she could neither confirm nor deny whether any specific investigative steps had been taken.",
+            "She has declined to comment on Ms. Zimmer\u2019s allegation."
+        ],
+        [
+            "Despite the inquiries, Mr. Christie seemed to be trying to conduct business as usual.",
+            "The Republican Governors Association announced on Thursday that he would make fund-raising trips to Illinois, Texas, Massachusetts, Georgia, Connecticut and Utah in the coming months."
+        ]
+    ]
+}

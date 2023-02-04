@@ -1,0 +1,47 @@
+{
+    "source": "fox",
+    "main-entities": ["Joe Arpaio","Rick Perry"],
+    "main-event": "Joe Arpaio endorsed Texas Governor Rick Perry for the Republican presidential nomination",
+    "title": "Arizona Sheriff Joe Arpaio Endorses Rick Perry",
+    "url": "http://latino.foxnews.com/latino/politics/2011/11/29/arizona-sheriff-joe-arpaio-endorses-rick-perry/",
+    "word-count": 379,
+    "date": "2011-11-29",
+    "uuid": "a0864cfa-e3cf-49b0-805a-87be7fa6b67e",
+    "triplet-uuid": "0ffb34cd-c367-4d90-aca7-7fcac3ed8f3d",
+    "body-paragraphs": [
+        [
+            "Arizona Sheriff Joe Arpaio, known for his tough and controversial stances on illegal immigration, endorsed three term Texas Governor Rick Perry for the Republican presidential nomination on Tuesday morning during a campaign swing with Mr. Perry through New Hampshire."
+        ],
+        [
+            "The self-titled America's Toughest Sheriff, who famously re-instituted chain gangs in 1995 and has also been a major supporter of his state's controversial SB1070 immigration law, said that Perry has done more to combat illegal immigration along the U.S. border then any of the other candidates."
+        ],
+        [
+            "\"I'm endorsing Rick Perry because we need a tough-on-crime president who will champion and fund full-time border security operations from Brownsville to San Diego,\" Arpaio said.",
+            "\"Governor Perry has a superior border security record and plan to make our border and our nation safer.\""
+        ],
+        [
+            "\"Sheriff Arpaio knows the struggle border states face as Washington politicians and bureaucrats fail time and again to properly secure our nation's southern boundary with Mexico,\" said Gov. Perry.",
+            "\"I am honored to have Sheriff Arpaio's support for my presidential campaign and our shared goals of fighting border crime with more personnel, border fencing and surveillance.",
+            "A secure border is vital to protecting America's national security, public safety and jobs.\""
+        ],
+        [
+            "The endorsement from Arpaio could prove helpful to Perry who has faced criticism about his stance on immigration from the Right for his support of DREAM children."
+        ],
+        [
+            "The illegal immigration issue has also been a hotbed for clashes between Perry and GOP presidential candidate and former Massachusetts Governor Mitt Romney."
+        ],
+        [
+            "Romney has said that Perry provided a magnet for undocumented immigrants to settle in Texas by supporting a law that allows people who are in the country unlawfully to attend public colleges at in-state tuition rates."
+        ],
+        [
+            "\"You said I don't want to build a fence,\" Romney said.",
+            "\"You talk about magnets -- you put in place a magnet.\""
+        ],
+        [
+            "Perry has also said the federal government should extend work visas permitting undocumented immigrants to move freely between the U.S. and their home countries, but stressed that he still opposes amnesty or a path to citizenship."
+        ],
+        [
+            "\"As president, I will secure the border within a year putting thousands more federal boots on the ground, strategic fencing and aerial resources to fight border crime and make our states and nation safer,\" Perry said."
+        ]
+    ]
+}

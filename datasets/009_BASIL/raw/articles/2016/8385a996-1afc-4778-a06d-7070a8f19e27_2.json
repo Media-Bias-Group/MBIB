@@ -1,0 +1,81 @@
+{
+    "source": "nyt",
+    "main-entities": ["Ruth Bader Ginsburg", "Donald Trump"],
+    "main-event": "Ruth Bader Ginsburg criticizes Trump",
+    "title": "Donald Trump Rebukes Ruth Bader Ginsburg for Deriding His Candidacy",
+    "url": "https://www.nytimes.com/2016/07/13/us/politics/ruth-bader-ginsburg-donald-trump.html?_r=0",
+    "word-count": 528,
+    "date": "2016-07-12",
+    "uuid": "ea716473-95b1-4e2a-91b0-2645d4de07e9",
+    "triplet-uuid": "8385a996-1afc-4778-a06d-7070a8f19e27",
+    "body-paragraphs": [
+        [
+            "Donald J. Trump on Tuesday assailed Justice Ruth Bader Ginsburg of the Supreme Court for speaking out on the presidential race, calling her disdainful remarks about his candidacy \u201chighly inappropriate\u201d and suggesting that she owed other justices an apology."
+        ],
+        [
+            "Mr. Trump\u2019s remarks came in a telephone interview with The Times two days after Justice Ginsburg was quoted as saying she was frightened about what the nation would look like if he were elected."
+        ],
+        [
+            "\u201cI can\u2019t imagine what this place would be \u2014 I can\u2019t imagine what the country would be \u2014 with Donald Trump as our president,\u201d Justice Ginsburg told The Times in an interview published Sunday.",
+            "\u201cFor the country, it could be four years.",
+            "For the court, it could be \u2014 I don\u2019t even want to contemplate that.\u201d",
+            "She even joked ruefully about moving to New Zealand."
+        ],
+        [
+            "Mr. Trump, the presumptive Republican nominee, said he found those remarks unbefitting a member of the high court."
+        ],
+        [
+            "\u201cI think it\u2019s highly inappropriate that a United States Supreme Court judge gets involved in a political campaign, frankly,\u201d Mr. Trump said.",
+            "\u201cI think it\u2019s a disgrace to the court and I think she should apologize to the court.",
+            "I couldn\u2019t believe it when I saw it.\u201d"
+        ],
+        [
+            "He continued: \u201cThat she should be saying that?",
+            "It\u2019s so beneath the court for her to be making statements like that.",
+            "It only energizes my base even more.",
+            "And I would hope that she would get off the court as soon as possible.\u201d"
+        ],
+        [
+            "Mr. Trump also said he expected to announce his choice of a running mate by Friday, winding down a process that has been closely watched as in all likelihood the most significant decision he will make in his campaign."
+        ],
+        [
+            "\u201cI have five candidates, plus two, two that are unknown to anybody,\u201d Mr. Trump said from Chicago, where he was raising money for his campaign."
+        ],
+        [
+            "\u201cI will be making a decision over the next three- to four-day period of time, and I think it will be a decision that will be a very good decision for a lot of people,\u201d he added."
+        ],
+        [
+            "Mr. Trump said that he was not basing his vice-presidential selection on fund-raising prowess or potential, and indicated that he had had enough experience with many of those he has been considering for the job that their tryouts on the campaign trail would not necessarily be determinative."
+        ],
+        [
+            "\u201cI\u2019ve been with these people for a long time \u2014 I know them,\u201d Mr. Trump said, specifically invoking Gov. Chris Christie of New Jersey and Newt Gingrich, the former House speaker.",
+            "\u201cChristie was excellent yesterday and Newt is excellent.\u201d Mr. Trump will appear on Tuesday night in Indiana with Gov. Mike Pence, who has risen in the estimation of many of the nominee\u2019s advisers."
+        ],
+        [
+            "Mr. Trump said his decision was largely coming down to instinct.",
+            "\u201cA lot of is gut. A lot of it is,\u201d he said.",
+            "\u201cMy whole life has been about gut.\u201d"
+        ],
+        [
+            "He also suggested that he would consider polling in states like heavily Democratic Connecticut, which he again said he believed he could put in play in November."
+        ],
+        [
+            "Asked for quick thoughts about each of the candidates he is known to be considering, Mr. Trump played along."
+        ],
+        [
+            "Governor Christie? \u201cStrong,\u201d he said."
+        ],
+        [
+            "Retired Lt. Gen. Mike Flynn? \u201cA patriot.\u201d"
+        ],
+        [
+            "Senator Joni Ernst of Iowa? \u201cA terrific, exciting person.\u201d"
+        ],
+        [
+            "Governor Pence? \u201cSolid as a rock.\u201d"
+        ],
+        [
+            "And Mr. Gingrich? \u201cNewt is Newt. He\u2019s a good guy.\u201d"
+        ]
+    ]
+}

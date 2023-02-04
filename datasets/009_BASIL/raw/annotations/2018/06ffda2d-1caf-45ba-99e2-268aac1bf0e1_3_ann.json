@@ -1,0 +1,43 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Blake_Farenthold": "neg",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "conservative",
+        "you_feeling_Blake_Farenthold": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 93,
+            "id": "p14",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Blake_Farenthold",
+            "txt": "Greene accused Farenthold of telling her he had \u201csexual fantasies\u201d and \u201cwet dreams\u201d about her"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 50,
+            "id": "p15",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "Blake_Farenthold",
+            "start": 0,
+            "target": "Blake_Farenthold",
+            "txt": "\u201cI had no idea how to run a congressional office,\u201d"
+        }
+    ],
+    "triplet-uuid": "06ffda2d-1caf-45ba-99e2-268aac1bf0e1",
+    "uuid": "c16938aa-d402-4b97-8aff-c8bc99a11c3c"
+}

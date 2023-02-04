@@ -1,0 +1,88 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Chris_Christie": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "right",
+        "you_feeling_Chris_Christie": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 167,
+            "id": "p9",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 52,
+            "target": "Chris_Christie",
+            "txt": "whose reputation for political bullying was reinforced by a George Washington Bridge lane-closing scandal last year"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 170,
+            "id": "p11",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Chris_Christie",
+            "txt": "Christie's favorability rating among voters skyrocketed after he made himself visible through interviews, press conferences and tours of storm damage during the disaster."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 139,
+            "id": "p12",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Chris_Christie",
+            "txt": "Christie focused on his state rather than the presidential election that took place days after New Jersey's shore was ravaged by the storm."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 104,
+            "id": "p26",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Chris_Christie",
+            "txt": "Christie has also faced criticism for reversinghis position recently on Common Core education standards."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 90,
+            "id": "p16",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "Chris_Christie",
+            "start": 0,
+            "target": "Chris_Christie",
+            "txt": "\"I have got a job to do here in New Jersey that is much bigger than presidential politics."
+        }
+    ],
+    "triplet-uuid": "13792511-5142-449f-8d3e-d77d790f65ec",
+    "uuid": "48d9863f-62d0-487e-b928-8a169a5048c5"
+}

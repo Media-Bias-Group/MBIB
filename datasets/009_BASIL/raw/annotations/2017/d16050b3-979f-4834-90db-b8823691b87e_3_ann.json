@@ -1,0 +1,30 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Donald_Trump": "neu",
+        "author_feeling_Kathy_Griffin": "neg",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Donald_Trump": "neu",
+        "you_feeling_Kathy_Griffin": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 160,
+            "id": "p2",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 62,
+            "target": "Kathy_Griffin",
+            "txt": "telling stories of Lindsay Lohan\u2019s fire crotch and simulating oral sex with Anderson Cooper on CNN"
+        }
+    ],
+    "triplet-uuid": "d16050b3-979f-4834-90db-b8823691b87e",
+    "uuid": "d4ab861e-2ce8-4d03-a4ff-9aa49b7025ac"
+}

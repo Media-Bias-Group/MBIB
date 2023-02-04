@@ -1,0 +1,28 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Chris_Christie": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Chris_Christie": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "ind_pro",
+            "bias": "lex",
+            "end": 145,
+            "id": "p9",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "lieutenant governor and another senior administration official",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 135,
+            "target": "Chris_Christie",
+            "txt": "threatened"
+        }
+    ],
+    "triplet-uuid": "d1344998-0e7c-409e-aaad-df5be687fc94",
+    "uuid": "baa71235-0662-4c29-8886-e4a77cb7f42b"
+}

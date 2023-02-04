@@ -1,0 +1,44 @@
+{
+    "source": "fox",
+    "main-entities": ["Michael Flynn", "Donald Trump"],
+    "main-event": "House Intelligence committee prepares to subpoena Michael Flynn",
+    "title": "Senate intel panel subpoenas two Flynn businesses in Russia probe",
+    "url": "http://www.foxnews.com/politics/2017/05/23/senate-intel-panel-subpoenas-two-flynn-businesses-in-russia-probe.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fpolitics+%28Internal+-+Politics+-+Text%29",
+    "word-count": 252,
+    "date": "2017-05-23",
+    "uuid": "5728352e-d82d-4248-bce3-db722c0d4f43",
+    "triplet-uuid": "df6a55fb-dfe5-4362-89a6-8c040d648a70",
+    "body-paragraphs": [
+        [
+            "The leaders of the Senate intelligence committee said Tuesday they had subpoenaed two of former National Security Adviser Michael Flynn's businesses as part of the ongoing probe into Russian activity during last year's presidential campaign."
+        ],
+        [
+            "Sen. Mark Warner, D-Va., the top Democrat on the committee, identified the businesses as Flynn Intel Group LLC and Flynn Intel Group Inc., both based in Alexandria, Va."
+        ],
+        [
+            "The committee's action comes a day after Flynn\u2019s lawyer notified the committee that his client will invoke his Fifth Amendment protection against self-incrimination and not comply with the committee\u2019s subpoena seeking documents related to its investigation."
+        ],
+        [
+            "\"A business does not have the right to take the fifth,\" Warner told reporters."
+        ],
+        [
+            "The investigation focuses on whether Flynn and other Trump associates colluded with Russia to boost the Republican candidate in the 2016 elections."
+        ],
+        [
+            "Trump fired Flynn in February because he misled Vice President Mike Pence about conversations he had with Russia\u2019s ambassador about potentially easing economic sanctions."
+        ],
+        [
+            "Flynn is also being investigated over whether he was fully forthcoming about his foreign contacts and earnings from organizations linked to the governments of Russia and Turkey."
+        ],
+        [
+            "Intelligence committee chairman Sen. Richard Burr, R-N.C., said Tuesday that the panel also sent a letter to Flynn\u2019s lawyer questioning whether his client can indeed invoke the Fifth Amendment to avoid turning over documents."
+        ],
+        [
+            "Burr added that if there is no response from Flynn, the committee may consider pursuing a contempt of Congress charge."
+        ],
+        [
+            "\"Everything is on the table,\" Burr said.",
+            "Everything but immunity, he added."
+        ]
+    ]
+}

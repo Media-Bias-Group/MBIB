@@ -1,0 +1,103 @@
+{
+    "article-level-annotations": {
+        "author_feeling_joint_tax_rule_for_homosexual_couples": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "left",
+        "you_feeling_joint_tax_rule_for_homosexual_couples": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 144,
+            "id": "p1",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 136,
+            "target": "joint_tax_rule_for_homosexual_couples",
+            "txt": "progress"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 113,
+            "id": "p6",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "other_pro",
+            "start": 0,
+            "target": "joint_tax_rule_for_homosexual_couples",
+            "txt": "It provides access to benefits, responsibilities and protections under federal tax law that all Americans deserve"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 181,
+            "id": "p16",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "other_pro",
+            "start": 0,
+            "target": "joint_tax_rule_for_homosexual_couples",
+            "txt": "\u201cWith today\u2019s ruling, committed and loving gay and lesbian married couples will now be treated equally under our nation\u2019s federal tax laws, regardless of what state they call home,\u201d"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 152,
+            "id": "p17",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "other_pro",
+            "start": 0,
+            "target": "joint_tax_rule_for_homosexual_couples",
+            "txt": "\u201cThese families finally have access to crucial tax benefits and protections previously denied to them under the discriminatory Defense of Marriage Act.\u201d"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 180,
+            "id": "p20",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 60,
+            "target": "joint_tax_rule_for_homosexual_couples",
+            "txt": "Edie Windsor hailed the decision as the precise remedy that she sought when she challenged the constitutionality of DOMA"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 221,
+            "id": "p14",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "joint_tax_rule_for_homosexual_couples",
+            "txt": "On the flip side, gay couples also will now be subjected to the so-called marriage penalty, in which some (usually upper-middle class) joint filers incur a higher tax burden than they would if they filed as single people."
+        }
+    ],
+    "triplet-uuid": "70c744ad-e950-445c-8a7a-0782b0a7d20b",
+    "uuid": "f6994655-46b7-46bf-81a5-b771922efeec"
+}

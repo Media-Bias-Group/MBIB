@@ -1,0 +1,88 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Cesar_Sayoc": "neg",
+        "author_feeling_Law_enforcement/Federal_authorities": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Cesar_Sayoc": "neu",
+        "you_feeling_Law_enforcement/Federal_authorities": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 34,
+            "id": "p13",
+            "indirect-ally-opponent-sentiment": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_neutral",
+            "start": 29,
+            "target": "Cesar_Sayoc",
+            "txt": "crazy"
+        },
+        {
+            "aim": "ind_pro",
+            "bias": "inf",
+            "end": 18,
+            "id": "p14",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "van",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_neutral",
+            "start": 1,
+            "target": "Cesar_Sayoc",
+            "txt": "It was unsettling"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 66,
+            "id": "p2",
+            "indirect-ally-opponent-sentiment": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Cesar_Sayoc",
+            "txt": "Mr. Sayoc, a registered Republican, has a lengthy criminal history"
+        },
+        {
+            "aim": "ind_pro",
+            "bias": "inf",
+            "end": 40,
+            "id": "p28",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "terrorizing acts",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 0,
+            "target": "Cesar_Sayoc",
+            "txt": "\u201cThis is definitely domestic terrorism,\u201d"
+        },
+        {
+            "aim": "ind_pro",
+            "bias": "inf",
+            "end": 73,
+            "id": "p17",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "terrorizing acts",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 0,
+            "target": "Cesar_Sayoc",
+            "txt": "\u201cThese terrorizing acts are despicable and have no place in our country,\u201d"
+        }
+    ],
+    "triplet-uuid": "1f99798f-2b60-4ecb-b5f4-4aa7991e8ace",
+    "uuid": "42699cb0-e35e-4266-a45b-475412767db9"
+}

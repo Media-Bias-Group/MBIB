@@ -1,0 +1,70 @@
+{
+    "source": "nyt",
+    "main-entities": ["Barack Obama", "John Boehner"],
+    "main-event": "Obama and Boehner discuss deficits",
+    "title": "Obama and Boehner Talk Deficits at the White House",
+    "url": "http://thecaucus.blogs.nytimes.com/2012/12/09/officials-foresee-progress-on-fiscal-talks/?ref=brianknowlton",
+    "word-count": 781,
+    "date": "2012-12-09",
+    "uuid": "a02e132d-8194-4a2d-a831-92c6a62aac83",
+    "triplet-uuid": "cad4bba5-cf97-45cb-8059-ebeb47dcec7a",
+    "body-paragraphs": [
+        [
+            "WASHINGTON \u2014 With just three weeks left for lawmakers to avert a fiscal crisis, President Obama and Speaker John A. Boehner met privately at the White House on Sunday as a top Republican senator suggested that his party should perhaps accede to Mr. Obama\u2019s demand to raise the top tax rates so that the attention can shift to making serious cuts in benefit programs like Medicare and Medicaid."
+        ],
+        [
+            "Administration officials would not offer details of the discussion between Mr. Obama and Mr. Boehner.",
+            "But the disclosure of the meeting indicated that private discussions continue in the face of Republican leaders\u2019 public statements deploring the lack of progress and the president\u2019s refusal so far to specify the sort of deep, long-term reductions in spending for social programs that they insist upon as a condition of their support for raising taxes on high earners."
+        ],
+        [
+            "The White House and Mr. Boehner\u2019s office issued identical statements afterward that said \u201cthe lines of communication remain open.\u201d"
+        ],
+        [
+            "The meeting was the first face-to-face negotiation between the president and the speaker since a session three weeks ago, when they were joined by the House Democratic leader, Nancy Pelosi of California; the Senate Democratic leader, Harry Reid of Nevada; and the Senate Republican leader, Mitch McConnell of Kentucky.",
+            "They were the first one-on-one deficit talks between Mr. Obama and Mr. Boehner since the summer of 2011, when the search for a \u201cgrand bargain\u201d on taxes and spending ultimately failed."
+        ],
+        [
+            "The latest meeting gave rise to renewed optimism that a deal could be reached before the end of the month."
+        ],
+        [
+            "\u201cMy guess is still that we will reach a deal, but I do not think that anything is either certain or imminent,\u201d Representative Tom Cole, an Oklahoma Republican and Boehner lieutenant, said Sunday night.",
+            "\u201cIf they reach a deal, I suspect the majority of our conference will support the speaker.",
+            "I hope the president can command equal support on his side of the aisle.\u201d"
+        ],
+        [
+            "Any optimism is a step forward from Friday, when Mr. Boehner told reporters that he did not have a progress report because there was \u201cno progress to report.\u201d"
+        ],
+        [
+            "But the ups and downs of the search for a deal to avert a fiscal crisis have been in large measure for public consumption.",
+            "Between public statements and news conferences, the staffs of the president and the speaker have been in close contact."
+        ],
+        [
+            "Just hours before the White House meeting, Senator Bob Corker, Republican of Tennessee, said on \u201cFox News Sunday\u201d that a small but growing group of Republicans had begun considering acquiescing on tax rates so that the negotiations could shift to entitlement programs."
+        ],
+        [
+            "Mr. Corker, a member of the Banking Committee who had presented a deficit-reduction plan of his own, said that if Republicans gave in to the president\u2019s chief demand, then \u201call of a sudden the shift goes back to entitlements, and maybe it puts us in a place where we actually can do something that really saves the nation.\u201d"
+        ],
+        [
+            "Republicans have been insisting that the Obama administration agree to substantial savings in entitlement programs as the two sides negotiate how to narrow the country\u2019s huge deficits.",
+            "But Mr. Corker is part of a group of Republicans who say the party will ultimately have to yield to the Obama demand of higher tax rates for top earners, potentially back to the levels that prevailed under President Bill Clinton."
+        ],
+        [
+            "That group of Republicans, Mr. Corker said on Fox, was beginning to realize \u201cthat we don\u2019t have a lot of cards as it relates to the tax issue before year end\u201d \u2014 but that a tax-rate concession could be converted, jujitsu style, into a tactical advantage."
+        ],
+        [
+            "Mr. Corker\u2019s comments came as central figures on network news programs mixed cautious words of optimism over the negotiations between the White House and Congressional Republicans with dire warnings about what a failure to act might bring."
+        ],
+        [
+            "Christine Lagarde, the managing director of the International Monetary Fund, warned that such a failure was the gravest threat now facing the still-fragile United States economy \u2014 greater than the European debt crisis or any uncertainty in China."
+        ],
+        [
+            "\u201cIt would result in the stock market really taking a hit,\u201d Ms. Lagarde said on the CNN program \u201cState of the Union.\u201d",
+            "The overall result could be zero growth next year, not the 2.1 percent growth rate projected by the I.M.F."
+        ],
+        [
+            "She called for a \u201cbalanced\u201d agreement of both revenue increases and spending cuts.",
+            "That is a word Mr. Obama has often used to describe his preferred outcome.",
+            "Ms. Lagarde offered a tentative prediction that what she called American \u201cpragmatism\u201d would prevail and avert the worst outcome."
+        ]
+    ]
+}

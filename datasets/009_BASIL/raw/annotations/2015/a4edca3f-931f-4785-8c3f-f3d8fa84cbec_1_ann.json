@@ -1,0 +1,75 @@
+{
+    "article-level-annotations": {
+        "author_feeling_George_W._Bush": "neu",
+        "author_feeling_Hillary_Clinton": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_George_W._Bush": "neu",
+        "you_feeling_Hillary_Clinton": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 199,
+            "id": "p0",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Hillary_Clinton",
+            "txt": "He may have a personal fondness for her, but Sen. John McCain (R-Ariz.) suggested Thursday that Hillary Clinton\u2019s exclusive use of personal email while serving as secretary of state was hypocritical."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 120,
+            "id": "p3",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "Hillary_Clinton",
+            "start": 0,
+            "target": "George_W._Bush",
+            "txt": "\"We know about the secret wiretaps, we know about the secret military tribunals, the secret White House email accounts,\""
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 73,
+            "id": "p4",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "Hillary_Clinton",
+            "start": 0,
+            "target": "George_W._Bush",
+            "txt": "\"It\u2019s a stunning record of secrecy and corruption, of cronyism run amok.\""
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 190,
+            "id": "p11",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_neutral",
+            "start": 0,
+            "target": "Hillary_Clinton",
+            "txt": "\"The question that I think's gonna rise over time is, how can we be confident that once she carries out what she tweeted -- that she wants all the emails known -- how are we gonna know that?"
+        }
+    ],
+    "triplet-uuid": "a4edca3f-931f-4785-8c3f-f3d8fa84cbec",
+    "uuid": "716084b8-2a43-4f01-ad49-7681a0a8a016"
+}

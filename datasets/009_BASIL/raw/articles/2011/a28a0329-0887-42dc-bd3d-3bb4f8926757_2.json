@@ -1,0 +1,60 @@
+{
+    "source": "hpo",
+    "main-entities": ["U.S. Congress","Democratic Lawmakers", "Republican Lawmakers","Tea Party"],
+    "main-event": "House Reading of Constitution Is Not Without Issues",
+    "title": "House Republicans Read Constitution On Second Day In Power",
+    "url": "https://www.huffingtonpost.com/2011/01/06/house-republicans-constitution-reading_n_805167.html",
+    "word-count": 564,
+    "date": "2011-01-06",
+    "uuid": "397c6aa0-f41a-4f34-942d-b9f81edbef56",
+    "triplet-uuid": "a28a0329-0887-42dc-bd3d-3bb4f8926757",
+    "body-paragraphs": [
+        [
+            "WASHINGTON - And on the second day of Republican rule, the House read the Constitution."
+        ],
+        [
+            "Those wondering whether the reading would be dramatic found out on Thursday as volunteers gave voice to the seven articles and 27 amendments that make up the nation\u2019s governing document."
+        ],
+        [
+            "Republicans have made strict adherence to the Constitution a key tenet of their effort to reduce the size of the federal government.",
+            "The House GOP will reportedly make it a requirement that all new bills put forth in the legislative body include \u201ca statement by the lawmaker who wrote it citing the constitutional authority to enact the proposed legislation.\u201d"
+        ],
+        [
+            "The Washington Post reported last week that reading the founding document in full appears to be a first in the chamber\u2019s 221-year history:"
+        ],
+        [
+            "\u201cCall it the tea party-ization of Congress. ...",
+            "These are two standout changes on a long list of new rules Republicans will institute in the House when they assume the majority on Jan. 5.",
+            "After handing out pocket-size Constitutions at rallies, after studying the document article by article and after demanding that Washington return to its founding principles, tea party activists have something new to applaud.",
+            "A pillar of their grass-roots movement will become a staple in the bureaucracy that governs Congress.\u201d"
+        ],
+        [
+            "Politics Daily recently reported:"
+        ],
+        [
+            "\u201cBeyond its symbolic power, however, it is unclear what impact the new rule will have upon the nation.",
+            "Under axiomatic legal precedent, virtually all congressional action is presumed valid anyway, at least initially.",
+            "Moreover, by taking their oaths of office, lawmakers swear to abide by the Constitution, and virtually all legislation is vetted for constitutional support on some level by government lawyers before it makes it to committee or to the floor of the House.",
+            "It is also quite obvious, from 223 years of legal and political debate on the topic, that the text of the Constitution itself, including those portions that deal with legislative power, is susceptible to many different (and often evolving) views and interpretations, a practical reality that would likely render most \u201cConstitutional Authority Statements\u201d controversial and contentious.\u201d"
+        ],
+        [
+            "According to Peter Keating at Vanity Fair, $1.1 million is the estimated cost of GOP plans to read the document on the House floor. "
+        ],
+        [
+            "\u201cThe amount I get is nearly $1.1 million.",
+            "$1,071,872.87, to be exact, though of course this is more back-of-the-envelope than exact.",
+            "When one chamber of Congress is in session but not working, we the people still have to pay for members\u2019 salaries and expenses, and for their police protection, and for keeping their lights and phones and coffee machines on.\u201d"
+        ],
+        [
+            "\u201cWe always hear members of Congress talking about swearing an oath to represent their constituents, when in reality the only oath we take is to the Constitution,\u201d explained newly-minted Speaker John Boehner to the Post."
+        ],
+        [
+            "\u201cOn November 2nd, voters called for an end to reckless spending and a renewed commitment to the Constitution,\u201d said Rep. Michele Bachmann (R-Minn.), who has emerged a prominent voice of the Tea Party movement, to the Post.",
+            "\u201cThese new rules show that Republicans are serious about respecting the Constitution.\u201d"
+        ],
+        [
+            "Also on Thursday, the House is to take up its first spending cut measure, a proposed 5 percent trim in the budgets of leadership, rank-and-file member and committee offices.",
+            "Republicans have estimated that this will save $35 million over the next nine months."
+        ]
+    ]
+}

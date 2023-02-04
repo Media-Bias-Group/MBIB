@@ -1,0 +1,39 @@
+{
+    "source": "nyt",
+    "main-entities": ["Rick Perry", "Barack Obama"],
+    "main-event": "Rick Perry criticizes the Obama administration\u2019s announcement to promote gay rights",
+    "title": "Perry Ad Focuses on Gays and Christianity",
+    "url": "http://thecaucus.blogs.nytimes.com/2011/12/07/perry-ad-focuses-on-gays-and-christianity/?ref=politics",
+    "word-count": 312,
+    "date": "2011-12-07",
+    "uuid": "275aec12-0952-46f4-84d1-64815517fb93",
+    "triplet-uuid": "3db93526-a344-4ea4-8772-3734d0cfdfb1",
+    "body-paragraphs": [
+        [
+            "In an appeal to hard-right conservatives, Gov. Rick Perry of Texas is broadcasting a new campaign ad that seems to contrast Christianity with homosexuality, vows to end what he calls \u201cObama\u2019s war on religion,\u201d and highlights Mr. Perry\u2019s criticism of overturning the \u201cdon\u2019t ask, don\u2019t tell\u201d policy for gays serving in the military."
+        ],
+        [
+            "\u201cI\u2019m not ashamed to admit that I\u2019m a Christian,\u201d Mr. Perry says in the ad, \u201cbut you don\u2019t need to be in the pew every Sunday to know there\u2019s something wrong in this country when gays can serve openly in the military but our kids can\u2019t openly celebrate Christmas or pray in school.\u201d"
+        ],
+        [
+            "The Perry campaign did not say where the ad would run, but the focus of Mr. Perry\u2019s multimillion-dollar television budget has been in Iowa, where large numbers of Republican caucusgoers describe themselves as Christian evangelicals."
+        ],
+        [
+            "The new ad follows Mr. Perry\u2019s statement on Tuesday criticizing the Obama administration\u2019s announcement that the United States would use all the elements of diplomacy, including the possible granting of foreign aid, to promote gay rights around the world and beat back efforts in other nations to criminalize homosexual conduct."
+        ],
+        [
+            "\u201cAs president, I\u2019ll end Obama\u2019s war on religion,\u201d Mr. Perry also says in the ad.",
+            "\u201cAnd I\u2019ll fight against liberal attacks on our religious heritage.",
+            "Faith made America strong. It can make her strong again.\u201d"
+        ],
+        [
+            "The Perry ad was denounced by the Log Cabin Republicans, a gay men and lesbian group, which said it was \u201cwrong for Governor Perry to assume being a person of faith does not afford one to support equality.\u201d"
+        ],
+        [
+            "R. Clarke Cooper, the group\u2019s executive director, said, \u201cGovernor Perry is running to be commander-in-chief, not theocrat-in-chief.\u201d"
+        ],
+        [
+            "He added, \u201cOur nation was built upon individual liberty and individual responsibility, and open service by gay and lesbian servicemembers is directly in line with the vision of our founding fathers.\u201d"
+        ]
+    ]
+}

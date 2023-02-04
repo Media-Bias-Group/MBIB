@@ -1,0 +1,58 @@
+{
+    "article-level-annotations": {
+        "author_feeling_William_Cowan": "pos",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_William_Cowan": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 38,
+            "id": "p25",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "build some characters",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 11,
+            "target": "William_Cowan",
+            "txt": "who usually wears a bow tie"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 92,
+            "id": "p32",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "William_Cowan",
+            "txt": "He seemed to be a quick study in the senatorial art of not answering questions definitively."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 20,
+            "id": "p38",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "other_pro",
+            "start": 0,
+            "target": "William_Cowan",
+            "txt": "\u201cI\u2019m not that cool,\u201d"
+        }
+    ],
+    "triplet-uuid": "d3a1ce0a-fc48-4827-a278-8f0ce8c7a519",
+    "uuid": "8b00d3db-6d26-4e0d-a94d-bd8ff47ae3c5"
+}

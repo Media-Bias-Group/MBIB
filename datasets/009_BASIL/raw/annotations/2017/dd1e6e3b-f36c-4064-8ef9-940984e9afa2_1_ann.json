@@ -1,0 +1,90 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Donald_Trump_Jr.": "neu",
+        "author_feeling_WikiLeaks": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Donald_Trump_Jr.": "neu",
+        "you_feeling_WikiLeaks": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "ind_anti",
+            "bias": "inf",
+            "end": 10,
+            "id": "p2",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "congressional committee",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "Donald_Trump_Jr.",
+            "start": 0,
+            "target": "Donald_Trump_Jr.",
+            "txt": "How ironic"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 159,
+            "id": "p18",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 112,
+            "target": "Donald_Trump_Jr.",
+            "txt": "Trump Jr. seemed to ignore many of the messages"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 157,
+            "id": "p27",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_neutral",
+            "start": 149,
+            "target": "Donald_Trump_Jr.",
+            "txt": "(he did)"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 169,
+            "id": "p31",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Donald_Trump_Jr.",
+            "txt": "In June 2016, Trump Jr. accepted a now-highly scrutinized meeting with Russian attorney Natalia Veselnitskaya, after he allegedly was promised \u201cdirt\u201d on Hillary Clinton."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 248,
+            "id": "p30",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Donald_Trump_Jr.",
+            "txt": "This is not the first time that Trump Jr. has been in the spotlight, and has had his actions brought into question amid the larger probe into Russian meddling and potential collusion with Trump campaign associates in the 2016 presidential election."
+        }
+    ],
+    "triplet-uuid": "dd1e6e3b-f36c-4064-8ef9-940984e9afa2",
+    "uuid": "a2d858d3-d70a-4d6f-a7a5-f2f68c5f03f6"
+}

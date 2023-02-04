@@ -1,0 +1,47 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Democratic_Lawmakers": "neu",
+        "author_feeling_Republican_Lawmakers": "neu",
+        "author_feeling_U.S._Congress": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "conservative wrt others",
+        "relative_stance": "conservative",
+        "you_feeling_Democratic_Lawmakers": "neu",
+        "you_feeling_Republican_Lawmakers": "neu",
+        "you_feeling_U.S._Congress": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 218,
+            "id": "p4",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 143,
+            "target": "U.S._Congress",
+            "txt": "Democrats and Republicans battled back and forth over the issue of language"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 106,
+            "id": "p8",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "U.S._Congress",
+            "txt": "At one point, there was yelling in the chamber, and the sergeant-at-arms was called to remove a protester."
+        }
+    ],
+    "triplet-uuid": "a28a0329-0887-42dc-bd3d-3bb4f8926757",
+    "uuid": "7a5e2a48-3788-4db9-8018-9466bf1d8bc8"
+}

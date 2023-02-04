@@ -1,0 +1,73 @@
+{
+    "article-level-annotations": {
+        "author_feeling_joint_tax_rule_for_homosexual_couples": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_joint_tax_rule_for_homosexual_couples": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 200,
+            "id": "p8",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "other_pro",
+            "start": 84,
+            "target": "joint_tax_rule_for_homosexual_couples",
+            "txt": "committed and loving gay and lesbian married couples will now be treated equally under our nation\u2019s federal tax laws"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 162,
+            "id": "p9",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "other_pro",
+            "start": 10,
+            "target": "joint_tax_rule_for_homosexual_couples",
+            "txt": "\u201cThese families finally have access to crucial tax benefits and protections previously denied to them under the discriminatory Defense of Marriage Act.\u201d"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 165,
+            "id": "p11",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 129,
+            "target": "joint_tax_rule_for_homosexual_couples",
+            "txt": "\u201ccontinues a pattern of lawlessness\u201d"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 91,
+            "id": "p12",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 0,
+            "target": "joint_tax_rule_for_homosexual_couples",
+            "txt": "\"The Obama administration is intent on forcing same-sex 'marriage' on an unwilling public,\""
+        }
+    ],
+    "triplet-uuid": "70c744ad-e950-445c-8a7a-0782b0a7d20b",
+    "uuid": "8c2e4c5e-ac2b-4728-99bc-4e114c641bde"
+}

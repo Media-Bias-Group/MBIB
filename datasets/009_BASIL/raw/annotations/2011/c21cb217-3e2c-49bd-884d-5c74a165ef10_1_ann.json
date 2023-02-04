@@ -1,0 +1,88 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Anthony_Weiner": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "liberal wrt others",
+        "relative_stance": "liberal",
+        "you_feeling_Anthony_Weiner": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 47,
+            "id": "p4",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 27,
+            "target": "Anthony_Weiner",
+            "txt": "strikingly different"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 192,
+            "id": "p0",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 47,
+            "target": "Anthony_Weiner",
+            "txt": "trying to put to rest a bizarre episode that is overshadowing his role as liberal pugilist and threatening his dream of becoming New York\u2019s mayor"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 108,
+            "id": "p3",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Anthony_Weiner",
+            "txt": "On Tuesday, Mr. Weiner presided over two testy news briefings at which he had dodged a variety of questions."
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 46,
+            "id": "p3",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 41,
+            "target": "Anthony_Weiner",
+            "txt": "testy"
+        },
+        {
+            "aim": "ind_pro",
+            "bias": "inf",
+            "end": 114,
+            "id": "p14",
+            "indirect-ally-opponent-sentiment": "neu",
+            "indirect-target-name": "Huma Abedin",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "Anthony_Weiner",
+            "start": 0,
+            "target": "Anthony_Weiner",
+            "txt": "\u201cI\u2019m protecting my wife, who every day is waking up to these insane stories that are getting so far from reality,\u201d"
+        }
+    ],
+    "triplet-uuid": "c21cb217-3e2c-49bd-884d-5c74a165ef10",
+    "uuid": "4ed618f7-7991-4588-aba4-eb4f8da647c0"
+}

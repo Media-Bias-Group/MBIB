@@ -1,0 +1,72 @@
+{
+    "source": "nyt",
+    "main-entities": ["House Democrats","House Republicans", "Donald Trump"],
+    "main-event": "Democrats pass campaign finance and voting rights reform bill",
+    "title": "House Passes Democrats\u2019 Centerpiece Anti-Corruption and Voting Rights Bill",
+    "url": "https://www.nytimes.com/2019/03/08/us/politics/house-democrats-anticorruption-voting-rights.html",
+    "word-count": 764,
+    "date": "2019-03-08",
+    "uuid": "163ce2ad-53d4-4afb-a84c-ab42f2a088d0",
+    "triplet-uuid": "2f3e86b6-8443-47bd-9cd3-491c90a59fe9",
+    "body-paragraphs": [
+        [
+            "WASHINGTON \u2014 The House passed the Democrats\u2019 showcase anti-corruption and voting rights legislation on Friday, an expansive measure that aims to dismantle barriers to the ballot box, end big money in politics and impose stricter ethics rules on federal officials."
+        ],
+        [
+            "The sweeping legislation, passed 234-193, makes good on the campaign pledge to clean up Washington that helped catapult Democrats into the majority.",
+            "It also serves as a campaign platform for Democrats ahead of 2020.",
+            "It has virtually no chance of passing the Senate."
+        ],
+        [
+            "\u201cIt\u2019s a power grab for the American people,\u201d said Representative Zoe Lofgren of California, who leads the House administration committee that shepherded the legislation."
+        ],
+        [
+            "The ambitious compendium, at nearly 700 pages, includes proposals designating Election Day as a federal holiday, automatically registering citizens to vote, and restoring voting rights to people who have served felony sentences.",
+            "It also creates a six-to-one matching system for donations of up to $200 to congressional and presidential candidates who reject high-dollar contributions, funded by an additional fine on corporations found to have broken the law."
+        ],
+        [
+            "Republicans arguably have spent more time trying to define the bill \u2014 called the For the People Act or H.R. 1, to underscore its primacy \u2014 and tear it down than Democrats have spent trying to promote it.",
+            "Senator Mitch McConnell of Kentucky, the majority leader, has branded it the \u201cDemocrat Politician Protection Act\u201d in weekly speeches, and pledged not to take up the legislation.",
+            "The House Republican leader, Representative Kevin McCarthy of California, also criticized the legislation."
+        ],
+        [
+            "\u201cThis bill is a massive federal government takeover that would undermine the integrity of our elections,\u201d Mr. McCarthy said in a speech on Friday, in an attack on \u201cthis new, Democrat, socialist majority.\u201d"
+        ],
+        [
+            "Some of the most debated provisions are intended to reveal who funds online political ads and finances so-called dark-money groups.",
+            "The Disclose Act, part of the bill, would require super PACs and nonprofit organizations that spend money in elections to disclose the names of donors who contribute more than $10,000.",
+            "Democrats say such disclosure is broadly popular with voters across the political spectrum."
+        ],
+        [
+            "\u201cCongress cannot meaningfully address the nation\u2019s significant challenges without first recognizing and acknowledging the undue influence of special interests in our politics,\u201d said Representative Abigail Spanberger, Democrat of Virginia."
+        ],
+        [
+            "Some of those provisions, however, have drawn criticism from both conservative and liberal groups that argue the language is overly broad and would infringe on First Amendment rights.",
+            "The American Civil Liberties Union urged members to vote against the bill."
+        ],
+        [
+            "Democrats have also used the legislation to make clear that they believe that cleanup must start with the White House, and included several provisions jabbing at the president and homing in on a laundry list of his administration\u2019s alleged ethical abuses."
+        ],
+        [
+            "It would require presidents and vice presidents, as well as candidates for the nation\u2019s highest offices, to release at least 10 years of federal tax returns \u2014 Mr. Trump has released none \u2014 and it stipulates that inaugural committees must disclose their expenditures."
+        ],
+        [
+            "And an amendment sponsored by Representative Raul Ruiz of California would prohibit federal funds from being spent at businesses owned or controlled by the president, the vice president or any cabinet official.",
+            "Federal agencies spent about $13 million on four of Mr. Trump\u2019s trips to his Mar-a-Lago resort in Florida in early 2017, according to a report by a nonpartisan congressional watchdog agency issued last month."
+        ],
+        [
+            "Two other measures also zero in on the costs of administration officials\u2019 travel.",
+            "One provision would require the Defense Department to regularly report to Congress details of the costs of presidential travel; the other would prohibit political appointees from using federal funds to pay for travel on noncommercial or private flights for official business."
+        ],
+        [
+            "\u201cWe must hold our government leaders to the highest standards, and with so many high-profile ethics violations in the past years, it is clear we have failed to do that,\u201d Representative Tom O\u2019Halleran, Democrat of Arizona and the sponsor of the amendments, said in a statement."
+        ],
+        [
+            "Democrats also successfully put down an attempt by Republicans to divide the caucus and tar the legislation with a resolution expressing the sense that \u201callowing illegal immigrants the right to vote devalues the franchise and diminishes the voting power of United States citizens.\u201d"
+        ],
+        [
+            "Republicans have repeatedly ambushed Democrats \u2014 twice successfully \u2014 with politically freighted procedural motions in a drive to divide Democrats and draw out vulnerable swing-district members.",
+            "But determined not to let that taint their signature legislation and fired up by a rousing speech from freshman Representative Max Rose of New York, Democrats held steady."
+        ]
+    ]
+}

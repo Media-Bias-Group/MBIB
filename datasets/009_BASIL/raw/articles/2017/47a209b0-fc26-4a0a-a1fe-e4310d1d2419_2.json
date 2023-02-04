@@ -1,0 +1,112 @@
+{
+    "source": "nyt",
+    "main-entities": [
+        "Neil Gorsuch",
+        "Democratic lawmakers",
+        "Republican lawmakers"
+    ],
+    "main-event": "",
+    "title": "Democrats Plan to Filibuster to Thwart Gorsuch Nomination",
+    "url": "https://www.nytimes.com/2017/03/23/us/politics/democrats-filibuster-neil-gorsuch-nomination.html?_r=0&referer=https://news.google.com/",
+    "word-count": 1143,
+    "date": "2017-03-23",
+    "uuid": "099d8a20-47ed-411b-af79-16a60806930d",
+    "triplet-uuid": "47a209b0-fc26-4a0a-a1fe-e4310d1d2419",
+    "body-paragraphs": [
+        [
+            "WASHINGTON \u2014 Senate Democrats on Thursday vowed to filibuster the Supreme Court nomination of Judge Neil M. Gorsuch, signaling an imminent partisan showdown over the nominee\u2019s fate and the future of century-old rules in the chamber."
+        ],
+        [
+            "As committee hearings on Judge Gorsuch concluded on Thursday, it appeared increasingly likely that Republicans hoping to elevate President Trump\u2019s choice for the court would resort to replacing longstanding rules with a simple majority vote on his confirmation."
+        ],
+        [
+            "While a parade of witnesses addressed the Senate Judiciary Committee, trading dueling views of Judge Gorsuch, the Senate Democratic leader, Chuck Schumer of New York, went to the Senate floor and announced that he would try to lead Democrats in blocking an up-or-down vote on Judge Gorsuch.",
+            "The Senate\u2019s \u201ccloture\u201d rule requires a supermajority of 60 votes to overcome such a filibuster."
+        ],
+        [
+            "\u201cAfter careful deliberation I have concluded that I cannot support Judge Neil Gorsuch\u2019s nomination to the Supreme Court,\u201d Mr. Schumer said, citing concerns over Judge Gorsuch\u2019s record on workers\u2019 rights and his degree of independence, adding, \u201cMy vote will be no, and I urge my colleagues to do the same.\u201d"
+        ],
+        [
+            "Judge Gorsuch must earn the support of at least eight Democrats to break a filibuster \u2014 a threshold he is not on track to meet, at least so far, according to interviews and internal party discussions."
+        ],
+        [
+            "If Democrats band together, the Senate majority leader, Mitch McConnell, Republican of Kentucky, has threatened to pursue the so-called nuclear option eliminating the filibuster for Supreme Court selections.",
+            "Mr. Trump has urged Mr. McConnell to take that step if necessary."
+        ],
+        [
+            "Some Republicans have expressed reservations about changing the rules, but Senator Lindsey Graham of South Carolina said Thursday that he would relent if it meant seating Judge Gorsuch.",
+            "\u201cWhatever it takes to get him on the court, I will do,\u201d Mr. Graham told \u201cThe Mike Gallagher Show\u201d radio program."
+        ],
+        [
+            "Mr. McConnell has said he wants the Senate to confirm Judge Gorsuch to fill the vacancy, which was created by the death of Justice Antonin Scalia more than a year ago, before departing for a scheduled recess on April 7.",
+            "Last year, Mr. McConnell led his party in refusing to consider President Obama\u2019s choice for the seat, Judge Merrick B. Garland, during a presidential election campaign."
+        ],
+        [
+            "On Thursday, Mr. McConnell accused Democrats of engaging in \u201cobstructionist tactics\u201d to block a well-qualified nominee."
+        ],
+        [
+            "\u201cDespite the judge\u2019s outstanding performance, his exceptional background, and the extensive support he\u2019s received from people of all political leanings, we know that some Senate Democrats will continue trying to come up with any reason to delay the confirmation process,\u201d Mr. McConnell said of Judge Gorsuch."
+        ],
+        [
+            "During the four days of hearings, even Judge Gorsuch\u2019s critics did not dispute his credentials.",
+            "On Thursday, representatives of the American Bar Association told the committee that it had unanimously found Judge Gorsuch to be \u201cwell qualified,\u201d the group\u2019s highest rating.",
+            "That was particularly notable in light of studies that have shown the group has tended to favor the nominees of Democratic presidents."
+        ],
+        [
+            "\u201cWe do not give the \u2018well qualified\u2019 rating lightly,\u201d said Nancy Scott Degan, an official of the bar association."
+        ],
+        [
+            "The group had also given its highest rating to Judge Garland.",
+            "Since the evening Judge Gorsuch was nominated, liberal groups have been pressuring Democrats to filibuster the vote on him."
+        ],
+        [
+            "Four years ago, when Democrats controlled the Senate and Republican senators were blockading Mr. Obama\u2019s appeals court and executive branch nominees, Democrats changed the chamber\u2019s rules to bar filibusters for such positions \u2014 but left the filibuster rule in place for Supreme Court nominations."
+        ],
+        [
+            "Republicans have cited this history often in accusing their colleagues of hypocrisy on Judge Gorsuch."
+        ],
+        [
+            "To eliminate the filibuster for Supreme Court nominees, Republicans would need to vote in virtual lock step: The party effectively has only 51 votes right now because one member, Senator Johnny Isakson of Georgia, is recuperating from back surgery, so just two Republican senators could block a rules change."
+        ],
+        [
+            "Still, Judge Gorsuch\u2019s nomination is broadly popular among conservatives.",
+            "The question facing Democrats is whether to have a filibuster fight over Judge Gorsuch, highlighting what they consider the theft of a seat they believe Mr. Obama had a right to fill, or whether to save that attention-grabbing tactic for a hypothetical future vacancy if a more liberal justice dies or steps down and President Trump nominates a staunch conservative who would shift the court\u2019s balance."
+        ],
+        [
+            "\u201cI don\u2019t think we should move forward on the Gorsuch nomination until the nomination of Merrick Garland has been dealt with fairly,\u201d Senator Thomas R. Carper, Democrat of Delaware, said on Thursday, signaling his support for a filibuster."
+        ],
+        [
+            "Another moderate Democrat, Senator Bob Casey of Pennsylvania, also said he would reject Judge Gorsuch and join the filibuster effort.",
+            "Mr. Casey is among the 10 Democrats facing re-election next year in states that Mr. Trump won."
+        ],
+        [
+            "Others in the group were less eager to declare their intentions."
+        ],
+        [
+            "\u201cI\u2019m going to keep on my theme I\u2019ve been on for a couple of months,\u201d said Senator Claire McCaskill, Democrat of Missouri.",
+            "\u201cI\u2019m not going to talk about Gorsuch.\u201d"
+        ],
+        [
+            "Even before Judge Gorsuch\u2019s nomination, Ms. McCaskill inadvertently drew the ire of liberal activists by expressing support for \u201ca full confirmation hearing process and a vote,\u201d before making clear she believed in a 60-vote threshold."
+        ],
+        [
+            "Despite the escalating political friction, the atmosphere in the hearing room on Thursday was often more perfunctory than passionate, as panels of witnesses selected by Democrats and Republicans alternately expressed concerns that Judge Gorsuch was too conservative or praised him as a well-qualified and careful judge."
+        ],
+        [
+            "Two of Judge Gorsuch\u2019s former colleagues on the United States Court of Appeals for the 10th Circuit, in Denver \u2014 Deanell Reece Tacha, appointed by President Ronald Reagan, and Robert Harlan Henry, appointed by President Bill Clinton \u2014 praised his intellect and temperament."
+        ],
+        [
+            "But others expressed concerns.",
+            "One strain of criticism came from human rights and civil liberties activists, who expressed alarm over Judge Gorsuch\u2019s experiences as a Justice Department official in the Bush administration in 2005 and 2006, when he helped to defend and advance the executive branch\u2019s positions on matters like detainee treatment and surveillance."
+        ],
+        [
+            "Jameel Jaffer, who litigated national-security cases against the government as the former deputy legal director of the American Civil Liberties Union, urged the committee to scrutinize more closely Judge Gorsuch\u2019s views on executive power and individual rights."
+        ],
+        [
+            "Mr. Jaffer pointed to documents showing, for example, that Judge Gorsuch had worked to get Congress to enact a law stripping courts of jurisdiction to hear lawsuits by Guant\u00e1namo Bay detainees, and in one email chain he criticized law firms that helped represent prisoners in seeking judicial review of their detention."
+        ],
+        [
+            "On Wednesday, Judge Gorsuch told the committee that the email had not been \u201cmy finest moment\u201d and that he had been \u201cblowing off steam with a friend, privately.\u201d"
+        ]
+    ]
+}

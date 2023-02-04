@@ -1,0 +1,37 @@
+{
+    "source": "fox",
+    "main-entities": ["Donald Trump", "Vicente Fox"],
+    "main-event": "Trump gets into Twitter feud with Vicente Fox",
+    "title": "Trump gets into Twitter feud with former Mexican president",
+    "url": "http://www.foxnews.com/politics/2016/08/31/trump-gets-into-twitter-feud-with-former-mexican-president.html",
+    "word-count": 224,
+    "date": "2016-08-31",
+    "uuid": "0282ad99-a167-45d1-bbd7-e4f1c16c5b5f",
+    "triplet-uuid": "8abec8d9-50a2-480e-969a-157f94954f4d",
+    "body-paragraphs": [
+        [
+            "Even before Donald Trump landed in Mexico Wednesday, he found himself in a Twitter war with former Mexican President Vicente Fox \u2013 who went on a tear declaring the Republican nominee \u201cnot welcome\u201d in the country."
+        ],
+        [
+            "Fox, an outspoken critic of Trump, started the fight when he said on CNN that he disagreed with current President Enrique Pena Nieto\u2019s decision to invite the billionaire to the country to meet with him."
+        ],
+        [
+            "\u201cHe is not welcome to Mexico,\u201d Fox told CNN.",
+            "\u201cWe don\u2019t like him. We don\u2019t want him. We reject his visit.\u201d"
+        ],
+        [
+            "\"I think President Pe\u00f1a is taking an enormous political risk by hosting Trump,\u201d he said.",
+            "\u201cHe will even be considered like a traitor because we don't accept to be offended like we just heard, and it should not happen that he comes here with a smile on his face.",
+            "I think this is a big mistake on the part of President Pe\u00f1a.\""
+        ],
+        [
+            "Trump, as is often his way, fired back on Twitter."
+        ],
+        [
+            "\u201cFormer President Vicente Fox, who is railing against my visit to Mexico today, also invited me when he apologized for using the \u2018f bomb,\u2019\u201d he said, referring to when Fox said he wasn't going to pay for \"that f-----g wall.\""
+        ],
+        [
+            "This triggered a fiery response from Fox, also on Twitter, as he called on Trump to apologize and \"stop lying.\""
+        ]
+    ]
+}

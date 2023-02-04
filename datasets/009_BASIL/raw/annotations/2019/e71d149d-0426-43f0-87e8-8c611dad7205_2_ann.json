@@ -1,0 +1,77 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Donald_Trump": "neg",
+        "author_feeling_House_Democrats": "neu",
+        "author_feeling_William_Barr": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "insinuates conspiracy by Trump administration to cover up wrongdoing",
+        "relative_stance": "liberal",
+        "you_feeling_Donald_Trump": "neu",
+        "you_feeling_House_Democrats": "neu",
+        "you_feeling_William_Barr": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 187,
+            "id": "p0",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 132,
+            "target": "Donald_Trump",
+            "txt": "before President Donald Trump has a chance to interfere"
+        },
+        {
+            "aim": "ind_pro",
+            "bias": "inf",
+            "end": 147,
+            "id": "p9",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "Trump administration",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "House_Democrats",
+            "start": 0,
+            "target": "Donald_Trump",
+            "txt": "Any attempt by the Trump Administration to cover up the results of this investigation into Russia\u2019s attack on our democracy would be unacceptable.\u201d"
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 98,
+            "id": "p14",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "target may be Trump?",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "House_Democrats",
+            "start": 83,
+            "target": "William_Barr",
+            "txt": "\u2018sneak preview\u2019"
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 39,
+            "id": "p17",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 20,
+            "target": "Donald_Trump",
+            "txt": "champing at the bit"
+        }
+    ],
+    "triplet-uuid": "e71d149d-0426-43f0-87e8-8c611dad7205",
+    "uuid": "8de59e52-5a1d-4a68-b65b-003b2b60d2b0"
+}

@@ -1,0 +1,74 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Donald_Trump": "neu",
+        "author_feeling_main_event": "pos",
+        "author_feeling_social_media_companies": "neg",
+        "notes": "",
+        "relative_stance": "conservative",
+        "you_feeling_Donald_Trump": "neu",
+        "you_feeling_social_media_companies": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 237,
+            "id": "p15",
+            "indirect-ally-opponent-sentiment": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "social_media_companies",
+            "txt": "A Facebook executive apologized last month for mistreating Diamond and Silk -- two pro-Trump personalities who have long claimed they are being censored by the platform, but the company has also denied being biased against conservatives."
+        },
+        {
+            "aim": "ind_pro",
+            "bias": "lex",
+            "end": 35,
+            "id": "p6",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "conservatives",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 25,
+            "target": "Donald_Trump",
+            "txt": "complained"
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 85,
+            "id": "p0",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 69,
+            "target": "Donald_Trump",
+            "txt": "\u201cdiscriminating\u201d"
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 124,
+            "id": "p19",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 117,
+            "target": "Donald_Trump",
+            "txt": "\u201cfake,\u201d"
+        }
+    ],
+    "triplet-uuid": "ad409798-ee94-4436-92c5-92669193be14",
+    "uuid": "a058510f-e08f-40f1-81bb-43878ee41825"
+}

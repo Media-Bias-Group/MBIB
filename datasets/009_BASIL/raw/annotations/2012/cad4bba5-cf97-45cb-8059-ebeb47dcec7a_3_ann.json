@@ -1,0 +1,60 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Barack_Obama": "neu",
+        "author_feeling_John_Boehner": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Barack_Obama": "neu",
+        "you_feeling_John_Boehner": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 37,
+            "id": "p2",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 31,
+            "target": "Barack_Obama",
+            "txt": "chided"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 143,
+            "id": "p2",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "John_Boehner",
+            "start": 121,
+            "target": "Barack_Obama",
+            "txt": "\"wasted another week.\""
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 74,
+            "id": "p26",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 58,
+            "target": "Barack_Obama",
+            "txt": "muddy the waters"
+        }
+    ],
+    "triplet-uuid": "cad4bba5-cf97-45cb-8059-ebeb47dcec7a",
+    "uuid": "fd1fbe97-6d0c-4e08-9745-4976c725b519"
+}

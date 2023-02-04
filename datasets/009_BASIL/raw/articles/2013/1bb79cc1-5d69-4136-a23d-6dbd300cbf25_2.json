@@ -1,0 +1,80 @@
+{
+    "source": "hpo",
+    "main-entities": ["Victoria Nuland","State Department officials", "Republican Lawmakers", "Obama administration"],
+    "main-event": "White House releases e-mails relating to the Benghazi talking points",
+    "title": "White House Releases Benghazi Emails",
+    "url": "https://www.huffingtonpost.com/2013/05/15/white-house-benghazi-emails_n_3280734.html",
+    "word-count": 1019,
+    "date": "2013-05-15",
+    "uuid": "3a92b2ca-738a-4aa2-a0cb-d8aee5823a80",
+    "triplet-uuid": "1bb79cc1-5d69-4136-a23d-6dbd300cbf25",
+    "body-paragraphs": [
+        [
+            "WASHINGTON \u2013- The White House on Wednesday released the full set of emails surrounding the Obama administration\u2019s development of talking points describing the Sept. 11, 2012, attack on the U.S. outpost in Benghazi, Libya, in response to continuing charges from congressional Republicans that there was a massive political \u201ccover-up\u201d of what transpired there.",
+            "Nothing in the emails supports theories that the talking points were changed in order to influence the 2012 election."
+        ],
+        [
+            "In a briefing with reporters at the White House on Wednesday afternoon, senior administration officials used the 100 pages of emails to show that a number of government agencies, not just the State Department, drove many of the changes to the talking points that were ultimately used by U.N. Ambassador Susan Rice."
+        ],
+        [
+            "The cache of emails paint a fuller picture than did an email leaked earlier this week, which portrayed a State Department concerned about its public image."
+        ],
+        [
+            "Republican lawmakers have argued that the State Department and the White House were attempting to alter the talking points for political reasons and ignored suggestions and language put forward by the CIA.",
+            "In particular, they pointed to the fact that references to al Qaeda and previous security warnings were removed.",
+            "But senior administration officials stressed on Wednesday that such language in fact was taken out at the request of the CIA."
+        ],
+        [
+            "Critics have said the role of State Department spokeswoman Victoria Nuland in revising the talking points in particular shows an administration trying to protect its reputation as being tough on terrorism.",
+            "They have criticized Nuland for requesting to remove a line from the final draft noting that there had been \"at least five other attacks against foreign interests in Benghazi by unidentified assailants.\""
+        ],
+        [
+            "Nuland said in a Sept. 14 email that she didn't want that information included because it \"could be abused by members [of Congress] to beat up the State Department for not paying attention to warnings, so why would we want to feed that either? Concerned ...\""
+        ],
+        [
+            "But senior administration officials on Wednesday said that Michael J. Morell, then the deputy director of the CIA, also wanted that line removed, separately from Nuland.",
+            "Morell believed it was irrelevant to the message of the talking points -- what happened in Benghazi -- and unprofessional to include those warnings but not allow State Department officials to include how they had responded to them."
+        ],
+        [
+            "Separate from Wednesday's document release, the CIA recently conducted an internal review of how and why the talking points were changed -- a move that also came in response to the continuing questions from Congress.",
+            "That review showed that many changes were made to the original talking points -- drafted by a senior officer -- over concerns about accuracy, an FBI investigation and other bureaucratic matters.",
+            "A U.S. intelligence official told The Huffington Post the review was completed \"early this year.\""
+        ],
+        [
+            "Senior administration officials, discussing that internal review, relayed that some CIA officials didn't like that the original draft of the talking points said the government \"know[s] that Islamic extremists with ties to al-Qa'ida participated in the attack,\" because at that time it was premature to name those responsible for the attacks."
+        ],
+        [
+            "Their concerns at other times were more mundane.",
+            "For example, CIA officials also decided to change the phrase \"attacks in Benghazi ... evolved into a direct assault against the US Consulate\" to \"demonstrations in Benghazi\" because they believed \"attacks\" and \"assault\" were synonymous, making the phrase illogical."
+        ],
+        [
+            "CIA officers also removed the reference to al Qaeda in order to avoid prejudging the outcome of a FBI investigation into the incident.",
+            "A reference to another terrorist group, Ansar al-Sharia, was left in, but later removed at the request of the State Department; the CIA agreed with that decision, again so as not to hinder the FBI investigation."
+        ],
+        [
+            "The timing of the White House's document release raises its own set of questions.",
+            "Why, for example, did the administration choose to make the emails public now, after months of enduring criticism and requests for more information?",
+            "If the material was too sensitive to share publicly months, weeks or days ago, what changed on Wednesday?"
+        ],
+        [
+            "While the document dump does soften some of the more critical theories that have arisen with respect to the White House's handling of the events in Benghazi, it could also embolden critics who now see an administration willing to accommodate demands for documents."
+        ],
+        [
+            "In a response shortly after the emails were made public on Wednesday, Brendan Buck, spokesman for House Speaker John Boehner (R-Ohio), said just that."
+        ],
+        [
+            "\"The House interim report found that 'senior State Department officials requested the talking points be changed to avoid criticism for ignoring the threat environment in Benghazi' and that those changes were ultimately made,\" said Buck.",
+            "\"Those findings are confirmed by the emails released today, and they contradict statements made by the White House that it and the State Department only changed one word in the talking points.",
+            "The seemingly political nature of the State Department\u2019s concerns raises questions about the motivations behind these changes and who at the State Department was seeking them.\""
+        ],
+        [
+            "UPDATE: 9 p.m. -- White House spokesman Eric Schultz said he hoped Wednesday's disclosure would put to rest the Benghazi issue."
+        ],
+        [
+            "\u201cDespite the fact that e-mails relating to the Benghazi talking points were made available to members of Congress several months ago, in recent days these e-mails have been selectively and inaccurately read out to the media.",
+            "To make clear what is and is not in these e-mails, today the White House took the extraordinary step of releasing these e-mails,\" Schultz said.",
+            "\"You can now see what the Congress has seen -- collectively these emails make clear that the interagency process, including the White House's interactions, were focused on providing the facts as we knew them based on the best information available at the time and protecting an ongoing investigation.",
+            "After 11 hearings, 25,000 pages of documents, and now this release, we can hopefully spend our time working on what\u2019s important \u2013 what we can do together to ensure those serving their nation overseas are better protected than they were last September.\u201d"
+        ]
+    ]
+}

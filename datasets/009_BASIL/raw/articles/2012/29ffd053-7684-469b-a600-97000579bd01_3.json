@@ -1,0 +1,49 @@
+{
+    "source": "nyt",
+    "main-entities": ["Paul Ryan", "Catholics"],
+    "main-event": "Georgetown Catholics challenge Paul Ryan",
+    "title": "Georgetown Faculty Latest to Chide Ryan ",
+    "url": "http://thecaucus.blogs.nytimes.com/2012/04/24/georgetown-faculty-latest-to-chide-ryan/?ref=lauriegoodstein",
+    "word-count": 599,
+    "date": "2012-04-24",
+    "uuid": "da1baeca-ebba-4fce-97b4-03a03f8c7601",
+    "triplet-uuid": "29ffd053-7684-469b-a600-97000579bd01",
+    "body-paragraphs": [
+        [
+            "Representative Paul D. Ryan, the Republican chairman of the House Budget Committee, has been excoriated by some Roman Catholic leaders ever since he claimed this month that his budget plan, which slashes antipoverty programs, was inspired by the moral teachings of his Catholic faith."
+        ],
+        [
+            "The latest criticism comes in a letter released Tuesday and signed by nearly 90 faculty members and priests at Georgetown, the Jesuit university in Washington, in advance of Mr. Ryan\u2019s visit there on Thursday.",
+            "Mr. Ryan is to deliver the prestigious Whittington Lecture, named for an associate dean who was killed on the airplane that crashed into the Pentagon on Sept. 11, 2001."
+        ],
+        [
+            "The letter says, \u201cWe would be remiss in our duty to you and our students if we did not challenge your continuing misuse of Catholic teaching to defend a budget plan that decimates food programs for struggling families, radically weakens protections for the elderly and sick, and gives more tax breaks to the wealthiest few.\u201d"
+        ],
+        [
+            "\u201cYour budget appears to reflect the values of your favorite philosopher, Ayn Rand, rather than the Gospel of Jesus Christ,\u201d says the letter, which the faculty members sent to Mr. Ryan along with a copy of the Vatican\u2019s Compendium of the Social Doctrine of the Church \u2014 \u201cto help deepen your understanding of Catholic social teaching.\u201d"
+        ],
+        [
+            "The pressure on Mr. Ryan is part of an effort by some Catholic leaders who are political independents, liberals and Democrats to make it clear that the Catholic church is not an arm of the Republican Party.",
+            "In the last year, Catholic bishops have emerged as vocal critics of the Obama administration over what they regard as violations of religious freedom, in particular the mandate that even religious employers must provide health insurance that covers birth control."
+        ],
+        [
+            "Their condemnation has grown so heated that this month, Bishop Daniel Jenky, of Peoria, Ill., said in a homily that President Obama was so intolerant of religion that he was \u201cfollowing a similar path\u201d as Hitler and Stalin.",
+            "Dozens of faculty members at Notre Dame, also a Catholic university, sent a letter to the president and chairman of the board of trustees last Friday asking them to rebuke Bishop Jenky\u2019s comments and seek his resignation from the board.",
+            "Bishop Jenky has stood by his comments."
+        ],
+        [
+            "The budget authored by Mr. Ryan, a rising star among conservatives, has given Catholic leaders an opportunity to distance the church from the Republican Party.",
+            "In an interview this month on the Christian Broadcasting Network, Mr. Ryan claimed that his budget was consistent with Catholic moral teaching because it pushes the poor to become independent of government assistance."
+        ],
+        [
+            "\u201cThe preferential option for the poor, which is one of the primary tenants of Catholic social teaching, means don\u2019t keep people poor, don\u2019t make people dependent on government so that they stay stuck at their station in life, help people get out of poverty out onto life of independence,\u201d he said."
+        ],
+        [
+            "The letter released Tuesday by the faculty at Georgetown took Mr. Ryan to task for that argument, saying that Catholic teaching calls for government to step in and help when communities \u201cface problems beyond their means to address, such as economic crises, high unemployment, endemic poverty and hunger.\u201d"
+        ],
+        [
+            "The United States Conference of Catholic Bishops has also issued several letters to members of Congress calling for a budget that prioritizes aid to the poor.",
+            "Mr. Ryan claimed in a recent interview that those letters did not speak for all bishops, but the conference responded that those letters do indeed represent the bishops\u2019 collective opinion."
+        ]
+    ]
+}

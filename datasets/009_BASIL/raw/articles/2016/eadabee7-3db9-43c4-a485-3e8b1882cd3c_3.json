@@ -1,0 +1,66 @@
+{
+    "source": "nyt",
+    "main-entities": ["Barack Obama", "Bernie Sanders"],
+    "main-event": "Obama meets with Bernie Sanders",
+    "title": "Bernie Sanders Meets President Obama and Pledges to Work to Defeat Donald Trump",
+    "url": "https://mobile.nytimes.com/2016/06/10/us/politics/bernie-sanders-obama-washington.html",
+    "word-count": 611,
+    "date": "2016-06-09",
+    "uuid": "5d340842-802a-4515-9608-3eaaf9e2d9cd",
+    "triplet-uuid": "eadabee7-3db9-43c4-a485-3e8b1882cd3c",
+    "body-paragraphs": [
+        [
+            "WASHINGTON \u2014 Senator Bernie Sanders met with President Obama on Thursday and said afterward that he would do everything within his power to stop Donald J. Trump from becoming president \u2014 and would work closely with Hillary Clinton to make that happen."
+        ],
+        [
+            "After the meeting with Mr. Obama, which lasted more than an hour, Mr. Sanders gave no indication that he was ready to leave the race just yet, insisting that he would compete in next week\u2019s primary contest here in Washington.",
+            "However, he made clear that party unity was on his mind."
+        ],
+        [
+            "\u201cI will work as hard as I can, to make sure that Donald Trump does not become president of the United States,\u201d Mr. Sanders told reporters, saying the Manhattan businessman \u201cmakes bigotry and discrimination the cornerstone of his campaign\u201d and would be a \u201cdisaster\u201d as commander in chief."
+        ],
+        [
+            "He said he would continue fighting for the issues that animated his campaign, including enhancing Social Security benefits, college affordability and restoring the nation\u2019s crumbling infrastructure."
+        ],
+        [
+            "\u201cThese are the issues that we will take to the Democratic National Convention in Philadelphia in July,\u201d Mr. Sanders said, declining to answer reporters\u2019 shouted questions about whether he would leave the race."
+        ],
+        [
+            "Shortly after their meeting, Mr. Obama endorsed Mrs. Clinton in a video.",
+            "He also praised the campaign that Mr. Sanders ran."
+        ],
+        [
+            "The visit came a day after the senator huddled with his team at his headquarters in Vermont to discuss the fate of his candidacy."
+        ],
+        [
+            "Mr. Sanders, who requested the meeting with the president, pulled into the White House grounds at 10:56 a.m. after stopping at a nearby Peet\u2019s Coffee for a scone.",
+            "Mr. Obama and Mr. Sanders strolled down the colonnade next to the Rose Garden on their way into the Oval Office, chatting inaudibly and grinning broadly.",
+            "Nearby, a thick line of cameras and cluster of microphones were assembled in the driveway outside the West Wing, where journalists peppered the Vermont senator with questions."
+        ],
+        [
+            "Mr. Obama was trying to negotiate, however gently, with him to exit the Democratic race without inflicting damage on efforts to unite the party."
+        ],
+        [
+            "\u201cMy hope is, is that over the next couple of weeks, we\u2019re able to pull things together,\u201d Mr. Obama said during a taping of an appearance on the \u201cTonight Show Starring Jimmy Fallon\u201d on Wednesday in New York.",
+            "\u201cThere\u2019s a natural process of everybody recognizing that this is not about any individual.\u201d"
+        ],
+        [
+            "Briefly posing for photographers before his meeting in the Capitol with Senator Harry Reid, the minority leader, Mr. Sanders ignored three questions about Mr. Obama\u2019s endorsement of Mrs. Clinton."
+        ],
+        [
+            "His face flushed, Mr. Sanders did not speak at all.",
+            "But Mr. Reid gently scolded the assembled journalists for asking questions at what was supposed to be just a photo opportunity."
+        ],
+        [
+            "After his meeting with Reid, Mr. Sanders made a quick exit through a back hall on his way to meet with Senator Chuck Schumer of New York.",
+            "He was also scheduled to meet with Vice President Joseph R. Biden Jr."
+        ],
+        [
+            "After Mrs. Clinton won Tuesday\u2019s California primary, Mr. Sanders refused to quit the race, despite Mrs. Clinton\u2019s wide margin of victory and the fact that she had the support of enough delegates for the nomination.",
+            "But some of his supporters have started to walk away, prompting growing calls that it is time to bring the party together to defeat Mr. Trump."
+        ],
+        [
+            "On Wednesday, Mr. Sanders sent out a fund-raising email asking for contributions of $2.70, and at 7 p.m. he will hold a rally outside of R.F.K. Stadium in Washington, where he will discuss his plans for getting big money out of politics and making public universities tuition free."
+        ]
+    ]
+}

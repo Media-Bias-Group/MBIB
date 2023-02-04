@@ -1,0 +1,60 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Barack_Obama": "neu",
+        "author_feeling_Senate_Republicans": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Barack_Obama": "neu",
+        "you_feeling_Senate_Republicans": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 173,
+            "id": "p15",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "Barack_Obama",
+            "start": 0,
+            "target": "Senate_Republicans",
+            "txt": "\u201cAnd it\u2019s time for folks running around spending all their time talking about what\u2019s wrong with America to spend some time rolling up their sleeves to help us make it right."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 179,
+            "id": "p5",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 147,
+            "target": "Barack_Obama",
+            "txt": "Mr. Obama said to their applause"
+        },
+        {
+            "aim": "ind_pro",
+            "bias": "lex",
+            "end": 23,
+            "id": "p20",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "John Boehner",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 12,
+            "target": "Senate_Republicans",
+            "txt": "facetiously"
+        }
+    ],
+    "triplet-uuid": "2153fb3e-6b09-410c-bfea-d095c49a54ba",
+    "uuid": "73e9fe54-0fdd-44ba-b29e-f59572dc47d5"
+}

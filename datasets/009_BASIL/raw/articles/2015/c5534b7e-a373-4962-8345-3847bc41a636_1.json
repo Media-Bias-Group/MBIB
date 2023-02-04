@@ -1,0 +1,48 @@
+{
+    "source": "fox",
+    "main-entities": ["Hillary Clinton", "Trey Gowdy"],
+    "main-event": "Benghazi committee wants to interview Clinton about emails",
+    "title": "Benghazi committee seeks 'transcribed' interview with Clinton over deleted records",
+    "url": "http://www.foxnews.com/politics/2015/03/31/benghazi-committee-requests-clinton-submit-to-interview-about-private-deleted.html",
+    "word-count": 419,
+    "date": "2015-03-31",
+    "uuid": "747b0b60-79b6-4de3-9226-d532fa59c385",
+    "triplet-uuid": "c5534b7e-a373-4962-8345-3847bc41a636",
+    "body-paragraphs": [
+        [
+            "The congressional committee probing the Benghazi attacks has formally requested that Hillary Clinton appear for an interview on her use of a personal email and server for official business while secretary of state, after learning the server had been wiped \"clean.\""
+        ],
+        [
+            "Committee Chairman Rep. Trey Gowdy, R-S.C., made the request in a letter sent Tuesday to Clinton's lawyer.",
+            "Gowdy asked that Clinton agree to a \"transcribed\" interview -- and repeated a March 16 request for her to surrender her server so it can be examined by the State Department\u2019s inspector general."
+        ],
+        [
+            "Gowdy said Friday that Clinton, the presumptive Democratic front-runner in the 2016 presidential race, has yet to adequately respond to the subpoena request for the server.",
+            "He said the committee learned she had \u201cunilaterally decided\u201d to wipe it clean and permanently delete all emails."
+        ],
+        [
+            "\u201cThis committee is left with no alternative but to request Secretary Clinton appear before this committee for a transcribed interview to better understand decisions the secretary made relevant to the creation, maintenance, retention, and ultimately deletion of public records,\u201d Gowdy wrote to Clinton attorney David Kendall on Tuesday."
+        ],
+        [
+            "Earlier this month, Clinton acknowledged that she sent or received roughly 60,000 related emails, turning over roughly half to the State Department and deleting about the same number of \u201cpersonal\u201d ones."
+        ],
+        [
+            "The South Carolina Republican set a deadline of May 1 for the interview and restated the committee is interested only in the deleted emails relating to Clinton\u2019s response as secretary of state to the 2012 terror attacks on a U.S. outpost in Benghazi, Libya, in which four Americans were killed."
+        ],
+        [
+            "\u201cThe committee believes a transcribed interview would best protect Secretary Clinton\u2019s privacy, the security of the information queried, and the public\u2019s interest in ensuring this committee has all information needed to accomplish the task set before it,\u201d Gowdy also wrote in the letter."
+        ],
+        [
+            "Gowdy suggested Monday that he wants to have \"separate conversations\" with Clinton about Benghazi and the emails, in light of her wiping clean the server."
+        ],
+        [
+            "\"I need to ask what she did (with the server) and when she did it and importantly why she did it,\u201d he said on Fox News' \"On the Record with Greta Van Susteren.\""
+        ],
+        [
+            "He also suggested on the show and in the letter that efforts to get Clinton to comply with the requests might require the full weight of the Republican-led House and that he will confer with House Speaker John Boehner about whether another committee will be involved."
+        ],
+        [
+            "Clinton has not yet announced a presidential bid."
+        ]
+    ]
+}

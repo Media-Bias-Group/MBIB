@@ -1,0 +1,62 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Barack_Obama": "pos",
+        "author_feeling_Donald_Trump": "neu",
+        "author_feeling_Hillary_Clinton": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "liberal",
+        "you_feeling_Barack_Obama": "neu",
+        "you_feeling_Donald_Trump": "neu",
+        "you_feeling_Hillary_Clinton": "neu"
+    },
+    "pair-uuid": "76810849-0335-4ad3-9eaf-f0d9c5baceb6",
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 29,
+            "id": "p14",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "Donald_Trump",
+            "start": 9,
+            "target": "Barack_Obama",
+            "txt": "our leaders are weak"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 104,
+            "id": "p17",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "based on the clause after the quote",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "Barack_Obama",
+            "start": 59,
+            "target": "Donald_Trump",
+            "txt": "\u201cgive in to fear or turn against each other,\u201d"
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 72,
+            "id": "p11",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 66,
+            "target": "Donald_Trump",
+            "txt": "seized"
+        }
+    ],
+    "uuid": "f71a83f7-57c7-40e2-a10a-e55cf79d9ac6"
+}

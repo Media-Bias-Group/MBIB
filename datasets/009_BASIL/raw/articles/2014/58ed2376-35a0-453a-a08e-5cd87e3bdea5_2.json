@@ -1,0 +1,40 @@
+{
+    "source": "hpo",
+    "main-entities": ["Jan Brewer", "SB 1062 bill"],
+    "main-event": "Jan Brewer urged to veto gay discrimination bill",
+    "title": "Jan Brewer Announces Veto Of Arizona Anti-Gay Bill",
+    "url": "https://www.huffingtonpost.com/2014/02/26/jan-brewer-vetoes_n_4854003.html?ncid=edlinkushpmg00000313&ec_carp=976186401922298178",
+    "word-count": 285,
+    "date": "2014-02-26",
+    "uuid": "37cedba7-4b83-4c10-9707-120e759c5e0c",
+    "triplet-uuid": "58ed2376-35a0-453a-a08e-5cd87e3bdea5",
+    "body-paragraphs": [
+        [
+            "WASHINGTON -- Arizona Gov. Jan Brewer (R) announced her decision to veto legislation on Wednesday that would have allowed businesses to legally refuse service to anyone on \"religious freedom\" grounds, effectively allowing them to discriminate against same-sex couples."
+        ],
+        [
+            "Brewer said the bill had \"the potential to create more problems than it purports to solve.\""
+        ],
+        [
+            "\"Senate Bill 1062 does not address a specific or present concern related to religious liberty in Arizona,\" she said.",
+            "\"I have not heard one example where business owners' religious liberty has been violated.\""
+        ],
+        [
+            "The state legislature passed the bill, known as SB 1062, last week.",
+            "But in recent days, it has come under intense criticism from activists, lawmakers and business interests both in Arizona and nationally.",
+            "The state's two Republican senators, Jeff Flake and John McCain, called on Brewer to veto it, and major corporations like Marriott, Apple and American Airlines all wrote to the governor and expressed their opposition."
+        ],
+        [
+            "Businesses in the Phoenix area were also especially worried, with the Super Bowl set to be held in Glendale, Ariz. in 2015.",
+            "On Monday, the Arizona Super Bowl Host Committee came out against SB 1062, stating, \"[W]e have heard loud and clear from our various stakeholders that adoption of this legislation would not only run contrary to that goal but deal a significant blow to the state's economic growth potential.",
+            "We do not support this legislation.\""
+        ],
+        [
+            "Arizona hasn't been the only state pushing a bill that would allow open discrimination against same-sex couples; similar bills have been popping up in states including Tennessee, Kansas, South Dakota and Maine."
+        ],
+        [
+            "CORRECTION: This article originally said the Super Bowl is set to be held in Tempe, Ariz.",
+            "It will be held in Glendale, Ariz."
+        ]
+    ]
+}

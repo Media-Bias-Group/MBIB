@@ -1,0 +1,39 @@
+{
+    "source": "hpo",
+    "main-entities": ["Hillary Clinton"],
+    "main-event": "Hillary Clinton releases tax returns",
+    "title": "Hillary Clinton Releases Tax Returns Going Back To 2007",
+    "url": "https://www.huffingtonpost.com/entry/hillary-clinton-tax-returns_us_55bbf7bde4b06363d5a25a38",
+    "word-count": 280,
+    "date": "2015-07-31",
+    "uuid": "92e5cf7b-f770-4ba1-bbe2-a378a13e21e4",
+    "triplet-uuid": "6e502405-bc90-4416-a787-3122918aa648",
+    "body-paragraphs": [
+        [
+            "Hillary and Bill Clinton earned roughly $141 million and paid nearly $44 million in federal income taxes from 2007 to 2014, according to tax returns released Friday."
+        ],
+        [
+            "The former secretary of state and Democratic presidential candidate released the tax returns on her campaign website, along with her health records and a list of paid speeches she and her husband gave.",
+            "According to the returns, the Clintons earned $140,937,785 over the eight year span, primarily from book sales and speaking fees.",
+            "The couple paid $43,885,310 in federal taxes and $13,625,777 in state and local taxes, and made $14,959,450 in charitable contributions during that time."
+        ],
+        [
+            "Last year, the Clintons paid an effective federal tax rate of 35.7 percent and donated over 10 percent of their income to charity."
+        ],
+        [
+            "\"We\u2019ve come a long way from my days going door to door for the Children\u2019s Defense Fund and earning $16,450 as a young law professor in Arkansas\u2014and we owe it to the opportunities America provides,\" Clinton said in a statement accompanying the returns.",
+            "\"I want more Americans to have the chance to work hard and get ahead, just like we did.",
+            "And reforming the tax code can help.\""
+        ],
+        [
+            "The Clintons have previously released their tax returns dating back to 1977."
+        ],
+        [
+            "Clinton's release comes about one month after Republican presidential candidate Jeb Bush released 33 years of returns, showing his net worth between $19 and $22 million.",
+            "Bush paid an effective tax rate of roughly 36 percent over those three decades."
+        ],
+        [
+            "In May, Hillary Clinton filed a disclosure with the Federal Elections Commission showing the couple had earned approximately $30 million from book sales and speeches in 2014 and the first four months of 2015."
+        ]
+    ]
+}

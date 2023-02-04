@@ -1,0 +1,58 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Jesse_Jackson": "neg",
+        "author_feeling_main_event": "pos",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Jesse_Jackson": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 134,
+            "id": "p5",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "make him sound weak",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Jesse_Jackson",
+            "txt": "At one point during the hearing, the judge stopped his questioning of Mr. Jackson, who was crying, so that he could be given a tissue."
+        },
+        {
+            "aim": "ind_pro",
+            "bias": "inf",
+            "end": 306,
+            "id": "p12",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "Jackson's friend",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 188,
+            "target": "Jesse_Jackson",
+            "txt": "one of Mr. Jackson\u2019s friends had offered to make a contribution to Mr. Blagojevich\u2019s campaign in exchange for the seat"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 118,
+            "id": "p13",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Jesse_Jackson",
+            "txt": "Since then, Mr. Jackson, who has said he had no knowledge of the offer, has been dogged by questions about his ethics."
+        }
+    ],
+    "triplet-uuid": "f506aafc-8b43-427a-936e-bbd1ef33e076",
+    "uuid": "580654bb-eb52-4800-932d-cf00ee661796"
+}

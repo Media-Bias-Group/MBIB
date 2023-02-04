@@ -1,0 +1,58 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Donald Trump",
+        "Democratic lawmakers",
+        "Republican lawmakers"
+    ],
+    "main-event": "Lawmakers react to Trump's immigration proposal",
+    "title": "Trump's 'Compromise' Immigration Offer To Democrats Includes Major Changes Restricting Asylum Law",
+    "url": "https://www.huffingtonpost.com/entry/government-shutdown-trump-asylum-offer_us_5c472b5ce4b0bfa693c75e0e",
+    "word-count": 587,
+    "date": "2019-01-22",
+    "uuid": "855237a2-3aeb-4135-bec8-b9b3378e8ee8",
+    "triplet-uuid": "70c75d68-bf65-46a6-a822-15c23d77a275",
+    "body-paragraphs": [
+        [
+            "WASHINGTON \u2015 President Donald Trump\u2019s offer to Democrats over the weekend seeking to trade temporary protections for some immigrants in exchange for funding for a wall on the U.S.-Mexico border received positive coverage from some outlets, including being called a \u201ccompromise\u201d and a move by Trump \u201ctoward the center.\u201d"
+        ],
+        [
+            "But the latest details in the proposal, which Senate Republicans unveiled Monday in a bill they plan to vote on this week, make the offer appear less of a compromise and more of a wish list for immigration hard-liners like White House adviser Stephen Miller."
+        ],
+        [
+            "Trump is offering a three-year extension for the Obama-era Deferred Action for Childhood Arrivals program, which protects from deportation hundreds of thousands of immigrants brought to the U.S. as kids.",
+            "The offer would also give a three-year extension to 300,000 people from El Salvador, Haiti, Nicaragua and Honduras who are living in the U.S. under the temporary protected status program."
+        ],
+        [
+            "Democrats rejected the offer before Trump even announced it on Saturday, however, maintaining that it didn\u2019t go nearly far enough and that the president ought to reopen the government before any negotiations over the border proceed."
+        ],
+        [
+            "But the GOP bill incorporating his offer would also gut existing asylum laws for children and trafficking victims from Central America, ban asylum for minors who present themselves at ports of entry, gut the concept of temporary protected status for future cases and expand immigration detention \u2015 all measures making it more likely to be dead on arrival in the Senate."
+        ],
+        [
+            "\u201cGiven the poison pills stuffed into a proposal that was supposed to entice Democrats we can now say the Trump \u2018offer\u2019 isn\u2019t about getting to a deal but about shifting blame.",
+            "So obvious. So predictable. So pathetic,\u201d Frank Sharry, the executive director of the immigration advocacy group America\u2019s Voice, tweeted on Tuesday."
+        ],
+        [
+            "The bill would ban asylum for Central American minors, including those who arrive at the border with their parents, unless the minors apply for asylum in their home country.",
+            "It would also cap the number of Central American minors who are allowed to apply for asylum each year at 50,000 and limit the number of asylum applications that could be granted per year to 15,000."
+        ],
+        [
+            "The administration has for months tried to reduce the number of people seeking asylum in the U.S. as part of a broader effort to stem the flow of Central American migrants crossing the border from Mexico.",
+            "Trump\u2019s administrative attempts to curtail the asylum process have faced legal challenges in two federal courts, however, prompting this week\u2019s legislative fix."
+        ],
+        [
+            "\u201cThis bill includes the most extreme changes on asylum that I\u2019ve ever seen,\u201d Kerri Talbot, the director of federal advocacy at the group Immigration Hub, said on a press call on Tuesday."
+        ],
+        [
+            "Under the GOP bill, minors who apply for asylum would face much stiffer consequences for filing an application found to be frivolous \u2015 including permanent ineligibility for future protections."
+        ],
+        [
+            "The bill\u2019s changes to asylum law alarmed immigration activists online, as well some on the right, including attorney and conservative writer Gabriel Malor."
+        ],
+        [
+            "Trump\u2019s efforts to win over Democratic support on the bill \u2015 which will require at least 60 votes to pass in the Senate \u2015 hit even more trouble on Tuesday after the Supreme Court once again did not act on the administration\u2019s effort to end DACA.",
+            "The move essentially left protections for Dreamers in place for at least the next several months \u2015 giving Democrats less incentive to agree to Trump\u2019s offer of protections to DACA recipients."
+        ]
+    ]
+}

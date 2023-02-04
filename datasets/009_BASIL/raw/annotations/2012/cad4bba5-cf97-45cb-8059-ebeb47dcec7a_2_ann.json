@@ -1,0 +1,14 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Barack_Obama": "neu",
+        "author_feeling_John_Boehner": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Barack_Obama": "neu",
+        "you_feeling_John_Boehner": "neu"
+    },
+    "phrase-level-annotations": [],
+    "triplet-uuid": "cad4bba5-cf97-45cb-8059-ebeb47dcec7a",
+    "uuid": "a02e132d-8194-4a2d-a831-92c6a62aac83"
+}

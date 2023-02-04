@@ -1,0 +1,66 @@
+{
+    "source": "fox",
+    "main-entities": ["House Democrats","House Republicans"],
+    "main-event": "Democrats pass campaign finance and voting rights reform bill",
+    "title": "House approves sweeping Dem election reform bill, amid First Amendment concerns",
+    "url": "https://www.foxnews.com/politics/house-approves-sweeping-dem-election-reform-bill-amid-first-amendment-concerns",
+    "word-count": 508,
+    "date": "2019-03-08",
+    "uuid": "3559b7c6-58ce-4c97-aae7-f46f00c2cb26",
+    "triplet-uuid": "2f3e86b6-8443-47bd-9cd3-491c90a59fe9",
+    "body-paragraphs": [
+        [
+            "The House of Representatives on Friday approved a sweeping election reform bill that serves as the touchstone to the House Democratic agenda but has been criticized by civil libertarians and Republicans over First Amendment concerns."
+        ],
+        [
+            "The so-called \u201cHR 1\u201d measure embraced by House Democrats aims to curb big money in politics, make it easier to vote and bolster election security.",
+            "It institutes a public financing system for congressional campaigns, requires presidential candidates to disclose tax returns and makes Election Day a federal holiday."
+        ],
+        [
+            "The House approved the plan 234-193.",
+            "But the measure is not expected to succeed in the Senate, where Majority Leader Mitch McConnell, R-Ky., has said the bill is dead on arrival."
+        ],
+        [
+            "The American Civil Liberties Union, in a recent letter to Congress, encouraged lawmakers to vote against the bill because of \u201cprovisions that unconstitutionally impinge on the free speech rights of American citizens and public interest organizations.\u201d"
+        ],
+        [
+            "\u201cThey will have the effect of harming our public discourse by silencing necessary voices that would otherwise speak out about the public issues of the day,\u201d the ACLU wrote."
+        ],
+        [
+            "One concern of civil libertarians is the bill\u2019s inclusion of the DISCLOSE ACT, which would require all organizations that spend money on elections to disclose donors."
+        ],
+        [
+            "The ACLU said it supports making organizations report spending for public communications like TV ads that expressly call for the election or defeat of a candidate for office, but it worries the DISCLOSE ACT goes beyond that."
+        ],
+        [
+            "\u201cThese standards are unclear and entirely subjective, which will lead to confusion and, ultimately, less speech,\u201d the ACLU said."
+        ],
+        [
+            "Republicans called the bill a Democratic power grab that amounts to a federal takeover of elections."
+        ],
+        [
+            "\u201cNow, instead of getting money out of politics, the Democrats on this committee voted to pass a bill that will publicly fund \u2013 campaign travel, campaign dinners, and in some cases, the politicians themselves,\u201d Illinois Rep. Rodney Davis wrote in an op-ed for The Hill."
+        ],
+        [
+            "The White House said in a statement that the Democrats' plan would \"micromanage\" elections that now are run largely by states and would establish \"costly and unnecessary program to finance political campaigns.\""
+        ],
+        [
+            "But House Speaker Nancy Pelosi, D-Calif., said the bill \"restores the people's faith that government works for the public interest, the people's interest, not the special interests.\""
+        ],
+        [
+            "Trying to turn Republicans' words against them, Pelosi said, \"Yes it is a power grab -- a power grab on behalf of the people.\""
+        ],
+        [
+            "House GOP leader Kevin McCarthy of California said the legislation would undermine the integrity of elections by allowing convicted felons to vote, and would apply a one-size-fits-all standard to elections now run by states and local governments."
+        ],
+        [
+            "Democrats called that a mischaracterization."
+        ],
+        [
+            "To Rep. Zoe Lofgren, D-Calif., the bill \"grabs power away from the elites and the power brokers and gives it to the people.\""
+        ],
+        [
+            "She and other Democrats disputed the claim that taxpayers will pay for campaigns, noting that money for political campaigns would come from a surcharge on federal settlements made with banks and corporations that run afoul of the law."
+        ]
+    ]
+}

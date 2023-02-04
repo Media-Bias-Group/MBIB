@@ -1,0 +1,92 @@
+{
+    "source": "nyt",
+    "main-entities": ["joint tax rule for homosexual couples"],
+    "main-event": "Legally married same-sex couples will now be allowed to file federal joint tax returns",
+    "title": "Gay Marriages Get Recognition From the I.R.S.",
+    "url": "http://www.nytimes.com/2013/08/30/us/politics/irs-to-recognize-all-gay-marriages-regardless-of-state.html?n=Top/News/Health/Diseases,%20Conditions,%20and%20Health%20Topics/Medicare?ref=medicare",
+    "word-count": 928,
+    "date": "2013-08-29",
+    "uuid": "f46331f4-1519-4fcf-af35-e0f7a990329c",
+    "triplet-uuid": "70c744ad-e950-445c-8a7a-0782b0a7d20b",
+    "body-paragraphs": [
+        [
+            "WASHINGTON \u2014 All same-sex couples who are legally married will be recognized as such for federal tax purposes, even if the state where they live does not recognize their union, the Treasury Department and the Internal Revenue Service said Thursday."
+        ],
+        [
+            "It is the broadest federal rule change to come out of the landmark Supreme Court decision in June that struck down the 1996 Defense of Marriage Act, and a sign of how quickly the government is moving to treat gay couples in the same way that it does straight couples."
+        ],
+        [
+            "The June decision found that same-sex couples were entitled to federal benefits, but left open the question of how Washington would actually administer them.",
+            "The Treasury Department answered some of those questions on Thursday.",
+            "As of the 2013 tax year, same-sex spouses who are legally married will not be able to file federal tax returns as if either were single.",
+            "Instead, they must file together as \u201cmarried filing jointly\u201d or individually as \u201cmarried filing separately.\u201d"
+        ],
+        [
+            "Their address or the location of their wedding does not matter, as long as the marriage is legal: a same-sex couple who marry in Albany, N.Y., and move to Alabama are treated the same as a same-sex couple who marry and live in Massachusetts."
+        ],
+        [
+            "\u201cToday\u2019s ruling provides certainty and clear, coherent tax-filing guidance for all legally married same-sex couples nationwide,\u201d Treasury Secretary Jacob J. Lew said.",
+            "\u201cThis ruling also assures legally married same-sex couples that they can move freely throughout the country knowing that their federal filing status will not change.\u201d"
+        ],
+        [
+            "Gay and civil rights groups praised the ruling.",
+            "\u201cCommitted and loving gay and lesbian married couples will now be treated equally under our nation\u2019s federal tax laws, regardless of what state they call home,\u201d said Chad Griffin, the president of the Human Rights Campaign.",
+            "\u201cThese families finally have access to crucial tax benefits and protections previously denied to them under the discriminatory Defense of Marriage Act.\u201d"
+        ],
+        [
+            "But the Treasury decision could have ramifications for many gay couples\u2019 tax liabilities, said Roberton Williams of the nonpartisan Tax Policy Center in Washington.",
+            "Couples with similar incomes often pay the \u201cmarriage penalty,\u201d with their tax liability as a couple being much higher than it would be if they were single."
+        ],
+        [
+            "At the same time, same-sex couples will also be able to file amended returns for certain prior tax years, meaning that many couples might be eligible for refunds.",
+            "Couples do not have to file amended returns if they do not want to, a senior Treasury official said, meaning that couples who might pay the marriage penalty would not owe back taxes."
+        ],
+        [
+            "But the ruling creates complications for same-sex couples who live in any of the 37 states that do not recognize their marriages.",
+            "Previously, such couples filed federal and state tax returns as individuals.",
+            "Now, they will have to file their federal returns as other married couples do, but may be required to file their state returns as individuals."
+        ],
+        [
+            "\u201cThere\u2019s going to be a cumbersome workaround,\u201d said Nanette Lee Miller of Marcum L.L.P., a public accounting firm.",
+            "She sees it as a paperwork bother more than a financial issue."
+        ],
+        [
+            "States might also respond to the federal ruling with changes of their own.",
+            "\u201cMost state income tax regimes begin with federal taxable income as the starting point,\u201d Marvin Kirsner, a tax lawyer at Greenberg Traurig, said in an e-mail.",
+            "\u201cThese state taxing authorities will have to figure out how to deal with a same-sex married couple who file a joint income tax return for federal tax purposes.\u201d He added,"
+        ],
+        [
+            "\u201cWe will need to see guidance from each nonrecognition state to see how this will be handled.\u201d"
+        ],
+        [
+            "The rule change is likely to provide a small increase for federal revenue, as more same-sex couples pay the marriage penalty, Mr. Williams said, describing it as a \u201crounding error.\u201d",
+            "But it would be partly offset by new federal spending on benefits for same-sex spouses."
+        ],
+        [
+            "The ruling applies to all legal marriages made in the United States or foreign countries.",
+            "But it does not extend to civil unions, registered domestic partnerships or other legal relationships, the Treasury said."
+        ],
+        [
+            "The Treasury ruling is one of many that are starting to emerge from all corners of the federal government as Washington changes regulations to conform with the Supreme Court decision."
+        ],
+        [
+            "Separately, the Health and Human Services Department said Thursday that Medicare would extend certain key benefits to same-sex spouses, \u201cclarifying that all beneficiaries in private Medicare plans have access to equal coverage when it comes to care in a nursing home where their spouse lives.\u201d"
+        ],
+        [
+            "But federal agencies are not moving in lock step.",
+            "Instead, they are creating a patchwork of regulations affecting gay and lesbian couples \u2014 and may be raising questions about discrimination and fairness in the way that federal benefits are distributed."
+        ],
+        [
+            "Medicare and Treasury officials have said they would use a \u201cplace of celebration\u201d standard for determining whether gay couples are eligible for benefits.",
+            "That means same-sex couples would receive benefits as long as they are legally married, regardless of where they live."
+        ],
+        [
+            "But the Social Security Administration is now using a \u201cplace of residence\u201d standard in determining spousal benefits, and a gay couple in Alabama might not receive the same benefits as a gay couple in New York until final determinations are made or Congress acts.",
+            "The Obama administration has pushed federal agencies to ensure the Supreme Court\u2019s ruling is carried out quickly and smoothly."
+        ],
+        [
+            "\u201cIt would be nice if they were consistent,\u201d Ms. Miller said.",
+            "Creating federal regulations is a process and could change, she said."
+        ]
+    ]
+}

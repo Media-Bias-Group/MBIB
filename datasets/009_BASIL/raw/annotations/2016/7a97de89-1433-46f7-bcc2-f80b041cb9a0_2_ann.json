@@ -1,0 +1,73 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Paul_LePage": "neg",
+        "author_feeling_main_event": "neg",
+        "notes": "doesn't go into as much detail about controversy",
+        "relative_stance": "conservative",
+        "you_feeling_Paul_LePage": "neu"
+    },
+    "pair-uuid": "7a97de89-1433-46f7-bcc2-f80b041cb9a0",
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 164,
+            "id": "p5",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 19,
+            "target": "Paul_LePage",
+            "txt": "state lawmakers \u2014 Democrats and Senate Republicans \u2014 exasperated after six years of political controversies and what they saw as erratic behavior"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 83,
+            "id": "p24",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Paul_LePage",
+            "txt": "Even as he fueled outrage among Democrats and angst among many moderate Republicans"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 202,
+            "id": "p20",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 101,
+            "target": "Paul_LePage",
+            "txt": "he wanted Mr. LePage to get \u201ca competent evaluation and follow the recommendations of the evaluator.\u201d"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 119,
+            "id": "p30",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Paul_LePage",
+            "txt": "\u201cI didn\u2019t use racially charged language,\u201d Mr. LePage claimed, although he also said, \u201cLet\u2019s leave ethnicity out of it.\u201d"
+        }
+    ],
+    "uuid": "d0e3873f-ce2a-44cc-95db-7b1598f2a0b7"
+}

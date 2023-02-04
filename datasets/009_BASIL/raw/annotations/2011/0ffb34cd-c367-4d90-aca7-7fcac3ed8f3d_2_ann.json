@@ -1,0 +1,60 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Joe_Arpaio": "neu",
+        "author_feeling_Rick_Perry": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Joe_Arpaio": "neu",
+        "you_feeling_Rick_Perry": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 103,
+            "id": "p8",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "Joe_Arpaio",
+            "start": 0,
+            "target": "Rick_Perry",
+            "txt": "Governor Perry has a superior border security record and plan to make our border and our nation safer.\""
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 140,
+            "id": "p2",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Joe_Arpaio",
+            "txt": "He is famous for pushing worksite raids and creating a \"Tent City,\" a military-style holding ground for inmates, now in its eighteenth year."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 46,
+            "id": "p12",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "Rick_Perry",
+            "start": 1,
+            "target": "Joe_Arpaio",
+            "txt": "I am honored to have Sheriff Arpaio's support"
+        }
+    ],
+    "triplet-uuid": "0ffb34cd-c367-4d90-aca7-7fcac3ed8f3d",
+    "uuid": "0a8a693b-41fa-4895-bbb5-d4521646eb72"
+}

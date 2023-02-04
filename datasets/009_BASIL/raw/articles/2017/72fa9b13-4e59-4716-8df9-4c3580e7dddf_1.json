@@ -1,0 +1,69 @@
+{
+    "source": "hpo",
+    "main-entities": ["Donald Trump", "Joe Lieberman"],
+    "main-event": "Donald Trump considers Joe Lieberman for FBI Director",
+    "title": "Donald Trump Says Joe Lieberman Is His Top Choice For FBI Director",
+    "url": "https://www.huffingtonpost.com/entry/donald-trump-joe-lieberman-fbi-director_us_591df2bbe4b094cdba52519a",
+    "word-count": 633,
+    "date": "2017-05-18",
+    "uuid": "b152cae7-1552-48e0-8d23-b5cceb51915f",
+    "triplet-uuid": "72fa9b13-4e59-4716-8df9-4c3580e7dddf",
+    "body-paragraphs": [
+        [
+            "WASHINGTON \u2015 President Donald Trump is \u201cvery close\u201d to selecting an interim candidate to replace former FBI Director James Comey, he told White House reporters on Thursday."
+        ],
+        [
+            "Trump confirmed that former Sen. Joe Lieberman is his top choice, according to White House pool reports.",
+            "The founder of Lieberman\u2019s law firm \u2015 Kasowitz, Benson, Torres & Friedman \u2015 is one of the president\u2019s top lawyers."
+        ],
+        [
+            "Trump met on Wednesday with Lieberman and three other candidates: current acting FBI Director Andrew McCabe; Frank Keating, the former governor of Oklahoma who previously served as an FBI agent and in high-level positions in the Justice Department; and Richard McFeely, who served in the FBI for 24 years before retiring as executive assistant director in 2014."
+        ],
+        [
+            "Lieberman, who was the 2000 Democratic vice presidential nominee before losing a primary bid for re-election and becoming an independent, would be an unconventional choice.",
+            "He has no federal law enforcement experience and, while currently at a high-profile law firm, is most associated as a centrist Democrat."
+        ],
+        [
+            "He has previously said that he would support an independent commission to investigate ties between Trump\u2019s administration and Russia.",
+            "But it is his background in politics that had Democrats reacting with severe reservation."
+        ],
+        [
+            "Sen. Claire McCaskill (D-Mo.) called it a \u201cmistake\u201d to select an elected official to the post, saying that the FBI director should be a law enforcement official.",
+            "While Sen. Brian Schatz (D-Hawaii), in an interview with Huffpost, called the possible nomination \u201cshocking.\u201d"
+        ],
+        [
+            "\u201cThere is no reason to appoint a politician to run the FBI,\u201d Schatz said.",
+            "\u201cIt is contrary to everything the FBI is about and it undermines the confidence that the public needs to have in the independence of the agency.",
+            "And more to the point, it is not as if there is no one else qualified to do this job.",
+            "There are literally dozens of people who would get a unanimous vote.\u201d"
+        ],
+        [
+            "It is rare for an FBI director to be appointed without the full backing of the Senate, Schatz noted.",
+            "And he speculated that a Lieberman nomination would split the chamber."
+        ],
+        [
+            "A top Senate Democratic aide, likewise, put the prospects of immense opposition to the pick bluntly in an email to HuffPost: \u201cThere couldn\u2019t possibly be worse time to take the unprecedented step of handing the FBI over to a politician.",
+            "That absolutely includes Senator Lieberman.\u201d"
+        ],
+        [
+            "During a Thursday Democratic caucus lunch, Sens. Dick Durbin (Ill.) and Sheldon Whitehouse (R.I.) trashed the idea of Lieberman, or any politician, being in charge of the FBI, according to a senior Democratic aide who was in the private meeting.",
+            "A majority of Democrats in the room said they agreed that he\u2019s a terrible choice.",
+            "Not a one defended Lieberman."
+        ],
+        [
+            "\u201cThe FBI director should be drawn from the ranks of career law enforcement\u200e, prosecutors or the FBI itself \u2015 not politicians,\u201d Durbin told HuffPost later."
+        ],
+        [
+            "Republicans, by contrast, praised Lieberman.",
+            "Sen. Marco Rubio (R-Fla.) expressed \u201cgreat admiration\u201d for the former senator, Sen. John Cornyn (R-Texas) speculated that Lieberman could get 100 confirmation votes, and Sen. John McCain (R-Ariz.), said he would be \u201coverjoyed\u201d if Lieberman, who is a friend of his, were picked."
+        ],
+        [
+            "\u201cJoe Lieberman has more experience than all of my Democrat colleagues combined, so screw them,\u201d McCain said of Democrats\u2019 concerns."
+        ],
+        [
+            "The need for a new FBI director came after Trump fired Comey last week, a stunning move that occurred amid the FBI\u2019s ongoing investigation into the Trump campaign\u2019s ties to Russia.",
+            "A series of explosive reports over the last week have heightened the appearance that Trump interfered with the investigation.",
+            "In particular, The New York Times reported that Trump asked Comey to shut down a separate probe into former national security adviser Michael Flynn\u2019s contacts with Russian officials, according to a memo Comey wrote to document a meeting with Trump."
+        ]
+    ]
+}

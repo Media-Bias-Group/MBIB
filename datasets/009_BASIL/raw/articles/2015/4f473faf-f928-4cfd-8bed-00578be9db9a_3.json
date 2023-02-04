@@ -1,0 +1,63 @@
+{
+    "source": "hpo",
+    "main-entities": ["Mike Pence","Jay Inslee","Religious Freedom Restoration Act"],
+    "main-event": "The cities and states are joined by a number of business leaders speaking out against the Religious Freedom Restoration Act",
+    "title": "Washington State To Boycott Indiana Over LGBT Discrimination Law",
+    "url": "https://www.huffingtonpost.com/2015/03/30/washington-indiana-discrimination-law_n_6973700.html",
+    "word-count": 537,
+    "date": "2015-03-30",
+    "uuid": "65c55de1-8a64-46e9-8008-db05b43cb92c",
+    "triplet-uuid": "4f473faf-f928-4cfd-8bed-00578be9db9a",
+    "body-paragraphs": [
+        [
+            "Washington Gov. Jay Inslee (D) announced Monday that he would ban state-funded travel to Indiana, where a controversial new law could allow businesses to deny service to gay and lesbian individuals for religious reasons."
+        ],
+        [
+            "\u201cI find Indiana\u2019s new law disturbing, particularly at a time when more and more states and people in America are embracing civil rights for everyone,\" Inslee said in a statement.",
+            "\"Washington will join other states and cities in opposing this law and I will impose an administration-wide ban on state funded travel to Indiana.\""
+        ],
+        [
+            "In his statement, Inslee cited the case of a Washington-based florist who was recently ordered to pay a fine for discriminating against a gay couple who sought her services."
+        ],
+        [
+            "\"We in Washington stand for equality,\" he said.",
+            "\"I applaud those companies and organizations that have spoken out against the law and said they would not locate or expand operations in Indiana.",
+            "I want to invite all those organizations, and anyone interested in a state that promotes equality and opportunity, to come visit Washington.",
+            "We are open for business, and open to all people.\""
+        ],
+        [
+            "Earlier Monday, Connecticut Gov. Dan Malloy (D) took a similar stand against the Religious Freedom Restoration Act, signed into law by Indiana Gov. Mike Pence (R) at a private ceremony last week.",
+            "The measure has sparked national backlash, with critics warning that the law provides legal justification for discrimination against LGBT individuals."
+        ],
+        [
+            "In addition to Connecticut and Washington, San Francisco and Seattle have also imposed bans on city-funded travel to the state.",
+            "The mayors of Minnesota's Twin Cities, Minneapolis and St. Paul, have also condemned the measure."
+        ],
+        [
+            "The cities and states are joined by a number of business leaders speaking out against the law.",
+            "Apple chief Tim Cook called the law \"dangerous\" in a Washington Post op-ed, while Salesforce's Marc Benioff canceled the company's planned events in the state.",
+            "And on Monday, the executives of nine Indiana-based companies, including Angie's List and Anthem, sent a letter to Pence outlining their concerns."
+        ],
+        [
+            "\"Regardless of the original intention of the Religious Freedom Restoration Act, we are deeply concerned about the impact it is having on our employees and on the reputation of our state,\" reads the letter."
+        ],
+        [
+            "Pence has defended his decision to sign the bill, claiming that the measure has been \"grossly misconstrued as a 'license to discriminate.'\""
+        ],
+        [
+            "\"I abhor discrimination.",
+            "I believe in the Golden Rule that you should 'do unto others as you would have them do unto you,'\" Pence wrote in a Wall Street Journal op-ed.",
+            "\"If I saw a restaurant owner refuse to serve a gay couple, I wouldn\u2019t eat there anymore.",
+            "As governor of Indiana, if I were presented a bill that legalized discrimination against any person or group, I would veto it.",
+            "Indiana\u2019s new law contains no reference to sexual orientation.",
+            "It simply mirrors federal law that President Bill Clinton signed in 1993.\""
+        ],
+        [
+            "However, the governor and legislative leaders say they will seek to clarify that the law does not protect discrimination."
+        ],
+        [
+            "\u201cIt is not the intent of the law to discriminate against anyone, and it will not be allowed to discriminate against anyone,\u201d state Senate President Pro Tem David Long (R) said.",
+            "\u201cWe hope to have a fix very soon.\""
+        ]
+    ]
+}

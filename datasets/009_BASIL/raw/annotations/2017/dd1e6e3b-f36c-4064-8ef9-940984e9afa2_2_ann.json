@@ -1,0 +1,45 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Donald_Trump_Jr.": "neu",
+        "author_feeling_WikiLeaks": "neg",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Donald_Trump_Jr.": "neu",
+        "you_feeling_WikiLeaks": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 200,
+            "id": "p1",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 156,
+            "target": "WikiLeaks",
+            "txt": "released a hacked trove of Democrats\u2019 emails"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 138,
+            "id": "p9",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "WikiLeaks",
+            "txt": "By publishing thousands of hacked emails, American intelligence agencies believe WikiLeaks was acting as a conduit for Russian operatives."
+        }
+    ],
+    "triplet-uuid": "dd1e6e3b-f36c-4064-8ef9-940984e9afa2",
+    "uuid": "8d684d7c-3df0-4756-b11b-1cc153689164"
+}

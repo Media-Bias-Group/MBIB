@@ -1,0 +1,88 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Richard_Blumenthal": "pos",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "liberal",
+        "you_feeling_Richard_Blumenthal": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 113,
+            "id": "p7",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "Quote from the NYT article",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_neutral",
+            "start": 93,
+            "target": "Richard_Blumenthal",
+            "txt": "enabled him to avoid"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 84,
+            "id": "p12",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Richard_Blumenthal",
+            "txt": "In a televised March debate, Blumenthal stated clearly he had not served in Vietnam."
+        },
+        {
+            "aim": "ind_anti",
+            "bias": "inf",
+            "end": 220,
+            "id": "p33",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "Linda McMahon",
+            "notes": "Note circulated by McMahon campaign (Republican)",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "other_pro",
+            "start": 0,
+            "target": "Richard_Blumenthal",
+            "txt": "It is no surprise Linda McMahon would want to smear the Attorney General, considering all of the debauchery at the WWF under her watch, including her attempt to interfere with an investigation into widespread drug abuse."
+        },
+        {
+            "aim": "ind_anti",
+            "bias": "inf",
+            "end": 163,
+            "id": "p14",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "Linda McMahon campaign",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Richard_Blumenthal",
+            "txt": "Kevin Rennie, a former Republican state lawmaker, published a blog post stating that the Times piece was \"fed to the paper by the Linda McMahon [Senate] campaign.\""
+        },
+        {
+            "aim": "ind_anti",
+            "bias": "inf",
+            "end": 108,
+            "id": "p32",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "Linda McMahon campaign",
+            "notes": "Note circulated by McMahon campaign (Republican)",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "other_pro",
+            "start": 0,
+            "target": "Richard_Blumenthal",
+            "txt": "-His opponent's campaign admits they are the ones who cherry-picked the quotes and are behind the hit piece."
+        }
+    ],
+    "triplet-uuid": "85475456-f38e-4c30-895d-ca2c819c6af1",
+    "uuid": "b724c385-6954-43da-a0cc-95ae8a11628d"
+}

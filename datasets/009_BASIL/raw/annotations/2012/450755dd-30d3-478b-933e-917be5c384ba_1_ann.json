@@ -1,0 +1,14 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Chick-Fil-A": "neu",
+        "author_feeling_GOP_leaders": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Chick-Fil-A": "neu",
+        "you_feeling_GOP_leaders": "neu"
+    },
+    "phrase-level-annotations": [],
+    "triplet-uuid": "450755dd-30d3-478b-933e-917be5c384ba",
+    "uuid": "bf62784f-65d2-44e8-bdc8-4e42257ae8dd"
+}

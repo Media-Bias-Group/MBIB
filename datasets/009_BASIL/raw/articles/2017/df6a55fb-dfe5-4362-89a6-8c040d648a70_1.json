@@ -1,0 +1,53 @@
+{
+    "source": "hpo",
+    "main-entities": ["Michael Flynn", "Adam Schiff", "Donald Trump"],
+    "main-event": "House Intelligence committee prepares to subpoena Michael Flynn",
+    "title": "Top House Intel Dem: Flynn Not Cooperating With Russia Probe, Subpoenas Coming",
+    "url": "https://www.huffingtonpost.com/entry/adam-schiff-michael-flynn-subpoeans-russia_us_5925a615e4b0650cc020f765?ec_carp=994865645204495350",
+    "word-count": 510,
+    "date": "2017-05-24",
+    "uuid": "45d4c618-20d4-4383-980d-cd0da1e4b2f9",
+    "triplet-uuid": "df6a55fb-dfe5-4362-89a6-8c040d648a70",
+    "body-paragraphs": [
+        [
+            "WASHINGTON \u2015 The House intelligence committee is preparing to issue subpoenas against Michael Flynn after the former national security adviser denied a request to voluntarily turn over documents related to the committee\u2019s Russia probe."
+        ],
+        [
+            "Rep. Adam Schiff (Calif.), the ranking Democrat on the committee, said on Wednesday that the committee is prepared to use \u201cwhatever compulsory process we need\u201d to obtain information from Flynn if he does not cooperate with the subpoenas.",
+            "He added that the committee could issue additional subpoenas if other witnesses fail to cooperate, but did not name additional individuals."
+        ],
+        [
+            "Citing the Fifth Amendment right against self-incrimination, Flynn\u2019s lawyer said on Monday that Flynn would not comply with subpoenas from the Senate intelligence committee, which is conducting its own parallel investigation into Russia\u2019s interference in the election and whether it colluded with President Donald Trump\u2019s associates.",
+            "The Senate committee responded with two additional subpoenas on Tuesday targeting Flynn\u2019s businesses."
+        ],
+        [
+            "The House committee\u2019s subpoenas \u201cwill be designed to maximize our chance of getting the information that we need,\u201d Schiff told reporters at a breakfast hosted by the Christian Science Monitor.",
+            "\u201cWe need to use whatever compulsory mechanism necessary to get the information he possesses \u2026 the Fifth Amendment right not to provide materials or documents is limited,\u201d he added."
+        ],
+        [
+            "Schiff said he is \u201cskeptical\u201d that the committee would agree to grant Flynn immunity in the future in exchange for information."
+        ],
+        [
+            "The committee is also looking for ways to obtain documentation of Trump\u2019s conversations with top intelligence and law enforcement officials involved in a separate federal Russia probe."
+        ],
+        [
+            "Trump implied earlier this month that he had \u201ctapes\u201d of discussions with recently fired FBI Director James Comey that would be damaging to Comey.",
+            "And the Washington Post reported earlier this week that Trump asked Director of National Intelligence Dan Coats and National Security Agency Director Mike Rogers to push back on the FBI\u2019s Russia investigation."
+        ],
+        [
+            "\u201cThat could be further evidence of an attempt to interfere with the investigation,\u201d Schiff said of Trump\u2019s reported request to Coats and Rogers.",
+            "He also referred to past reports that the White House asked allies on Capitol Hill to refute negative press stories about Trump associates\u2019 ties to Russia.",
+            "\u201cIf all of this is part of a pattern by the White House of interference or worse, that\u2019s something that we have to find out about and it\u2019s something we have to stop,\u201d he said."
+        ],
+        [
+            "Despite concerns about Trump interfering with ongoing investigations into his campaign, Schiff warned that it is premature for Democrats on Capitol Hill to push for impeachment."
+        ],
+        [
+            "\u201cThere\u2019s a legal standard that needs to be met for impeachment and then there\u2019s a very practical standard that has to be met,\u201d Schiff said.",
+            "Practically speaking, he continued, impeachment is only possible if Republican lawmakers and the general public believe Trump is unfit for office."
+        ],
+        [
+            "\u201cIf the Republicans in Congress or people at large in the country feel this is simply a way to nullify an election that others didn\u2019t agree with, then you\u2019re not going to meet the practical standards necessary,\u201d Schiff said."
+        ]
+    ]
+}

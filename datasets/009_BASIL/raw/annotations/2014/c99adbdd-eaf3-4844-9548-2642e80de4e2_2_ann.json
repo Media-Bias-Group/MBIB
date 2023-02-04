@@ -1,0 +1,75 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Kevil_McCarthy": "neu",
+        "author_feeling_Raul_Labrador": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Kevil_McCarthy": "neu",
+        "you_feeling_Raul_Labrador": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 21,
+            "id": "p2",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Raul_Labrador",
+            "txt": "It's a long shot bid."
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 91,
+            "id": "p5",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 83,
+            "target": "Raul_Labrador",
+            "txt": "peel off"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 53,
+            "id": "p29",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Raul_Labrador",
+            "txt": "Labrador is an ambitious, sometimes savvy politician."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 93,
+            "id": "p9",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "Raul_Labrador",
+            "start": 41,
+            "target": "Raul_Labrador",
+            "txt": "Americans are looking for a change in the status quo"
+        }
+    ],
+    "triplet-uuid": "c99adbdd-eaf3-4844-9548-2642e80de4e2",
+    "uuid": "d03a3271-44ac-4059-85c0-8d45cc2b1d2c"
+}

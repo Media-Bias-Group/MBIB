@@ -1,0 +1,86 @@
+{
+    "uuid": "81df3ec2-2c49-4937-8f14-f10e13f12d14",
+    "main-event": "Donald Trump announces end to government shutdown",
+    "main-entities": [
+        "Donald Trump"
+    ],
+    "title": "Trump announces deal to end partial government shutdown",
+    "triplet-uuid": "1e41e98b-9ac1-441d-b2c2-19d8f730c74a",
+    "body-paragraphs": [
+        [
+            "President Trump said Friday that he will support a short-term spending bill to re-open the government, temporarily ending the partial government shutdown that has dragged on for more than a month -- despite a day earlier saying Republicans would not \u201ccave\u201d on his demands for funding for a wall on the southern border."
+        ],
+        [
+            "\u201cI am very proud to announce we have reached a deal to end the shutdown and reopen the federal government,\u201d he said to applause from gathered Cabinet members."
+        ],
+        [
+            "He said the deal would keep the government open for three weeks until Feb. 15 and that a bill would go before the Senate immediately. "
+        ],
+        [
+            "He made reference to his previous threats to declare a national emergency, calling it a \u201cvery powerful weapon,\u201d but saying he didn\u2019t want to use it. "
+        ],
+        [
+            "The deal appeared to include no money for a wall or steel barrier, but he said he hoped negotiations would continue to come to an agreement on wall funding."
+        ],
+        [
+            "\"Walls should not be controversial,\" he said."
+        ],
+        [
+            "The shutdown was sparked by disagreement over President Trump\u2019s demand for $5.7 billion in funding for a wall or steel barrier on the southern border. "
+        ],
+        [
+            "Democrats countered initially with $1.3 billion for general border security, while Trump said initially he would not sign anything without wall funding."
+        ],
+        [
+            "In the last few weeks, the fight turned particularly nasty -- with Trump canceling a Democratic congressional trip to Afghanistan after House Speaker Nancy Pelosi called on Trump to delay his State of the Union address or submit it in writing. "
+        ],
+        [
+            "Trump announced Thursday that he would delay the address, but if the government re-opens then it could take place on Tuesday as had been previously scheduled."
+        ],
+        [
+            "After bills to re-open the government failed in the Senate Thursday, Trump signaled that a \"large down payment\" on funding, potentially less than the $5.7 billion, could be sufficient to end the stalemate. "
+        ],
+        [
+            "He suggested that a \"prorated down payment\" on the wall, without providing a concrete dollar figure, could be viable."
+        ],
+        [
+            "Sen. Lindsey Graham, R-S.C., had also suggested that a three-week continuing resolution could be the way forward."
+        ],
+        [
+            "\"If they come to a reasonable agreement, I would support that,\" Trump told reporters."
+        ],
+        [
+            "The partial closure of the government has led to hundreds of thousands of workers furloughed or working without pay, with groups representing the workers increasing their calls for D.C. to end the deadlock and get workers paid again. "
+        ],
+        [
+            "Many workers missed their second paycheck on Friday."
+        ],
+        [
+            "Every former secretary of the Department of Homeland Security, including former White House chief of staff John Kelly, sent a letter to the president and Congress on Thursday asking them restore the department\u2019s funding."
+        ],
+        [
+            "\u201cDHS employees who protect the traveling public, investigate and counter terrorism, and protect critical infrastructure should not have to rely on the charitable generosity of others for assistance in feeding their families and paying their bills while they steadfastly focus on the mission at hand,\u201d the letter said. "
+        ],
+        [
+            "\u201cThis is unconscionable.\u201d"
+        ],
+        [
+            "President Trump on Saturday announced a compromise plan that funded the wall while extending protections for 700,000 illegal immigrants brought to the country as children and 300,000 immigrants from countries designated unsafe to return. "
+        ],
+        [
+            "However, Democrats rejected the plan even before Trump announced it, and a Senate version of the plan failed to get the 60 votes needed on Thursday. "
+        ],
+        [
+            "A second bill, already passed by the Democrat-controlled House to re-open the government, also fell short."
+        ],
+        [
+            "On Thursday, Trump had promised that Republicans \u201cwill not cave\" on border wall demands."
+        ],
+        [
+            ""
+        ]
+    ],
+    "source": "fox",
+    "url": "https://www.foxnews.com/politics/trump-to-make-announcement-on-partial-government-shutdown-from-rose-garden",
+    "date": "2019-01-25"
+}

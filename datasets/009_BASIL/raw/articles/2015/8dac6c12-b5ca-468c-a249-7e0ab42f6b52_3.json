@@ -1,0 +1,46 @@
+{
+    "source": "hpo",
+    "main-entities": ["Hillary Clinton","Nancy Pelosi","Barack Obama"],
+    "main-event": "Hillary Clinton suggests Obama should listen to his allies  on trade",
+    "title": "Hillary Clinton: Obama Should Listen To Nancy Pelosi On Trade",
+    "url": "https://www.huffingtonpost.com/2015/06/14/hillary-clinton-trade-deal_n_7580768.html?ec_carp=1234129881583327902",
+    "word-count": 336,
+    "date": "2015-06-14",
+    "uuid": "65bb63ac-97df-4ef0-b61e-2946d2ec0003",
+    "triplet-uuid": "8dac6c12-b5ca-468c-a249-7e0ab42f6b52",
+    "body-paragraphs": [
+        [
+            "Democratic presidential hopeful Hillary Clinton encouraged President Barack Obama on Sunday to listen to House Minority Leader Nancy Pelosi (D) on trade."
+        ],
+        [
+            "Pelosi took to the House floor Friday to oppose trade legislation Obama had personally lobbied for on Capitol Hill earlier that day."
+        ],
+        [
+            "\u201cWe have an opportunity to slow down,\u201d Pelosi said.",
+            "\u201cWhatever the deal is with other countries, we want a better deal for America\u2019s workers.\u201d",
+            "Following her speech, House Democrats rejected Obama's trade agenda in overwhelming numbers.",
+            "Obama spent the weekend lobbying members of his party to switch their votes next week."
+        ],
+        [
+            "At a rally in Iowa, Clinton said that if the president can't come to terms with Pelosi, there should be no deal.",
+            "\"Here's what I think should happen now,\" Clinton said.",
+            "\"The president should listen to and work with his allies in Congress, starting with Nancy Pelosi, who have expressed their concerns about the impact that a weak agreement would have on our workers, to make sure we get the best, strongest deal possible and if we don't get it, there should be no deal.\""
+        ],
+        [
+            "Clinton said she wants to \"find out what's in it and make it as good as it can be,\" and pushed for more transparency \"so the American people can actually see what will be in a finalized deal.\""
+        ],
+        [
+            "House Democrats rejected Obama's trade agenda Friday by blocking a measure that would have granted him the power to fast-track sweeping, secretive international agreements through Congress."
+        ],
+        [
+            "Clinton refrained from mentioning trade in her official campaign kickoff speech that took place at New York City's Roosevelt Island on Saturday.",
+            "Ahead of her remarks in Iowa on Sunday, her campaign said she would not be taking a position on trade until details of a deal were finalized."
+        ],
+        [
+            "However, Clinton appeared to suggest she would seek to negotiate the trade agreement as president."
+        ],
+        [
+            "\"No president would be a tougher negotiator on behalf of American workers, either with our trading partners or Republicans on Capitol Hill, than I would be,\" she said."
+        ]
+    ]
+}

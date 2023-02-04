@@ -1,0 +1,64 @@
+{
+    "source": "nyt",
+    "main-entities": ["William Barr", "Democrats presidential candidates", "Donald Trump"],
+    "main-event": "Democrats demand release of full Mueller report",
+    "title": "2020 Candidates Demand Full and Immediate Release of Mueller Report",
+    "url": "https://www.nytimes.com/2019/03/22/us/politics/mueller-report-2020-candidates.html",
+    "word-count": 586,
+    "date": "2019-03-22",
+    "uuid": "0ca964be-f97d-4990-ad42-23beee1d017a",
+    "triplet-uuid": "e71d149d-0426-43f0-87e8-8c611dad7205",
+    "body-paragraphs": [
+        [
+            "CHARLESTON, S.C. \u2014 Democratic presidential candidates wasted no time Friday evening demanding the immediate public release of the long-awaited report from Robert S. Mueller III, with several saying that Americans deserved to know any findings about President Trump, Russia and the 2016 election in order to form judgments about Mr. Trump and the 2020 race."
+        ],
+        [
+            "Former Representative Beto O\u2019Rourke, campaigning in South Carolina on Friday night, told reporters that \u201cthose facts, that truth, needs to be laid out for all Americans to be able to make informed decisions going forward, whether at the ballot box\u201d or in their discussions with their senators and representatives."
+        ],
+        [
+            "Mr. O\u2019Rourke, asked if he supported impeaching Mr. Trump, said he believed the president and his 2016 campaign \u201cat least sought to collude with the Russian government to undermine our democracy\u201d and that Mr. Trump \u201csought to obstruct justice\u201d once in office."
+        ],
+        [
+            "\u201cI think those are grounds enough for members of the House to bring up the issue of impeachment,\u201d he said.",
+            "\u201cBut whether they do or not, this will ultimately be decided by the American public at the ballot box in South Carolina and in every state of the union.\u201d"
+        ],
+        [
+            "No voters brought up the Mueller report to Mr. O\u2019Rourke as he spoke to them Friday.",
+            "Indeed, in the hours after the announcement of the report, Democratic candidates reacted over Twitter or in remarks at events rather than in back-and-forth conversations with voters."
+        ],
+        [
+            "Several candidates, in calling for the swift release of the report, also sought to gather new supporters and their email addresses by putting out \u201cpetitions\u201d calling for complete transparency from the Justice Department."
+        ],
+        [
+            "\u201cThe Trump Administration shouldn\u2019t get to lock up Robert Mueller\u2019s report and throw away the key,\u201d Senator Cory Booker argued on Twitter, asking people to sign a petition and provide their names and emails.",
+            "Such information is often used for future fund-raising solicitations."
+        ],
+        [
+            "Within hours of Mr. Mueller\u2019s completing his investigation, Senator Elizabeth Warren and the campaign arm of House Democrats were already placing ads on Facebook demanding the full report\u2019s release, with the Democratic Congressional Campaign Committee seeking 100,000 signatures for its online petition."
+        ],
+        [
+            "With no detailed information available about the report, Ms. Warren and Mr. Booker \u2014 as well as Senators Kirsten Gillibrand and Kamala Harris \u2014 sought to focus attention and pressure on how quickly Attorney General William P. Barr would release the full report."
+        ],
+        [
+            "\u201cAttorney General Barr \u2014 release the Mueller report to the American public. Now,\u201d Ms. Warren wrote on Twitter."
+        ],
+        [
+            "Ms. Gillibrand made similar demands and also retweeted the news of the report along with three words: \u201cSee you Sunday.\u201d",
+            "That is when Ms. Gillibrand plans to formally kick off her 2020 campaign in front of Trump International Tower in New York."
+        ],
+        [
+            "Ms. Harris, in addition to calling for the report to be released \u201cimmediately,\u201d called on Mr. Barr to \u201cpublicly testify under oath about the investigation and its findings.\u201d"
+        ],
+        [
+            "Ms. Harris, Ms. Warren and Ms. Gillibrand also joined Mr. Booker and Senator Bernie Sanders in asking supporters to sign their petitions calling for the report\u2019s immediate release."
+        ],
+        [
+            "Four other candidates \u2014 Senators Amy Klobuchar of Minnesota; Gov. Jay Inslee of Washington; former Representative John Delaney; and Juli\u00e1n Castro \u2014 also called for the release of the full report."
+        ],
+        [
+            "\u201cAs Donald Trump said, \u2019Let it come out,\u2019\u201d Mr. Sanders wrote on Twitter.",
+            "\u201cI call on the Trump administration to make Special Counsel Mueller\u2019s full report public as soon as possible.",
+            "No one, including the president, is above the law.\u201d"
+        ]
+    ]
+}

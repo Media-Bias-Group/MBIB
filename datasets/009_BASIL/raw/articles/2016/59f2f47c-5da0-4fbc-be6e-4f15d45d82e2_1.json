@@ -1,0 +1,41 @@
+{
+    "source": "nyt",
+    "main-entities": ["Donald Trump", "Ted Cruz"],
+    "main-event": "Trump and Cruz argue over personal attacks",
+    "title": "Arguments Get Personal Between Donald Trump and Ted Cruz",
+    "url": "https://www.nytimes.com/politics/first-draft/2016/03/25/arguments-get-personal-between-donald-trump-and-ted-cruz/",
+    "word-count": 330,
+    "date": "2016-03-25",
+    "uuid": "180f27cd-7dce-467b-bf2a-459029e6f3ea",
+    "triplet-uuid": "59f2f47c-5da0-4fbc-be6e-4f15d45d82e2",
+    "body-paragraphs": [
+        [
+            "From his home at Mar-a-Lago, Donald J. Trump stirred up new controversy this week in the Republican presidential primary \u2014 and new alarm among party leaders that the front-runner for the nomination will drive away women from candidates running farther down the ballot in the fall."
+        ],
+        [
+            "All week, Mr. Trump has slowly escalated a war of words on Twitter against Senator Ted Cruz of Texas, his main competition in the Republican race, based on an ad by a \u201csuper PAC\u201d started by people who want to stop the New York developer from getting the nomination.",
+            "The spot featured an old nude photo shoot of Mr. Trump\u2019s wife Melania Trump, a former model, posing on his jet."
+        ],
+        [
+            "Mr. Cruz has no affiliation with the super PAC, and he has denounced the ad.",
+            "But Mr. Trump has continued to express disbelief.",
+            "After threatening to \u201cspill the beans\u201d on Mr. Cruz\u2019s wife, Heidi Cruz, who suffered a bout of depression years ago, he retweeted a post from someone who made a side-by-side photo comparison of Mrs. Cruz at an unflattering angle, and Mrs. Trump."
+        ],
+        [
+            "On Wednesday, Mr. Cruz repeatedly quoted from the movie \u201cThe American President\u201d to defend his wife, as she held an event and faced questions about Mr. Trump\u2019s threats.",
+            "But that was before Mr. Trump\u2019s Twitter post with the pictures of the two women.",
+            "And Mr. Cruz had finally had enough."
+        ],
+        [
+            "Calling Mr. Trump a \u201csniveling coward,\u201d Mr. Cruz told his rival to \u201cleave Heidi the hell alone.\u201d"
+        ],
+        [
+            "It\u2019s useful to remember the news media outrage in 2012 when Todd Akin, running as the Republican nominee for Senate in Missouri, defended what he called \u201clegitimate rape,\u201d a remark that was overwhelmingly offensive to women.",
+            "Under pressure from news outlets, the Republican Party tried to cauterize the wound that Mr. Akin had created by isolating him."
+        ],
+        [
+            "Spouses are generally seen as off limits.",
+            "And the responses to Mr. Trump\u2019s comments among news media critics, over time, have been far more subdued."
+        ]
+    ]
+}

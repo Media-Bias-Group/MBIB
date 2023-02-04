@@ -1,0 +1,58 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Marco_Rubio": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Marco_Rubio": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 86,
+            "id": "p6",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 11,
+            "target": "Marco_Rubio",
+            "txt": "who sits on the Senate Foreign Relations and Senate Intelligence committees"
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 37,
+            "id": "p8",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 30,
+            "target": "Marco_Rubio",
+            "txt": "greater"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 259,
+            "id": "p6",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "sounds like he's scheming",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 88,
+            "target": "Marco_Rubio",
+            "txt": "has used his time in Congress to burnish his foreign policy credits and cast himself as a defense hawk: a position that could help him stand out in a crowded primary field"
+        }
+    ],
+    "triplet-uuid": "7f9c83f7-3efa-4c7a-adef-3ebdeda96042",
+    "uuid": "7c1ef53d-6333-462a-81d6-d996d9b7f67d"
+}

@@ -1,0 +1,90 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Democratic_Lawmakers": "neu",
+        "author_feeling_Republican_Lawmakers": "neu",
+        "author_feeling_main_event": "neg",
+        "notes": "\nMain entity: Rare comity at Capitol after shooting doesn't last",
+        "relative_stance": "liberal",
+        "you_feeling_Democratic_Lawmakers": "neu",
+        "you_feeling_Republican_Lawmakers": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 137,
+            "id": "p6",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 68,
+            "target": "Democratic_Lawmakers",
+            "txt": "some of the Democrats in the crowd booed, but less lustily than usual"
+        },
+        {
+            "aim": "ind_pro",
+            "bias": "inf",
+            "end": 107,
+            "id": "p24",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "Donald Trump",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Republican_Lawmakers",
+            "txt": "In a Thursday morning tweet, Mr. Trump railed against the \u201cWITCH HUNT\u201d of investigations of his associates."
+        },
+        {
+            "aim": "ind_pro",
+            "bias": "inf",
+            "end": 102,
+            "id": "p27",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "Nancy Pelosi",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Democratic_Lawmakers",
+            "txt": "And Ms. Pelosi could not resist suggesting that Republicans were the initiators of the present rancor."
+        },
+        {
+            "aim": "ind_pro",
+            "bias": "inf",
+            "end": 97,
+            "id": "p38",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "Mitch McConnell",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 51,
+            "target": "Republican_Lawmakers",
+            "txt": "deploying a rare complimentary double negative"
+        },
+        {
+            "aim": "ind_pro",
+            "bias": "inf",
+            "end": 142,
+            "id": "p26",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "Sean Hannity",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 104,
+            "target": "Republican_Lawmakers",
+            "txt": "who is not known for bipartisan spirit"
+        }
+    ],
+    "triplet-uuid": "58f414e5-a122-49f5-819e-512d91069da5",
+    "uuid": "f2c16873-7db9-4345-b0af-715564e73a7b"
+}

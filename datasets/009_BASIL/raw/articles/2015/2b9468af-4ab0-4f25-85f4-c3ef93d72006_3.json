@@ -1,0 +1,69 @@
+{
+    "source": "fox",
+    "main-entities": ["Benjamin Netanyahu","Susan Rice", "Joe Biden"],
+    "main-event": "Netanyahu plans to deliver a speech to Congress",
+    "title": "Susan Rice calls Netanyahu's Capitol Hill speech 'destructive' to US-Israel relations",
+    "url": "http://www.foxnews.com/politics/2015/02/25/white-house-adviser-rice-says-netanyahu-capitol-hill-address-destructive-to-us.html",
+    "word-count": 585,
+    "date": "2015-02-25",
+    "uuid": "8b93035f-edd3-48b7-b617-59399ccddca4",
+    "triplet-uuid": "2b9468af-4ab0-4f25-85f4-c3ef93d72006",
+    "body-paragraphs": [
+        [
+            "National Security Adviser Susan Rice warned that Israeli Prime Minister Benjamin Netanyahu\u2019s upcoming Capitol Hill address will be a \u201cdestructive\u201d force in long-standing U.S.-Israel relations, adding more political acrimony to the already contentious visit."
+        ],
+        [
+            "Netanyahu was invited by House Speaker John Boehner, the leader of the Republican-controlled chamber, without him first conferring with the White House or State Department."
+        ],
+        [
+            "Such a move is generally considered a diplomatic no-no, but Boehner says he wanted to bring in Netanyahu to address the nuclear threat from Iran amid ongoing negotiations between Washington and Tehran.",
+            "The visit, though, has further challenged the strained relationship between President Obama and Netanyahu."
+        ],
+        [
+            "\"It's destructive to the fabric of the relationship,\" Rice said Tuesday on PBS\u2019s the \u201cCharlie Rose\u201d show.",
+            "\u201cIt\u2019s always been bipartisan. We need to keep it that way.\""
+        ],
+        [
+            "Rice's statements were among the Obama administration's toughest on Netanyahu's speech, set for March 3.",
+            "To date, administration officials had maintained a more low-key stance, voicing concerns about the visit while saying Obama would not meet with his Israeli counterpart strictly out of a desire not to influence Israel's tight elections."
+        ],
+        [
+            "But tensions are rising on all sides."
+        ],
+        [
+            "Rice's comments came as Netanyahu turned down an invitation to meet privately with leading Senate Democrats during his trip to Washington, saying such a session could \"compound the misperception of partisanship\" surrounding his visit."
+        ],
+        [
+            "Netanyahu told Sens. Dick Durbin, of Illinois, and Dianne Feinstein, of California, that he regrets the invitation has been perceived by some to be political or partisan."
+        ],
+        [
+            "\"I can assure you that my sole intention in accepting it was to voice Israel's grave concerns about a potential nuclear agreement with Iran that could threaten the survival of my country,\" he told the senators in a letter."
+        ],
+        [
+            "U.S. officials suggest Netanyahu\u2019s trip is aimed primarily at derailing a nuclear deal with Iran, a signature Obama foreign policy objective."
+        ],
+        [
+            "While Netanyahu has long been skeptical of the negotiations, his opposition has increased over what he sees as Obama's willingness to make concessions that would leave Iran on the brink of being able to build a nuclear weapon.",
+            "U.S. and Iranian officials reported progress in negotiations this week on a deal that would clamp down on Tehran's nuclear activities for at least 10 years but then slowly ease restrictions.",
+            "Israeli officials warned this week that such a deal would allow Iran to become a nuclear threshold state."
+        ],
+        [
+            "Vice President Biden won't attend the Netanyahu speech.",
+            "And more than a half-dozen House and Senate Democrats also have said they will skip the event, calling it an affront to Obama and the administration as they negotiate with Iran over its nuclear program."
+        ],
+        [
+            "But Republican Sen. Lindsey Graham, R-S.C., called Biden\u2019s absence \u201cappalling and unacceptable.\u201d"
+        ],
+        [
+            "\"I don\u2019t know where Joe Biden will be or what he will be doing, but I can\u2019t believe it\u2019s more important than being in the chamber and listening to our best ally in the region -- Israel -- about the biggest threat to mankind, a nuclear-armed Iran. ...",
+            "It shows complete disrespect, it shows they\u2019re more worried about the politics in Israel than receiving information about a common threat,\" Graham, R-S.C., said Tuesday night on Fox News' \"On the Record with Greta Van Susteren.\""
+        ],
+        [
+            "Durbin said he regretted that Netanyahu could not meet with the Democrats."
+        ],
+        [
+            "\"We offered the prime minister an opportunity to balance the politically divisive invitation from Speaker Boehner.\" Durbin said.",
+            "\"His refusal to meet is disappointing to those of us who have stood by Israel for decades.\""
+        ]
+    ]
+}

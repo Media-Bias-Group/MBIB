@@ -1,0 +1,84 @@
+{
+    "uuid": "1bd4b16c-e71f-4421-b4e4-67679001fb2f",
+    "main-event": "Donald Trump is inaugurated",
+    "main-entities": [
+        "Donald Trump"
+    ],
+    "title": "President Trump takes office vowing to restore prosperity, \u2018fight\u2019 for country",
+    "triplet-uuid": "84b3c118-50d2-45a5-a91f-7ed95b5d0143",
+    "body-paragraphs": [
+        [
+            "Donald Trump assumed the nation\u2019s highest office Friday as the 45th president of the United States, vowing in a tough inaugural address to restore prosperity and \u201cfight\u201d for the country \u201cwith every breath.\u201d"
+        ],
+        [
+            "In a succinct speech heavy on populist themes, the new president told Americans across the country they will \u201cnever be ignored again\u201d and promised concrete results."
+        ],
+        [
+            "\u201cThe time for empty talk is over. Now arrives the hour of action,\u201d he said."
+        ],
+        [
+            "The president addressed a packed crowd of spectators stretching from the Capitol across the National Mall on a mild but overcast and at-times drizzly day, after taking the oath of office along with Vice President Mike Pence. ",
+            "The speech did not delve into policy details, and rather reprised objectives from his 2016 campaign on trade, immigration and national security."
+        ],
+        [
+            "But the address was stitched together, more broadly, by an appeal for a \u201cnew national pride\u201d and a rediscovery of American patriotism, as he described this as a salve for the country\u2019s divisions."
+        ],
+        [
+            "\u201cWhen you open your heart to patriotism, there is no room for prejudice,\u201d he said."
+        ],
+        [
+            "He also rebuked those who have held power in Washington, saying a small group reaped the rewards of government while \u201cthe people did not share\u201d in Washington\u2019s wealth."
+        ],
+        [
+            "The address completes Trump\u2019s remarkable journey from political outsider written off by countless Beltway pundits to the most powerful man in the country.",
+            "His campaign manager Kellyanne Conway noted in an earlier interview with Fox News that Trump was \u201cmaking history\u201d as a businessman with no prior political or military experience \u2013 someone successful in the private sector coming to Washington \u201cowing nobody anything.\u201d"
+        ],
+        [
+            "In blunt and unvarnished terms similar to the language used during his nomination acceptance address last summer, Trump on Friday lamented the jobs lost to foreign rivals \u2013 he described \u201crusted out factories scattered like tombstones\u201d across the land \u2013 and the crime in America\u2019s cities."
+        ],
+        [
+            "\u201cThis American carnage stops right here and stops right now,\u201d Trump said."
+        ],
+        [
+            "Trump cast his presidency as a return to power for the people and vowed never to let them down."
+        ],
+        [
+            "\u201cFrom this day forward, it\u2019s going to be only America first,\u201d Trump said. ",
+            "\u201cI will fight for you with every breath in my body, and I will never, ever let you down. \u2026 ",
+            "We will bring back our jobs, we will bring back our borders, we will bring back our wealth and we will bring back our dreams.\u201d"
+        ],
+        [
+            "He also vowed to eradicate Islamic terrorism."
+        ],
+        [
+            "Telling the American people this is \u201cyour moment\u201d and \u201cyour day,\u201d Trump closed his speech with the promise that started it all: \u201cWe will make America great again.\u201d"
+        ],
+        [
+            "As Barack and Michelle Obama depart the White House after eight years in office, Trump will immediately be confronted with the challenge of governing, as he attempts to apply his CEO experience to running the nation. ",
+            "His team has vowed a \u201crobust\u201d start to the Trump administration, which could include everything from rescinding controversial Obama actions to renegotiating trade deals to repealing and replacing the Affordable Care Act."
+        ],
+        [
+            "An immediate task for the new administration will be to get Trump\u2019s Cabinet nominees confirmed. ",
+            "His advisers have complained that Democrats are slowing the process, and resisting the kind of swift confirmation the Senate gave many of Obama\u2019s nominees in 2009."
+        ],
+        [
+            "Before he spoke on Friday, throngs of protesters were causing disruptions on the edges of the security zone in Washington. ",
+            "Some blocked checkpoints and forced their temporary closure earlier Friday morning, while elsewhere demonstrators resorted to violence and vandalism. ",
+            "They clashed with police later in the afternoon, amid dozens of arrests."
+        ],
+        [
+            "While dozens of House Democrats boycotted Friday\u2019s ceremonies \u2013 a move that fueled disputes with Trump\u2019s team over the weekend \u2013 other prominent Democrats and past presidents of both parties were in attendance for the transfer of power. ",
+            "Democratic presidential nominee Hillary Clinton, whose loss to Trump marked one of the biggest upsets in modern political history, attended and tweeted shortly before Trump took the oath that she came to \u201chonor our democracy & its enduring values.\u201d"
+        ],
+        [
+            "\u201cI will never stop believing in our country & its future,\u201d she wrote."
+        ],
+        [
+            "Donald and Melania Trump met with the Obamas earlier Friday morning after attending a church service in Washington. ",
+            "The new first family headed later to the parade along Pennsylvania Avenue, before an evening of inaugural balls and other festivities."
+        ]
+    ],
+    "source": "fox",
+    "url": "https://www.foxnews.com/politics/president-trump-takes-office-vowing-to-restore-prosperity-fight-for-country",
+    "date": "2017-01-20"
+}

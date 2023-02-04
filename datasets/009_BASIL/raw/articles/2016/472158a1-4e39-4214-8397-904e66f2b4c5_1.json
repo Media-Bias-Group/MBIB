@@ -1,0 +1,77 @@
+{
+    "source": "nyt",
+    "main-entities": ["Michael Bloomberg", "Donald Trump"],
+    "main-event": "Bloomberg criticizes Trump at DNC",
+    "title": "For Trump and Bloomberg, Cordial Ties Have Soured",
+    "url": "https://www.nytimes.com/2016/07/29/nyregion/for-trump-and-bloomberg-cordial-ties-have-soured.html",
+    "word-count": 671,
+    "date": "2016-07-28",
+    "uuid": "aa0d8255-1e70-4563-9aad-2538d1cb57e4",
+    "triplet-uuid": "472158a1-4e39-4214-8397-904e66f2b4c5",
+    "body-paragraphs": [
+        [
+            "Listening to Michael R. Bloomberg rage about Donald J. Trump in his speech at the Democratic National Convention this week \u2014 labeling him a public menace and hinting that he was not quite sane \u2014 it would be easy to think that the two billionaires had a rift going back many years."
+        ],
+        [
+            "\u201cTrump says he wants to run the nation like he\u2019s run his business,\u201d Mr. Bloomberg said on Wednesday.",
+            "\u201cGod help us.\u201d"
+        ],
+        [
+            "But in all their time in New York City, their interactions have been limited, yet cordial, according to people who know both of them."
+        ],
+        [
+            "They existed in different circles of New York\u2019s ultrarich: Mr. Bloomberg is known as a generous philanthropist; Mr. Trump appears to have been flinty in his giving.",
+            "Mr. Bloomberg is a supporter of the arts and aligns himself with Manhattan\u2019s sophisticated cultural scene; Mr. Trump relishes in being crude."
+        ],
+        [
+            "Mr. Bloomberg made his billions in finance and technology; Mr. Trump got his start in real estate before becoming a casino magnate and then a reality-show celebrity.",
+            "Mr. Bloomberg is not overly ostentatious for a man of great wealth; Mr. Trump loves to show off his possessions."
+        ],
+        [
+            "\u201cI\u2019ve been by Mike\u2019s side for 19 years, and I\u2019ve never met Donald Trump,\u201d said Kevin Sheekey, an adviser to Mr. Bloomberg, underscoring the extent to which the men were not close.",
+            "\u201cTrump hasn\u2019t been part of the business, political or charitable community since the Koch administration.",
+            "The only place Mike and Donald would have seen each other is on a golf course or on a TV set.\u201d"
+        ],
+        [
+            "On at least a few occasions, Mr. Bloomberg and Mr. Trump met up on the golf links.",
+            "In 2007, when Mr. Bloomberg was in the second of his three terms as mayor, the two played together in a charity event at Trump National Golf Club in the city\u2019s northern suburbs.",
+            "An article in New York magazine described how Mr. Trump, Mr. Bloomberg, the comedian Billy Crystal and the former New York Yankees manager Joe Torre were set to play together in the lead foursome \u2014 but could not agree on who would go first."
+        ],
+        [
+            "\u201cHow about the mayor starts it off in honor of the city?\u201d Mr. Trump was quoted as saying, playing peacemaker and showing deference to Mr. Bloomberg."
+        ],
+        [
+            "Mr. Bloomberg also appeared twice on Mr. Trump\u2019s reality TV show, \u201cThe Apprentice,\u201d in 2004 and 2008, in part as a way to demonstrate support for the show, which was produced in New York."
+        ],
+        [
+            "And the men have a filial connection: acquaintances said that Mr. Bloomberg\u2019s daughter Georgina is friends with Mr. Trump\u2019s daughter Ivanka."
+        ],
+        [
+            "Mr. Trump, an avid user of Twitter, made positive comments about Mr. Bloomberg when he was in office.",
+            "\u201cMike Bloomberg is doing a great job as mayor of New York City,\u201d he posted in 2012."
+        ],
+        [
+            "In 2013, he praised Mr. Bloomberg\u2019s administration for choosing him to finish a stalled Bronx golf course project, and then wrote on Twitter about a ribbon-cutting with the mayor."
+        ],
+        [
+            "In 2014, Mr. Trump tweeted congratulations at Georgina for winning an equestrian tournament."
+        ],
+        [
+            "But the cordiality dissipated not long after Mr. Trump declared his candidacy.",
+            "Mr. Bloomberg began exploring his own presidential bid, as an independent, in part to block Mr. Trump from being elected.",
+            "And when Mr. Bloomberg ruled out running, he did so because he said he did not want his third-party candidacy to siphon enough votes to help Mr. Trump."
+        ],
+        [
+            "\u201cAs a former Republican presidential campaign manager told me, Hillary has some baggage, but Trump is crazy,\u201d said Mr. Sheekey, who was involved in Mr. Bloomberg\u2019s explorative bid.",
+            "\u201cAnd you can\u2019t fix crazy.\u201d"
+        ],
+        [
+            "Mr. Trump, typically, has not shied away from counterattacks.",
+            "In a CNN interview in January, Mr. Trump voiced skepticism that Mr. Bloomberg was worth as much as Forbes magazine estimated and speculated that Mr. Bloomberg\u2019s company, which provides data terminals to financial firms and wealthy individuals, was vulnerable to competitors."
+        ],
+        [
+            "\u201cWe used to be friends,\u201d Mr. Trump told CNN.",
+            "\u201cI guess we\u2019re not friends anymore.\u201d"
+        ]
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "article-level-annotations": {
+        "author_feeling_BuzzFeed": "neu",
+        "author_feeling_Donald_Trump": "neu",
+        "author_feeling_Michael_Cohen": "neu",
+        "author_feeling_Robert_Mueller": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_BuzzFeed": "neu",
+        "you_feeling_Donald_Trump": "neu",
+        "you_feeling_Michael_Cohen": "neu",
+        "you_feeling_Robert_Mueller": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "ind_general",
+            "bias": "lex",
+            "end": 85,
+            "id": "p1",
+            "indirect-ally-opponent-sentiment": "neu",
+            "indirect-target-name": "Robert Mueller",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 72,
+            "target": "BuzzFeed",
+            "txt": "\u201cdescription\u201d"
+        },
+        {
+            "aim": "ind_general",
+            "bias": "lex",
+            "end": 154,
+            "id": "p1",
+            "indirect-ally-opponent-sentiment": "neu",
+            "indirect-target-name": "Robert Mueller",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 136,
+            "target": "BuzzFeed",
+            "txt": "\u201ccharacterization\u201d"
+        },
+        {
+            "aim": "ind_anti",
+            "bias": "inf",
+            "end": 64,
+            "id": "p14",
+            "indirect-ally-opponent-sentiment": "pos",
+            "indirect-target-name": "Dianne Feinstein",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Donald_Trump",
+            "txt": "Feinstein is a ranking member of the Senate Judiciary Committee."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 128,
+            "id": "p21",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "kind of a Trump quote (paraphrase)",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 58,
+            "target": "Michael_Cohen",
+            "txt": "Cohen of lying to the special counsel in order to reduce his jail time"
+        }
+    ],
+    "triplet-uuid": "c9e4d35f-aeae-462b-a8bf-e08d09a93b6e",
+    "uuid": "1de08e6e-55b4-4b5b-892b-69a8ff5aa881"
+}

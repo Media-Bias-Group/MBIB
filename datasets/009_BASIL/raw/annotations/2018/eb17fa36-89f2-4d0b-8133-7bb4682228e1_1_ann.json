@@ -1,0 +1,43 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Duncan_and_Margaret_Hunter": "neg",
+        "author_feeling_main_event": "neu",
+        "notes": "quotes attorney defending the Hunters (other articles don't)",
+        "relative_stance": "conservative",
+        "you_feeling_Duncan_and_Margaret_Hunter": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 268,
+            "id": "p12",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 69,
+            "target": "Duncan_and_Margaret_Hunter",
+            "txt": "allegedly was aware of what he and his wife were doing and continued to spend campaign funds on personal expenses despite multiple warnings from his campaign treasurer about \u201cquestionable purchases.\u201d"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 93,
+            "id": "p14",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Duncan_and_Margaret_Hunter",
+            "txt": "U.S. Attorney Adam Braverman said Tuesday\u2019s indictment proved that \u201cno one is above the law.\u201d"
+        }
+    ],
+    "triplet-uuid": "eb17fa36-89f2-4d0b-8133-7bb4682228e1",
+    "uuid": "85642250-766d-4a22-9432-f5e9b2762bcd"
+}

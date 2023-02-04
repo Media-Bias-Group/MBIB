@@ -1,0 +1,103 @@
+{
+    "source": "hpo",
+    "main-entities": ["AARP","Barack Obama","social security", "Republicans"],
+    "main-event": "AARP drops its opposition to Social Security cuts",
+    "title": "AARP Willing To Negotiate On Social Security Retirement Age",
+    "url": "https://www.huffingtonpost.com/2011/06/17/aarp-social-security_n_878966.html",
+    "word-count": 896,
+    "date": "2011-06-17",
+    "uuid": "db7cf1fb-24d7-4958-bbb3-8032723e0ee6",
+    "triplet-uuid": "576116e5-2b18-4d35-be73-36f5863c9468",
+    "body-paragraphs": [
+        [
+            "WASHINGTON -- The nation's leading advocate for senior citizens says that it hasn't wavered in its opposition to cutting Social Security benefits, though a top official with the group said it is open to a discussion about raising the retirement age and other changes."
+        ],
+        [
+            "The Wall Street Journal reported Friday morning that AARP, one of the most influential lobbying groups in Washington, was softening its opposition to cutting retirement benefits."
+        ],
+        [
+            "AARP initially pushed back against the newspaper's story."
+        ],
+        [
+            "\"Stay tuned -- our position has not changed on Social Security,\" an AARP spokeswoman said in an email to HuffPost."
+        ],
+        [
+            "AARP legislative policy director David Certner said on CNN Friday that \"there was some miscommunication with the Wall Street Journal story.\""
+        ],
+        [
+            "But then Certner acknowledged that AARP believes the program needs to be changed."
+        ],
+        [
+            "\"Everybody knows we need to look at a package of different changes to Social Security to make it strong for the long term,\" he said.",
+            "\"The reality is, we have more people older and who are living longer, so we need to make changes.",
+            "Everybody recognizes that.",
+            "And we're certainly willing to talk about a package of changes that will keep Social Security strong.\""
+        ],
+        [
+            "He suggested raising the age at which retirees can receive full benefits -- currently, 66 years old -- would be on the table even though doing so represents \"a massive benefit cut for people.\""
+        ],
+        [
+            "The 37 million-member lobbying powerhouse launched a national ad campaign Thursday warning members of Congress not to reduce benefits for recipients of Social Security and Medicare."
+        ],
+        [
+            "Jonathan Cowan, president of centrist think tank Third Way, hailed AARP's apparent reversal, per the Journal story."
+        ],
+        [
+            "\"Today marks a watershed moment in American politics,\" Cowan said.",
+            "\"For decades, AARP has stood against any substantial changes to Social Security.",
+            "Now that they have opened the door to reform, it is time for lawmakers to walk through it.\""
+        ],
+        [
+            "Yet AARP reassured labor groups that it had not changed its position on Social Security, labor officials told HuffPost."
+        ],
+        [
+            "\"The AARP has a history of division between the top folks and their base on these issues.",
+            "The top folks like to be in the inside game,\" one union official said.",
+            "\"But they are walking backwards now.\""
+        ],
+        [
+            "The official said that he and other opponents of benefit cuts had been told that AARP's \"longstanding position\" hadn't changed, but there was some uncertainty about what that position actually is."
+        ],
+        [
+            "If AARP is open to reducing benefits, it would be a major boost for Social Security reformers who say the program is too generous and therefore unaffordable."
+        ],
+        [
+            "Social Security will start paying out more in benefits than it absorbs in taxes this year which will lead the retirement program's trust fund to become exhausted in 2036, according to the latest annual trustees report.",
+            "After 2036, the program will only be able to pay 77 percent of promised benefits.",
+            "By 2085, it will be able to pay 74 percent of promised benefits."
+        ],
+        [
+            "As of April, 35 million seniors received Social Security retirement benefits averaging $1,179 a month, according to the program's latest monthly snapshot."
+        ],
+        [
+            "Economists credit the program for drastically reducing poverty among the elderly since its creation in the 1930s.",
+            "The Center on Budget and Policy Priorities, a progressive Washington think tank, estimates that Social Security keeps 13 million elderly Americans out of poverty."
+        ],
+        [
+            "The Journal reported that AARP policy chief John Rother is pushing the organization to accept benefit cuts as part of a deal to make Social Security solvent.",
+            "Rother's thinking, according to the paper, is that tax increases alone can't keep the program's $2.6 trillion trust fund from running out of money, so benefit cuts must be included as well."
+        ],
+        [
+            "Social Security's retirement benefits are funded with taxes on incomes up to $106,800, known as the taxable earnings base.",
+            "The base also effectively serves as a cap on benefits because they are calculated according to a worker's contributions over his or her lifetime."
+        ],
+        [
+            "A September 2010 Congressional Research Service report found that lifting the cap, without also raising benefits, would make the program solvent for the foreseeable future."
+        ],
+        [
+            "\"If all earnings were subject to the payroll tax, but the base was retained for benefit calculations, the Social Security Trust Funds would remain solvent for the next 75 years,\" said the report."
+        ],
+        [
+            "\"There are dozens of ways modest tax increases on even just the very wealthiest Americans would restore Social Security to long-run actuarial balance, and there would be enough left over to increase benefits,\" said Nancy Altman, co-chair of Strengthen Social Security, a 300-member coalition of national and state organizations opposed to benefit cuts."
+        ],
+        [
+            "The problem with plans to hike taxes is that they're politically unfeasible because of congressional Republicans' adamant opposition to any sort of tax increase, much less a tax increase not accompanied by a spending cut.",
+            "President Obama's National Commission on Fiscal Responsibility and Reform drafted a plan that would tweak Social Security by increasing taxes and reducing benefits both.",
+            "That proposal went nowhere."
+        ],
+        [
+            "UPDATE: AARP CEO A. Barry Rand said in a statement, \"It has long been AARP's policy that Social Security should be strengthened to provide adequate benefits and that it is sufficiently financed to ensure solvency with a stable trust fund for the next 75 years.\"",
+            "The statement does not deny that AARP is open to reducing benefits."
+        ]
+    ]
+}

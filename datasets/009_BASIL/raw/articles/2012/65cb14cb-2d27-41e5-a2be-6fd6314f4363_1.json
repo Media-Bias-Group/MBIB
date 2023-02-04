@@ -1,0 +1,75 @@
+{
+    "source": "nyt",
+    "main-entities": ["Rick Santorum", "Barack Obama"],
+    "main-event": "Rick Santorum defends his comments on Obama",
+    "title": "Santorum Defends Comments on Obama and Education",
+    "url": "http://thecaucus.blogs.nytimes.com/2012/02/19/santorum-defends-comments-on-obama-and-education/",
+    "word-count": 637,
+    "date": "2012-02-19",
+    "uuid": "0a21258c-2afe-48ad-ab32-1b7c1a9ec3c6",
+    "triplet-uuid": "65cb14cb-2d27-41e5-a2be-6fd6314f4363",
+    "body-paragraphs": [
+        [
+            "Updated: Rick Santorum on Sunday tried to clarify his comment that President Obama subscribed to a \u201cphony theology,\u201d saying he was referring not to the president\u2019s faith but to his view of man\u2019s relationship to the world."
+        ],
+        [
+            "It was during a campaign stop in Ohio on Saturday that Mr. Santorum described what he called the \u201cphony theology\u201d of Mr. Obama\u2019s agenda."
+        ],
+        [
+            "\u201cIt\u2019s about some phony ideal, some phony theology.",
+            "Oh, not a theology based on the Bible, a different theology,\u201d he said.",
+            "\u201cBut no less a theology.\u201d"
+        ],
+        [
+            "On Sunday, Robert Gibbs, a political adviser to President Obama, criticized such attacks on \u201ccharacter and faith.\u201d"
+        ],
+        [
+            "\u201cI can\u2019t help but think that those remarks are well over the line.",
+            "It\u2019s wrong. It\u2019s destructive,\u201d Mr. Gibbs said on the ABC News program \u201cThis Week,\u201d adding that it reflected the \u201cnastiness, divisiveness, ugliness\u201d and distortions of a hard-fought Republican nominating process."
+        ],
+        [
+            "Mr. Santorum, at another appearance on Saturday, in Columbus, Ohio, called the idea of schools being run by the federal government or by state governments \u201canachronistic.\u201d",
+            "Mr. Santorum did not say public schools were a bad idea, and he said that there was a role for government help in education."
+        ],
+        [
+            "\u201cWhere did they come up that public education and bigger education bureaucracies was the rule in America?\u201d he said.",
+            "\u201cParents educated their children, because it\u2019s their responsibility to educate their children.\u201d"
+        ],
+        [
+            "\u201cYes the government can help,\u201d Mr. Santorum added.",
+            "\u201cBut the idea that the federal government should be running schools, frankly \u2014 much less that the state government should be running schools \u2014 is anachronistic.",
+            "It goes back to the time of industrialization of America when people came off the farms where they did home-school or have the little neighborhood school, and into these big factories, so we built equal factories called public schools.",
+            "And while those factories as we all know in Ohio and Pennsylvania have fundamentally changed, the factory school has not.\u201d"
+        ],
+        [
+            "Asked about those remarks on the CBS News program \u201cFace the Nation,\u201d Mr. Santorum, who with his wife has home-schooled their children, remained adamant on Sunday."
+        ],
+        [
+            "While he said he did not oppose government financing of schools, Mr. Santorum said that \u201cpublic education should be a dynamic process that\u2019s locally run.\u201d"
+        ],
+        [
+            "\u201cI think the parent should be in charge,\u201d he added, \u201cworking with the local school district to try to design an educational environment for each child that optimizes their potential.\u201d"
+        ],
+        [
+            "Mr. Santorum also defended his criticism of a requirement in the president\u2019s health-care policy that insurance companies to cover prenatal testing.",
+            "He had said earlier that the policy was included to save money \u201cbecause free prenatal testing ends up in more abortions and therefore less care that has to be done, because we cull the ranks of the disabled in our society.\u201d"
+        ],
+        [
+            "The former Pennsylvania senator has a 3-year-old daughter, Bella, with a serious chromosomal disorder, and he said that doctors who detect such a condition before birth typically recommend abortion."
+        ],
+        [
+            "Asked whether he was suggesting that Mr. Obama lacked sympathy for the disabled, Mr. Santorum did not back down, saying, \u201cI think the president has a very bad record on the issue of abortion and children who are disabled.\u201d"
+        ],
+        [
+            "One of Mr. Santorum\u2019s rivals for the Republican nomination, Representative Ron Paul of Texas, scoffed at Mr. Santorum on Sunday for focusing on social issues like abortion and contraception \u2013 and for believing that he could defeat Mr. Obama."
+        ],
+        [
+            "\u201cWell, I don\u2019t see how that\u2019s possible,\u201d Mr. Paul said on the CNN program \u201cState of the Union.\u201d"
+        ],
+        [
+            "\u201cAnd this whole idea about talking about the social issues and who is going to pay for birth control pills,\u201d Mr. Paul said.",
+            "\u201cI\u2019m worried about undermining our civil liberties, the constant wars going on, the debt of $16 trillion.",
+            "And they are worried about birth control pills?\u201d"
+        ]
+    ]
+}

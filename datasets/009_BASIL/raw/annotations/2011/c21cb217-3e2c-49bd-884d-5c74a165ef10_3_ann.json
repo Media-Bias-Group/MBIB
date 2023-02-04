@@ -1,0 +1,58 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Anthony_Weiner": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Anthony_Weiner": "neu"
+    },
+    "pair-uuid": "c21cb217-3e2c-49bd-884d-5c74a165ef10",
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 79,
+            "id": "p0",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Anthony_Weiner",
+            "txt": "A day after telling reporters that he's \"not going to talk about this anymore,\""
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 142,
+            "id": "p26",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 123,
+            "target": "Anthony_Weiner",
+            "txt": "usual partisan edge"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 162,
+            "id": "p23",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Anthony_Weiner",
+            "txt": "The woman told the New York Daily News that she had never met Weiner, and that there had \"never been any inappropriate exchanges\" between her and the congressman."
+        }
+    ],
+    "uuid": "af996942-a8ed-489c-b641-c16a5f8f804b"
+}

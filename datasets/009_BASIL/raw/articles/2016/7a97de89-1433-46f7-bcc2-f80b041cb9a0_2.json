@@ -1,0 +1,88 @@
+{
+    "source": "nyt",
+    "main-entities": ["Paul LePage"],
+    "main-event": "Paul LePage remains in office",
+    "title": "Paul LePage, the Governor of Maine, Now Says He\u2019s Not Quitting",
+    "url": "https://mobile.nytimes.com/2016/09/01/us/paul-lepage-maine-governor.html",
+    "word-count": 869,
+    "date": "2016-08-31",
+    "uuid": "d0e3873f-ce2a-44cc-95db-7b1598f2a0b7",
+    "triplet-uuid": "7a97de89-1433-46f7-bcc2-f80b041cb9a0",
+    "body-paragraphs": [
+        [
+            "AUGUSTA, Me. \u2014 Paul R. LePage, the embattled Republican governor of Maine, declared on Wednesday that he would not step down despite widespread criticism over a profane threat and generalizations about drugs and race that had prompted him to hint on Tuesday that he might abort his second term."
+        ],
+        [
+            "\u201cI will not resign,\u201d said Mr. LePage, who tried to put to rest swirling questions about his state of mind."
+        ],
+        [
+            "\u201cI\u2019m not an alcoholic, and I\u2019m not a drug addict, and I don\u2019t have mental issues,\u201d he said.",
+            "\u201cWhat I have is a backbone.\u201d"
+        ],
+        [
+            "Mr. LePage nevertheless said he was seeking \u201cspiritual guidance,\u201d had apologized for his threat, and vowed to make one change to his behavior: \u201cI will no longer speak to the press ever again after today,\u201d he said."
+        ],
+        [
+            "Behind the scenes, state lawmakers \u2014 Democrats and Senate Republicans \u2014 exasperated after six years of political controversies and what they saw as erratic behavior, were scrambling to figure out what, if anything, they could do to formally address this latest crisis."
+        ],
+        [
+            "The controversy, which has galvanized the state, started last Wednesday when Mr. LePage made sweeping statements linking minorities to the state\u2019s drug crisis.",
+            "As criticism against him swelled, Mr. LePage came to believe that a Democratic lawmaker had called him a racist.",
+            "The governor then left him an expletive-laden voicemail message, which he followed up by threatening to shoot the lawmaker between the eyes.",
+            "In the ensuing days, Mr. LePage also reiterated his insistence that blacks and Hispanics were the vast majority of those arrested for dealing heroin in Maine."
+        ],
+        [
+            "Both Democrats and Republicans have denounced the remarks, as many legislators called for a special session to at least rebuke the governor over his latest tirade.",
+            "The state\u2019s four legislative caucuses have said that they believe all four would have to agree for a special session to be scheduled."
+        ],
+        [
+            "But on Tuesday, Mr. LePage\u2019s Republican allies in the House, including the minority leader, Kenneth Fredette, announced that they would oppose those efforts \u2014 essentially shielding him from any official political consequence."
+        ],
+        [
+            "That decision did not sit well with some other state Republicans, and on Wednesday morning, the spotlight shifted to them as the president of the Senate, whose members govern larger and more competitive districts, made a public break with his colleagues in the House."
+        ],
+        [
+            "\u201cWith all due respect, I completely disagree with Representative Fredette\u2019s position,\u201d the Republican leader, Michael Thibodeau, said in a statement.",
+            "\u201cThe Republican senate caucus has clearly stated that we need an acceptable plan for corrective action before the determination of whether the Legislature should convene is made.\u201d"
+        ],
+        [
+            "Mr. Thibodeau said many Senate Republicans were still deciding whether or not Mr. LePage\u2019s apology and promise to seek \u201cspiritual guidance\u201d had allayed their concerns about the governor \u2014 a process that could deepen their divide with Republicans in the House and pull the controversy into a second week."
+        ],
+        [
+            "\u201cThere should be consequences for our actions,\u201d Mr. Thibodeau said, \u201cand I think that\u2019s why we\u2019re really struggling.\u201d"
+        ],
+        [
+            "There is no precedent for such a situation here \u2014 a fact that has sent lawmakers like Senator Roger Katz, a Republican who has been critical of Mr. LePage, back to reading their state Constitutions on Wednesday to figure out what, if anything, they could do now to convene a special session.",
+            "Mr. Katz, a lawyer, suggested it may require only a simple majority of the House and senate, which could reduce the House Republicans\u2019 ability to block such a move, although he added there could be other hurdles to an agreement."
+        ],
+        [
+            "\u201cIt\u2019s never been done before, so we\u2019re in a little bit of uncharted waters,\u201d said Mr. Katz, who said he wanted Mr. LePage to get \u201ca competent evaluation and follow the recommendations of the evaluator.\u201d"
+        ],
+        [
+            "Democrats have continued to call for Mr. LePage\u2019s ouster, and on Wednesday said they were scheduling meetings with Republican leadership to discuss how to proceed."
+        ],
+        [
+            "\u201cComing back in for a special session will be discussed and all options around the governor\u2019s political future are on the table,\u201d said the Democratic leader of the Senate, Justin Alfond."
+        ],
+        [
+            "Mr. LePage\u2019s six years in office here, which began as part of the Tea Party sweep in 2010, have been marked by controversy.",
+            "Even as he fueled outrage among Democrats and angst among many moderate Republicans, his well of support, fed by voters drawn to his unfiltered political style, never seemed to run dry."
+        ],
+        [
+            "By all indications, Mr. LePage seemed determined to again ride out the political storm."
+        ],
+        [
+            "\u201cI want to put this behind us,\u201d Mr. LePage said, during a meeting with a select group of reporters in his office on Wednesday morning, adding, \u201cI will never talk about it again.\u201d"
+        ],
+        [
+            "Mr. LePage spoke shortly after he met with \u2014 and apologized to \u2014 Representative Drew Gattine, the state Democratic lawmaker who had been the recipient of the angry voice mail.",
+            "And in meeting with reporters, Mr. LePage spoke emotionally about Maine\u2019s heroin crisis."
+        ],
+        [
+            "But he but did not apologize for statements he made last week that linked trafficking in the drug to blacks and Hispanics."
+        ],
+        [
+            "\u201cI didn\u2019t use racially charged language,\u201d Mr. LePage claimed, although he also said, \u201cLet\u2019s leave ethnicity out of it.\u201d"
+        ]
+    ]
+}

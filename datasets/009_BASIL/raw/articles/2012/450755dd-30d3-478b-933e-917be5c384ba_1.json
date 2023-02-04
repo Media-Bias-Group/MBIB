@@ -1,0 +1,28 @@
+{
+    "source": "hpo",
+    "main-entities": ["GOP leaders", "Chick-Fil-A"],
+    "main-event": "Michele Bachmann and other GOP reps show support for Chick-Fil-A",
+    "title": "Michele Bachmann Chick-Fil-A Visit: GOP Rep Shows Support For Company Amid Controversy",
+    "url": "https://www.huffingtonpost.com/entry/michele-bachmann-chick-fil-a_n_1730280",
+    "word-count": 151,
+    "date": "2012-08-01",
+    "uuid": "bf62784f-65d2-44e8-bdc8-4e42257ae8dd",
+    "triplet-uuid": "450755dd-30d3-478b-933e-917be5c384ba",
+    "body-paragraphs": [
+        [
+            "Rep. Michele Bachmann (R-Minn.) showed her support for Chick-fil-A Wednesday when she tweeted a photo of her visiting the restaurant."
+        ],
+        [
+            "\"Have you gone today?\"",
+            "Bachmann asked her followers on what became an unofficial \"Chick-fil-A Appreciation Day.\""
+        ],
+        [
+            "The surge of support for the fast-food chain came after Chick-fil-A president Dan Cathy said the Atlanta-based company was \"guilty as charged\" for backing \"the biblical definition of a family.\"",
+            "As gay rights groups launched boycotts against the company, prominent conservative figures like former Arkansas Gov. Mike Huckabee, Senator Lindsay Graham (R-S.C.) and former Alaska Gov. Sarah Palin began showing their support by visiting the restaurant."
+        ],
+        [
+            "But conservatives weren't the only ones taking sides.",
+            "House Minority Leader Nancy Pelosi (D-Calif.) tweeted about her opposition to the restaurant, and West Hollywood bar The Abbey introduced a \"Chick-for-Gay\" sandwich as a protest against the chain."
+        ]
+    ]
+}

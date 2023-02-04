@@ -1,0 +1,43 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Hillary_Clinton": "pos",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Hillary_Clinton": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 169,
+            "id": "p15",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "other_pro",
+            "start": 77,
+            "target": "Hillary_Clinton",
+            "txt": "\u201cShe is in excellent physical condition and fit to serve as president of the United States.\u201d"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 191,
+            "id": "p16",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Hillary_Clinton",
+            "txt": "Clinton\u2019s camp is touting the fact she is the first 2016 candidate to release any kind of health information, though she only officially released a one-and-a-half-page letter from her doctor."
+        }
+    ],
+    "triplet-uuid": "6e502405-bc90-4416-a787-3122918aa648",
+    "uuid": "13075870-5bc4-4080-9e18-8f40760281db"
+}

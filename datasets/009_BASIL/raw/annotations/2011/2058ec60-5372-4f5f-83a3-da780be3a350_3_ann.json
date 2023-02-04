@@ -1,0 +1,62 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Walmart": "neu",
+        "author_feeling_main_event": "neu",
+        "author_feeling_plaintiffs": "neu",
+        "author_feeling_supreme_court": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Walmart": "neu",
+        "you_feeling_plaintiffs": "neu",
+        "you_feeling_supreme_court": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 98,
+            "id": "p9",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_neutral",
+            "start": 0,
+            "target": "plaintiffs",
+            "txt": "It seems to me there's an inconsistency there, and I'm just not sure what the unlawful policy is.\""
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 196,
+            "id": "p33",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_neutral",
+            "start": 88,
+            "target": "supreme_court",
+            "txt": "making it more difficult for women and minority groups to enjoy equality and fair treatment in the workplace"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 62,
+            "id": "p23",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 0,
+            "target": "plaintiffs",
+            "txt": "\"There is absolutely no way there can be a fair process here,\""
+        }
+    ],
+    "triplet-uuid": "2058ec60-5372-4f5f-83a3-da780be3a350",
+    "uuid": "empty"
+}

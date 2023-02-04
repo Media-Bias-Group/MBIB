@@ -1,0 +1,59 @@
+{
+    "source": "hpo",
+    "main-entities": ["Barack Obama","National Security Agency programs"],
+    "main-event": "Obama Defends NSA Programs",
+    "title": "Obama Defends NSA Programs, Says Congress Knew About Surveillance",
+    "url": "https://www.huffingtonpost.com/2013/06/07/obama-nsa_n_3403389.html",
+    "word-count": 460,
+    "date": "2013-06-07",
+    "uuid": "2182a499-7e6c-4bad-9cb5-87f564e52a7a",
+    "triplet-uuid": "a4f1d515-d7d9-4319-b2e0-4d56e9d45554",
+    "body-paragraphs": [
+        [
+            "WASHINGTON -- President Barack Obama on Friday forcefully defended revelations that the National Security Agency is collecting phone records and electronic communications, saying that Congress was fully briefed and the programs are limited in scope."
+        ],
+        [
+            "\"The programs are secret in the sense that they are classified.",
+            "They are not secret, in that every member of Congress has been briefed,\" he said during a speech in San Jose, Calif.",
+            "\"These are programs that have been authored by large bipartisan majorities repeatedly since 2006.\""
+        ],
+        [
+            "\"Your duly elected representatives have consistently been informed,\" he said."
+        ],
+        [
+            "News outlets revealed this week that vast spying programs began under President George W. Bush and have continued under Obama.",
+            "The Guardian reported Wednesday that the National Security Agency had obtained a court order to collect phone records from Verizon Wireless customers, while The Washington Post reported Thursday of the existence of a program launched in 2007 called PRISM, which tracks information from nine leading U.S. Internet companies: Microsoft, Yahoo, Google, Facebook, AOL, YouTube, Apple, PalTalk and Skype."
+        ],
+        [
+            "In response to a question after his speech, Obama defended the programs as essential to combating terrorist threats.",
+            "\"They may identify potential leads with respect to folks who might engage in terrorism,\" he said."
+        ],
+        [
+            "He also argued that some have overstated the impact of the programs.",
+            "\"Some of the hype we've been hearing over the past day or so -- nobody has listened to the content of people's phone calls,\" he said."
+        ],
+        [
+            "\"I welcome this debate and I think it's healthy for our democracy,\" he continued.",
+            "\"I think it's a sign of maturity, because probably five years ago, six years ago, we might not have been having this debate.\""
+        ],
+        [
+            "Obama portrayed the programs as a trade-off between security and civil liberties.",
+            "\"I think it's important to recognize that you can't have 100 percent security, and also then have 100 percent privacy and zero inconvenience.",
+            "We're going to have to make some choices as a society,\" he said."
+        ],
+        [
+            "He also expressed his displeasure that the domestic spying programs' existence was leaked to the press.",
+            "\"I don't welcome leaks,\" he said.",
+            "\"There's a reason these programs are classified.\""
+        ],
+        [
+            "The president's full-throated defense of the programs, albeit with the qualification that he welcomes debate, is unlikely to quell the outrage over the revelations.",
+            "Obama ran as an antidote to Bush's policies in 2008, but the reports reveal that he has continued many of them, leading to concerns over the reach of the national security state."
+        ],
+        [
+            "Obama went on to defend those who operated the programs as \"professionals.\"",
+            "\"In the abstract, you can complain about 'Big Brother' and how this is a potential program run amok.",
+            "But when you actually look at the details, then I think we've struck the right balance,\" he said."
+        ]
+    ]
+}

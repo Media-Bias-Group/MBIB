@@ -1,0 +1,30 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Donald_Trump": "neu",
+        "author_feeling_Joe_Lieberman": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "right",
+        "you_feeling_Donald_Trump": "neu",
+        "you_feeling_Joe_Lieberman": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 76,
+            "id": "p10",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "other_pro",
+            "start": 0,
+            "target": "Joe_Lieberman",
+            "txt": "\"Lieberman is probably the only person who can get 100 votes in the Senate,\""
+        }
+    ],
+    "triplet-uuid": "72fa9b13-4e59-4716-8df9-4c3580e7dddf",
+    "uuid": "a82174d9-e45b-4958-b4c6-545ae992de7c"
+}

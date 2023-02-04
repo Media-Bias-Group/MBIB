@@ -1,0 +1,62 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Barack_Obama": "neu",
+        "author_feeling_Hillary_Clinton": "neu",
+        "author_feeling_Nancy_Pelosi": "neu",
+        "author_feeling_main_event": "pos",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Barack_Obama": "neu",
+        "you_feeling_Hillary_Clinton": "neu",
+        "you_feeling_Nancy_Pelosi": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "ind_general",
+            "bias": "inf",
+            "end": 89,
+            "id": "p3",
+            "indirect-ally-opponent-sentiment": "pos",
+            "indirect-target-name": "American workers",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "Nancy_Pelosi",
+            "start": 0,
+            "target": "Nancy_Pelosi",
+            "txt": "\u201cWhatever the deal is with other countries, we want a better deal for America\u2019s workers.\u201d"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 92,
+            "id": "p4",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Barack_Obama",
+            "txt": "Following her speech, House Democrats rejected Obama's trade agenda in overwhelming numbers."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 189,
+            "id": "p10",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Barack_Obama",
+            "txt": "House Democrats rejected Obama's trade agenda Friday by blocking a measure that would have granted him the power to fast-track sweeping, secretive international agreements through Congress."
+        }
+    ],
+    "triplet-uuid": "8dac6c12-b5ca-468c-a249-7e0ab42f6b52",
+    "uuid": "65bb63ac-97df-4ef0-b61e-2946d2ec0003"
+}

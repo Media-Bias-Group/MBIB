@@ -1,0 +1,121 @@
+{
+    "source": "nyt",
+    "main-entities": ["Eric Holder", "protestors", "police"],
+    "main-event": "Eric Holder speaks on Ferguson",
+    "title": "As Tension Eases on Ferguson's Streets, Focus Turns to Investigation",
+    "url": "https://www.nytimes.com/2014/08/21/us/ferguson-missouri-protests.html",
+    "word-count": 473,
+    "date": "2014-08-20",
+    "uuid": "09267ce5-d014-49b9-af58-7f4534db10e8",
+    "triplet-uuid": "ed8c136f-8d44-4c83-ad05-0dcfc3a0c54a",
+    "body-paragraphs": [
+        [
+            "FERGUSON, Mo. — Attorney General Eric H. Holder Jr. arrived in St. Louis on Wednesday, meeting with community leaders and federal investigators even as local law enforcement officials said they were hopeful that they had turned a corner in calming the restive community of Ferguson after 12 days of protests and unrest."
+        ],
+        [
+            "Mr. Holder\u2019s first stop was at a community college, where he met with people who told him about their own personal experiences with the local police, some of which they said helped fuel the rage that was ultimately ignited by the shooting of an unarmed black teenager by a white police officer on Aug. 9."
+        ],
+        [
+            "There were more protests planned throughout the day and into the evening, but Capt. Ronald S. Johnson of the Missouri State Highway Patrol said he believed they had reached \u201ca turning point.\u201d"
+        ],
+        [
+            "Captain Johnson, whose agency is overseeing security here, said there were only sporadic problems on Tuesday night, and none of the wide-scale looting and confrontations that had erupted on other nights.",
+            "Still, the police did make 47 arrests overnight."
+        ],
+        [
+            "As the tension on the street seemed to ease, the focus turned to the investigation into the shooting death of Michael Brown."
+        ],
+        [
+            "A grand jury has been convened and was scheduled to meet Wednesday to begin hearing evidence, said Edward Magee, a spokesman for Robert P. McCulloch, the prosecuting attorney for St. Louis County."
+        ],
+        [
+            "Protesters gathered outside Mr. McCulloch\u2019s office on Wednesday, calling for him to step aside.",
+            "They argued that he could not be impartial because his father, a police officer, was shot and killed by a black man while on duty when Mr. McCulloch was a child."
+        ],
+        [
+            "Mr. McCulloch, speaking to a local radio station, categorically rejected that notion."
+        ],
+        [
+            "\u201cI know the pain the Brown family is going through right now,\u201d he said."
+        ],
+        [
+            "He said he has only one interest: conducting a fair and thorough investigation.",
+            "But he acknowledged that Gov. Jay Nixon of Missouri has the power to appoint a new prosecutor."
+        ],
+        [
+            "\u201cAnyone who wants me off the case needs to call up the governor and express their opinion to him,\u201d Mr. McCulloch told KTRS radio."
+        ],
+        [
+            "By failing to act, Mr. McCulloch said, the governor \u201cundermines everything except the cover he has pulled over his head.\u201d",
+            "He told him to \u201cman up\u201d and make a decision so that the case will not be further delayed."
+        ],
+        [
+            "Mr. Magee cautioned that it could take weeks for the grand jury to consider all of the evidence.",
+            "He said that Officer Darren Wilson, who shot Mr. Brown, had been interviewed by police investigators and would be given the opportunity to testify."
+        ],
+        [
+            "The Justice Department, meanwhile, has started a separate inquiry.",
+            "More than 40 F.B.I. agents have been dispatched to Ferguson, and Mr. Holder said they are not only investigating the shooting but also looking for any broad patterns of civil rights violations."
+        ],
+        [
+            "In an open letter to the people of Ferguson, Mr. Holder said he understood the desire of residents for an \u201cindependent\u201d inquiry."
+        ],
+        [
+            "\u201cThis is my pledge to the people of Ferguson: Our investigation into this matter will be full, it will be fair, and it will be independent,\u201d Mr. Holder wrote in The St. Louis Post-Dispatch.",
+            "\u201cAnd beyond the investigation itself, we will work with the police, civil rights leaders, and members of the public to ensure that this tragedy can give rise to new understanding — and robust action — aimed at bridging persistent gaps between law enforcement officials and the communities we serve.\u201d"
+        ],
+        [
+            "The frustrations in the community have been fueled in part by the slow pace with which the authorities have released information."
+        ],
+        [
+            "In a sign of just how deep the distrust runs, there were three separate autopsies performed on Mr. Brown\u2019s body: one by the county medical examiner, one by a private pathologist hired by the family, and one by federal authorities."
+        ],
+        [
+            "In addition to the many lingering questions about the shooting, the local authorities have also come under criticism for how they have handled the protests."
+        ],
+        [
+            "Norm Stamper, the former Seattle police chief who was in charge during the protests that rocked that city in 1999, said that the wrong tone was set from the first day in Ferguson."
+        ],
+        [
+            "\u201cThe basic perspective that I have over this whole thing, dating back to the shooting incident itself, what we had were largely peaceful vigils and protests that were met with police tactics that were highly aggressive and militaristic,\u201d he said.",
+            "\u201cThat response ignited what we have seen all week.\u201d"
+        ],
+        [
+            "He reserved his harshest criticism for the use of tear gas by the police — a mistake he said he made in Seattle and one he regrets to this day."
+        ],
+        [
+            "Since the first day of protests in Ferguson, the authorities shifted their response almost daily, adding to the sense that the situation was out of control."
+        ],
+        [
+            "On one day, protesters were told to gather in one place. Another day, they were told to keep moving.",
+            "Then a curfew was imposed. The next night, there was no curfew.",
+            "The local police were in control; then another unit took over.",
+            "The National Guard was finally brought in to try to temper the unrest, but its role was not exactly clear."
+        ],
+        [
+            "\u201cYou get governors and police chiefs and everyone gnashing their teeth,\u201d Mr. Stamper said.",
+            "\u201cEven the protesters are commenting on that: what are they doing?\u201d"
+        ],
+        [
+            "On Tuesday night, however, it seemed that some of that energy had gone from the streets.",
+            "And the police also seemed more restrained, refraining from using tear gas."
+        ],
+        [
+            "The evening began in a familiar fashion: Demonstrators marched along the street and chanted \u201cHands up! Don\u2019t shoot!\u201d and other slogans that have become common here since Mr. Brown\u2019s death."
+        ],
+        [
+            "The authorities made at least 47 arrests after demonstrators tossed bottles toward police officers, some of whom used pepper spray to subdue some protesters.",
+            "In some instances, teams of officers abruptly entered the crowd, detained a single person whom they had apparently focused on, and returned to West Florissant Avenue, where many of the recent confrontations have occurred."
+        ],
+        [
+            "Although law enforcement officers in riot gear eyed the protesters while a police helicopter occasionally circled the city, there were no signs of trouble for long stretches of the evening."
+        ],
+        [
+            "When a demonstration ended shortly before midnight, many of the demonstrators prayed."
+        ],
+        [
+            "\u201cNow that\u2019s what I call a good protest,\u201d Jonathan Smith, 45, said.",
+            "\u201cEnding in a prayer, no gas in the air.\u201d"
+        ]
+    ]
+}

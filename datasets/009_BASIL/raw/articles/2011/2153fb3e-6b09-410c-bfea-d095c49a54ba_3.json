@@ -1,0 +1,46 @@
+{
+    "triplet-uuid": "2153fb3e-6b09-410c-bfea-d095c49a54ba",
+    "date": "2011-11-02",
+    "main-entities": ["Barack Obama", "Senate Republicans"],
+    "main-event": "Obama taunts GOP for ignoring jobs bill",
+    "body-paragraphs": [
+        [
+            "President Barack Obama urged lawmakers to move on the transportation funding portion of his jobs bill Wednesday, while simultaneously mocking them for spending time on supposedly less-important undertakings, such as a recent measure to reaffirm \"In God We Trust\" as the national motto."
+        ],
+        [
+            "In a speech from beneath the D.C. area's Key Bridge, Obama told spectators that Congress had time to bring up votes on aspects of the American Jobs Act, but were instead dealing with more frivolous legislation."
+        ],
+        [
+            "\"And if Congress tells you they don't have time, they've got time to do it,\" Obama said."
+        ],
+        [
+            "\"In the House of Representatives, what have you guys been doing, John?\" Obama continued, calling out Speaker of the House John Boehner (R-Ohio).",
+            "\"You've been debating a commemorative coin for baseball.",
+            "You've had legislation reaffirming that 'In God We Trust' is our motto.",
+            "That's not putting people back to work.",
+            "I trust in God, but God wants to see us help ourselves by putting people back to work.\""
+        ],
+        [
+            "On Wednesday, the House voted 396-9 on a bill that reaffirmed the motto and encouraged its display in all public schools and government buildings."
+        ],
+        [
+            "The bill's sponsor, Rep. Randy Forbes (R-Va.) had argued that some people, including Obama, needed to be reminded of the motto."
+        ],
+        [
+            "\"Almost a year ago, the president in making a speech across the world said that our national motto was 'E pluribus unum,'\" Forbes said.",
+            "\"When the [U.S. Capitol] Visitor Center was opened ... they did not have the national motto in there.",
+            "In fact, they inscribed in the stones that our national motto was 'E pluribus unum.'\""
+        ],
+        [
+            "In a speech in Jakarta last year, Obama remarked that the American \"motto is E pluribus unum -- out of many, one.\"",
+            "Officially, this wasn't correct.",
+            "Minnesota congresswoman and now-GOP presidential candidate Michele Bachmann and other members of the Congressional Prayer Caucus piled on weeks later, penning a letter to Obama chastising him for his alleged failure to the use the word \"God\" and \"Creator\" more in his public speeches, especially abroad."
+        ]
+    ],
+    "title": "Obama Mocks Congress For Vote",
+    "keywords": "obama, mocks, congress, for, 'in, god, we, trust', motto, vote,, ignoring, jobs, bill, politics",
+    "word-count": 341,
+    "source": "hpo",
+    "url": "http://www.huffingtonpost.com/2011/11/02/obama-mocks-congress-in-god-we-trust-jobs-bill_n_1072497.html",
+    "uuid": "7af8a225-e94f-4ea6-bbff-77f84f4e9884"
+}

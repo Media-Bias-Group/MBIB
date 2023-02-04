@@ -1,0 +1,90 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Donald_Trump": "neu",
+        "author_feeling_Vicente_Fox": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "conservative in relation to other two articles",
+        "relative_stance": "conservative",
+        "you_feeling_Donald_Trump": "str-neg",
+        "you_feeling_Vicente_Fox": "neu"
+    },
+    "pair-uuid": "8abec8d9-50a2-480e-969a-157f94954f4d",
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 86,
+            "id": "p0",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "target also Fox?",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 75,
+            "target": "Donald_Trump",
+            "txt": "Twitter war"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 60,
+            "id": "p3",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "Vicente_Fox",
+            "start": 0,
+            "target": "Donald_Trump",
+            "txt": "\u201cWe don\u2019t like him. We don\u2019t want him. We reject his visit.\u201d"
+        },
+        {
+            "aim": "ind_general",
+            "bias": "inf",
+            "end": 42,
+            "id": "p5",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "Enrique Pena Nieto",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "Vicente_Fox",
+            "start": 1,
+            "target": "Donald_Trump",
+            "txt": "He will even be considered like a traitor"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 26,
+            "id": "p7",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 7,
+            "target": "Donald_Trump",
+            "txt": "as is often his way"
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 149,
+            "id": "p0",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 135,
+            "target": "Vicente_Fox",
+            "txt": "went on a tear"
+        }
+    ],
+    "uuid": "0282ad99-a167-45d1-bbd7-e4f1c16c5b5f"
+}

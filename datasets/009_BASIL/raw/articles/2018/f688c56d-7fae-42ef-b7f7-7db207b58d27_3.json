@@ -1,0 +1,88 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Trump",
+        "birthright citizenship"
+    ],
+    "main-event": "Trump intends to end birthright citizenship",
+    "title": "Donald Trump Vows To End Birthright Citizenship",
+    "url": "https://www.huffingtonpost.com/entry/trump-executive-order-end-birthright-citizenship_us_5bd82b10e4b07427610ae4f4",
+    "word-count": 777,
+    "date": "2018-10-30",
+    "uuid": "b08688cf-84c0-493c-bc5a-5681eb94f2a3",
+    "triplet-uuid": "f688c56d-7fae-42ef-b7f7-7db207b58d27",
+    "body-paragraphs": [
+        [
+            "President Donald Trump said he\u2019s considering an executive order to remove the right to citizenship for babies born in the U.S. to parents who aren\u2019t citizens \u2015 a right enshrined in the 14th Amendment that could likely be changed only through a constitutional amendment."
+        ],
+        [
+            "Trump said in an interview with \u201cAxios on HBO\u201d taped Monday that he could execute the change via executive order."
+        ],
+        [
+            "\u201cIt was always told to me that you needed a constitutional amendment.",
+            "Guess what? You don\u2019t,\u201d Trump said.",
+            "\u201cYou can definitely do it with an act of Congress.",
+            "But now they\u2019re saying I can do it just with an executive order.\u201d"
+        ],
+        [
+            "He said the right awarded to babies born as birthright Americans is \u201cridiculous\u201d and that the system \u201chas to end.\u201d"
+        ],
+        [
+            "Trump also falsely stated that the U.S. is \u201cthe only country in the world\u201d that offers citizenship to those born here.",
+            "More than 30 nations, including Canada and Mexico, have similar policies."
+        ],
+        [
+            "It\u2019s not clear what the executive order would look like or when it would be proposed \u2015 if Trump follows through at all, considering his tendency for pre-election bluster and warnings he has received from fellow Republicans, including House Speaker Paul Ryan (Wis.), who have said doing so would be outside the bounds the president\u2019s authority."
+        ],
+        [
+            "All babies born in the U.S. are American citizens under the Constitution\u2019s 14th Amendment, which cannot be changed by presidential order."
+        ],
+        [
+            "Changing that policy would dramatically reshape the U.S. \u2015 effectively punishing the children of undocumented immigrants, whom Trump has vowed to remove from the country.",
+            "Even if he doesn\u2019t follow through or succeed, though, Trump\u2019s vow to try aligns with other messaging and actions attacking undocumented immigrants ahead of the midterm elections next Tuesday."
+        ],
+        [
+            "An executive order challenging birthright citizenship would ensure a legal battle, in which most experts think the president would fail.",
+            "The Supreme Court ruled in 1898\u2019s U.S. v. Wong Kim Ark that a child born in the U.S. to immigrant parents was a citizen under the 14th Amendment."
+        ],
+        [
+            "\u201cThe president cannot erase the Constitution with an executive order, and the 14th Amendment\u2019s citizenship guarantee is clear,\u201d said Omar Jadwat, director of the ACLU\u2019s Immigrants\u2019 Rights Project.",
+            "\u201cThis is a transparent and blatantly unconstitutional attempt to sow division and fan the flames of anti-immigrant hatred in the days ahead of the midterms.\u201d"
+        ],
+        [
+            "Some Republicans \u2015 including Ryan \u2015 quickly shot down Trump\u2019s idea.",
+            "\u201cYou cannot end birthright citizenship with an executive order,\u201d the House speaker said Tuesday on WVLK Radio, according to Bloomberg News reporter Erik Wasson."
+        ],
+        [
+            "Rep. Carlos Curbelo (R-Fla.) criticized the president\u2019s statement, calling instead for immigration reform \u201cthat makes our country more secure and reaffirms our wonderful tradition as a nation of immigrants.\u201d"
+        ],
+        [
+            "Another Republican, Rep. Justin Amash of Michigan, also tweeted that such an executive order would not be possible."
+        ],
+        [
+            "The are some experts who disagree.",
+            "Axios cited John Eastman, a constitutional law professor at Chapman University and director of The Claremont Institute\u2019s Center for Constitutional Jurisprudence, who said the amendment has been misapplied and was not intended to apply to every person born in the U.S. regardless of parentage."
+        ],
+        [
+            "Sen. Lindsey Graham (R-S.C.) announced Tuesday that he would introduce legislation \u201calong the same lines as the proposed executive order from President Trump\u201d to end birthright citizenship, a policy change he has supported for years.",
+            "It\u2019s unclear what his legislation would look like \u2015 and he has previously suggested such a change would require a constitutional amendment."
+        ],
+        [
+            "\u201cThis policy is a magnet for illegal immigration, out of the mainstream of the developed world, and needs to come to an end,\u201d Graham said in a statement on Tuesday."
+        ],
+        [
+            "Trump has long supported ending birthright citizenship, recommending in 2015 on the campaign trail that the country \u201cstart a process\u201d to scrap it."
+        ],
+        [
+            "\u201cI don\u2019t think they have American citizenship and if you speak to some very, very good lawyers \u2014 and I know some will disagree \u2014 but many of them agree with me and you\u2019re going to find they do not have American citizenship.",
+            "Our country is going to hell,\u201d Trump said then in an interview with CNN."
+        ],
+        [
+            "The president has lasered in on immigration ahead of next week\u2019s midterm elections, stoking fear about the caravan of migrants heading toward the U.S.-Mexico border from Central America.",
+            "He has falsely claimed the caravan is stocked with criminals, gang members and Middle Eastern terrorists, and has threatened to cut off aid to Honduras, El Salvador and Guatemala, the countries where most of the migrants hail from."
+        ],
+        [
+            "He deployed 5,200 active-duty troops to the border on Monday in what officials of his administration described as a necessary national security measure."
+        ]
+    ]
+}

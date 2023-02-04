@@ -1,0 +1,58 @@
+{
+    "source": "nyt",
+    "main-entities": [
+        "Democrats",
+        "Republicans"
+    ],
+    "main-event": "Republicans sign letter to stop legislature until tax cut issue is resolved",
+    "title": "Senate Republicans: No Legislation Until After Tax Cut Extension",
+    "url": "https://thecaucus.blogs.nytimes.com/2010/12/01/senate-republicans-no-legislation-until-after-tax-cut-extension/",
+    "word-count": 520,
+    "date": "2010-12-01",
+    "uuid": "9db1964a-50a1-41b3-b723-9f6d879363aa",
+    "triplet-uuid": "ae243a95-b2c2-410c-9e2b-b083b4b8eb48",
+    "body-paragraphs": [
+        [
+            "Democrats in the Senate hoping to pass nonbudget-related legislation in the lame-duck session were put on notice by their Republican colleagues Wednesday morning: No tax-cut extension? No laws for you!"
+        ],
+        [
+            "In a letter signed by the 42 members of the Republican caucus, delivered to the Senate majority leader, Harry Reid of Nevada, and mentioned Wednesday on the Senate floor by the minority leader, Mitch McConnell of Kentucky, the Republicans informed their Democratic counterparts that they would not go forward with \u201cany legislative item until the Senate has acted to fund the government and we have prevented the tax increase that is currently awaiting all American taxpayers.\u201d"
+        ],
+        [
+            "The letter goes on: \u201cWith little time left in this Congressional session, legislative scheduling should be focused on these critical priorities. ",
+            "While there are other items that might ultimately be worthy of the Senate\u2019s attention, we cannot agree to prioritize any matters above the critical issues of funding the government and preventing a job-killing tax hike.\u201d"
+        ],
+        [
+            "Washington is locked in a battle over what to do about the Bush-era tax cuts, which expire at the end of the year. ",
+            "President Obama and Democratic lawmakers want to extend the cuts to all Americans except those with income above $250,000, while Republicans want tax cuts extended to Americans at all income levels. ",
+            "Another idea that has been kicking around over the last few weeks \u2014 proposed by some Democrats \u2014 is raising the expiration income ceiling to households with at least $1 million in income."
+        ],
+        [
+            "At the same time, Congress needs to make a legislative move to keep the government funded before the 112th Congress takes over in January."
+        ],
+        [
+            "Democrats were hoping to force a more ambitious agenda into the final weeks, including the ratification of the New Start treaty, a military authorization bill that would repeal the \u201cdon\u2019t ask, don\u2019t tell\u201d provision, the extension of unemployment funds and the Dream Act, an immigration bill."
+        ],
+        [
+            "\u201cIf they really cared about creating jobs, they should stop blocking a preservation of unemployment insurance, which would create or save hundred of thousands of jobs,\u201d Jim Manley, a spokesman for Mr. Reid, said in an e-mail. ",
+            "\u201cUnfortunately this letter is nothing new. ",
+            "Republicans have simply put in writing their political strategy which they have pursued over the last two years: obstruct and delay action on critical matters, and then blame the Democrats for not addressing the needs of the American people. ",
+            "This strategy is very cynical but very obvious and transparent.\u201d"
+        ],
+        [
+            "This post has been revised to reflect the following correction:"
+        ],
+        [
+            "Correction: December 1, 2010"
+        ],
+        [
+            "Because of an editing error, an earlier version of this post said that Senator Harry Reid was from Arizona. He is from Nevada."
+        ],
+        [
+            "Senators John McCain and Lindsey Graham, two of the strongest Republican critics of the Obama administration\u2019s handling of the Benghazi attack, offered support nonetheless for the nomination of Victoria Nuland, who helped edit the much-disputed talking points about the incident."
+        ],
+        [
+            "President Obama and Gov. Chris Christie, Republican of New Jersey, will reprise their pre-election tour of the coastal areas ravaged by Hurricane Sandy on Tuesday, a White House official said Friday morning."
+        ]
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Bruce_Braley": "neu",
+        "author_feeling_Chuck_Grassley": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Bruce_Braley": "neu",
+        "you_feeling_Chuck_Grassley": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "ind_anti",
+            "bias": "inf",
+            "end": 173,
+            "id": "p10",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "Joni Ernst",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Bruce_Braley",
+            "txt": "In another appeal to Iowa farmers, Joni Ernst, a candidate in the Republican Senate primary on June 3, announced in an ad that she grew up \u201ccastrating hogs on an Iowa farm.\u201d"
+        },
+        {
+            "aim": "ind_anti",
+            "bias": "lex",
+            "end": 75,
+            "id": "p6",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "America Rising",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 67,
+            "target": "Bruce_Braley",
+            "txt": "vowed to"
+        }
+    ],
+    "triplet-uuid": "22b6e900-4826-4b09-a9f8-5d7afe46e78b",
+    "uuid": "4707111b-4833-4655-87dd-402d78b16383"
+}

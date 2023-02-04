@@ -1,0 +1,77 @@
+{
+    "source": "nyt",
+    "main-entities": ["Hillary Clinton", "Trey Gowdy"],
+    "main-event": "Benghazi committee wants to interview Clinton about emails",
+    "title": "House Panel Seeks Private Talk With Hillary Clinton About Email",
+    "url": "https://www.nytimes.com/2015/04/01/us/politics/hillary-clinton-email-benghazi-inquiry.html",
+    "word-count": 833,
+    "date": "2015-03-31",
+    "uuid": "6257d6b8-9698-44c9-b320-fe5e18536c42",
+    "triplet-uuid": "c5534b7e-a373-4962-8345-3847bc41a636",
+    "body-paragraphs": [
+        [
+            "WASHINGTON \u2014 The chairman of the House committee investigating the Benghazi attacks asked Hillary Rodham Clinton on Tuesday to appear for a private interview about her exclusive use of a personal email account when she was secretary of state."
+        ],
+        [
+            "Mrs. Clinton\u2019s \u201cemail arrangement with herself is highly unusual, if not unprecedented,\u201d the committee\u2019s chairman, Representative Trey Gowdy, Republican of South Carolina, wrote in a letter to Mrs. Clinton\u2019s lawyer Tuesday morning.",
+            "He added that Mrs. Clinton\u2019s disclosure last week that all of the emails from the personal account had been deleted \u201conly exacerbates our need to better understand what the secretary did, when she did it and why she did it.\u201d"
+        ],
+        [
+            "The emails were on a server at her home in Chappaqua, N.Y. Mr. Gowdy had asked Mrs. Clinton to turn over that server to a neutral third party, like the State Department\u2019s inspector general, to determine which emails were personal and which were government records."
+        ],
+        [
+            "But in a letter to Mr. Gowdy on Friday, a lawyer for Mrs. Clinton said there was no need to turn over the server because an examination of it showed that it had no copies of emails she sent during her time as secretary of state."
+        ],
+        [
+            "In October, the State Department asked former secretaries of state dating back to Madeleine Albright to provide it with any government records \u2014 like emails \u2014 they might have in their possession.",
+            "The lawyer for Mrs. Clinton, David Kendall, said that in response to that request, Mrs. Clinton\u2019s representatives had determined which of her roughly 60,000 emails were personal and private.",
+            "Then, he said, a setting on the email account was changed to retain only messages sent in the previous two months."
+        ],
+        [
+            "Since the report by The New York Times on March 2 that Mrs. Clinton used only a personal email account and did not even have a government account, she seems to have provided two answers about whether she still has copies of her emails."
+        ],
+        [
+            "At a news conference at the United Nations a little more than a week after The Times\u2019s report, Mrs. Clinton first said she \u201cchose not to keep\u201d her private personal emails.",
+            "But she then said that the server, which contained personal communications of her husband, former President Bill Clinton, \u201cwill remain private.\u201d"
+        ],
+        [
+            "Mr. Gowdy said the committee believed that \u201ca transcribed interview would best protect Secretary Clinton\u2019s privacy, the security of the information queried and the public\u2019s interest in ensuring this committee has all information needed to accomplish the task set before it.\u201d"
+        ],
+        [
+            "But Mrs. Clinton indicated on Tuesday that she wanted to give her testimony in a public setting.",
+            "In a written statement, a spokesman for her said she had told the committee months ago that she was prepared to testify at a public hearing.",
+            "\u201cIt is by their choice that hasn\u2019t happened,\u201d said the spokesman, Nick Merrill.",
+            "\u201cTo be clear, she remains ready to appear at a hearing open to the American public.\u201d"
+        ],
+        [
+            "The committee\u2019s ranking member, Elijah E. Cummings, Democrat of Maryland, said the panel should hold a public hearing instead of a private interview.",
+            "\u201cRather than drag out this political charade into 2016 and selectively leak portions of a closed-door interview, the committee should schedule the public hearing, make her records public and refocus its efforts on the attacks in Benghazi,\u201d he said."
+        ],
+        [
+            "Mr. Gowdy has sought to prevent his inquiry into the attacks in 2012 on an American diplomatic compound in Benghazi, Libya \u2014 and its burgeoning examination of Mrs. Clinton\u2019s email practices \u2014 from being dismissed as a strictly partisan effort to embarrass a likely Democratic nominee for president.",
+            "But the time frame in which he is asking Mrs. Clinton to submit to questioning \u2014 at any time before May 1 \u2014 coincides with the period in which she is widely expected to make her candidacy official."
+        ],
+        [
+            "Some Republicans on Capitol Hill \u2014 including Mr. Gowdy \u2014 are growing frustrated with Reince Priebus, the chairman of the Republican National Committee, who they contend is politicizing the email issue.",
+            "On Monday, Mr. Priebus said in an appearance on Fox News that Mrs. Clinton\u2019s decision to delete her emails \u201cis criminal in nature.\u201d"
+        ],
+        [
+            "\u201cI mean, you cannot just destroy documents when an agency is telling you to turn them over,\u201d Mr. Priebus said on \u201cFox and Friends.\u201d"
+        ],
+        [
+            "\u201cEven Nixon didn\u2019t destroy the tapes,\u201d Mr. Priebus said, referring to the Watergate scandal that ultimately led to President Richard M. Nixon\u2019s resignation.",
+            "\u201cThere are thousands and thousands of emails that are missing.\u201d"
+        ],
+        [
+            "In an interview Tuesday, Mr. Gowdy said Mr. Priebus had overstepped his expertise."
+        ],
+        [
+            "\u201cAs far as I know, he\u2019s not an expert in federal record-keeping law,\u201d Mr. Gowdy said of Mr. Priebus.",
+            "\u201cAnd I\u2019m 100 percent positive he is not a member of the executive branch, which is charged with investigating and prosecuting under the law.\u201d"
+        ],
+        [
+            "\u201cWe don\u2019t know enough facts, so why speculate?\u201d Mr. Gowdy added.",
+            "\u201cWe should keep our conclusions and speculation to a minimum and follow the facts.\u201d"
+        ]
+    ]
+}

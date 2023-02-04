@@ -1,0 +1,90 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Mitt_Romney": "neu",
+        "author_feeling_Todd_Akin": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Mitt_Romney": "neu",
+        "you_feeling_Todd_Akin": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 67,
+            "id": "p1",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "Mitt_Romney",
+            "start": 22,
+            "target": "Todd_Akin",
+            "txt": "Todd Akin's comments were offensive and wrong"
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 32,
+            "id": "p8",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 16,
+            "target": "Todd_Akin",
+            "txt": "prompted outrage"
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 75,
+            "id": "p0",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 69,
+            "target": "Todd_Akin",
+            "txt": "chorus"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 55,
+            "id": "p5",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "Todd_Akin",
+            "start": 0,
+            "target": "Mitt_Romney",
+            "txt": "\"Why can't Mitt Romney run his race and I'll run mine?\""
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 168,
+            "id": "p7",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 94,
+            "target": "Todd_Akin",
+            "txt": "but admitted that no senator had called him to ask him to stay in the race"
+        }
+    ],
+    "triplet-uuid": "08bb9bee-c167-4c17-9c6d-4a1259231eb7",
+    "uuid": "a4389be5-a63c-4f92-bca0-f89c69407a47"
+}

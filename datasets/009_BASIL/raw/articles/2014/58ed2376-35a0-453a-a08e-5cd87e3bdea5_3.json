@@ -1,0 +1,53 @@
+{
+    "source": "nyt",
+    "main-entities": ["Jan Brewer", "SB 1062 bill"],
+    "main-event": "Jan Brewer urged to veto gay discrimination bill",
+    "title": "Governor of Arizona Is Pressed to Veto Bill",
+    "url": "https://www.nytimes.com/2014/02/25/us/governor-of-arizona-is-pressed-to-veto-bill.html?ref=us",
+    "word-count": 663,
+    "date": "2014-02-24",
+    "uuid": "698db3fa-240a-4984-b820-fcd797b444c2",
+    "triplet-uuid": "58ed2376-35a0-453a-a08e-5cd87e3bdea5",
+    "body-paragraphs": [
+        [
+            "PHOENIX \u2014 As the Arizona Legislature sent a bill to her desk Monday that would grant business owners the right to invoke religion to refuse service to gays and others, Gov. Jan Brewer, a Republican, faced pressure from many corners to veto the measure, which has cast unwanted national attention on Arizona."
+        ],
+        [
+            "Elected officials, civic leaders and business groups spoke out publicly against the measure, which passed both houses of the Legislature on Thursday."
+        ],
+        [
+            "On Twitter, Arizona\u2019s United States senators, John McCain and Jeff Flake, also Republicans, had nearly identical posts, with both of them saying they hoped Ms. Brewer would veto the bill.",
+            "An executive from Apple Inc., which plans to build a big manufacturing plant in Mesa, called Ms. Brewer to urge her to reject it, and W. Douglas Parker, chairman and chief executive of American Airlines, sent her a letter citing the state\u2019s \u201ceconomic comeback\u201d and saying, \u201cThere is genuine concern throughout the business community that this bill, if signed into law, would jeopardize all that has been accomplished so far.\u201d"
+        ],
+        [
+            "Their calls were echoed by three Republican state senators \u2014 Adam Driggs, Steve Pierce and Bob Worsley, all members of the party\u2019s conservative camp \u2014 who had helped pass the legislation in the first place.",
+            "\u201cWhile our sincere intent in voting for this bill was to create a shield for all citizens\u2019 religious liberties, the bill has instead been mischaracterized by its opponents as a sword of religious intolerance,\u201d the senators said in a letter to Ms. Brewer, adding that the matter was \u201ccausing our state immeasurable harm.\u201d"
+        ],
+        [
+            "The bill\u2019s remaining supporters took to the airwaves and the Internet to defend it.",
+            "Cathi Herrod, president of the Center for Arizona Policy, an architect of the bill, issued a news release calling attacks on the legislation \u201cpolitics at its absolute worse,\u201d and saying, \u201cInstead of having an honest discussion about the true meaning of religious liberty, opponents of the bill have hijacked this discussion through lies, personal attacks, and irresponsible reporting.\u201d"
+        ],
+        [
+            "Ms. Brewer was in Washington on Monday but was scheduled to return Tuesday to Phoenix, where she will have until the end of the week to act on the bill.",
+            "Her spokesman, Andrew Wilder, suggested that she would not take that long, but he would not say what she was inclined to do."
+        ],
+        [
+            "The religion bill comes as Arizona prepares to host the Super Bowl next year and struggles to regain its economic vitality.",
+            "From Washington on Monday, Gov. Jack Markell of Delaware, a Democrat, told Ronan Farrow of MSNBC that if Ms. Brewer signs the measure, \u201cthe N.F.L. may be looking, or maybe should be looking, to move the Super Bowl out of the state.\u201d"
+        ],
+        [
+            "And Barry Broome, president and chief executive of the Greater Phoenix Economic Council, said that leaders of four companies looking to relocate to Arizona had put his organization on notice, saying they might reconsider if the bill became law.",
+            "The state\u2019s image is still scarred by a divisive immigration law passed in 2010, which gave police officers the ability to stop people whom they suspected of being in the country illegally, and triggered widespread boycotts."
+        ],
+        [
+            "Among the Republicans vying to succeed Ms. Brewer, who cannot run for re-election because of term limits, there was broad consensus against the measure, which would expand the state\u2019s definition of \u201cexercise of religion\u201d to protect businesses and citizens from lawsuits after denying services on religious grounds."
+        ],
+        [
+            "One candidate, Scott Smith, the mayor of Mesa, who is a Mormon, said that the bill \u201cgives carte blanche for anybody to discriminate under the guise of religion.\u201d",
+            "Another candidate, Doug Ducey, the state treasurer, qualified his view, saying that he would veto the bill but then \u201cbring together all the interested parties before this legislative session adjourns to forge consensus on acceptable language protecting religious liberty.\u201d"
+        ],
+        [
+            "Mr. Wilder, the governor\u2019s spokesman, said Ms. Brewer\u2019s office had received more than 10,000 calls and emails on the matter as of Monday morning."
+        ]
+    ]
+}

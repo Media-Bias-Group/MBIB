@@ -1,0 +1,45 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Jan_Brewer": "neu",
+        "author_feeling_SB_1062_bill": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Jan_Brewer": "neu",
+        "you_feeling_SB_1062_bill": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "ind_anti",
+            "bias": "inf",
+            "end": 383,
+            "id": "p7",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "bill opponents",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "other_pro",
+            "start": 272,
+            "target": "SB_1062_bill",
+            "txt": "opponents of the bill have hijacked this discussion through lies, personal attacks, and irresponsible reporting"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 423,
+            "id": "p3",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 369,
+            "target": "SB_1062_bill",
+            "txt": "would jeopardize all that has been accomplished so far"
+        }
+    ],
+    "triplet-uuid": "58ed2376-35a0-453a-a08e-5cd87e3bdea5",
+    "uuid": "698db3fa-240a-4984-b820-fcd797b444c2"
+}

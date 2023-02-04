@@ -1,0 +1,92 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Bill_Clinton": "neu",
+        "author_feeling_Joe_Sestak": "neu",
+        "author_feeling_Obama_administration": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Bill_Clinton": "neu",
+        "you_feeling_Joe_Sestak": "neu",
+        "you_feeling_Obama_administration": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 86,
+            "id": "p6",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Obama_administration",
+            "txt": "Mr. Bauer went on to say that such horse-trading has been commonplace through history."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 87,
+            "id": "p8",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "other_pro",
+            "start": 0,
+            "target": "Obama_administration",
+            "txt": "\u201cSuch discussions are fully consistent with the relevant law and ethical requirements.\u201d"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 224,
+            "id": "p10",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 0,
+            "target": "Obama_administration",
+            "txt": "\u201cIt is abundantly clear that this kind of conduct is contrary to President Obama\u2019s pledge to change \u2019business as usual\u2019 and that his administration has engaged in the kind of political shenanigans he once campaigned to end.\u201d"
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 196,
+            "id": "p10",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 185,
+            "target": "Obama_administration",
+            "txt": "shenanigans"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 137,
+            "id": "p30",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Obama_administration",
+            "txt": "Democrats and some Republicans have said it is hardly unusual for presidents to offer political appointments to clear the way for allies."
+        }
+    ],
+    "triplet-uuid": "38f7cbb7-5d6a-4c89-bcbd-8e164144172a",
+    "uuid": "73b9c883-1fce-456d-8f13-29006e58ff13"
+}

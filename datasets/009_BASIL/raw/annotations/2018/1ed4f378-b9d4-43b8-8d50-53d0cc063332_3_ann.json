@@ -1,0 +1,75 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Democratic_Lawmakers": "neu",
+        "author_feeling_Republican_Lawmakers": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "liberal",
+        "you_feeling_Democratic_Lawmakers": "neu",
+        "you_feeling_Republican_Lawmakers": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 68,
+            "id": "p4",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 56,
+            "target": "Republican_Lawmakers",
+            "txt": "serial liars"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 32,
+            "id": "p7",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_neutral",
+            "start": 0,
+            "target": "Democratic_Lawmakers",
+            "txt": "\u201cThis is a bad, outrageous deal."
+        },
+        {
+            "aim": "ind_pro",
+            "bias": "inf",
+            "end": 92,
+            "id": "p3",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "Chuck Schumer",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_neutral",
+            "start": 0,
+            "target": "Democratic_Lawmakers",
+            "txt": "\u201cIt\u2019s official: Chuck Schumer is the worst negotiator in Washington \u2015 even worse than Trump."
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 205,
+            "id": "p2",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 190,
+            "target": "Democratic_Lawmakers",
+            "txt": "angrily slammed"
+        }
+    ],
+    "triplet-uuid": "1ed4f378-b9d4-43b8-8d50-53d0cc063332",
+    "uuid": "71a88bdd-b74b-4d91-8144-c5de8a0550f2"
+}

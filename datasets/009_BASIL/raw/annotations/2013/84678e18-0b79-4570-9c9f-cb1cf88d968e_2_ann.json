@@ -1,0 +1,60 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Internal_Revenue_Service": "neg",
+        "author_feeling_Lois_lerner": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "right",
+        "you_feeling_Internal_Revenue_Service": "neu",
+        "you_feeling_Lois_lerner": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 139,
+            "id": "p6",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 87,
+            "target": "Lois_lerner",
+            "txt": "insist that she made, at best, incomplete statements"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 59,
+            "id": "p23",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 0,
+            "target": "Internal_Revenue_Service",
+            "txt": "\u201cI believe there was gross incompetence and mismanagement,\u201d"
+        },
+        {
+            "aim": "ind_pro",
+            "bias": "inf",
+            "end": 287,
+            "id": "p32",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "Obama's administration",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 0,
+            "target": "Internal_Revenue_Service",
+            "txt": "\u201cThis administration, which told us and told the American people that the attack that killed four Americans in Benghazi was the work, was caused by a video, is now the same administration who expects us to believe that this scandal was just the result of two rogue agents in Cincinnati,\u201d"
+        }
+    ],
+    "triplet-uuid": "84678e18-0b79-4570-9c9f-cb1cf88d968e",
+    "uuid": "38008490-3272-4f0a-abde-9d82b6df54d7"
+}

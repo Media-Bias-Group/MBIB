@@ -1,0 +1,60 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Barack_Obama": "neu",
+        "author_feeling_Benjamin_Netanyahu": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Barack_Obama": "neu",
+        "you_feeling_Benjamin_Netanyahu": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "ind_general",
+            "bias": "inf",
+            "end": 188,
+            "id": "p6",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "John Boehner",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Benjamin_Netanyahu",
+            "txt": "Netanyahu was invited to speak in front of a joint session of Congress by House Speaker John Boehner (R-Ohio), who did not seek approval from the White House before sending the invitation."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 85,
+            "id": "p8",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 53,
+            "target": "Benjamin_Netanyahu",
+            "txt": "\"a tawdry and high-handed stunt\""
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 379,
+            "id": "p1",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 290,
+            "target": "Benjamin_Netanyahu",
+            "txt": "which is not only unfortunate, I think it's destructive of the fabric of the relationship"
+        }
+    ],
+    "triplet-uuid": "2b9468af-4ab0-4f25-85f4-c3ef93d72006",
+    "uuid": "32d3eab9-fd13-46e6-ab3a-d1eb680e1978"
+}

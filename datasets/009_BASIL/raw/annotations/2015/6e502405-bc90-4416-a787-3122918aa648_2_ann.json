@@ -1,0 +1,90 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Hillary_Clinton": "neu",
+        "author_feeling_Jeb_Bush": "neu",
+        "author_feeling_main_event": "pos",
+        "notes": "",
+        "relative_stance": "left",
+        "you_feeling_Hillary_Clinton": "neu",
+        "you_feeling_Jeb_Bush": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 217,
+            "id": "p2",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Hillary_Clinton",
+            "txt": "The spate of voluntary disclosures on Friday, intended to highlight Mrs. Clinton\u2019s efforts at transparency, came after a week of renewed attention to her use of a private email server while she was secretary of state."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 272,
+            "id": "p6",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 120,
+            "target": "Hillary_Clinton",
+            "txt": "she understands the needs of working-class Americans, who have not seen their wages grow in years, and those struggling in the post-recession job market"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 45,
+            "id": "p26",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Jeb_Bush",
+            "txt": "It was unclear where Mr. Bush got the figure."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 146,
+            "id": "p3",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Hillary_Clinton",
+            "txt": "Recent polls suggest that the focus on Mrs. Clinton\u2019s email practices has affected the number of voters who see her as \u201chonest\u201d and \u201ctrustworthy.\u201d"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 222,
+            "id": "p4",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 134,
+            "target": "Hillary_Clinton",
+            "txt": "while lamenting what she called a lopsided tax code that favors wealthy people like them"
+        }
+    ],
+    "triplet-uuid": "6e502405-bc90-4416-a787-3122918aa648",
+    "uuid": "4a7411a9-3b04-45da-ac36-172f5101eb3d"
+}

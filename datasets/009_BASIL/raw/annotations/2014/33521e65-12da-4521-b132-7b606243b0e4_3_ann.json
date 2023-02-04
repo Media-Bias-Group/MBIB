@@ -1,0 +1,75 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Justice_Department": "neu",
+        "author_feeling_Michael_Grimm": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Justice_Department": "neu",
+        "you_feeling_Michael_Grimm": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 71,
+            "id": "p3",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 51,
+            "target": "Justice_Department",
+            "txt": "but hardly surprised"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 148,
+            "id": "p4",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 0,
+            "target": "Justice_Department",
+            "txt": "\"From the beginning, the government has pursued a politically driven vendetta against Congressman Grimm and not an independent search for the truth."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 233,
+            "id": "p7",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "other_pro",
+            "start": 121,
+            "target": "Michael_Grimm",
+            "txt": "lifetime of public service as a Member of Congress, Marine Corps combat veteran, and decorated FBI Special Agent"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 105,
+            "id": "p10",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Michael_Grimm",
+            "txt": "More recently, Grimm was in the news in January after he physically threatened a reporter in the Capitol."
+        }
+    ],
+    "triplet-uuid": "33521e65-12da-4521-b132-7b606243b0e4",
+    "uuid": "75f1b2bf-d46d-4bc4-a917-62488d5bf352"
+}

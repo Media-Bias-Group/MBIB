@@ -1,0 +1,54 @@
+{
+    "source": "fox",
+    "main-entities": ["Paul Ryan", "Catholics"],
+    "main-event": "Georgetown Catholics challenge Paul Ryan",
+    "title": "Ryan facing Catholic prof complaints over budget comments ahead of Georgetown speech",
+    "url": "http://www.foxnews.com/politics/2012/04/25/gop-ryan-set-for-georgetown-speech-says-budget-addresses-poor-needs",
+    "word-count": 456,
+    "date": "2012-04-25",
+    "uuid": "4f1c51a2-3894-438f-aa6c-2265adce9812",
+    "triplet-uuid": "29ffd053-7684-469b-a600-97000579bd01",
+    "body-paragraphs": [
+        [
+            "GOP Rep. Paul Ryan is heading to Georgetown University for a speech Thursday morning, but not before an old-fashioned, Catholic school knuckle-rapping."
+        ],
+        [
+            "A group of nearly 90 professors and administrators connected to the Jesuit-founded school in Washington, D.C., has sent Ryan, R-Wis., a letter saying he\u2019s misused Catholic doctrine to support his deficit-reducing, GOP House budget."
+        ],
+        [
+            "\u201cWe appreciate your willingness to talk about how Catholic social teaching can help inform effective policy in dealing with the urgent challenges facing our country,\u201d the letter states.",
+            "\u201cHowever, we would be remiss \u2026 if we did not challenge your continuing misuse of Catholic teaching to defend a budget plan that decimates food programs for struggling families, radically weakens protections for the elderly and sick and gives more tax breaks to the wealthiest few.\u201d"
+        ],
+        [
+            "Ryan, since introducing the budget last month, has talked about the doctrine in several interviews including one a couple weeks ago on the Christian Broadcasting Network."
+        ],
+        [
+            "In that interview, he invoked the Catholic teaching of \"subsidiarity,\" saying it means \"not having big government crowd out civic society, but ... having enough space in our communities so that we can interact with each other\" and take care of people."
+        ],
+        [
+            "\"To me, the principle of subsidiarity, which is really federalism, meaning government closest to the people governs best,\" he said."
+        ],
+        [
+            "The Georgetown University letter argues, though, that Ryan misappropriated the Catholic teaching as a \u201crationale for gutting government programs.\u201d"
+        ],
+        [
+            "The writers acknowledge that the teaching indeed calls for local-level solutions to problems but say it is \u201cnot a free pass to dismantle government\u201d and requires higher levels of government."
+        ],
+        [
+            "The statement also quotes from the U.S. Conference of Catholic Bishops' letters to Congress saying budgets cannot rely on disproportionate cuts in essential services to the poor."
+        ],
+        [
+            "Ryan, a Catholic and chairman of the House Budget Committee, said last week the letters do not express the views of all U.S. bishops, a point on which the conference disagrees."
+        ],
+        [
+            "Georgetown's Public Policy Institute, which is hosting the upcoming Ryan lecture, said Wednesday the event is still scheduled for Thursday morning."
+        ],
+        [
+            "\"Chairman Ryan remains grateful for Georgetown's invitation to advance a thoughtful dialogue this week on his efforts to avert a looming debt crisis that would hurt the poor the first and the worst,\u201d a Ryan spokesman said.",
+            "\u201cHe looks forward to affirming our shared commitment to a preferential option for the poor, which of course does not mean a preferential option for bigger government.\""
+        ],
+        [
+            "Ryan, who was raised on Social Security benefits after his father died, also on Fox News defended his budget against the conference, saying for instance that the concept of denying tax credits to illegal immigrants is merely \"following through on policy\" that has had bipartisan support."
+        ]
+    ]
+}

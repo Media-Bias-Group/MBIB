@@ -1,0 +1,36 @@
+{
+    "source": "hpo",
+    "main-entities": ["Chris Christie"],
+    "main-event": "Christ Christie campaign documents subpoenaed",
+    "title": "U.S. Attorney Subpoenas Chris Christie Campaign Documents",
+    "url": "https://www.huffingtonpost.com/2014/01/23/chris-christie-us-attorney_n_4653674.html",
+    "word-count": 290,
+    "date": "2014-01-23",
+    "uuid": "f004a025-4a04-4f96-9c6e-31418a55e325",
+    "triplet-uuid": "d1344998-0e7c-409e-aaad-df5be687fc94",
+    "body-paragraphs": [
+        [
+            "WASHINGTON -- The U.S. Attorney\u2019s office in New Jersey has subpoenaed documents from the reelection campaign of New Jersey Gov. Chris Christie (R) and the New Jersey Republican State Committee, as part of its investigation into the \"Bridgegate\" scandal."
+        ],
+        [
+            "In a statement issued Thursday, Mark Sheridan, a partner with Patton Boggs, said his law firm had been retained to represent both the campaign and the committee in connection with the investigation."
+        ],
+        [
+            "\"We can confirm that the Christie for Governor re-election campaign and the New Jersey Republican State Committee received subpoenas for documents from the U.S. Attorney's office, in addition to the subpoena the campaign previously received from the state legislative committee,\" said Sheridan.",
+            "\"All three subpoenas focus on the closure of lanes on the George Washington Bridge.",
+            "The campaign and the state party intend to cooperate with the U.S. Attorney's office and the state legislative committee and will respond to the subpoenas accordingly.\""
+        ],
+        [
+            "The Christie administration closed down two of the three George Washington Bridge access lanes in Fort Lee, N.J., in September, in what appeared to be a political retribution scheme aimed at the borough's Democratic mayor.",
+            "The closures, which lasted for four days, caused massive traffic jams.",
+            "They were orchestrated by a Christie ally at the Port Authority of New York and New Jersey, David Wildstein, along with one of Christie's deputy chiefs of staff, Bridget Kelly, and his then-campaign manager and top political adviser, Bill Stepien."
+        ],
+        [
+            "Christie has maintained that he had no involvement in, or knowledge of, the plan."
+        ],
+        [
+            "The New Jersey state legislature is also investigating the lane closures.",
+            "The FBI and the Department of Housing and Urban Development, meanwhile, are looking into separate controversies over whether the Christie administration misused Hurricane Sandy relief dollars."
+        ]
+    ]
+}

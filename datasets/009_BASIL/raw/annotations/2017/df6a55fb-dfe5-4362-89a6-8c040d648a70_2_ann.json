@@ -1,0 +1,30 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Donald_Trump": "neu",
+        "author_feeling_Michael_Flynn": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Donald_Trump": "neu",
+        "you_feeling_Michael_Flynn": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 34,
+            "id": "p10",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Michael_Flynn",
+            "txt": "Everything but immunity, he added."
+        }
+    ],
+    "triplet-uuid": "df6a55fb-dfe5-4362-89a6-8c040d648a70",
+    "uuid": "5728352e-d82d-4248-bce3-db722c0d4f43"
+}

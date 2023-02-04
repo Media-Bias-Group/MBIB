@@ -1,0 +1,77 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Barack_Obama": "neu",
+        "author_feeling_Bernie_Sanders": "neu",
+        "author_feeling_Hillary_Clinton": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "left",
+        "you_feeling_Barack_Obama": "neu",
+        "you_feeling_Bernie_Sanders": "neu",
+        "you_feeling_Hillary_Clinton": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 223,
+            "id": "p8",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Hillary_Clinton",
+            "txt": "Mrs. Clinton has been criticized by Republicans and some Democrats for saying little about the Trans-Pacific Partnership deal in recent weeks, especially since she had made favorable comments about it as secretary of state."
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 188,
+            "id": "p1",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 169,
+            "target": "Hillary_Clinton",
+            "txt": "far more calibrated"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 147,
+            "id": "p2",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Hillary_Clinton",
+            "txt": "She declined to take sides on the Friday vote itself but instead allied herself with Democratic critics of the deal \u2014 without actually opposing it."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 116,
+            "id": "p17",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 76,
+            "target": "Hillary_Clinton",
+            "txt": "but otherwise did not delve into details"
+        }
+    ],
+    "triplet-uuid": "8dac6c12-b5ca-468c-a249-7e0ab42f6b52",
+    "uuid": "0211f3a6-2764-4a25-8635-0939e831feee"
+}

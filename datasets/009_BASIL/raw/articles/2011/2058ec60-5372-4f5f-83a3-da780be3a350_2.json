@@ -1,0 +1,83 @@
+{
+    "uuid": "9eb031dc-8dbb-4004-8f70-63af61d98165",
+    "date": "2011-03-29",
+    "main-entities": ["Walmart", "plaintiffs", "supreme court"],
+    "main-event": "Walmart sex discrimination case goes to supreme court",
+    "source": "FOX",
+    "url": "http://www.foxnews.com/politics/2011/03/29/supreme-court-questions-claims-sex-bias-suit-wal-mart/",
+    "keywords": "women's rights,Anthony Kennedy,Bank of America,Justice John Roberts,how to,Justice Ruth Bader Ginsburg,John Roberts,Justice Anthony Kennedy,U S,no doubt,the class,Justice Antonin Scalia,Antonin Scalia,class action law",
+    "triplet-uuid": "2058ec60-5372-4f5f-83a3-da780be3a350",
+    "body-paragraphs": [
+        [
+            "A pending class action lawsuit against Wal-Mart that would be the largest of its kind in U.S. history may soon be dismissed, considering the tenor of oral arguments before the Supreme Court Tuesday."
+        ],
+        [
+            "Although she may ultimately side with the plaintiffs, even Justice Ruth Bader Ginsburg, an ardent defender of women's rights, expressed some concerns about the particulars of the sex discrimination lawsuit that covers 1.5 million women and could cost the world's largest retailer billions of dollars."
+        ],
+        [
+            "The key vote for a Wal-Mart victory could belong to Justice Anthony Kennedy, who said he was troubled by what he called an inconsistency in the women's lawsuit."
+        ],
+        [
+            "\"Number one, you said this is a culture where Arkansas knows, the headquarters knows, everything that's going on,\" Kennedy told lawyer Joseph Sellers who represents the women.",
+            "\"Then in the next breath, you say, well, now these (local) supervisors have too much discretion.\""
+        ],
+        [
+            "The lawsuit alleges that the company's corporate culture, described in court Tuesday as the \"Wal-Mart Way,\" fosters the advancement of male workers over their female counterparts.",
+            "It also claims that despite a company policy expressly prohibiting discrimination, local store managers are given too much flexibility in determining salary hikes and job promotions that invariably favor men over women."
+        ],
+        [
+            "This dual argument that confounded Justice Kennedy also drew the ire of Justice Antonin Scalia who said he was whipsawed by the claims.",
+            "\"If somebody tells you how to exercise discretion, you don't have discretion,\" he said."
+        ],
+        [
+            "Chief Justice John Roberts also offered his doubts about the merits of lawsuit, suggesting that any discriminatory acts at Wal-Mart are no worse than anywhere else."
+        ],
+        [
+            "\"Is it true that Wal-Mart's pay disparity across the company was less than the national average?\" he asked."
+        ],
+        [
+            "Sellers said that wasn't a fair comparison because Wal-Mart has an obligation under federal law to make sure its managers do not discriminate."
+        ],
+        [
+            "The case started a decade ago when Wal-Mart worker Betty Dukes said the management at her Pittsburg, Calif., store was bypassing her for promotions.",
+            "\"I could see the men going forth and the women in the store stayed in the basic positions they were always in,\" Dukes once told an interviewer."
+        ],
+        [
+            "Her discrimination claims were folded into a class action lawsuit covering all current female Wal-Mart employees and any who worked for the company going back to late 1998.",
+            "Two lower courts said the case could move toward trial.",
+            "Wal-Mart's appeal is asking the Supreme Court to stop the case from ever getting to a trial judge."
+        ],
+        [
+            "On Tuesday, Dukes walked out of the courthouse full of confidence and poise saying she feels no anger toward her bosses or anyone else.",
+            "\"Wal-Mart may be a big company and that is no doubt."
+        ],
+        [
+            "But they are not big enough where they can't be challenged in a court of law.",
+            "If you do wrong, then you should be held accountable.",
+            "From the least of us to the greatest of us.\""
+        ],
+        [
+            "Dukes's case has drawn the attention of the larger business community who fear that if the justices allow the case to proceed, it will open the doors to more class action lawsuits.",
+            "The U.S. Chamber of Commerce and major corporations including Bank of America, General Electric and Microsoft submitted briefs in the case supporting Wal-Mart."
+        ],
+        [
+            "Much of the hour-long argument delved into the tedious details of class action law and if the Wal-Mart women could properly certify their claims into a single case.",
+            "Wal-Mart lawyer Theodore Boutrous argued that every member of the class couldn't possibly meet a standard of commonality to justify the lawsuit."
+        ],
+        [
+            "\"Our expert's report and testimony showed that at 90 percent of the stores, there was no pay disparity,\" Boutrous told the court.",
+            "\"And that's the kind of -- and even putting that aside, the plaintiffs needed to come forward with something that showed that there was this miraculous recurrence at every decision across every store of stereotyping, and the evidence simply doesn't show that.\""
+        ],
+        [
+            "Another technical concern that appears to work against the women covers the different types of remedies they are seeking.",
+            "In addition to the punitive damages they want an injunction that would force Wal-Mart to adopt more stringent anti-discrimination policies.",
+            "But those two remedies require different standards for class certification and Justice Ruth Bader Ginsburg said it was \"a very serious problem\" in the case to try and sue for punitive damages after only obtaining certification under the lower threshold required for the injunction."
+        ],
+        [
+            "It's possible that instead of an outright victory for Wal-Mart, the justices could issue a split decision of sorts and allow only the injunction part of the lawsuit to move forward.",
+            "That potential ruling would get Wal-Mart off the hook for any financial damages."
+        ]
+    ],
+    "title": "Supreme Court Questions Claims in Sex Bias Suit Against Wal-Mart",
+    "word-count": 816
+}

@@ -1,0 +1,52 @@
+{
+    "source": "hpo",
+    "main-entities": ["Hillary Clinton", "Trey Gowdy"],
+    "main-event": "Benghazi committee wants to interview Clinton about emails",
+    "title": "Benghazi Panel Wants To Interview Clinton About Emails",
+    "url": "http://www.huffingtonpost.com/2015/03/31/gowdy-requests-interview_n_6977642.html",
+    "word-count": 452,
+    "date": "2015-03-31",
+    "uuid": "61809002-229a-45a6-a258-b18490579bc3",
+    "triplet-uuid": "c5534b7e-a373-4962-8345-3847bc41a636",
+    "body-paragraphs": [
+        [
+            "WASHINGTON -- The House Select Committee on Benghazi sent a formal interview request to Hillary Clinton\u2019s lawyer on Tuesday regarding emails she exchanged during her time as secretary of state."
+        ],
+        [
+            "In a letter to the Clinton\u2019s lawyer, Rep. Trey Gowdy (R-S.C.), the committee chairman, said the committee is not interested in emails relating to personal or private matters, and instead will focus solely on those pertaining to \u201cLibya and Benghazi during the relevant time periods.\u201d"
+        ],
+        [
+            "\u201cToward that end and because of the Secretary\u2019s unique arrangement with herself as it relates to public records during and after her tenure as Secretary of State, this Committee is left with no alternative but to request Secretary Clinton appear before this Committee for a transcribed interview to better understand decisions the Secretary made relevant to the creation, maintenance, retention, and ultimately deletion of public records,\u201d Gowdy stated in the letter."
+        ],
+        [
+            "Gowdy set a May 1 deadline for the interview."
+        ],
+        [
+            "An interview, Gowdy argued, would provide protection for the likely 2016 presidential candidate\u2019s privacy and security for sensitive information."
+        ],
+        [
+            "The request comes after reports revealed Clinton used a private email address and a server located in her New York home during her time as secretary of state.",
+            "Last week, Gowdy said Clinton did not respond to any of the subpoenas requesting documents in the case, and her lawyer had informed the committee that the server used for emails during her tenure had been wiped clean."
+        ],
+        [
+            "Gowdy said once Clinton is interviewed and all documents related to the 2012 Benghazi attack are shared, the committee will schedule a time for Clinton to testify publicly in a hearing."
+        ],
+        [
+            "\u201cWe share the Secretary\u2019s desire these two conversations take place as quickly and efficiently as possible, and are willing to expedite both working with your office, the Secretary\u2019s schedule and our Democrat colleagues on the Committee,\u201d Gowdy said.",
+            "\u201cWhat the Committee cannot do is conclude its work without assurances the Committee has all relevant information necessary for us to discharge the duties required of us.\u201d"
+        ],
+        [
+            "Gowdy went on to call Clinton\u2019s email situation \u201chighly unusual, if not unprecedented,\u201d and said it \u201cexacerbates\u201d lawmakers\u2019 needs to \u201cunderstand what the Secretary did.\u201d"
+        ],
+        [
+            "Earlier this month, Clinton said she had a private email account because she \u201cthought it would be easier to carry just one device for my work and for my personal emails instead of two.\u201d"
+        ],
+        [
+            "She admitted that \u201clooking back,\u201d it would have been better to carry the second phone."
+        ],
+        [
+            "Clinton is not the only government official to use a private email for work.",
+            "Former Secretary of State Colin Powell said he used a private email during his time in office, as did Jeb Bush when he served as governor of Florida."
+        ]
+    ]
+}

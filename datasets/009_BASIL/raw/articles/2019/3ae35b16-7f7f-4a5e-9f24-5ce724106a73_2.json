@@ -1,0 +1,94 @@
+{
+    "source": "fox",
+    "main-entities": ["Donald Trump"],
+    "main-event": "Trump declares national emergency over border wall",
+    "title": "Trump declares emergency on border, eyes $8B for wall as he signs spending package",
+    "url": "https://www.foxnews.com/politics/trump-eyes-8b-border-wall-funding-emergency-declaration",
+    "word-count": 885,
+    "date": "2019-02-15",
+    "uuid": "06ed783e-f462-4003-af6a-20ee3e69b6a4",
+    "triplet-uuid": "3ae35b16-7f7f-4a5e-9f24-5ce724106a73",
+    "body-paragraphs": [
+        [
+            "President Trump said Friday he is declaring a national emergency on the southern border, tapping into executive powers in a bid to divert billions toward construction of a wall even as he signs a funding package that includes just $1.4 billion for border security."
+        ],
+        [
+            "\u201cWe\u2019re going to confront the national security crisis on our southern border \u2026 one way or the other, we have to do it,\u201d Trump said in the Rose Garden."
+        ],
+        [
+            "The move is expected to face a swift and forceful legal challenge that could stall the attempt in the courts for the near future.",
+            "But the declaration and other money-moving plans allow Trump to continue to fight for border wall construction while also averting another partial government shutdown -- which would have been triggered at midnight absent the new funding package.",
+            "He signed the spending deal Friday afternoon."
+        ],
+        [
+            "Trump, in the Rose Garden, declared once again that \"walls work\" as he confirmed the emergency declaration would accompany the spending legislation."
+        ],
+        [
+            "\"We\u2019re talking about an invasion of our country,\" Trump said."
+        ],
+        [
+            "And in an almost-casual tone, the president predicted a legal fight that will wind up before the Supreme Court."
+        ],
+        [
+            "\"We will have a national emergency, and we will then be sued,\" Trump said, adding that the federal appeals courts could well rule against his administration.",
+            "\"Then we\u2019ll end up in the Supreme Court, and hopefully we\u2019ll get a fair shake, and we\u2019ll win at the Supreme Court -- just like the [travel] ban.\u201d"
+        ],
+        [
+            "A senior administration official told Fox News that the White House plans to move $8 billion in currently appropriated or available funds toward construction of the wall.",
+            "Of that, $3 billion could be diverted with help from the emergency declaration."
+        ],
+        [
+            "That money includes about $600 million from the Treasury Department\u2019s forfeiture fund.",
+            "That money has been described as \u201ceasy money\u201d that the White House can use however it wants.",
+            "The White House is also expected to use drug interdiction money from the Department of Defense."
+        ],
+        [
+            "But by declaring an emergency, Trump would also seek to unlock money from the Defense Department\u2019s military construction budget, to the tune of $3.5 billion."
+        ],
+        [
+            "Diverting Pentagon funding, however, is expected to set off a legal battle and has already prompted fierce opposition from Democrats in Congress."
+        ],
+        [
+            "\"This is plainly a power grab by a disappointed President, who has gone outside the bounds of the law to try to get what he failed to achieve in the constitutional legislative process,\" House Speaker Nancy Pelosi and Senate Democratic Leader Chuck Schumer said in a statement.",
+            "\"The President's actions clearly violate the Congress\u2019s exclusive power of the purse, which our Founders enshrined in the Constitution.\""
+        ],
+        [
+            "They vowed Congress would \"defend our constitutional authorities in the Congress, in the Courts, and in the public, using every remedy available.\""
+        ],
+        [
+            "\"The President\u2019s declaration of a national emergency would be an abuse of his constitutional oath and an affront to the separation of powers.",
+            "Congress has the exclusive power of the purse, and the Constitution specifically prohibits the President from spending money that has not been appropriated. ...",
+            "This is a gross abuse of power that cannot be tolerated,\" House Judiciary Committee Chairman Jerrold Nadler, D-N.Y., said in a statement."
+        ],
+        [
+            "This is far from the only declared national emergency.",
+            "According to the Congressional Research Service, there are at least 30 \"national emergencies\" in effect, including those concerning blocking Iranian government property, the proliferation of weapons of mass destruction, and other terror-related acts.",
+            "But none of the emergencies have involved the president of the United States spending money that had not been specifically appropriated by Congress."
+        ],
+        [
+            "The president\u2019s decision to declare a national emergency comes after a review of the spending package.",
+            "The compromise package, which was negotiated for weeks in a bipartisan conference committee, passed both the House and the Senate on Thursday.",
+            "But the deal would provide only a fraction of Trump\u2019s originally proposed figure of $5.7 billion for border security and construction of a wall or physical barrier along the southern border."
+        ],
+        [
+            "The bill also imposed a number of restrictions on the White House, with legislative language preventing the administration from moving funding around to get a barrier or a wall -- a factor that may have contributed to the emergency declaration decision."
+        ],
+        [
+            "The package, as it stands, is enough to build just 55 miles of barrier.",
+            "And notably, the word \"wall\" does not appear once in the 1,768 pages of legislation and explanatory materials."
+        ],
+        [
+            "The funding battle follows the longest government shutdown in U.S. history.",
+            "From Dec. 22 through Jan. 25\u2014for 35 days\u2014the White House and congressional Democrats battled over border security funding.",
+            "Trump requested $5.7 billion for construction of the wall, while Democrats vowed to block any spending proposal that included such funding.",
+            "The shutdown left more than 800,000 federal employees and contractors furloughed or working without pay.",
+            "At the end of last month, though, Trump signed a short-term spending package that funded the government through the Friday deadline."
+        ],
+        [
+            "The prior fight left little appetite on either side of the aisle for another shutdown, leading to the passage Thursday of the compromise measure."
+        ],
+        [
+            "Trump, though, has talked for weeks about taking executive action to divert money from other programs for wall construction, without congressional sign-off\u2014despite his criticisms of former President Barack Obama for using executive action."
+        ]
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Chris_Christie": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Chris_Christie": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 214,
+            "id": "p0",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 207,
+            "target": "Chris_Christie",
+            "txt": "payback"
+        }
+    ],
+    "triplet-uuid": "d1344998-0e7c-409e-aaad-df5be687fc94",
+    "uuid": "37569447-dbc6-4515-a2af-9848a133b8f7"
+}

@@ -1,0 +1,73 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Donald_Trump": "neg",
+        "author_feeling_main_event": "neg",
+        "notes": "",
+        "relative_stance": "liberal",
+        "you_feeling_Donald_Trump": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 68,
+            "id": "p0",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 61,
+            "target": "Donald_Trump",
+            "txt": "his own"
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 32,
+            "id": "p4",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 21,
+            "target": "Donald_Trump",
+            "txt": "very loudly"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 55,
+            "id": "p7",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 21,
+            "target": "Donald_Trump",
+            "txt": "the usual share of public ridicule"
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 46,
+            "id": "p8",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 33,
+            "target": "Donald_Trump",
+            "txt": "making noises"
+        }
+    ],
+    "triplet-uuid": "97566c74-e000-49fb-b091-e6ec6e179de0",
+    "uuid": "empty"
+}

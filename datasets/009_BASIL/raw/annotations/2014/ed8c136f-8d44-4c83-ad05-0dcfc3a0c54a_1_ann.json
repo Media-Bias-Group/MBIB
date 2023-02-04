@@ -1,0 +1,62 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Eric_Holder": "neu",
+        "author_feeling_main_event": "neu",
+        "author_feeling_police": "neu",
+        "author_feeling_protestors": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Eric_Holder": "neu",
+        "you_feeling_police": "neu",
+        "you_feeling_protestors": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 225,
+            "id": "p4",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "protestors",
+            "start": 216,
+            "target": "protestors",
+            "txt": "wonderful"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 115,
+            "id": "p26",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Eric_Holder",
+            "txt": "Yvette Townsend-Saunders called the meeting \u201cwonderful\u201d and said she was thankful that Holder had come to the town."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 54,
+            "id": "p33",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "protestors",
+            "start": 0,
+            "target": "Eric_Holder",
+            "txt": "\u201cThey were really nice and they were really listening."
+        }
+    ],
+    "triplet-uuid": "ed8c136f-8d44-4c83-ad05-0dcfc3a0c54a",
+    "uuid": "605bd90c-703d-455b-b4b9-660e0c2847ab"
+}

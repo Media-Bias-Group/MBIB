@@ -1,0 +1,88 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Larry_Summers": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "liberal",
+        "you_feeling_Larry_Summers": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 64,
+            "id": "p1",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Larry_Summers",
+            "txt": "It wasn't quite the metaphorical flare of mushroom cloud imagery"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 62,
+            "id": "p5",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Larry_Summers",
+            "txt": "The message was hardly subtle. But it certainly was debatable."
+        },
+        {
+            "aim": "ind_pro",
+            "bias": "inf",
+            "end": 51,
+            "id": "p17",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "White House",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Larry_Summers",
+            "txt": "There were few carrots to go along with the sticks."
+        },
+        {
+            "aim": "ind_pro",
+            "bias": "inf",
+            "end": 157,
+            "id": "p20",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "White House",
+            "notes": "seems like blackmail",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 91,
+            "target": "Larry_Summers",
+            "txt": "take the package now or risk being blamed for an economic downturn"
+        },
+        {
+            "aim": "ind_anti",
+            "bias": "inf",
+            "end": 335,
+            "id": "p28",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "Senate Democrats",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 14,
+            "target": "Larry_Summers",
+            "txt": "I think you would really have to ask somebody who says... lets have some eight week fight and on February the 15th come in and say, alright, now we are ready to make a compromise, who on earth, who on earth thinks that that is somehow going to be a fundamentally better agreement than the one we are looking at right now?"
+        }
+    ],
+    "triplet-uuid": "df5fe55a-dfcb-4817-8631-830f47c21a72",
+    "uuid": "a2b088c9-b060-4ac5-a6aa-d262477bda5c"
+}

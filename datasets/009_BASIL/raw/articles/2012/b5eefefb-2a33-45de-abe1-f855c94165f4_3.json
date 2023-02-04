@@ -1,0 +1,68 @@
+{
+    "source": "nyt",
+    "main-entities": ["Joe Biden", "Paul Ryan"],
+    "main-event": "Biden and Ryan debate",
+    "title": "Biden Takes Off Gloves in Vice-Presidential Debate",
+    "url": "http://www.nytimes.com/2012/10/12/us/politics/biden-takes-off-gloves-in-vice-presidential-debate.html?emc=rss&_r=0",
+    "word-count": 693,
+    "date": "2012-10-12",
+    "uuid": "d9685b3e-e13f-4e69-9e93-3ec14c59e7e0",
+    "triplet-uuid": "b5eefefb-2a33-45de-abe1-f855c94165f4",
+    "body-paragraphs": [
+        [
+            "Joe Biden knew Lloyd Bentsen."
+        ],
+        [
+            "Lloyd Bentsen was a friend of Joe Biden\u2019s."
+        ],
+        [
+            "And the vice president made full use of his old Senate colleague\u2019s 1988 debate playbook, shaking his head and scoffing pityingly at Representative Paul D. Ryan, trying to paint his opponent as a latter-day Dan Quayle."
+        ],
+        [
+            "Mr. Ryan was no Dan Quayle, but he did make the mistake of mentioning John F. Kennedy in an argument over whether tax cuts recharge the economy.",
+            "Mr. Biden flashed a Cheshire Cat grin and said to Ryan, after waiting a beat to let the moment sink in, \u201cSo, now you\u2019re Jack Kennedy?\u201d"
+        ],
+        [
+            "The vice presidential debate on Tuesday was supposed to be a reboot for the Obama campaign after the president\u2019s dismal performance at his debate with the Republican nominee for president, Mitt Romney, last week.",
+            "Mr. Biden, clearly delighted to come to President Obama\u2019s rescue, relished his role, addressing his opponent as \u201cmy friend\u201d but dismissing his arguments as \u201cmalarkey.\u201d",
+            "He laughed at Mr. Ryan\u2019s remarks so often and so heartily that at times he seemed like a guest at a comedy club roast, not a vice president debating the fate of the nation with his opponent."
+        ],
+        [
+            "It was a sharp and spirited debate, with both candidates delivering some lacerating blows, but Mr. Ryan at times seemed disconcerted by the sheer blowhard intensity Mr. Biden brought to the night.",
+            "Mr. Ryan tried to be respectful, listening to the vice president with a tilted head, choirboy smile and puppy-dog eyes, but he showed his irritation when Mr. Biden kept interrupting to attack his policy on Medicare.",
+            "\u201cI know you\u2019re under duress,\u201d he told the vice president, prompting another belly laugh."
+        ],
+        [
+            "For Mr. Biden especially, the night was his chance to relive past debates and unleash his inner barroom brawler.",
+            "He had to be contained and courteous when he debated Sarah Palin four years ago, lest he look like a bully.",
+            "This time he let loose.",
+            "And unlike the courtly Mr. Bentsen in 1988, Mr. Biden turned his temperature up, singeing the young man across the table with patronizing grins, but mostly withering retorts.",
+            "His interruptive barrage was as relentless as his silent mugging for the camera."
+        ],
+        [
+            "Mr. Ryan held his own, but did look abashed when Mr. Biden mocked him for opposing the Obama stimulus, yet asking for government funds for his own district.",
+            "\u201cOn two occasions, we \u2014 we \u2014 we advocated for constituents who were applying for grants,\u201d Mr. Ryan said stiffly."
+        ],
+        [
+            "\u201cI love that. I love that,\u201d Mr. Biden said.",
+            "\u201cThis was such a bad program, and he writes me a letter saying \u2014 writes the Department of Energy a letter saying, the reason we need this stimulus \u2014 it will create growth and jobs.\u201d"
+        ],
+        [
+            "When Mr. Biden went after Mr. Romney\u2019s infamous remark at a private fund-raiser about the \u201c47 percent,\u201d Mr. Ryan reminded the vice president of his own propensity for gaffes.",
+            "\u201cI think the vice president very well knows that sometimes the words don\u2019t come out of your mouth the right way,\u201d he said with a gotcha smile.",
+            "Mr. Biden was not quite as amused."
+        ],
+        [
+            "Mr. Biden was not the only one in the room intent on rectifying his predecessor\u2019s mistakes.",
+            "Martha Raddatz of ABC News was the moderator, and she made a point of speaking forcefully, pushing the candidates to be specific and changing subjects abruptly.",
+            "She seemed determined to be less passive and sleepy than Jim Lehrer of PBS was as moderator of the Obama-Romney debate."
+        ],
+        [
+            "Mr. Ryan made a point of praising Mr. Romney, even trying to soften his image by recounting a time when Mr. Romney gave money and attention to a couple whose children were badly injured in a car accident.",
+            "It wasn\u2019t the best example to use, because it prompted Mr. Biden to describe his own tragedy, when his wife and young daughter were killed in a car crash."
+        ],
+        [
+            "A version of this article appears in print on October 12, 2012, on page A16 of the New York edition with the headline: Night of Withering Ripostes, Mostly Delivered by Biden."
+        ]
+    ]
+}

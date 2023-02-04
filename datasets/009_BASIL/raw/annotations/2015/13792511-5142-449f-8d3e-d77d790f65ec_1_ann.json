@@ -1,0 +1,28 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Chris_Christie": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Chris_Christie": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 62,
+            "id": "p5",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_neutral",
+            "start": 0,
+            "target": "Chris_Christie",
+            "txt": "Dogged by scandals and plummeting popularity in his home state"
+        }
+    ],
+    "triplet-uuid": "13792511-5142-449f-8d3e-d77d790f65ec",
+    "uuid": "6c7827e9-646c-4357-b674-764ab4264a50"
+}

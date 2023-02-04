@@ -1,0 +1,56 @@
+{
+    "source": "hpo",
+    "main-entities": ["Benjamin Netanyahu", "Barack Obama", "Secure America Now", "Romney campaign"],
+    "main-event": "Benjamin Netanyahu Used In Conservative Attack Ad Against Obama",
+    "title": "Israel Prime Minister Bibi Netanyahu Used In Conservative Attack Ad Against Obama",
+    "url": "https://www.huffingtonpost.com/2012/09/20/netanyahu-obama-attack-ad_n_1901109.html",
+    "word-count": 422,
+    "date": "2012-09-20",
+    "uuid": "6ce75053-9a66-4cf3-a74f-56ae99d204b8",
+    "triplet-uuid": "b4dbeda7-a1f3-4711-ae77-db23809d1ed2",
+    "body-paragraphs": [
+        [
+            "Even though Bibi Netanyahu recently decried the use of his name in election-year politicking, the Israeli prime minister is the subject of a new ad by Secure America Now, a neoconservative nonprofit organization dedicated to influencing the debate around American security and foreign policy."
+        ],
+        [
+            "Politico reports:"
+        ],
+        [
+            "\u201cA Republican involved with the project said it\u2019s airing in Miami, West Palm Beach and Ft. Myers.",
+            "The flight is ultimately going to be $1 million, the official said - a media-tracking source said about $400,000 has been placed so far."
+        ],
+        [
+            "Those markets house some of the state\u2019s largest Jewish communities."
+        ],
+        [
+            "The pollster for Secure America Now is John McLaughlin, who has worked with Netanyahu\u2019s Likud Party.\u201d"
+        ],
+        [
+            "The ad features Netanyahu laying out Israel\u2019s security concerns about Iran\u2019s nuclear program, which Republicans have used to knock President Barack Obama\u2019s sometimes frosty relationship with the Israeli prime minister. "
+        ],
+        [
+            "Republican presidential nominee Mitt Romney has repeatedly targeted the Obama administration for not taking a firm enough stance against Iran, claiming on many occasions that the president has \u201cthrown Israel under a bus.\u201d",
+            "The GOP also has attacked the president for declining an opportunity to meet with Netanyahu at the United Nations General Assembly later this month in an effort to paint the current White House as dismissive of Israel and its concerns."
+        ],
+        [
+            "But Netanyahu pushed back against these criticisms in two separate interviews on Sunday, first telling CNN, \u201cI know that people are trying to draw me into the American election.",
+            "I\u2019m not going to do that.\u201d"
+        ],
+        [
+            "He also rejected reports that Obama refused his request for a meeting, pinning the circumstances on a scheduling conflict, as has the White House when pressed on the subject."
+        ],
+        [
+            "\u201cPresident Obama has said that he\u2019s determined to prevent Iran from getting nuclear weapons and I appreciate that and I respect that,\u201d Netanyahu said on NBC\u2019s \u201cMeet the Press.\u201d"
+        ],
+        [
+            "When asked if Obama had thrown Israel under a bus, Netanyahu responded, \u201cThere is no bus.\u201d"
+        ],
+        [
+            "This isn\u2019t the first ad Secure America Now has run against Obama, even though on its website the organization describes itself as representing all political ideologies.",
+            "In July, the group released an ad pushing the same attack line employed by Romney, accusing the president of embarking on a so-called \u201capology tour\u201d at the expense of American security. "
+        ],
+        [
+            "The Obama administration is not mentioned by name in the latest spot, but it implicitly underscores the GOP\u2019s narrative on the president\u2019s relationship with the country\u2019s closest ally."
+        ]
+    ]
+}

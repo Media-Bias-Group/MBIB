@@ -1,0 +1,43 @@
+{
+    "article-level-annotations": {
+        "author_feeling_William_Cowan": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_William_Cowan": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 108,
+            "id": "p16",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "William_Cowan",
+            "start": 0,
+            "target": "William_Cowan",
+            "txt": "\u201cI\u2019m not standing here because I\u2019m a person of color, but because (the governor) believes I can do the job,\u201d"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 51,
+            "id": "p14",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "other_pro",
+            "start": 0,
+            "target": "William_Cowan",
+            "txt": "\u201cI am confident this is the right and best choice,\u201d"
+        }
+    ],
+    "triplet-uuid": "d3a1ce0a-fc48-4827-a278-8f0ce8c7a519",
+    "uuid": "de43e785-3d88-444a-8edd-e503a205ed71"
+}

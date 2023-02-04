@@ -1,0 +1,48 @@
+{
+    "source": "hpo",
+    "main-entities": ["Lois Lerner","Internal Revenue Service"],
+    "main-event": "I.R.S. Official Invokes 5th Amendment at Hearing",
+    "title": "Lois Lerner, IRS Scandal Figure, Will Invoke Fifth Amendment At Oversight Hearing",
+    "url": "https://www.huffingtonpost.com/2013/05/21/lois-lerner-irs-scandal_n_3314693.html",
+    "word-count": 471,
+    "date": "2013-05-21",
+    "uuid": "10724f30-b51e-4ad0-aa3e-c34baf08d626",
+    "triplet-uuid": "84678e18-0b79-4570-9c9f-cb1cf88d968e",
+    "body-paragraphs": [
+        [
+            "Lois Lerner, the director of the exempt organizations unit at the Internal Revenue Service, plans to invoke the Fifth Amendment during her expected testimony before the House Oversight and Government Reform Committee on Wednesday, the Los Angeles Times reports."
+        ],
+        [
+            "Lerner announced her plans to plead the Fifth during her testimony in a letter from her lawyer, William Taylor III, to the committee.",
+            "\"She has not committed any crime or made any misrepresentation but under the circumstances she has no choice but to take this course,\" the letter addressed to Chairman Darrell Issa (R-Calif.) reads, according to the Los Angeles Times."
+        ],
+        [
+            "Since she will be pleading the Fifth, Taylor has asked the committee that she be excused from testifying.",
+            "The letter from Taylor states that her testimony would \"have no purpose other than to embarrass or burden her.\""
+        ],
+        [
+            "The Wednesday hearing would have been Lerner's first public appearance, and first under oath, since she apologized for the IRS' inappropriate targeting of conservative groups at a May 10 American Bar Association meeting.",
+            "That apology was planned ahead of time by the IRS, and came in response to a planted question."
+        ],
+        [
+            "Issa has issued a subpoena to compel Lerner to appear at the hearing."
+        ],
+        [
+            "Lerner is a key figure in the unfolding IRS scandal.",
+            "As director of the IRS exempt organizations unit, she is in charge of the division overseeing nonprofit organizations, which includes the Cincinnati office that was the source of the inappropriate targeting criteria.",
+            "The criteria directed the IRS to conduct a more intensive review of applications for tax-exempt status from groups with the name \"tea party\" or \"patriot.\""
+        ],
+        [
+            "According to the report issued by the Department of the Treasury Inspector General for Tax Administration, Lerner had to correct the criteria developed by the Cincinnati office twice because she and other top IRS officials found that they were using politically fraught terms as they sought to make sure groups were properly applying for tax exemption."
+        ],
+        [
+            "Lerner's decision to plead the Fifth comes as the Department of Justice has initiated an investigation into whether laws were broken at the IRS, according to Taylor's letter to the committee.",
+            "It also follows a request to Lerner from the committee to provide information on why she gave \"false or misleading information\" to the committee on four previous occasions in 2012."
+        ],
+        [
+            "\u201cThe Committee has been contacted by Ms. Lerner\u2019s lawyer who stated that his client intended to invoke her 5th amendment right and refuse to answer questions,\u201d Oversight and Government Reform Committee spokesman Ali Ahmad said in a statement.",
+            "\u201cMs. Lerner remains under subpoena from Chairman Issa to appear at tomorrow\u2019s hearing \u2014 the Committee has a Constitutional obligation to conduct oversight.",
+            "Chairman Issa remains hopeful that she will ultimately decide to testify tomorrow about her knowledge of outrageous IRS targeting of Americans for their political beliefs.\u201d"
+        ]
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "source": "hpo",
+    "main-entities": ["Barack Obama", "Bernie Sanders", "Hillary Clinton"],
+    "main-event": "Obama to meet with Bernie Sanders",
+    "title": "Obama Will Meet With Sanders On Thursday",
+    "url": "https://www.huffingtonpost.com/entry/barack-obama-bernie-sanders-meeting_us_575798c3e4b08f74f6c098cb",
+    "word-count": 293,
+    "date": "2016-06-08",
+    "uuid": "16e15add-59e5-468a-af38-bfff42466f18",
+    "triplet-uuid": "eadabee7-3db9-43c4-a485-3e8b1882cd3c",
+    "body-paragraphs": [
+        [
+            "WASHINGTON -- With presumptive Democratic presidential nominee Hillary Clinton officially reaching the number of delegates required for the nomination, President Barack Obama congratulated her on Tuesday evening, and signaled that the campaign of rival Sen. Bernie Sanders (I-Vt.) might be coming to an end."
+        ],
+        [
+            "According to the White House, Obama spoke to both Clinton and Sanders by phone following Tuesday's primaries and caucuses and will meet with Sanders on Thursday, at Sanders' request."
+        ],
+        [
+            "\"The President congratulated Secretary Clinton for securing the delegates necessary to clinch the Democratic Nomination for President.",
+            "Her historic campaign inspired millions and is an extension of her lifelong fight for middle-class families and children,\" White House Press Secretary Josh Earnest said in a statement."
+        ],
+        [
+            "\"The President thanked Senator Sanders for energizing millions of Americans with his commitment to issues like fighting economic inequality and special interests' influence on our politics.\""
+        ],
+        [
+            "Obama will meet with Sanders in Washington on Thursday, the same day the Vermont senator plans to hold a rally there.",
+            "The meeting was arranged \"at Senator Sanders' request,\" Earnest said, and the two will discuss \"how to build on the extraordinary work he has done to engage millions of Democratic voters, and to build on that enthusiasm in the weeks and months ahead.\""
+        ],
+        [
+            "Obama has yet to make an endorsement in the race, but White House officials have said that it could come as early as this week."
+        ],
+        [
+            "In recent months, Obama has privately suggested that Sanders drop out of the race to help Democrats unite around Clinton and prepare for the general election.",
+            "He has also shown an eagerness to assail presumptive GOP nominee Donald Trump, which could be an important asset in helping Clinton defeat Trump in the general election."
+        ]
+    ]
+}

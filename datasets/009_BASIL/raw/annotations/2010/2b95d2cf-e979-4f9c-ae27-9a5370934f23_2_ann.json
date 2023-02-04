@@ -1,0 +1,43 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Michael_Steele": "neu",
+        "author_feeling_main_event": "pos",
+        "notes": "this article mostly focuses on Steele's GOP critics, gives more coverage to GOP members",
+        "relative_stance": "conservative",
+        "you_feeling_Michael_Steele": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 80,
+            "id": "p6",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Michael_Steele",
+            "txt": "The GOP chairman is known for off-the-cuff and occasionally troublesome comments"
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 93,
+            "id": "p10",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 87,
+            "target": "Michael_Steele",
+            "txt": "wildly"
+        }
+    ],
+    "triplet-uuid": "2b95d2cf-e979-4f9c-ae27-9a5370934f23",
+    "uuid": "238b97e4-c6f7-4fbb-87c2-3c92c5fb3b03"
+}

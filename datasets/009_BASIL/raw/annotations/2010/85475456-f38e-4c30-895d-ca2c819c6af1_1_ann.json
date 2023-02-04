@@ -1,0 +1,88 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Richard_Blumenthal": "neg",
+        "author_feeling_main_event": "neg",
+        "notes": "",
+        "relative_stance": "conservative",
+        "you_feeling_Richard_Blumenthal": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 113,
+            "id": "p5",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 93,
+            "target": "Richard_Blumenthal",
+            "txt": "enabled him to avoid"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 165,
+            "id": "p8",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 104,
+            "target": "Richard_Blumenthal",
+            "txt": "like fixing a campground and organizing a Toys for Tots drive"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 127,
+            "id": "p23",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "implies he knew what he was doing when he talked about military service",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 89,
+            "target": "Richard_Blumenthal",
+            "txt": "uses language with power and precision"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 44,
+            "id": "p7",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 9,
+            "target": "Richard_Blumenthal",
+            "txt": "with his last deferment in jeopardy"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 77,
+            "id": "p31",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Richard_Blumenthal",
+            "txt": "It does not appear that Mr. Blumenthal ever sought to correct those mistakes."
+        }
+    ],
+    "triplet-uuid": "85475456-f38e-4c30-895d-ca2c819c6af1",
+    "uuid": "bf45994d-2159-4c28-9d63-ff12c5337bf5"
+}

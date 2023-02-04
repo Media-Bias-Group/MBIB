@@ -1,0 +1,30 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Chick-Fil-A": "neu",
+        "author_feeling_GOP_leaders": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "especially the last few sentences",
+        "relative_stance": "left",
+        "you_feeling_Chick-Fil-A": "neu",
+        "you_feeling_GOP_leaders": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "ind_pro",
+            "bias": "lex",
+            "end": 93,
+            "id": "p14",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "Chick-Fil-A supporters",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 65,
+            "target": "Chick-Fil-A",
+            "txt": "stood up on the side of hate"
+        }
+    ],
+    "triplet-uuid": "450755dd-30d3-478b-933e-917be5c384ba",
+    "uuid": "55126d86-003a-42d7-a3f3-9427c5f8846a"
+}

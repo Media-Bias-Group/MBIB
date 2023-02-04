@@ -1,0 +1,106 @@
+{
+    "source": "nyt",
+    "main-entities": ["Lois lerner","Internal Revenue Service"],
+    "main-event": "I.R.S. Official Invokes 5th Amendment at Hearing",
+    "title": "I.R.S. Official Invokes 5th Amendment at Hearing",
+    "url": "http://www.nytimes.com/2013/05/23/us/politics/irs-official-denies-misleading-congress.html",
+    "word-count": 973,
+    "date": "2013-05-22",
+    "uuid": "38008490-3272-4f0a-abde-9d82b6df54d7",
+    "triplet-uuid": "84678e18-0b79-4570-9c9f-cb1cf88d968e",
+    "body-paragraphs": [
+        [
+            "WASHINGTON \u2014 The Internal Revenue Service official who first disclosed that the agency had targeted conservative groups for special scrutiny, and in doing so ignited a controversy that has ensnared the White House, denied on Wednesday that she had ever provided false information to Congress.",
+            "She then invoked her Fifth Amendment right against self-incrimination and declined to testify at a House hearing on the agency\u2019s actions."
+        ],
+        [
+            "As the official, Lois Lerner, appeared under subpoena before the House Committee on Oversight and Government Reform, she sternly told her questioners that accusations that she had misled Congress in previous testimony were false."
+        ],
+        [
+            "\u201cI have not done anything wrong.",
+            "I have not broken any laws,\u201d said Ms. Lerner, who leads the I.R.S.\u2019s division on tax-exempt organizations.",
+            "\u201cI have not violated any I.R.S. rules and regulations, and I have not provided false information to this or any other Congressional committee.\u201d"
+        ],
+        [
+            "Ms. Lerner has become a person of intense interest to Congressional investigators, who insist that she made, at best, incomplete statements when she said she first learned that her subordinates had singled out Tea Party groups after reading news media reports last year.",
+            "An inspector general\u2019s report found, however, that she was briefed on their actions as early as June 2011."
+        ],
+        [
+            "After she refused on Wednesday to say anything more to the committee, despite attempts by Representative Darrell Issa of California, the committee\u2019s Republican chairman, to persuade her otherwise, Mr. Issa tried to dismiss her and her lawyer.",
+            "But that upset other Republicans, who said that Ms. Lerner should not be let go so quickly."
+        ],
+        [
+            "\u201cYou don\u2019t get to tell your side of the story and then not be subjected to cross-examination,\u201d said Representative Trey Gowdy of South Carolina.",
+            "\u201cShe ought to stand here and answer our questions.\u201d"
+        ],
+        [
+            "Mr. Issa made a second attempt to persuade her to change her mind.",
+            "But when she declined, he dismissed her again.",
+            "Ms. Lerner then left the hearing room with her lawyer to a whir of camera shutters."
+        ],
+        [
+            "That exchange set the tone for a contentious hearing that veered into veiled accusations that the White House had a larger role in the controversy than previously disclosed, as well as outright attacks on President Obama\u2019s character."
+        ],
+        [
+            "Mr. Issa said he reserved the right to recall Ms. Lerner later.",
+            "And he may elect to do so, given the objections of some Republicans on Wednesday after he dismissed her.",
+            "They argued that by making an opening statement, she had waived her Fifth Amendment right and could be compelled to testify, a contention Ms. Lerner\u2019s lawyer disputed."
+        ],
+        [
+            "The committee also heard testimony from Douglas H. Shulman, the former I.R.S. commissioner; Neal S. Wolin, the deputy secretary of the Treasury Department; and J. Russell George, the Treasury inspector general who looked into the accusations of targeting.",
+            "And as the hearing continued, Republicans and Democrats pressed ahead with one point on which they agree these days: that an inept I.R.S. had committed serious misdeeds."
+        ],
+        [
+            "\u201cThe power to tax is the power to destroy,\u201d Mr. Issa said."
+        ],
+        [
+            "Representative Elijah E. Cummings of Maryland, the senior Democrat on the committee, also scolded the agency.",
+            "\u201cI believe there was gross incompetence and mismanagement,\u201d he said.",
+            "\u201cWe are better than that. We are simply better than that.\u201d"
+        ],
+        [
+            "But Mr. Cummings also admonished his Republican colleagues.",
+            "\u201cI think we need to be very, very careful not to let partisanship undermine the integrity not only of the committee but our investigation and our work product,\u201d he said."
+        ],
+        [
+            "The hearing, the second this week on the I.R.S.\u2019s efforts to target conservative groups, offered few new revelations.",
+            "Mr. George did shed some light on the extent of the accusations against the I.R.S., saying that at this point in this investigation he had no reason to believe any illegal conduct occurred.",
+            "\u201cWe do not deem it illegal. We do not believe that it was illegal, what they did,\u201d he said."
+        ],
+        [
+            "At times, committee members could hardly conceal their contempt for the I.R.S. and the Obama White House."
+        ],
+        [
+            "Representative Jim Jordan, Republican of Ohio, tried to link the I.R.S. scandal with other controversies that are dogging the Obama administration."
+        ],
+        [
+            "\u201cThis administration, which told us and told the American people that the attack that killed four Americans in Benghazi was the work, was caused by a video, is now the same administration who expects us to believe that this scandal was just the result of two rogue agents in Cincinnati,\u201d he said.",
+            "\u201cThe people don\u2019t buy it.\u201d"
+        ],
+        [
+            "Representative James Lankford, Republican of Oklahoma, said the way that applicants for tax-exempt status were buried in I.R.S. paperwork reminded him of another sore point that Republicans have with the Obama administration."
+        ],
+        [
+            "\u201cMan, that sounds like the Keystone Pipeline to me,\u201d he said, referring to the proposed cross-country oil pipeline that the president has so far declined to approve."
+        ],
+        [
+            "One Democrat, Representative Stephen F. Lynch of Massachusetts, even raised the threat of appointing a special prosecutor if Congress continues to feel that the I.R.S. is not being straightforward."
+        ],
+        [
+            "\u201cWe know where that will lead. It will lead to a special prosecutor,\u201d he said.",
+            "\u201cThere will be hell to pay if that\u2019s the route we choose to go down.\u201d"
+        ],
+        [
+            "Later, Mr. Jordan pressed Mr. Shulman, the former I.R.S. commissioner, on whether he had visited the White House.",
+            "When Mr. Shulman said he had, Mr. Jordan produced White House visitor records that he said indicated Mr. Shulman had been there at least 118 times.",
+            "Was he sure, Mr. Jordan asked, that the I.R.S. targeting never came up?"
+        ],
+        [
+            "\u201cOne hundred-eighteen visits and it didn\u2019t come up in casual conversation?\u201d Mr. Jordan said."
+        ],
+        [
+            "In follow-up questioning by Representative Gerald E. Connolly, a Virginia Democrat, Mr. Shulman offered what he said was one of the many plausible explanations why he would have visited the White House.",
+            "\u201cThe Easter Egg Roll with my kids,\u201d he said."
+        ]
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Donald_Trump": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "not really conservative, but less critical of Trump/administration than #1 and #3",
+        "relative_stance": "right",
+        "you_feeling_Donald_Trump": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 148,
+            "id": "p17",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 140,
+            "target": "Donald_Trump",
+            "txt": "assailed"
+        }
+    ],
+    "triplet-uuid": "542cd22c-ea80-4669-995b-6ac6a33823f7",
+    "uuid": "698c4b16-4302-4d84-bc3a-188575dd2fe8"
+}

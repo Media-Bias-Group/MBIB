@@ -1,0 +1,43 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Donald_Trump": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Donald_Trump": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "ind_anti",
+            "bias": "inf",
+            "end": 121,
+            "id": "p2",
+            "indirect-ally-opponent-sentiment": "pos",
+            "indirect-target-name": "Republican opponents",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 84,
+            "target": "Donald_Trump",
+            "txt": "many far more experienced in politics"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 164,
+            "id": "p3",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "slight disagreement whether this sentence is biased",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Donald_Trump",
+            "txt": "But he was able to capitalize on a primary voting base that was angry at the establishment GOP for not more aggressively fighting President Barack Obama\u2019s policies."
+        }
+    ],
+    "triplet-uuid": "84b3c118-50d2-45a5-a91f-7ed95b5d0143",
+    "uuid": "98ccf4b4-3ad1-4c85-af98-559389a43515"
+}

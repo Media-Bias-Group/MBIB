@@ -1,0 +1,90 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Mitt_Romney": "neu",
+        "author_feeling_Todd_Akin": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "covers Akin's apology",
+        "relative_stance": "right",
+        "you_feeling_Mitt_Romney": "neu",
+        "you_feeling_Todd_Akin": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 116,
+            "id": "p6",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "Mitt_Romney",
+            "start": 71,
+            "target": "Todd_Akin",
+            "txt": "Todd Akin's comments were offensive and wrong"
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 17,
+            "id": "p11",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 9,
+            "target": "Todd_Akin",
+            "txt": "rebuffed"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 102,
+            "id": "p31",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 0,
+            "target": "Todd_Akin",
+            "txt": "\"What he said is just flat wrong in addition to being wildly offensive to any victim of sexual abuse,\""
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 69,
+            "id": "p19",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "Todd_Akin",
+            "start": 0,
+            "target": "Todd_Akin",
+            "txt": "\"The mistake I made was in the words I said, not in the heart I hold."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 89,
+            "id": "p21",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Todd_Akin",
+            "txt": "The video was released after Akin canceled a scheduled television interview Monday night."
+        }
+    ],
+    "triplet-uuid": "08bb9bee-c167-4c17-9c6d-4a1259231eb7",
+    "uuid": "4f4dc5fb-84a8-4cd9-bd3a-451bda7a7b70"
+}

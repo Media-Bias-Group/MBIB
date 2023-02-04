@@ -1,0 +1,45 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Duncan_Hunter": "neg",
+        "author_feeling_Margaret_Hunter": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Duncan_Hunter": "neu",
+        "you_feeling_Margaret_Hunter": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 245,
+            "id": "p6",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Duncan_Hunter",
+            "txt": "Hunter had blamed his wife, who acted as a campaign manager, for many of the improper charges, saying she controlled the campaign\u2019s credit card, and in February he feigned ignorance in an interview with Politico, saying: \u201cNah, I know the rules.\u201d"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 254,
+            "id": "p11",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "hypocritical",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Duncan_Hunter",
+            "txt": "In a speech earlier this month, Hunter echoed President Donald Trump and castigated the Justice Department, accusing the agency of being \u201ccorrupt, answerable to no one\u201d and said it \u201cuses the law to extort the American people and effect political change.\u201d"
+        }
+    ],
+    "triplet-uuid": "eb17fa36-89f2-4d0b-8133-7bb4682228e1",
+    "uuid": "a1f10f4a-4ea8-43dc-8e15-1094d1f8d7af"
+}

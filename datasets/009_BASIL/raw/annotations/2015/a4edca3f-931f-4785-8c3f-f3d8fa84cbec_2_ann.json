@@ -1,0 +1,58 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Hillary_Clinton": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "can be more liberal, although her spokesman did not respond to some questions about the emails",
+        "relative_stance": "left",
+        "you_feeling_Hillary_Clinton": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 83,
+            "id": "p14",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Hillary_Clinton",
+            "txt": "Mrs. Clinton\u2019s spokesman, Mr. Merrill, did not respond to an email seeking comment."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 99,
+            "id": "p31",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Hillary_Clinton",
+            "txt": "Ms. Harf said that Mrs. Clinton was the only secretary of state who had sent back copies of emails."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 36,
+            "id": "p17",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "Hillary_Clinton",
+            "start": 0,
+            "target": "Hillary_Clinton",
+            "txt": "\u201cI want the public to see my email,\u201d"
+        }
+    ],
+    "triplet-uuid": "a4edca3f-931f-4785-8c3f-f3d8fa84cbec",
+    "uuid": "81110ee8-ab27-467f-86f3-c26ed2ede9a4"
+}

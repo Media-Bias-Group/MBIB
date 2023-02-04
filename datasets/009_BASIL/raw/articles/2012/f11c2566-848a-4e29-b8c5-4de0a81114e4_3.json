@@ -1,0 +1,47 @@
+{
+    "source": "fox",
+    "main-entities": ["John Boehner", "Democrats", "Republicans"],
+    "main-event": "John Boehner discusses chance GOP will lose House",
+    "title": "Boehner: '1-in-3 chance' Republicans could lose House in November",
+    "url": "http://www.foxnews.com/politics/2012/04/23/boehner-1-in-3-chance-gop-could-lose-house/?intcmp=related",
+    "word-count": 371,
+    "date": "2012-04-23",
+    "uuid": "129e1589-1b56-41f7-9f3a-bea6caef5eb3",
+    "triplet-uuid": "f11c2566-848a-4e29-b8c5-4de0a81114e4",
+    "body-paragraphs": [
+        [
+            "John Boehner is setting expectations high -- but apparently not too high -- for this year's congressional elections, telling Fox News that the Democrats have a chance of retaking the House."
+        ],
+        [
+            "The House speaker, in an interview with Fox News to air Tuesday morning, gave his Republican Party a \"two-in-three chance\" of holding on to control of the House after taking power in the 2010 elections."
+        ],
+        [
+            "\"But there's a one-in-three chance we could lose,\" Boehner said.",
+            "\"I'm being myself -- frank.",
+            "We've got a big challenge, and we've got work to do.\""
+        ],
+        [
+            "Democrats face an uphill battle in their efforts to take back the House, where Republicans hold a 242-190 seat advantage."
+        ],
+        [
+            "And control of the Senate could be up for grabs this year, too, with Democrats clinging to a fragile six-vote majority.",
+            "The oddsmakers who track congressional races with obsessive dedication project a handful of pickups for Republicans in the Senate -- but not necessarily enough to get to 51."
+        ],
+        [
+            "In the House, a flurry of redistricting decisions appears to be working as of late in the Democrats' favor, though the chaotic process has stung both parties repeatedly."
+        ],
+        [
+            "The Democrats would need 25 seats in the House to regain the majority -- a very steep climb in a year when neither party is particularly popular.",
+            "However, Democrats are thought to have far more safe seats than Republicans going into November.",
+            "Earlier this year, the Rothenberg Political Report projected a Democratic pick-up of between five and 12 seats."
+        ],
+        [
+            "In total, 33 Senate seats are in play this year, with 23 currently held by Democrats and 10 held by Republicans.",
+            "Ten of those 33 seats are open -- again, the state of play is in the Republicans' favor, with seven held by Democrats and three held by Republicans."
+        ],
+        [
+            "But while Republicans have several opportunities to pick off those Democrat-held seats, three races in particular could undermine those potential gains for the GOP. Republican Sens. Scott Brown in Massachusetts and Dean Heller in Nevada, who was appointed to fill the vacancy left by John Ensign, are both considered vulnerable.",
+            "And Sen. Olympia Snowe, a Republican from Maine, said she wouldn't seek re-election this year."
+        ]
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Michael_Steele": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Michael_Steele": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 88,
+            "id": "p3",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Michael_Steele",
+            "txt": "Mr. Steele\u2019s tenure has been one of the few blemishes this year for the Republican Party"
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 200,
+            "id": "p0",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 191,
+            "target": "Michael_Steele",
+            "txt": "onslaught"
+        }
+    ],
+    "triplet-uuid": "74708dbf-5dfc-4c66-8419-d7dbc00e4a06",
+    "uuid": "9495dca7-8ae6-48c3-adf9-eb2df4901f0e"
+}

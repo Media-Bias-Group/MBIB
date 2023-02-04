@@ -1,0 +1,12 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Jesse_Jackson": "neg",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Jesse_Jackson": "neu"
+    },
+    "phrase-level-annotations": [],
+    "triplet-uuid": "f506aafc-8b43-427a-936e-bbd1ef33e076",
+    "uuid": "af6977f5-1200-4e4a-a948-9f632e86a6b6"
+}

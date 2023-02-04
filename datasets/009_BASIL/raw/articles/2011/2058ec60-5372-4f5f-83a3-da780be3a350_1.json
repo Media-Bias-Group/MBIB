@@ -1,0 +1,131 @@
+{
+    "uuid": "208ea167-d640-45c8-8769-68723bd74399",
+    "date": "2011-03-29",
+    "main-entities": ["Walmart", "plaintiffs", "supreme court"],
+    "main-event": "Walmart sex discrimination case goes to supreme court",
+    "source": "NYT",
+    "url": "https://www.nytimes.com/2011/03/30/business/30walmart.html",
+    "keywords": "",
+    "triplet-uuid": "2058ec60-5372-4f5f-83a3-da780be3a350",
+    "body-paragraphs": [
+        [
+            "WASHINGTON — The Supreme Court appeared closely divided on Tuesday during arguments over the theory put forth by the plaintiffs in an enormous sex discrimination class-action case against Wal-Mart."
+        ],
+        [
+            "Even some justices who seemed sympathetic to the plaintiffs expressed qualms about how to administer a lawsuit involving as many as 1.5 million women seeking back pay that could amount to billions of dollars.",
+            "Others appeared worried about the consequences for other businesses of a ruling that would allow the case against Wal-Mart to go forward."
+        ],
+        [
+            "The mere certification of a class-action suit can prompt defendants to settle in light of the sums at stake, and the justices struggled to find a way to distinguish between gaps in pay that might have benign explanations and those caused by unlawful discrimination."
+        ],
+        [
+            "The court of Chief Justice John G. Roberts Jr. has recently issued a series of rulings in favor of plaintiffs suing for employment discrimination that cut against the court\u2019s pro-business reputation.",
+            "The Wal-Mart case dwarfs those rulings in importance.",
+            "It is the largest employment discrimination class action in history, and the court\u2019s decision, expected by June, will probably be its most important business ruling this term."
+        ],
+        [
+            "The issue before the justices at Tuesday\u2019s arguments was not whether Wal-Mart, the country\u2019s largest retailer and biggest private employer, discriminated against women who worked there.",
+            "For now, the question in the case, Wal-Mart Stores v. Dukes, No. 10-277, is whether hundreds of thousands of female workers have enough in common to join together in a single lawsuit."
+        ],
+        [
+            "The plaintiffs\u2019 theory is that a centralized companywide policy gave local managers too much discretion in pay and promotion decisions, leaving Wal-Mart vulnerable to gender stereotypes.",
+            "The plaintiffs have presented sworn statements and statistics to support their claim."
+        ],
+        [
+            "Wal-Mart calls that evidence unrepresentative and unreliable.",
+            "The company says its policies expressly bar discrimination and promote diversity.",
+            "In any event, the company says, the plaintiffs — who worked in 3,400 stores in 170 job classifications — do not have enough in common to warrant class-action treatment."
+        ],
+        [
+            "Justice Anthony M. Kennedy said the theory about how the company discriminated — through a central policy conferring local discretion — was internally inconsistent.",
+            "\u201cYour complaint faces in two directions,\u201d he told a lawyer for the plaintiffs."
+        ],
+        [
+            "But Justice Stephen G. Breyer said Wal-Mart could be held accountable if it failed to take action in the face of reports of discrimination from its stores.",
+            "\u201cShould central management under the law have withdrawn some of the subjective discretion in order to stop these results?\u201d Justice Breyer asked."
+        ],
+        [
+            "Justice Ruth Bader Ginsburg agreed, saying that companies had a responsibility to make sure that women were treated fairly in local workplaces.",
+            "And Justice Elena Kagan said that \u201cexcessive subjectivity\u201d may be a policy that violates the civil rights laws."
+        ],
+        [
+            "But Justice Antonin Scalia was unconvinced."
+        ],
+        [
+            "\u201cI\u2019m getting whipsawed here,\u201d he told the plaintiffs\u2019 lawyer, Joseph M. Sellers.",
+            "\u201cOn the one hand, you say the problem is that they were utterly subjective, and on the other hand you say there is strong corporate culture that guides all of this. Well, which is it?\u201d"
+        ],
+        [
+            "Mr. Sellers responded that \u201cthere is this broad discretion given the managers\u201d but that \u201cthey do not make their decisions in a vacuum.\u201d Managers, he went on, \u201care informed by the company about how to exercise that discretion.\u201d"
+        ],
+        [
+            "That did not satisfy Justice Scalia.",
+            "\u201cIf somebody tells you how to exercise discretion,\u201d he said, \u201cyou don\u2019t have discretion.\u201d"
+        ],
+        [
+            "Theodore J. Boutrous Jr., a lawyer for Wal-Mart, said the handful of women named as plaintiffs who seek to represent the entire class did not have typical experiences at the company."
+        ],
+        [
+            "\u201cEach of the plaintiffs have very different stories,\u201d he said.",
+            "\u201cOne of them was promoted into a managerial position. One was terminated for disciplinary violations. One was promoted and then had a disciplinary problem and then was demoted.\u201d"
+        ],
+        [
+            "He added that \u201cthis class includes at least 544 store managers who are alleged to be discriminators and victims.\u201d"
+        ],
+        [
+            "Several justices had practical concerns."
+        ],
+        [
+            "\u201cWhat seems to me a very serious problem in this case is, how do you work out the back pay?\u201d Justice Ginsburg asked."
+        ],
+        [
+            "Mr. Sellers said the trial court could rely on statistics culled from company databases, which he said were more reliable than the evidence that might be presented in individualized hearings given the available information about particular pay and promotion decisions.",
+            "Memories have faded, he said, and Wal-Mart did not keep good records."
+        ],
+        [
+            "Given that, Mr. Sellers said, Wal-Mart\u2019s personnel decisions were \u201cstandardless\u201d and \u201crecordless.\u201d"
+        ],
+        [
+            "Justice Kennedy responded with a point about the suitability of the case for class-action treatment.",
+            "\u201cIf it\u2019s standardless and recordless,\u201d he said, \u201cthen why is there commonality?\u201d"
+        ],
+        [
+            "Mr. Boutrous said Mr. Sellers was trying to have it both ways."
+        ],
+        [
+            "\u201cThe problem here, Mr. Sellers says, is that the records are not available,\u201d Mr. Boutrous said.",
+            "\u201cThen he says we\u2019re going to have a proceeding where the district judge relies only on the records that he says are inadequate, to allow a reconstruction of the decision.",
+            "That is not a process known to our jurisprudence.",
+            "It doesn\u2019t comport with due process."
+        ],
+        [
+            "Several justices voiced concerns about how many companies could be subject to class-action suits if they allowed the case against Wal-Mart to go forward."
+        ],
+        [
+            "\u201cIs it true,\u201d Chief Justice Roberts asked Mr. Sellers, \u201cthat Wal-Mart\u2019s pay disparity across the company was less than the national average?\u201d"
+        ],
+        [
+            "Mr. Sellers said that was not the appropriate comparison. \u201cThe comparison that\u2019s relevant,\u201d he said, \u201cis between men and women and Wal-Mart.\u201d",
+            "He added later that \u201cWal-Mart was behind the other large retailers.\u201d"
+        ],
+        [
+            "The chief justice also asked Mr. Sellers \u201chow many examples of abuse of the subjective discrimination delegation need to be shown before you can say that flows from the policy rather than from bad actors?\u201d",
+            "After all, he said, \u201cyou\u2019re going to have some bad apples\u201d given Wal-Mart\u2019s thousands of stores."
+        ],
+        [
+            "Mr. Sellers responded that \u201cthere is no minimum number\u201d in court decisions."
+        ],
+        [
+            "Justices Kennedy and Samuel A. Alito Jr. said they were concerned about companies whose pay and promotion gaps mirror national numbers where there is no proof of a discriminatory policy."
+        ],
+        [
+            "\u201cSo, you have the company that is absolutely typical of the entire American work force,\u201d Justice Alito said.",
+            "\u201cThen you would say every single company is in violation of Title VII\u201d of the Civil Rights Act?"
+        ],
+        [
+            "\u201cThat could very well be the case,\u201d Mr. Sellers said."
+        ]
+    ],
+    "title": "Justices Take Up Crucial Issue in Wal-Mart Suit",
+    "word-count": 282
+}

@@ -1,0 +1,50 @@
+{
+    "source": "fox",
+    "main-entities": ["Michael Bloomberg", "Donald Trump"],
+    "main-event": "Bloomberg criticizes Trump at DNC",
+    "title": "Bloomberg says Trump a 'dangerous demagogue,' endorses Clinton at DNC",
+    "url": "http://www.foxnews.com/politics/2016/07/27/bloomberg-says-trump-dangerous-demagogue-endorses-clinton-at-dnc.html",
+    "word-count": 341,
+    "date": "2016-07-27",
+    "uuid": "ded2909d-3f05-4ba2-a9f5-777a69b215db",
+    "triplet-uuid": "472158a1-4e39-4214-8397-904e66f2b4c5",
+    "body-paragraphs": [
+        [
+            "Former New York City Mayor Michael Bloomberg formally endorsed Hillary Clinton Wednesday at the Democratic National Convention, saying it was \"imperative\" that voters back the former secretary of state over GOP nominee Donald Trump."
+        ],
+        [
+            "\"This is just too important to sit out,\" said Bloomberg, a former Democrat who won New York's mayoralty as a Republican in 2001 before leaving the party to become an independent six years later."
+        ],
+        [
+            "\"There are times when I disagree with Hillary,\" Bloomberg said.",
+            "\"But let me tell you, whatever our disagreements may be, I\u2019ve come here to say we must put them aside for the good of our country.\""
+        ],
+        [
+            "Bloomberg, who has an estimated net worth of $48 billion, threw several jabs at Trump, whom he called a \"dangerous demagogue\" and a \"bomb-thrower.\""
+        ],
+        [
+            "Bloomberg contrasted his business history with Trump's, saying \"I\u2019ve built a business, and I didn\u2019t start it with a million-dollar check from my father.\""
+        ],
+        [
+            "Bloomberg also charged that Trump had \"left behind a well-documented record of bankruptcies and thousands of lawsuits and angry shareholders and contractors who feel cheated and disillusioned customers who feel ripped off.\""
+        ],
+        [
+            "\"Trump says he wants to run the nation like he's running his business?",
+            "God help us,\" said Bloomberg, who added that \"the richest thing about Donald Trump is his hypocrisy.\""
+        ],
+        [
+            "Bloomberg considered making a third-party run for president this year before opting against a campaign, expressing worry he would siphon away votes from Democratic nominee Hillary Clinton and inadvertently help elect Trump."
+        ],
+        [
+            "While in office, Bloomberg had a cordial relationship with Clinton, who, as a senator from New York, was involved in the city's post-9/11 rebuilding effort.",
+            "He did, as well, with Trump, whom he knew from New York's glitzy social circuit and from dealings with him as a developer."
+        ],
+        [
+            "But Trump's hardline approach to immigration alienated Bloomberg, who often makes the case that an open immigration policy is needed to keep the nation's economy growing.",
+            "He deemed Trump's economic plan \"a con\" and \"a disaster in the making.\""
+        ],
+        [
+            "Trump did not immediately respond to the speech."
+        ]
+    ]
+}

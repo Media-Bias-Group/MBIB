@@ -1,0 +1,91 @@
+{
+    "source": "nyt",
+    "main-entities": ["National Security Agency programs"],
+    "main-event": "White House Plays Down Data Program",
+    "title": "White House Plays Down Data Program",
+    "url": "http://www.nytimes.com/2013/06/09/us/politics/officials-say-congress-was-fully-briefed-on-surveillance.html?n=Top/Reference/Times%20Topics/People/S/Sanger,%20David%20E.?ref=davidesanger",
+    "word-count": 1120,
+    "date": "2013-06-08",
+    "uuid": "84e2edc9-1315-4bbc-95b6-8a20ace915c7",
+    "triplet-uuid": "a4f1d515-d7d9-4319-b2e0-4d56e9d45554",
+    "body-paragraphs": [
+        [
+            "WASHINGTON \u2014 The Obama administration tried Saturday to marshal new evidence in defense of its collection of private Internet and telephone data, arguing that a secret program called Prism is simply an \u201cinternal government computer system\u201d designed to sort through court-supervised collection of data, and that Congress has been briefed 13 times on the programs since 2009."
+        ],
+        [
+            "After rushing to declassify some carefully selected descriptions of the programs, James R. Clapper Jr., the director of national intelligence, conceded for the first time that the Prism program existed.",
+            "But in a statement, after denouncing the leak of the data to The Guardian and The Washington Post, Mr. Clapper insisted it was \u201cnot an undisclosed collection or data mining program.\u201d",
+            "Instead, he said it was a computer system to \u201cfacilitate\u201d the collection of foreign intelligence that had been authorized by Congress."
+        ],
+        [
+            "Mr. Clapper also insisted that the government \u201cdoes not unilaterally obtain information from the servers\u201d of telephone and Internet providers, saying that information is turned over only under court order, when there is a \u201cdocumented, foreign intelligence purpose for acquisition\u201d of the data."
+        ],
+        [
+            "He appeared to be attempting to push back against early reports that the government had direct access to the huge computer servers at Google, Microsoft, Facebook and similar companies.",
+            "Those firms have denied they give the government a \u201cback door\u201d to their systems."
+        ],
+        [
+            "But they acknowledge handing over material when ordered to do so by the Foreign Intelligence Surveillance Court, though they have not described the mechanism for complying with those orders.",
+            "It appears the companies use some kind of electronic drop box, in which they place the material, so that the government can then harvest the information."
+        ],
+        [
+            "The national intelligence director\u2019s rare Saturday statement was notable for what it omitted: any description of other means the government may use to intercept Internet information directly from fiber optic cables or satellite systems even before or after it reaches those Internet companies."
+        ],
+        [
+            "A new report in The Guardian, published online on Saturday, cited another document that showed that in March 2013 there were 97 billion pieces of data collected from networks worldwide; about 14 percent of it was from Iran, much was from Pakistan and about 3 percent came from inside the United States, though some of that may have been foreign data traffic routed through American-based servers."
+        ],
+        [
+            "Meanwhile, senior Obama administration officials, including the directors of the Federal Bureau of Investigation and of national intelligence, have held 13 classified hearings and briefings for members of Congress since 2009 to explain the broad authority they say they have to sweep up electronic records for national security purposes, a senior administration official said Saturday."
+        ],
+        [
+            "The administration, by disclosing the briefings, sought to push back on claims by Democrats and Republicans in Congress that they were either not aware of programs to mine vast amounts of Internet data and business telephone records or were insufficiently briefed on the details."
+        ],
+        [
+            "Lawmakers said that what they knew was vague and broad \u2014 and that strict rules of classification prevented them from truly debating the programs or conducting proper oversight."
+        ],
+        [
+            "In separate but identical letters sent on Oct. 19, 2011, Assistant Attorney General Ronald Weich told two of Congress\u2019s most outspoken critics of the efforts, Senators Ron Wyden of Oregon and Mark Udall of Colorado, both Democrats, that in December 2009 and February 2011 the Justice Department and intelligence agencies provided a classified document to Congress describing the surveillance efforts in detail."
+        ],
+        [
+            "The letter said the House and Senate Intelligence Committees had been briefed \u201con these operations multiple times and have had access to copies of the classified\u201d orders and opinions of the secret Foreign Intelligence Surveillance Court.",
+            "Members of the committee were invited to share the information with other lawmakers."
+        ],
+        [
+            "Broader briefings were held in 2011 before the reauthorization of the Patriot Act, the post-Sept. 11 law that authorized much of the surveillance."
+        ],
+        [
+            "\u201cAgainst this backdrop, we do not believe the executive branch is operating pursuant to \u2018secret law\u2019 or \u2018secret opinions of the Department of Justice,\u2019 \u201d Mr. Weich wrote.",
+            "\u201cRather, the intelligence community is conducting court-authorized intelligence activities pursuant to a public statute, with the knowledge and oversight of Congress and the Intelligence Committees of both houses.\u201d"
+        ],
+        [
+            "On Friday, Mr. Udall and Mr. Wyden released a joint statement repeating that they had \u201clong been concerned about the degree to which this collection has relied on \u2018secret law.\u2019 \u201d"
+        ],
+        [
+            "\u201cSenior administration officials have stated on multiple occasions that the Patriot Act\u2019s \u2018business records\u2019 authority is \u2018analogous to a grand jury subpoena,\u2019 \u201d they said.",
+            "They added that \u201cmultiple senior officials have stated that U.S. intelligence agencies do not collect information or dossiers on \u2018millions of Americans,\u2019 \u201d assertions that they believe have been contradicted by revelations of Internet data mining and a court order asking a Verizon subsidiary to turn over logs of telephone calls."
+        ],
+        [
+            "\u201cNow that the fact of bulk collection has been declassified, we believe that more information about the scale of the collection, and specifically whether it involves the records of \u2018millions of Americans,\u2019 should be declassified as well,\u201d they said."
+        ],
+        [
+            "The list of briefings begins on May 12, 2009, with a classified hearing of the Senate Intelligence Committee involving Gen. Keith B. Alexander, the head of the United States Cyber Command, and David S. Kris, assistant attorney general for national security."
+        ],
+        [
+            "On Feb. 14, 2011, all senators were offered the opportunity to discuss the broad authority under the Patriot Act with the director of national intelligence, Mr. Clapper; the F.B.I. director, Robert S. Mueller III; and General Alexander.",
+            "Mr. Mueller spoke to the House Republican Conference on May 13, 2011, and to the House Democratic Caucus on May 24, 2011."
+        ],
+        [
+            "On Feb. 8, 2011, Senators Dianne Feinstein of California, the chairwoman of the Intelligence Committee, and Saxby Chambliss of Georgia, the ranking Republican on the panel, invited every senator to a briefing with Mr. Clapper and Attorney General Eric H. Holder Jr. to discuss expiring provisions of the Foreign Intelligence Surveillance Act of 1978."
+        ],
+        [
+            "The provisions \u2014 \u201cone on roving authority for electronic surveillance and the other on the acquisition of business records that are relevant to investigations to protect against international terrorism or espionage\u201d \u2014 were added to the 1978 law by the Patriot Act."
+        ],
+        [
+            "But Senator Richard J. Durbin of Illinois, the Senate\u2019s No. 2 Democrat, draws a distinction between the holding of such briefings and the informed consent of Congress.",
+            "Very few lawmakers avail themselves of such briefings, he suggested, and only the most senior leaders are kept fully abreast of intelligence activities."
+        ],
+        [
+            "\u201cYou can count on two hands the number of people in Congress who really know,\u201d he said in an interview on Friday."
+        ]
+    ]
+}

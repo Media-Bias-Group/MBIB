@@ -1,0 +1,58 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Blake_Farenthold": "neg",
+        "author_feeling_main_event": "pos",
+        "notes": "This article gives quotes by republicans condemning Farenthold. Therefore it pits Farenthold against the republicans (as opposed to the first article, which doesn't make a distinction)",
+        "relative_stance": "center",
+        "you_feeling_Blake_Farenthold": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 101,
+            "id": "p2",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 71,
+            "target": "Blake_Farenthold",
+            "txt": "used $84,000 in taxpayer funds"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 128,
+            "id": "p6",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 52,
+            "target": "Blake_Farenthold",
+            "txt": "already notorious for a heavily circulated photograph of him in duck pajamas"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 227,
+            "id": "p17",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 114,
+            "target": "Blake_Farenthold",
+            "txt": "describing a congressman with a harsh temper who made sexually explicit jokes and engaged in casual sexual banter"
+        }
+    ],
+    "triplet-uuid": "06ffda2d-1caf-45ba-99e2-268aac1bf0e1",
+    "uuid": "369ffb5e-a8bd-4a00-b3d1-92261ba8ed6a"
+}

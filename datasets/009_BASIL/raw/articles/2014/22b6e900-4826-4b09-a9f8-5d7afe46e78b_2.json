@@ -1,0 +1,37 @@
+{
+    "source": "nyt",
+    "main-entities": ["Bruce Braley", "Chuck Grassley"],
+    "main-event": "Bruce Braley apologizes for farmer comments",
+    "title": "Representative Apologizes for Criticizing Iowa Senator",
+    "url": "https://www.nytimes.com/2014/03/26/us/politics/representative-apologizes-for-criticizing-iowa-senator.html?ref=politics",
+    "word-count": 272,
+    "date": "2014-03-25",
+    "uuid": "4707111b-4833-4655-87dd-402d78b16383",
+    "triplet-uuid": "22b6e900-4826-4b09-a9f8-5d7afe46e78b",
+    "body-paragraphs": [
+        [
+            "WASHINGTON \u2014 It is a lesson politicians never seem to learn from others\u2019 mistakes: The microphone is always on."
+        ],
+        [
+            "The latest candidate to learn the hard way was Representative Bruce Braley, an Iowa Democrat running for Senate this year.",
+            "Mr. Braley apologized to Senator Charles E. Grassley, Republican of Iowa, and \u201canyone I may have offended\u201d after video emerged of him warning that \u201ca farmer from Iowa who never went to law school, never practiced law\u201d could become chairman of the Judiciary Committee."
+        ],
+        [
+            "Mr. Braley is not running against Mr. Grassley, who plans to seek a seventh term in 2016.",
+            "But as the ranking Republican on the Judiciary Committee, Mr. Grassley could assume the chairmanship if his party takes control of the Senate this year.",
+            "Mr. Braley, speaking at a January fund-raiser in Corpus Christi, Tex., was explaining why he should go to the Senate instead of his Republican opponent."
+        ],
+        [
+            "America Rising, a conservative political action committee that has vowed to use videos and opposition research to attack Democratic candidates, posted the footage on YouTube on Tuesday.",
+            "Other Republicans quickly criticized Mr. Braley."
+        ],
+        [
+            "Though their numbers are declining, farmers are still a powerful force in the Iowa, which ranks second in the country in total farm sales.",
+            "Mr. Braley\u2019s apology noted his family\u2019s history with Iowa agriculture, including his own stint \u201cdoing farm jobs and working a grain elevator.\u201d"
+        ],
+        [
+            "In another appeal to Iowa farmers, Joni Ernst, a candidate in the Republican Senate primary on June 3, announced in an ad that she grew up \u201ccastrating hogs on an Iowa farm.\u201d",
+            "Ms. Ernst said that qualified her to \u201ccut pork\u201d in Washington."
+        ]
+    ]
+}

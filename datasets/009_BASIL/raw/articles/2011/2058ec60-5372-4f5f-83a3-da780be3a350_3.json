@@ -1,0 +1,95 @@
+{
+    "uuid": "empty",
+    "date": "2011-03-29",
+    "main-entities": ["Walmart", "plaintiffs", "supreme court"],
+    "main-event": "Walmart sex discrimination case goes to supreme court",
+    "source": "HPO",
+    "url": "http://www.huffingtonpost.com/2011/03/29/supreme-court-wal-mart_n_842026.html",
+    "keywords": "supreme, court, hears, argument, in, wal-mart, sex, bias, lawsuit, politics",
+    "triplet-uuid": "2058ec60-5372-4f5f-83a3-da780be3a350",
+    "body-paragraphs": [
+        [
+            "WASHINGTON \u2014 The Supreme Court appears ready to block a massive sex discrimination lawsuit against Wal-Mart on behalf of up to 1.6 million women, and that could make it harder for other workers nationwide to bring class-action claims against large employers."
+        ],
+        [
+            "The 10-year-old lawsuit, argued in lively exchanges at the court Tuesday, claims that Wal-Mart Stores Inc., the world's largest employer, favors men over women in pay and promotions.",
+            "Billions of dollars are at stake if it is allowed to go forward."
+        ],
+        [
+            "The case also could affect the future of other class-action lawsuits that pool modest individual claims into a single action that creates the potential for a large judgment and increases the pressure on businesses to settle."
+        ],
+        [
+            "In Tuesday's arguments, several justices suggested they were troubled by the case and lower court decisions against Bentonville, Ark.-based Wal-Mart.",
+            "Estimates of how many women could be included in the lawsuit run from 500,000 to 1.6 million."
+        ],
+        [
+            "Justice Anthony Kennedy, often a key vote on the high court, said the women's argument points in apparently conflicting directions."
+        ],
+        [
+            "\"You said this is a culture where Arkansas knows, the headquarters knows, everything that's going on,\" Kennedy said to Joseph Sellers, the women's lawyer.",
+            "\"Then in the next breath, you say, well, now these supervisors have too much discretion.",
+            "It seems to me there's an inconsistency there, and I'm just not sure what the unlawful policy is.\""
+        ],
+        [
+            "Sellers said that lower courts had been persuaded by statistical and other evidence put forth so far in the lawsuit.",
+            "He said Wal-Mart's strong corporate culture stereotypes women as less aggressive than men and that translates into individual pay and promotion decisions at the more than 4,300 Wal-Mart and Sam's Club stores across the country."
+        ],
+        [
+            "\"The decisions are informed by the values the company provides,\" Sellers said."
+        ],
+        [
+            "Justice Antonin Scalia said he felt \"whipsawed\" by Sellers' description.",
+            "\"Well, which is it?\" Scalia asked.",
+            "Either individual managers are on their own, \"or else a strong corporate culture tells them what to do.\""
+        ],
+        [
+            "Justice Ruth Bader Ginsburg said that at this stage of the lawsuit, the issue is not proving discrimination but showing enough evidence to go forward.",
+            "\"We're talking about getting a foot in the door,\" Ginsburg said, a standard she called not hard to meet."
+        ],
+        [
+            "Ginsburg, who made her name as a lawyer by bringing discrimination claims, said it was possible that Wal-Mart could refute the claims at a trial."
+        ],
+        [
+            "The court's other two female justices, Elena Kagan and Sonia Sotomayor, and Justice Stephen Breyer also appeared inclined to allow the lawsuit to proceed."
+        ],
+        [
+            "But several of their more conservative colleagues appeared to agree with Theodore Boutrous Jr., representing Wal-Mart, that even subjecting the company to a trial would be unfair."
+        ],
+        [
+            "That split among the justices raised the prospect of an ideologically divided ruling by the court this summer."
+        ],
+        [
+            "Boutrous said the class-action nature of the case deprives the company of its legal rights because it is being forced to defend the treatment of female employees regardless of the jobs they hold or where they work."
+        ],
+        [
+            "\"There is absolutely no way there can be a fair process here,\" Boutrous said."
+        ],
+        [
+            "He pointed to a group of at least 544 women who serve as store managers who \"are alleged to be both discriminators and victims.\""
+        ],
+        [
+            "Two of the named plaintiffs, Christine Kwapnoski and Betty Dukes, attended the argument.",
+            "Kwapnoski is an assistant manager at a Sam's Club in Concord, Calif. Dukes is a greeter at the Wal-Mart in Pittsburg, Calif."
+        ],
+        [
+            "Their situations were discussed only briefly, with Boutrous noting how different they were as a way to argue they should not be dealt with in the same lawsuit."
+        ],
+        [
+            "Business interests have lined up with Wal-Mart while civil rights, women's and consumer groups have sided with the women plaintiffs."
+        ],
+        [
+            "Both sides have painted the case as extremely consequential.",
+            "The business community has said that a ruling for the women would lead to a flood of class-action lawsuits based on vague evidence.",
+            "Supporters of the women say that if the court sides with Wal-Mart, it could remove a valuable weapon for fighting all sorts of discrimination."
+        ],
+        [
+            "David Sanford, who represents plaintiffs in other class-action cases, said after the arguments that the court seemed inclined to rule against the Wal-Mart women.",
+            "Sanford said such a decision could \"have implications for class actions more generally, making it more difficult for women and minority groups to enjoy equality and fair treatment in the workplace.\""
+        ],
+        [
+            "The Obama administration is not taking part in the case, although it was lobbied by both sides."
+        ]
+    ],
+    "title": "Supreme Court Hears Argument In Wal-Mart Sex Bias Lawsuit",
+    "word-count": 760
+}

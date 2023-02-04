@@ -1,0 +1,60 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Kevil_McCarthy": "neu",
+        "author_feeling_Raul_Labrador": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "right",
+        "you_feeling_Kevil_McCarthy": "neu",
+        "you_feeling_Raul_Labrador": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 101,
+            "id": "p4",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Raul_Labrador",
+            "txt": "Americans don\u2019t believe their leaders in Washington are listening and now is the time to change that."
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 25,
+            "id": "p23",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 9,
+            "target": "Raul_Labrador",
+            "txt": "has not been shy"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 153,
+            "id": "p30",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "other_pro",
+            "start": 0,
+            "target": "Raul_Labrador",
+            "txt": "\u201cThough times were tough, Ra\u00fal\u2019s mother often reminded him that if he studied, worked hard, and played by the rules, he could achieve the American Dream."
+        }
+    ],
+    "triplet-uuid": "c99adbdd-eaf3-4844-9548-2642e80de4e2",
+    "uuid": "35410b5a-b76b-4045-a957-d430070e2635"
+}

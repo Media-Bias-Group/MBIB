@@ -1,0 +1,44 @@
+{
+    "source": "HPO",
+    "main-entities": ["Eric Cantor", "David Brat"],
+    "main-event": "Eric Cantor defeated by David Brat",
+    "title": "Man Who Defeated Cantor Calls His Big Win 'A Miracle'",
+    "url": "https://www.huffingtonpost.com/2014/06/10/dave-brat-primary-win_n_5482714.html?ec_carp=7041908105451402550",
+    "word-count": 244,
+    "date": "2014-06-10",
+    "uuid": "empty",
+    "triplet-uuid": "ee05c9b3-529c-4268-ad72-19bd34f7197e",
+    "body-paragraphs": [
+        [
+            "Dave Brat celebrated his stunning victory over House Majority Leader Eric Cantor (R-Va.) for the Republican nomination on Tuesday night in a phone interview with Fox News' Sean Hannity."
+        ],
+        [
+            "The tea party-backed candidate attributed his victory to God and to grassroots efforts, calling the win a \"miracle.\""
+        ],
+        [
+            "\"If you go door to door knocking, the American people know the country is headed in the wrong direction,\" Brat said.",
+            "\"I attribute [the win] to God... God acted through the people on my behalf.\""
+        ],
+        [
+            "Cantor was expected to defeat Brat by a wide margin, outraising the college professor $5.4 million to $200,000.",
+            "But Brat unseated the House majority leader with 56 percent of the vote."
+        ],
+        [
+            "\"The good news is dollars don't vote, people do,\" Brat told Hannity.",
+            "\"I think the people are just ready for some major changes in this country.\""
+        ],
+        [
+            "Brat shied away from explicitly identifying as a tea party candidate, saying he ran on Republican principles."
+        ],
+        [
+            "\"I'm not holding anyone's feet to the fire but it wasn't a contest between the tea party and the Republicans and all this,\" he said.",
+            "\"Although I have tremendous tea party support and just wonderful people in the tea party and grassroots helping me out, and they're clearly responsible for the win...",
+            "I ran on the Republican principles.\""
+        ],
+        [
+            "\"I've been a conservative my whole life,\" he added.",
+            "\"There's nothing hard right or far right about anything.",
+            "I just believe in the ideas and that ideas matter in history.\""
+        ]
+    ]
+}

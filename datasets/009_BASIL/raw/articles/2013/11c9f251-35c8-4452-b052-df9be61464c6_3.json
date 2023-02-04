@@ -1,0 +1,49 @@
+{
+    "uuid": "empty",
+    "keywords": "elections 2014,liz cheney senate,liz cheney 2014,Mary Cheney,mary cheney liz cheney,Dick Cheney,Politics News,wyoming senate race,liz cheney gay marriage,mike enzi,Liz Cheney,wyoming senate race 2014,2014 election,mary cheney gay marriage,liz cheney same-sex marriage",
+    "source": "HPO",
+    "main-entities": ["Mary Cheney", "Liz Cheney"],
+    "main-event": "Mary Cheney criticizes sister Liz on same-sex marriage",
+    "url": "https://www.huffingtonpost.com/2013/09/01/mary-cheney-liz-cheney_n_3852411.html",
+    "title": "Mary Cheney: Sister Is 'Dead Wrong' On Gay Marriage",
+    "date": "2013-09-01",
+    "triplet-uuid": "11c9f251-35c8-4452-b052-df9be61464c6",
+    "word-count": 352,
+    "body-paragraphs": [
+        [
+            "Mary Cheney, the younger sister of Wyoming U.S Senate candidate Liz Cheney (R) and daughter of former Vice President Dick Cheney, criticized her sister's opposition to same-sex marriage in a Friday Facebook post, the New York Times reports."
+        ],
+        [
+            "According to the Times, Mary Cheney, who is openly gay and married her partner, Heather Poe, in Washington, DC last year, took to Facebook to rebuke her sister's remarks."
+        ],
+        [
+            "\u201cFor the record, I love my sister, but she is dead wrong on the issue of marriage,\" she wrote."
+        ],
+        [
+            "\"Freedom means freedom for everyone,\" she continued.",
+            "\"That means that all families \u2014 regardless of how they look or how they are made \u2014 all families are entitled to the same rights, privileges and protections as every other.\""
+        ],
+        [
+            "On Friday, Liz Cheney issued a statement voicing her opposition to same-sex marriage."
+        ],
+        [
+            "\"I am strongly pro-life and I am not pro-gay marriage,\" she said.",
+            "\u201cI believe the issue of marriage must be decided by the states, and by the people in the states, not by judges and not even by legislators, but by the people themselves.\""
+        ],
+        [
+            "The elder Cheney daughter is challenging Sen. Mike Enzi (R-Wyo.) in next year's Republican primary.",
+            "Previously, she had spoken out against the military's former \"don't ask, don't tell\" policy."
+        ],
+        [
+            "According to The Hill, Cheney sought to clarify her position after an alleged poll in Wyoming said she \"supports abortion and aggressively promotes gay marriage.\""
+        ],
+        [
+            "Her opposition also puts her at odds with her father, who offered support for gay marriage in 2009."
+        ],
+        [
+            "\"I think that freedom means freedom for everyone,\" the former vice president said.",
+            "\"As many of you know, one of my daughters is gay and it is something we have lived with for a long time in our family.",
+            "I think people ought to be free to enter into any kind of union they wish.\""
+        ]
+    ]
+}

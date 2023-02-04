@@ -1,0 +1,12 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Kevin_McCarthy": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Kevin_McCarthy": "neu"
+    },
+    "phrase-level-annotations": [],
+    "triplet-uuid": "ccf19ab6-7878-4378-b99c-2b08cc21371f",
+    "uuid": "9114ac9d-aad2-41fb-a0c6-6a2f6b613ba5"
+}

@@ -1,0 +1,75 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Nancy_Pelosi": "neu",
+        "author_feeling_Tim_Ryan": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "liberal",
+        "you_feeling_Nancy_Pelosi": "neu",
+        "you_feeling_Tim_Ryan": "neu"
+    },
+    "pair-uuid": "79bf99c6-6fca-4ce4-8ae1-8771de026142",
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 66,
+            "id": "p28",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 45,
+            "target": "Nancy_Pelosi",
+            "txt": "a prolific fundraiser"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 165,
+            "id": "p29",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 8,
+            "target": "Nancy_Pelosi",
+            "txt": "despite her proposals doing little to ensure new blood at the very top or changing the seniority system that has key committees led by lawmakers in their 80s"
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 120,
+            "id": "p0",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 111,
+            "target": "Nancy_Pelosi",
+            "txt": "surviving"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 56,
+            "id": "p12",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 34,
+            "target": "Nancy_Pelosi",
+            "txt": "interrupting reporters"
+        }
+    ],
+    "uuid": "0e0c9fac-c253-45e6-99fd-b725c84a9b1c"
+}

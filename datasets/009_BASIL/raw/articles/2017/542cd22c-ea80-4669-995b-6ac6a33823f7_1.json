@@ -1,0 +1,74 @@
+{
+    "source": "nyt",
+    "main-entities": ["Donald Trump"],
+    "main-event": "Trump reverses decision to allow import of elephant trophies",
+    "title": "For Now, Trump to Keep Ban on Importing Elephant Trophies",
+    "url": "https://www.nytimes.com/2017/11/17/us/politics/trump-elephant-trophy-ban.html?smid=pl-share",
+    "word-count": 664,
+    "date": "2017-11-17",
+    "uuid": "02eca38d-a69b-4427-a69f-34121bca6358",
+    "triplet-uuid": "542cd22c-ea80-4669-995b-6ac6a33823f7",
+    "body-paragraphs": [
+        [
+            "WASHINGTON \u2014 President Trump on Friday reversed the government\u2019s decision to start allowing hunters to import trophies of elephants that were killed in two African countries, pending a further review."
+        ],
+        [
+            "His evening Twitter message reversed a decision by his own administration over Zimbabwe that was announced this week and promoted as recently as Friday afternoon by the White House press secretary, Sarah Huckabee Sanders."
+        ],
+        [
+            "\u201cPut big game trophy decision on hold until such time as I review all conservation facts,\u201d Mr. Trump tweeted.",
+            "\u201cUnder study for years. Will update soon with Secretary Zinke. Thank you!\u201d"
+        ],
+        [
+            "Ryan Zinke, the interior secretary, said in a statement later Friday night that the decision applied to two African countries, though it did not name them."
+        ],
+        [
+            "\u201cPresident Trump and I have talked, and both believe that conservation and healthy herds are critical,\u201d the statement said.",
+            "\u201cAs a result, in a manner compliant with all applicable laws, rules and regulations, the issuing of permits is being put on hold as the decision is being removed.\u201d"
+        ],
+        [
+            "The United States Fish and Wildlife Service had signaled its intention to end the 2014 ban, citing Zimbabwe\u2019s conservation efforts.",
+            "On Thursday, the service announced on its website that it would begin issuing permits to allow the import of elephants hunted from 2016 to 2018, with two trophies allowed per import."
+        ],
+        [
+            "Nearly two weeks ago, the department also waived the ban in a similar manner for Zambia."
+        ],
+        [
+            "Zambia and Zimbabwe have had mixed success in recent years maintaining or increasing their elephant population, according to the Great Elephant Census, a project financed by Paul G. Allen, a founder of Microsoft.",
+            "The project also found that the African elephant population shrunk nearly 30 percent from 2007 to 2014."
+        ],
+        [
+            "It is unclear why Mr. Trump reversed the decision, but the announcement faced backlash from both conservatives and liberals.",
+            "Laura Ingraham, a Fox News host, said Thursday on Twitter that she did not understand how the decision would not \u201cINCREASE the gruesome poaching of elephants,\u201d while the comedian Ellen DeGeneres started an online campaign, using the hashtag #BeKindToElephants, to raise funds for elephant conservation efforts."
+        ],
+        [
+            "On social media, photos were being shared of Mr. Trump\u2019s two elder sons hunting on safari in Zimbabwe, including one photo that showed Donald Trump Jr. with a severed elephant tail in one hand and a knife in the other."
+        ],
+        [
+            "The White House argued that the hunting would bring money to local communities and incentivize efforts to protect elephants.",
+            "In defending the decision on Friday, Ms. Sanders cited a recently completed Park Service review that had begun during the Obama administration."
+        ],
+        [
+            "\u201cThis review established that both Zambia and Zimbabwe had met new standards, strict international conservation standards that allowed Americans to resume hunting in those countries,\u201d she told reporters during a news briefing."
+        ],
+        [
+            "Under President Barack Obama, the practice had been banned because of a lack of data on conservation efforts in Zimbabwe."
+        ],
+        [
+            "Safari Club International, a trophy-hunting organization that sued the Obama administration in 2014 in an effort to challenge the ban and was the first to report the policy change on Tuesday, lashed out against the news media and \u201canti-hunters\u201d for swaying the Trump administration to lift the trophy ban."
+        ],
+        [
+            "\u201cThe fight for the freedom to hunt is far from over,\u201d Paul Babaz, the organization\u2019s president, said in a statement.",
+            "\u201cWe will be more proactive and not back down.\u201d"
+        ],
+        [
+            "But environmental groups applauded the reversal on Friday and called for more restrictions on trophy hunting, which has faced increased scrutiny, especially after an American dentist killed Cecil, a lion beloved in Zimbabwe, in 2015."
+        ],
+        [
+            "\u201cIt\u2019s great that public outrage has forced Trump to reconsider this despicable decision,\u201d said Tanya Sanerib, a senior lawyer with the Center for Biological Diversity, \u201cbut it takes more than a tweet to stop trophy hunters from slaughtering elephants and lions.\u201d"
+        ],
+        [
+            "Ms. Sanders also confirmed Friday that a near-total ban on the commercial trade of African elephant ivory enforced during the Obama administration would remain in place."
+        ]
+    ]
+}

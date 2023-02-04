@@ -1,0 +1,99 @@
+{
+    "uuid": "42699cb0-e35e-4266-a45b-475412767db9",
+    "main-event": "Cesar Sayoc arrested for sending pipe bombs to Trump critics",
+    "main-entities": [
+        "Cesar Sayoc",
+        "Law enforcement/Federal authorities"
+    ],
+    "title": "Pipe Bomb Suspect Arrested in Southern Florida",
+    "triplet-uuid": "1f99798f-2b60-4ecb-b5f4-4aa7991e8ace",
+    "body-paragraphs": [
+        [
+            "Federal authorities made an arrest on Friday in connection with the nationwide bombing campaign against outspoken critics of President Trump, a significant breakthrough in a case that has gripped the country in the days leading up to the midterm elections."
+        ],
+        [
+            "A law enforcement official identified the suspect as Cesar Sayoc Jr., 56, of Aventura, Fla., just north of Miami."
+        ],
+        [
+            "Mr. Sayoc, a registered Republican, has a lengthy criminal history in Florida dating back to 1991 that includes felony theft, drug and fraud charges, as well as being arrested and accused of threatening to use a bomb, public records show."
+        ],
+        [
+            "His criminal record from the Florida Department of Law Enforcement indicates that at the time of his last arrest in 2015, he was 5-foot-11 and 215 pounds. ",
+            "He has brown eyes, black hair and a scar on his left arm, the records said, and was born in New York. ",
+            "The records listed Mr. Sayoc\u2019s occupation as \u201cmanager.\u201d"
+        ],
+        [
+            "According to a 2012 bankruptcy petition filed in Miami, Mr. Sayoc resided at the time at his mother\u2019s home. ",
+            "\u201cLives w/mom,\u201d a handwritten note on the petition said. ",
+            "\u201cHas no furniture.\u201d"
+        ],
+        [
+            "On Friday morning, the authorities surrounded a white van with pro-Trump stickers on it, and television news later showed images of the authorities hauling the van away on a truck underneath a tarp. ",
+            "But it remained unclear if the van belonged to Mr. Sayoc."
+        ],
+        [
+            "Some residents of Aventura reported seeing a similar white van covered in pro-Trump stickers often parked in the lot of a local strip mall, the Aventura Waterways shopping center. ",
+            "But it was not immediately clear if that van was the same one seized by the police on Friday."
+        ],
+        [
+            "\u201cIt struck me because of the crazy conspiratorial stickers covering the windows,\u201d said David Cypkin, a documentary film producer and editor with the Rakontur production company. ",
+            "\u201cIt was unsettling, and also it seemed to be occupied. ",
+            "Sometimes the door would be ajar or a window would be open, which indicated to me that maybe somebody was living in the van.\u201d"
+        ],
+        [
+            "Speaking at the White House on Friday, Mr. Trump praised law enforcement officials for quickly arresting a suspect."
+        ],
+        [
+            "\u201cThese terrorizing acts are despicable and have no place in our country,\u201d he said."
+        ],
+        [
+            "He added: \u201cWe must never allow political violence to take root in America.\u201d"
+        ],
+        [
+            "Mr. Sayoc\u2019s arrest came only hours after the mysterious spate of pipe bombs spread further as federal authorities said on Friday morning that they had found two more of the explosive devices: one addressed to Senator Cory Booker and the other to James R. Clapper Jr., the former director of national intelligence."
+        ],
+        [
+            "Although no formal charges have been filed yet in the case, two of the law enforcement officials said there was a high likelihood that Mr. Sayoc would be prosecuted at least in part in Federal District Court in Manhattan. ",
+            "The F.B.I.\u2019s New York office has been leading the investigation and five of the bombs sent this week fall under the jurisdiction of the United States attorney\u2019s office in Manhattan."
+        ],
+        [
+            "The package addressed to Mr. Clapper was meant to be delivered to the New York offices of CNN, where he works as an analyst, but was intercepted at a mail facility in Midtown Manhattan, police officials in New York City said. ",
+            "The package addressed to Mr. Booker, a New Jersey Democrat, was found in Florida, which two people briefed on the matter have said has become a focus of the intense, nationwide investigation into the bombs."
+        ],
+        [
+            "At a news conference on Friday morning, John Miller, the New York Police Department\u2019s deputy commissioner of intelligence and counterterrorism, said a postal worker at the mail facility on 52nd Street recognized the package addressed to Mr. Clapper as similar to other suspicious packages discovered this week and \u201cfroze it in the system.\u201d"
+        ],
+        [
+            "The department\u2019s bomb squad responded to the facility and secured the package for delivery to an F.B.I. lab in Quantico, Va., Mr. Miller said."
+        ],
+        [
+            "Speaking on CNN on Friday, Mr. Clapper said he was not surprised that a device had been sent to him. ",
+            "He has been a frequent critic of President Trump, a similarity shared with everyone whose names have appeared on the packages discovered so far."
+        ],
+        [
+            "\u201cThis is definitely domestic terrorism,\u201d Mr. Clapper said. ",
+            "\u201cAnyone who has in any way been a critic, publicly been a critic of President Trump, needs to be on an extra alert.\u201d"
+        ],
+        [
+            "Mr. Clapper also said that on Wednesday night he had taken precautions after the first packages were discovered. ",
+            "While he and his wife were away from their home this week, he added, he told his neighbor not to collect their mail."
+        ],
+        [
+            "All together, 12 crude explosive devices have been found since Monday, sent through the mail to a host of Democrats and other prominent figures who have been among Mr. Trump\u2019s most vocal detractors. ",
+            "The packages \u2014 virtually identical in plain manila envelopes \u2014 have been addressed to former President Barack Obama; former Vice President Joseph R. Biden Jr.; former Secretary of State Hillary Clinton; Representative Maxine Waters of California; former Attorney General Eric Holder; John O. Brennan, a former C.I.A. director, the actor Robert De Niro; and George Soros, the billionaire Democratic donor."
+        ],
+        [
+            "All of the envelopes had return address labels bearing the misspelled name of Representative Debbie Wasserman Schultz, a Democrat whose district is in southern Florida. ",
+            "None of the devices inside have exploded on their own so far, and investigators are still seeking to determine whether they were even capable of detonating. ",
+            "But the authorities in New York and elsewhere have warned that the devices should be considered dangerous."
+        ],
+        [
+            "The first package was discovered on Monday afternoon at the suburban New York home of Mr. Soros. ",
+            "While investigators initially thought that some devices were hand delivered, they now believe it is likely all of them were sent in the mail. ",
+            "Using information collected by the United States Postal Service, investigators have focused their attention on certain Florida postal centers, including one in Opa-locka near Miami."
+        ]
+    ],
+    "source": "nyt",
+    "url": "https://www.nytimes.com/2018/10/26/nyregion/cnn-cory-booker-pipe-bombs-sent.html",
+    "date": "2018-10-26"
+}

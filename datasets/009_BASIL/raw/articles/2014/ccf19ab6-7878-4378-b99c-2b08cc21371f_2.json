@@ -1,0 +1,59 @@
+{
+    "source": "nyt",
+    "main-entities": ["Senate Republicans", "Senate Democrats", "Barack Obama"],
+    "main-event": "House Republicans offer broad immigration plan",
+    "title": "House Republicans to Offer Broad Immigration Plan",
+    "url": "https://www.nytimes.com/2014/01/26/us/politics/house-republicans-to-offer-broad-immigration-plan.html?ref=immigrationandemigration",
+    "word-count": 681,
+    "date": "2014-01-25",
+    "uuid": "e399a140-e496-4f86-acdf-a7f8d95fad57",
+    "triplet-uuid": "ccf19ab6-7878-4378-b99c-2b08cc21371f",
+    "body-paragraphs": [
+        [
+            "WASHINGTON \u2014 House Republicans are preparing to unveil their own broad template for overhauling the nation\u2019s immigration system this week, potentially offering a small opening for President Obama and congressional Democrats to pass bipartisan legislation before the end of the year."
+        ],
+        [
+            "Speaker John A. Boehner of Ohio and other Republican leaders are expected to release a one-page statement of immigration principles this week at their annual retreat in Cambridge, Md., according to aides with knowledge of the plan.",
+            "The document is expected to call for border security and enforcement measures, as well as providing a path to legal status \u2014 but not citizenship \u2014 for many of the 11 million undocumented immigrants in the country, the aides said."
+        ],
+        [
+            "The Republican effort comes as Mr. Obama is expected to push once again for an overhaul of the immigration system in his State of the Union address Tuesday, and as lawmakers from both parties describe immigration as one of the few potential areas for bipartisan compromise before the end of the current Congress."
+        ],
+        [
+            "\u201cThe principles they lay out I\u2019m sure won\u2019t satisfy everybody,\u201d Michael R. Bloomberg, former mayor of New York City, said at an immigration forum on Friday.",
+            "But, he added, \u201cif we can make some compromises here for the good of the country, I think we have a very good chance for the first time in a long time of changing something that is really damaging all of us.\u201d"
+        ],
+        [
+            "The Senate, led by Democrats, passed a broad bipartisan measure in June to overhaul immigration that included a 13-year path to citizenship.",
+            "But the legislation stalled in the Republican-controlled House, where some of the party\u2019s more conservative members oppose any form of legal status as \u201camnesty.\u201d"
+        ],
+        [
+            "But heading into the three-day Republican retreat, even some of the most ardent conservatives say consensus is forming around an immigration package that would include several separate bills on border security; a clampdown against the hiring of undocumented workers; expanded guest-worker programs; a path to citizenship for illegal immigrants brought to the country as children; and a path to legal status for undocumented workers with family ties to citizens or employer sponsors."
+        ],
+        [
+            "The White House has said it wants a path to citizenship for both children and adults in any new immigration legislation."
+        ],
+        [
+            "\u201cThe president\u2019s pathway to citizenship is a stumbling block,\u201d said Representative Andy Harris, a conservative Republican who represents the Maryland district that will host the retreat.",
+            "\u201cBut legalization with no path to citizenship can gain some votes.\u201d"
+        ],
+        [
+            "Representative Peter T. King, a Republican of New York and a longtime critic of proposals to change the immigration system, said it was significant that both the third-ranking Republican in the House, Representative Kevin McCarthy of California, and the Judiciary Committee chairman, Representative Robert W. Goodlatte of Virginia, had voiced support in recent days for legal status for some immigrants living in the country illegally \u2014 and have taken very little heat for their remarks on either side of the aisle."
+        ],
+        [
+            "But the divisions that have slowed progress in the House have not been entirely mended.",
+            "Representative Ra\u00fal R. Labrador, a Republican of Idaho and once a leading immigration negotiator in the House, said it would be a mistake to push forward."
+        ],
+        [
+            "\u201cThe president has shown he\u2019s not willing to work with us on immigration,\u201d Mr. Labrador said.",
+            "\u201cIt\u2019s not worth having a party divided when we have so many issues we can come together on.\u201d"
+        ],
+        [
+            "On Thursday, aides to House conservatives who oppose the leadership\u2019s plan gathered in the office of Senator Jeff Sessions, Republican of Alabama and a fierce opponent of the immigration push, to plot a strategy to torpedo it."
+        ],
+        [
+            "Critics worry that House Republican leaders and Senate Democrats are essentially negotiating a final deal, bypassing formal House-Senate negotiations, where conservatives had hoped to derail the process.",
+            "Senator Charles E. Schumer of New York, one of the Democratic architects of the Senate bill, said: \u201cOne thing is certain, just as with the budget, at some point both the House and the Senate will have to sit down and resolve all the contentious issues.\u201d"
+        ]
+    ]
+}

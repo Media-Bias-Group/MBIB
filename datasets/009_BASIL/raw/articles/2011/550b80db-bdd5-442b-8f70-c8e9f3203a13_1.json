@@ -1,0 +1,56 @@
+{
+    "source": "nyt",
+    "main-entities": ["Newsweek", "Michele Bachmann"],
+    "main-event": "Newsweek publishes unflattering cover of Michele Bachmann",
+    "title": "Bachmann Cover Controversy Prompts Response From Newsweek",
+    "url": "http://thecaucus.blogs.nytimes.com/2011/08/09/newsweeks-bachmann-cover-causes-controversy/?scp=1&sq=bachman%20newsweek&st=cse",
+    "word-count": 428,
+    "date": "2011-08-09",
+    "uuid": "94f44f3d-7d33-46c6-8335-39dcc2818374",
+    "triplet-uuid": "550b80db-bdd5-442b-8f70-c8e9f3203a13",
+    "body-paragraphs": [
+        [
+            "Splashed across the cover of this week\u2019s Newsweek magazine is a picture of the Republican presidential candidate and Tea Party favorite Representative Michele Bachmann.",
+            "Her eyes are open wide \u2014 very, very wide \u2014 focused intensely somewhere off in the distance, just a smidge too high above the camera.",
+            "At the bottom of the page, floating across her torso in bold white letters, are the words \u201cThe Queen of Rage.\u201d"
+        ],
+        [
+            "Many in the conservative blogosphere are not pleased."
+        ],
+        [
+            "\u201cExactly what were the editors thinking putting this kind of a picture of a sitting congresswoman and presidential candidate on their cover?\u201d wrote Noel Sheppard on the conservative Web site News Busters, under the headline \u201cNewsweek Puts Picture of Michele Bachmann on Cover That Makes Her Look Crazy.\u201d"
+        ],
+        [
+            "A blogger on the Web site Freedom\u2019s Lighthouse said, \u201cCan anyone really say with a straight face that the Mainstream Media is not totally biased against conservatives?\u201d"
+        ],
+        [
+            "But even some unlikely allies have emerged to decry the cover as disrespectful."
+        ],
+        [
+            "\u201cIt\u2019s sexist,\u201d said Terry O\u2019Neill, the president of the National Organization for Women, to the news Web site the Daily Caller, which is run by the conservative commentator Tucker Carlson."
+        ],
+        [
+            "\u201cGloria Steinem has a very simple test,\u201d Ms. O\u2019Neill continued.",
+            "\u201cIf this were done to a man or would it ever be done to a man \u2013 has it ever been done to a man?",
+            "Surely this has never been done to a man.\u201d"
+        ],
+        [
+            "Monday night, Newsweek responded to the controversy by posting an \u201couttakes\u201d gallery on its Daily Beast Web site, showcasing other photos taken for the article.",
+            "The pictures show Ms. Bachmann shaking hands with voters, standing by herself in the corner of a room and signing autographs, all with the same wide-eyed intensity as in the cover shot."
+        ],
+        [
+            "The cover goes with an article by Lois Romano about Ms. Bachmann\u2019s place in the Tea Party movement and on the national stage.",
+            "The article itself seems to have spawned little outrage."
+        ],
+        [
+            "This is not the first time Newsweek has caused a stir with its cover choices.",
+            "In 2009, the editors selected a photo of Sarah Palin in running shorts, which the former governor \u2014 and many others \u2014 called \u201csexist.\u201d"
+        ],
+        [
+            "Just this past June, the news magazine ran a computer generated image of Catherine, the new Duchess of Cambridge, walking alongside Princess Diana, who has been dead for nearly 14 years."
+        ],
+        [
+            "The Atlantic Wire ran a story about that cover called, simply, \u201cHow Creepy Is Princess Diana\u2019s Ghost on the Cover of Newsweek?\u201d"
+        ]
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Liz_Cheney": "neu",
+        "author_feeling_Mary_Cheney": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Liz_Cheney": "neu",
+        "you_feeling_Mary_Cheney": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 138,
+            "id": "p10",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_neutral",
+            "start": 126,
+            "target": "Liz_Cheney",
+            "txt": "aggressively"
+        }
+    ],
+    "triplet-uuid": "11c9f251-35c8-4452-b052-df9be61464c6",
+    "uuid": "empty"
+}

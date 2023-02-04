@@ -1,0 +1,48 @@
+{
+    "source": "hpo",
+    "main-entities": ["Vicente Fox", "Felipe Calder", "Donald Trump"],
+    "main-event": "Fox and Calder say Mexico isn't paying for border wall",
+    "title": "Former Mexican President: 'I'm Not Going To Pay For That F**king Wall'",
+    "url": "https://www.huffingtonpost.com/entry/vicente-fox-donald-trump-mexico-wall_us_56cf5008e4b0bf0dab3132b5",
+    "word-count": 256,
+    "date": "2016-02-25",
+    "uuid": "ba93ff98-92dd-41fc-bc36-66a223f5dd67",
+    "triplet-uuid": "d4a4bc34-e48b-4485-86b2-f1daf4d464dd",
+    "body-paragraphs": [
+        [
+            "Former Mexican President Vicente Fox says Mexico will not pay for a wall along the U.S. border, despite what GOP presidential hopeful Donald Trump may claim."
+        ],
+        [
+            "Fox said, as a taxpayer, he\u2019s not willing to fund Trump\u2019s big idea."
+        ],
+        [
+            "\u201cI\u2019m not going to pay for that fucking wall,\u201d Fox told Fusion\u2019s Jorge Ramos in an interview airing Thursday.",
+            "\u201cHe should pay [for] it. He\u2019s got the money.\u201d"
+        ],
+        [
+            "The GOP front-runner, who has made many outrageous comments about Latinos including calling Mexican immigrants \"criminals\" and \"rapists,\" insists he'll coerce Mexico into paying for a wall to keep undocumented migrants out of the U.S. if he's elected.",
+            "(The real estate mogul estimates the price tag at around $8 billion.)"
+        ],
+        [
+            "Fox, however, isn't worried that Trump will actually win the presidency."
+        ],
+        [
+            "\"Democracy cannot pick crazy people that doesn't know what's going on in the world today,\" he said."
+        ],
+        [
+            "Ramos pointed out that Trump likely won among Hispanics during Tuesday\u2019s Nevada caucus -- a statistic that has a few caveats."
+        ],
+        [
+            "\"I'd like to know who those Hispanics are,\" Fox said.",
+            "\"They're followers of a false prophet.\""
+        ],
+        [
+            "Felipe Calderon, who was president of Mexico from 2006 to 2012, has also dismissed Trump's idea."
+        ],
+        [
+            "\"Mexican people, we are not going to pay any single cent for such a stupid wall,\" he said earlier this month.",
+            "\"And it's going to be completely useless. ...",
+            "If this guy pretends that closing the borders to anywhere either for trade [or] for people is going to provide prosperity to the United States, he is completely crazy.\""
+        ]
+    ]
+}

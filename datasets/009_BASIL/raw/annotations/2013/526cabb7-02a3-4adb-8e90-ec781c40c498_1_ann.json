@@ -1,0 +1,90 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Barack_Obama": "neu",
+        "author_feeling_White_House_officials_and_lawmakers": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "left",
+        "you_feeling_Barack_Obama": "neu",
+        "you_feeling_White_House_officials_and_lawmakers": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 51,
+            "id": "p1",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 44,
+            "target": "Barack_Obama",
+            "txt": "embrace"
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 168,
+            "id": "p2",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 163,
+            "target": "Barack_Obama",
+            "txt": "fight"
+        },
+        {
+            "aim": "ind_anti",
+            "bias": "lex",
+            "end": 62,
+            "id": "p11",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "Steve Stockman",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 52,
+            "target": "Barack_Obama",
+            "txt": "threatened"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 108,
+            "id": "p16",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "White_House_officials_and_lawmakers",
+            "start": 0,
+            "target": "Barack_Obama",
+            "txt": "\u201cHe\u2019s putting together a pretty comprehensive list of what could be done to make a difference in this area,\u201d"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 107,
+            "id": "p20",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "White_House_officials_and_lawmakers",
+            "start": 52,
+            "target": "Barack_Obama",
+            "txt": "\u201cmost comprehensive gun safety effort in a generation.\u201d"
+        }
+    ],
+    "triplet-uuid": "526cabb7-02a3-4adb-8e90-ec781c40c498",
+    "uuid": "807cd714-a095-45b6-841c-ca2e76640429"
+}

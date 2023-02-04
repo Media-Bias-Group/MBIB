@@ -1,0 +1,73 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Donald_Trump": "neu",
+        "author_feeling_main_event": "pos",
+        "notes": "",
+        "relative_stance": "liberal",
+        "you_feeling_Donald_Trump": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 41,
+            "id": "p2",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Donald_Trump",
+            "txt": "In the face of widespread public backlash"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 205,
+            "id": "p11",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Donald_Trump",
+            "txt": "The Safari Club\u2019s political action committees donated a collective $24,500 to Trump\u2019s presidential campaign and Zinke\u2019s 2014 and 2016 congressional campaigns, according to Federal Election Commission data."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 125,
+            "id": "p13",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 71,
+            "target": "Donald_Trump",
+            "txt": "which was believed to be a response to public pressure"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 82,
+            "id": "p20",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_neutral",
+            "start": 40,
+            "target": "Donald_Trump",
+            "txt": "\u201cencouraging Americans to kill elephants.\u201d"
+        }
+    ],
+    "triplet-uuid": "542cd22c-ea80-4669-995b-6ac6a33823f7",
+    "uuid": "11f3a9af-cabd-4f6c-907e-5e99fcc27f00"
+}

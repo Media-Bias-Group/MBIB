@@ -1,0 +1,71 @@
+{
+    "source": "hpo",
+    "main-entities": ["Donald Trump Jr.","WikiLeaks"],
+    "main-event": "Donald Trump Jr. Messaged With WikiLeaks During Presidential Campaign",
+    "title": "Donald Trump Jr. Messaged With WikiLeaks During Presidential Campaign",
+    "url": "https://www.huffingtonpost.com/entry/donald-trump-jr-wikileaks_us_5a0a1277e4b0bc648a0d431e",
+    "word-count": 614,
+    "date": "2017-11-13",
+    "uuid": "5eeaf107-771b-4c4d-be7c-4304d4c75a6e",
+    "triplet-uuid": "dd1e6e3b-f36c-4064-8ef9-940984e9afa2",
+    "body-paragraphs": [
+        [
+            "Donald Trump Jr. Messaged With WikiLeaks During Presidential Campaign"
+        ],
+        [
+            "President Donald Trump\u2019s oldest son, Donald Trump Jr., communicated with WikiLeaks over Twitter direct message during the 2016 presidential race, according to a report in The Atlantic published Monday."
+        ],
+        [
+            "According to messages obtained by The Atlantic\u2019s Julia Ioffe, Trump Jr. messaged with the WikiLeaks account between September 2016 and July 2017.",
+            "The messages were given to congressional investigators probing whether Trump\u2019s presidential campaign colluded with Russian officials to influence the outcome of the 2016 election.",
+            "(Federal officials believe WikiLeaks published material, including emails from the Democratic National Committee\u2019s servers, that had been obtained via Russian hackers.)"
+        ],
+        [
+            "Trump Jr. later on Monday confirmed his correspondence with WikiLeaks, posting several screenshots of the Twitter messages."
+        ],
+        [
+            "The messages are mostly from WikiLeaks to the president\u2019s son, but Trump Jr. did occasionally respond to the messages.",
+            "The organization made multiple requests of Trump Jr., asking him to provide his father\u2019s tax returns and suggesting the candidate refuse to concede if he lost the election to Democratic opponent Hillary Clinton.",
+            "(Trump Jr. didn\u2019t respond to either message.)"
+        ],
+        [
+            "On one occasion, Trump Jr. tweeted a link to a cache of leaked emails after the WikiLeaks account messaged it to him."
+        ],
+        [
+            "On another, WikiLeaks wrote it was happy to see the elder Trump mentioning the group on the campaign trail.",
+            "Moments later, Trump tweeted about the organization."
+        ],
+        [
+            "After Trump won the election, Wikileaks suggested that Trump should prod Australia to appoint the site\u2019s founder, Julian Assange, ambassador to the United States."
+        ],
+        [
+            "The White House didn\u2019t immediately respond to a HuffPost request for comment on the report.",
+            "In a statement to The Atlantic, Trump Jr.\u2019s attorney, Alan Futerfas, said, \u201cWe can say with confidence that we have no concerns about these documents and any questions raised about them have been easily answered in the appropriate forum.\u201d"
+        ],
+        [
+            "Vice President Mike Pence, who in an Oct. 14, 2016, interview with Fox News claimed the campaign had not been in contact with WikiLeaks, said in a statement late Monday that he had not known about Trump Jr.\u2019s messages."
+        ],
+        [
+            "\u201cThe vice president was never aware of anyone associated with the campaign being in contact with WikiLeaks,\u201d said Pence press secretary Alyssa Farah.",
+            "\u201cHe first learned of this news from a published report earlier tonight.\u201d"
+        ],
+        [
+            "Weeks before the election, asked if the campaign was \u201cin cahoots\u201d with WikiLeaks, Pence denied it.",
+            "\u201cNothing could be further from the truth,\u201d he said.",
+            "\u201cI think all of us have, you know, have had concerns about WikiLeaks over the years, and it\u2019s just a reality of American life today, and of life in the wider world.\u201d"
+        ],
+        [
+            "Trump Jr. became embroiled in the Russia investigation after it was revealed he and other campaign officials met with a Kremlin-backed attorney in June 2016 who had promised damaging information about Clinton.",
+            "Leaked emails published by The New York Times show Trump Jr. arranged the meeting at Trump Tower in New York."
+        ],
+        [
+            "\u201cTo the extent they had information concerning the fitness, character or qualifications of a presidential candidate, I believed that I should at least hear them out,\u201d Trump Jr. said in a statement to the Senate Judiciary Committee, one of the congressional committees probing the campaign\u2019s Russia ties, in September."
+        ],
+        [
+            "He said the meeting did not lead to anything, and has denied colluding with the Russian government."
+        ],
+        [
+            "Trump Jr. is expected to publicly testify before the Senate Judiciary Committee, according to the panel\u2019s top Democrat, Sen. Dianne Feinstein of California."
+        ]
+    ]
+}

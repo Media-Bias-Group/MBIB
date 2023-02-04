@@ -1,0 +1,62 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Barack_Obama": "neu",
+        "author_feeling_Senate_Democrats": "neu",
+        "author_feeling_Senate_Republicans": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Barack_Obama": "neu",
+        "you_feeling_Senate_Democrats": "neu",
+        "you_feeling_Senate_Republicans": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 62,
+            "id": "p10",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "Senate_Republicans",
+            "start": 0,
+            "target": "Barack_Obama",
+            "txt": "\u201cThe president\u2019s pathway to citizenship is a stumbling block,\u201d"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 74,
+            "id": "p15",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "Senate_Republicans",
+            "start": 0,
+            "target": "Barack_Obama",
+            "txt": "\u201cThe president has shown he\u2019s not willing to work with us on immigration,\u201d"
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 225,
+            "id": "p17",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 196,
+            "target": "Senate_Republicans",
+            "txt": "plot a strategy to torpedo it"
+        }
+    ],
+    "triplet-uuid": "ccf19ab6-7878-4378-b99c-2b08cc21371f",
+    "uuid": "e399a140-e496-4f86-acdf-a7f8d95fad57"
+}

@@ -1,0 +1,45 @@
+{
+    "source": "hpo",
+    "main-entities": ["Jesse Jackson"],
+    "main-event": "Jackson pleads guilty over illegal campaign spending spree",
+    "title": "Jackson Jr. Pleads Guilty",
+    "url": "https://www.huffingtonpost.com/2013/02/20/jesse-jackson-jr-guilty_n_2724328.html?1361378077",
+    "word-count": 424,
+    "date": "2013-02-20",
+    "uuid": "fc848d52-197e-4f53-a254-03fd7d9c56f6",
+    "triplet-uuid": "f506aafc-8b43-427a-936e-bbd1ef33e076",
+    "body-paragraphs": [
+        [
+            "WASHINGTON -- Former Rep. Jesse Jackson Jr. (D-Ill.) pleaded guilty in a federal courtroom Wednesday morning to using campaign funds to purchase an array of personal items including Bruce Lee memorabilia, a $43,000 Rolex watch and a mink cashmere cape."
+        ],
+        [
+            "He pleaded guilty to conspiracy before U.S. District Judge Robert L. Wilkins.",
+            "His wife, Sandra Jackson, who resigned from her position on Chicago\u2019s city council, is expected to plead guilty to filing false tax returns before the same judge on Wednesday afternoon."
+        ],
+        [
+            "Jackson, dressed in a blue tie, blue shirt and a blue suit, looked back in the direction of his father and wife several times during the hearing.",
+            "At one point he appeared to mouth, \"I'm sorry.\"",
+            "The former representative, who co-wrote a 1999 book with his father, Rev. Jesse Jackson, titled It's About the Money!: How You Can Get Out of Debt, Build Wealth, and Achieve Your Financial Dreams, was accused of spending $750,000 in campaign funds on personal items for himself and for his wife."
+        ],
+        [
+            "Jackson said he was clearheaded and had not been under treatment for alcohol or drug abuse, though he did have a beer last night.",
+            "He said he had never been more clear in his life, and had read the documents thoroughly and had understood the consequences of his actions."
+        ],
+        [
+            "He acknowledged he \"used money that shouldn't have been used,\" calling the government's statement accurate and saying he had \"no interest in wasting the taxpayers' time or money.\""
+        ],
+        [
+            "The judge set the sentencing for June 28 at 2 p.m. Jackson will be free to go after he surrenders his passport, and will be restricted to living in the D.C. or Chicago area."
+        ],
+        [
+            "The former national co-chairman of President Barack Obama\u2019s 2008 presidential campaign, Jackson was first elected to office in 1995 and resigned from Congress last year amid a federal investigation and his treatment for bipolar disorder."
+        ],
+        [
+            "In a statement issued by his lawyers on Friday after court records indicated he planned a guilty plea, Jackson said he had \u201cno excuses\u201d for his conduct and \u201cfully accept my responsibility for the improper decisions and mistakes I have made.\u201d"
+        ],
+        [
+            "UPDATE 2:52 p.m. -- Additional records disclosed Wednesday revealed that expenses charged by Jackson and his wife to his campaign included $4,272.78 on the Navigator of the Seas cruise, $2,306.08 at Walt Disney World, over $10,000 at Best Buy, over $300 at Build-A-Bear, $3,544.00 at Mariel's Boutique, and $5,687.75 on Martha's Vineyard Holistic Retreat.",
+            "The personal expenses at nightclubs and lounges topped $60,000, while personal dry-cleaning expenses topped $14,000."
+        ]
+    ]
+}

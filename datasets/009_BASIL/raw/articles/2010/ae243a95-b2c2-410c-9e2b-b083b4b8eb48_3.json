@@ -1,0 +1,46 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Democrats",
+        "Republicans"
+    ],
+    "main-event": "Republicans threaten to filibuster legislation until tax cuts are passed",
+    "title": "Calling The Senate GOP's Bluff: Multiple Bills Likely To Come Up Before Tax Cuts",
+    "url": "https://www.huffingtonpost.com/2010/12/01/senate-gop-bluff-tested-tax-cuts-bills_n_790666.html",
+    "word-count": 395,
+    "date": "2010-12-01",
+    "uuid": "73fd3350-941b-49f6-9e9e-84dab27234f2",
+    "triplet-uuid": "ae243a95-b2c2-410c-9e2b-b083b4b8eb48",
+    "body-paragraphs": [
+        [
+            "WASHINGTON -- The Senate GOP's threat to filibuster every single piece of legislation until the chamber resolves budget and tax cut measures will likely be tested as soon as Friday."
+        ],
+        [
+            "On Wednesday, Senate Majority Leader Harry Reid (D-Nev.) received a letter signed by all 42 Senate Republicans, which stated, \"[W]e write to inform you that we will not agree to invoke cloture on the motion to proceed to any legislative item until the Senate has acted to fund the government and we have prevented the tax increase that is currently awaiting all American taxpayers.\""
+        ],
+        [
+            "But Reid plans to file cloture this week on at least three measures: the DREAM Act, collective bargaining for firefighters, and a 9/11 health bill.",
+            "A senior Democratic staffer told The Huffington Post that it was likely to happen tonight or tomorrow.",
+            "If it happens tonight, any of the bills could come before the Senate for a vote on proceeding to full debate as soon as Friday or possibly early next week."
+        ],
+        [
+            "\"It had been my intention to file cloture on both of these bills last evening,\" said Reid on the Senate floor on Tuesday, \"however, supporters of the original bills requested that some modifications be made.",
+            "These changes are reflected in the bills.",
+            "I intend to move forward on both of these pieces of legislation.",
+            "In addition, I intend to file cloture this week on the 9/11 health bill.",
+            "I'll file cloture on all three of these at the same time.\""
+        ],
+        [
+            "\"We already have things on the calendar,\" said the Democratic staffer, noting that right now, it doesn't appear as if tax cuts will come before these measures that are already in the queue."
+        ],
+        [
+            "There could be some cracks in the GOP coalition to stand firm against any non-budget or tax cuts legislation though.",
+            "Sen. Susan Collins' (R-Maine) is reportedly open to voting to proceed on repealing Don't Ask, Don't Tell, even if the other issues aren't yet resolved."
+        ],
+        [
+            "Sen. Scott Brown (R-Mass.) recently introduced a compromise bill on extending unemployment benefits.",
+            "There's no indication yet that it will make it to the floor anytime soon, but if it did come up before a vote on the Bush tax cuts, it would put Brown in the tough spot of voting against his legislation or breaking with his party.",
+            "Brown's office did not respond to The Huffington Post's request for comment."
+        ]
+    ]
+}

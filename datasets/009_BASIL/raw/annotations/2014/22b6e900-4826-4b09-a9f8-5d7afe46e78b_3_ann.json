@@ -1,0 +1,75 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Bruce_Braley": "neg",
+        "author_feeling_Chuck_Grassley": "pos",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "right",
+        "you_feeling_Bruce_Braley": "neu",
+        "you_feeling_Chuck_Grassley": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 93,
+            "id": "p0",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 86,
+            "target": "Bruce_Braley",
+            "txt": "mocking"
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 21,
+            "id": "p2",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "sarcastic quotes",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 11,
+            "target": "Bruce_Braley",
+            "txt": "\u201crespects\u201d"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 83,
+            "id": "p10",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Chuck_Grassley",
+            "txt": "The spokesperson also touted Grassley\u2019s \u201cstrong record\u201d on the judiciary committee."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 303,
+            "id": "p11",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "other_pro",
+            "start": 0,
+            "target": "Chuck_Grassley",
+            "txt": "\u201cAlongside that, Sen. Grassley\u2019s one of only two working family farmers in the United States Senate, where he brings Iowa common sense to work for ag, anti-trust, transportation, environmental, energy, trade, health care, communications, national security, and tax policy that works for all of America,\u201d"
+        }
+    ],
+    "triplet-uuid": "22b6e900-4826-4b09-a9f8-5d7afe46e78b",
+    "uuid": "3cee11ac-7cd0-40f3-bbe4-c16ef043b090"
+}

@@ -1,0 +1,83 @@
+{
+    "source": "nyt",
+    "main-entities": ["Raul Labrador", "Kevil McCarthy"],
+    "main-event": "Raul Labrador challenges Kevin McCarthy for House majority leadership",
+    "title": "",
+    "url": "http://mobile.nytimes.com/2014/06/14/us/idaho-republican-appealing-to-right-enters-race-to-replace-cantor.html",
+    "word-count": 871,
+    "date": "2014-06-14",
+    "uuid": "0a43f74c-0b97-462f-a5dc-346e49830006",
+    "triplet-uuid": "c99adbdd-eaf3-4844-9548-2642e80de4e2",
+    "body-paragraphs": [
+        [
+            "WASHINGTON \u2014 Representative Ra\u00fal R. Labrador, a Republican of Idaho who has barely served two terms in Congress, jumped into the race for House majority leader on Friday, offering himself as the more conservative alternative who could pull the House rightward in the wake of Representative Eric Cantor\u2019s loss in a primary."
+        ],
+        [
+            "\u201cThe message from Tuesday is clear \u2014 Americans are looking for a change in the status quo,\u201d Mr. Labrador, a former immigration lawyer elected in the Tea Party wave of 2010, said in a statement.",
+            "\u201cPresident Obama and the Democrats have had their chance and they have failed.",
+            "Republicans must be willing to take these challenges head on with new leadership, fresh ideas and a different approach.\u201d"
+        ],
+        [
+            "While some of those conservative lawmakers elected in 2010 were hoping that the House leadership elections on Thursday would offer them the chance to reclaim their influence on Capitol Hill, few of them give Mr. Labrador much of a chance against the current House majority whip, Representative Kevin McCarthy of California.",
+            "Though Tea Party activists provided the energy and votes for Mr. Cantor\u2019s ouster, the elections might be more of a plea for a place at the leadership table."
+        ],
+        [
+            "Supporters of Mr. McCarthy, who confidently traveled home to his district in Bakersfield for the weekend, said Friday that the Californian had all but sewed up the votes he needs."
+        ],
+        [
+            "\u201cWe have got to have an alternative,\u201d Representative Louie Gohmert, Republican of Texas, said on Glenn Beck\u2019s conservative radio show.",
+            "\u201cI mean, for us as a party in Congress to send the message that we didn\u2019t learn a blessed thing from this amazing election result, we aren\u2019t paying attention.\u201d"
+        ],
+        [
+            "House conservatives \u2014 lacking a rationale to fight Mr. McCarthy, a well-liked member of leadership who has raised millions of dollars for Republican incumbents \u2014 have begun protesting that his voting record is actually to the left of Mr. Cantor\u2019s."
+        ],
+        [
+            "FreedomWorks, which has provided financial support for Tea Party candidates, immediately began trying to generate support for Mr. Labrador through its websites and email lists.",
+            "\u201cNow that grass-roots conservatives FIRED Eric Cantor, we need a new majority leader in the House of Representatives,\u201d FreedomWorks\u2019 website said Friday."
+        ],
+        [
+            "Matt Kibbe, the group\u2019s president and chief executive, said that he did not have great qualms with Mr. McCarthy\u2019s ideology, but that he was more about politics than ideas.",
+            "\u201cThe Republican penchant for just choosing the next guy in line hasn\u2019t proven to be a great strategy, and it hasn\u2019t picked good leadership,\u201d Mr. Kibbe said."
+        ],
+        [
+            "But Mr. Labrador\u2019s path to victory is steep, especially in the few days before House Republicans gather to elect Mr. Cantor\u2019s replacement.",
+            "Mr. McCarthy has been preparing for months to move up from No. 3 in the Republican leadership to No. 2 in the event that Speaker John A. Boehner of Ohio would retire after the November elections."
+        ],
+        [
+            "Conservative Republicans in the House pleaded Friday for a delay in the voting.",
+            "Some grumbled that the campaign by the college professor David Brat to unseat Mr. Cantor had ousted the one member of House Republican leadership willing to listen to the House\u2019s most conservative members.",
+            "Instead, the House will end up elevating a leader with a less conservative record and less patience for the far-right flank."
+        ],
+        [
+            "For his part, Mr. Boehner has remained firm that he wanted to get it done quickly and minimize disruption."
+        ],
+        [
+            "Mr. McCarthy spent much of the day calling members and shoring up support, said a Republican aide close to the majority whip.",
+            "McCarthy supporters predicted that Mr. Labrador would muster no more than a few dozen votes."
+        ],
+        [
+            "Some lawmakers questioned whether his run was really a quest to win the majority leader\u2019s post or merely to raise his own profile.",
+            "His decision to jump in was widely seen as proof that more experienced conservative members, like Representatives Jim Jordan of Ohio or Tom Price of Georgia, had rebuffed overtures to run from other conservatives."
+        ],
+        [
+            "Tea Party groups off Capitol Hill may believe Mr. Labrador can win, and they will pressure House conservatives to join the campaign.",
+            "But ultimately, supporting him could hurt more conservative members with the House leadership."
+        ],
+        [
+            "Mr. Labrador tried on Friday to at least engage the Republican conference in a debate over ideas.",
+            "He said the party needed to address issues like upward income mobility among the poor and middle-class economic insecurity.",
+            "Born the son of a single mother in Puerto Rico, he has seen himself as an ambassador to young and minority voters out of reach to traditional Republicans."
+        ],
+        [
+            "\u201cI am running for majority leader because I want to help create a vision of growth and opportunity for everyone and start getting to work for the American people,\u201d he said."
+        ],
+        [
+            "Representative Justin Amash, Republican of Michigan, rushed to champion Mr. Labrador\u2019s candidacy.",
+            "Mr. Amash, after all, voted last year to make him speaker of the House."
+        ],
+        [
+            "\u201cWe can\u2019t respond to a stunning loss by giving a pat on the back and promotion to the same team,\u201d Mr. Amash said of Mr. Cantor\u2019s defeat.",
+            "\u201cIt\u2019s time for someone new, someone conservative, someone who will put forward a fresh agenda, and someone we know is a proven and talented spokesman. That man is Ra\u00fal Labrador.\u201d"
+        ]
+    ]
+}

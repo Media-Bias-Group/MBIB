@@ -1,0 +1,37 @@
+{
+    "source": "hpo",
+    "main-entities": ["Donald Trump", "Hillary Clinton"],
+    "main-event": "Trump Attacks Justice Department As 'Deep State,' Calls For Jailing Top Clinton Aide",
+    "title": "Trump Attacks Justice Department As 'Deep State,' Calls For Jailing Top Clinton Aide",
+    "url": "https://www.huffingtonpost.com/entry/trump-justice-department-deep-state_us_5a4b87d8e4b06d1621bacc0a",
+    "word-count": 238,
+    "date": "2018-01-02",
+    "uuid": "4f59fb4e-0876-4d5f-953e-16fbbb779201",
+    "triplet-uuid": "87609973-bd58-42a5-96e2-ee5aa47433f5",
+    "body-paragraphs": [
+        [
+            "Trump Attacks Justice Department As 'Deep State,' Calls For Jailing Top Clinton Aide"
+        ],
+        [
+            "WASHINGTON \u2015 President Donald Trump on Tuesday renewed his attack on his \u201cdeep state\u201d Justice Department, and said a top aide to 2016 election rival Hillary Clinton should be jailed."
+        ],
+        [
+            "Trump, returning to Washington after spending the holidays at his Florida resort, posted an early-morning tweet lashing out at former Clinton aide Huma Abedin, apparently in response to Abedin emails released by the State Department on Friday."
+        ],
+        [
+            "The emails, disclosed in response to a Freedom of Information Act lawsuit filed by the conservative group Judicial Watch, were uncovered during the 2016 presidential campaign, according to Politico, part of the FBI\u2019s probe into Clinton\u2019s use of a private email server during her time as secretary of state.",
+            "Abedin reportedly forwarded State Department emails, including some that contained passwords, to a personal account.",
+            "Trump and his right-wing allies continue to raise the issue."
+        ],
+        [
+            "Trump also said in his tweet that the Justice Department must act on \u201cComey and others,\u201d a reference to former FBI Director James Comey, who was leading the investigation into whether Trump\u2019s campaign colluded with Russia to influence the election until Trump fired him in May."
+        ],
+        [
+            "Trump, in tweets and interviews, has repeatedly sought to undermine his Justice Department and FBI as the Russia probe has intensified.",
+            "He has criticized Attorney General Jeff Sessions numerous times for recusing himself from supervising the Russia investigation, and claims to have the right to direct government investigations himself."
+        ],
+        [
+            "Last week, Trump asserted in a New York Times interview that he had the \u201cabsolute right to do what I want to do with the Justice Department.\u201d"
+        ]
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "source": "nyt",
+    "main-entities": ["Michael Morell","Obama's administration", "State Department", "Republican lawmakers"],
+    "main-event": "E-Mails Show Jostling Over Benghazi \u2018Talking Points\u2019",
+    "title": "E-Mails Show Jostling Over Benghazi \u2018Talking Points\u2019",
+    "url": "http://www.nytimes.com/2013/05/16/us/politics/e-mails-show-jostling-over-benghazi-talking-points.html?pagewanted=1&ref=centralintelligenceagency",
+    "word-count": 1209,
+    "date": "2013-05-15",
+    "uuid": "312676c4-7676-4bc8-a4e6-ed168947ba75",
+    "triplet-uuid": "1bb79cc1-5d69-4136-a23d-6dbd300cbf25",
+    "body-paragraphs": [
+        [
+            "WASHINGTON \u2014 E-mails released by the White House on Wednesday revealed a fierce internal jostling over the government\u2019s official talking points in the aftermath of last September\u2019s attack in Benghazi, Libya, not only between the State Department and the Central Intelligence Agency, but at the highest levels of the C.I.A."
+        ],
+        [
+            "The 100 pages of e-mails showed a disagreement between David H. Petraeus, then the director of the C.I.A., and his deputy, Michael J. Morell, over how much to disclose in the talking points, which were used by Susan E. Rice, the ambassador to the United Nations, in television appearances days after the attack."
+        ],
+        [
+            "Mr. Morell, administration officials said, deleted a reference in the draft version of the talking points to C.I.A. warnings of extremist threats in Libya, which State Department officials objected to because they feared it would reflect badly on them."
+        ],
+        [
+            "Mr. Morell, officials said, acted on his own and not in response to pressure from the State Department.",
+            "But when the final draft of the talking points was sent to Mr. Petraeus, he dismissed them, saying \u201cFrankly, I\u2019d just as soon not use this,\u201d adding that the heavily scrubbed account would not satisfy the House Democrat who had requested it."
+        ],
+        [
+            "\u201cThis is certainly not what Vice Chairman Ruppersberger was hoping to get,\u201d Mr. Petraeus wrote, referring to Representative C. A. Dutch Ruppersberger of Maryland, the top Democrat on the House Intelligence Committee, which had asked Mr. Petraeus for talking points to use with reporters in discussing the attack on Benghazi."
+        ],
+        [
+            "The White House released the e-mails to reporters after Republicans seized on snippets of the correspondence that became public on Friday to suggest that President Obama\u2019s national security staff had been complicit in trying to alter the talking points for political reasons."
+        ],
+        [
+            "While the e-mails portrayed White House officials as being sensitive to the concerns of the State Department, they suggest that Mr. Obama\u2019s aides mostly mediated a bureaucratic tug of war between the State Department and the C.I.A. over how much to disclose \u2014 all under heavy time constraints because of the demands from Capitol Hill.",
+            "The e-mails revealed no new details about the administration\u2019s evolving account of the Sept. 11 attack, which killed four Americans, including Ambassador J. Christopher Stevens."
+        ],
+        [
+            "\u201cIn recent days, these e-mails have been selectively and inaccurately read out to the media,\u201d said a White House spokesman, Eric Schultz.",
+            "By releasing them, he said, the White House had shown that the drafting process was \u201cfocused on providing the facts as we knew them, based on the best information available at the time and protecting an ongoing investigation.\u201d"
+        ],
+        [
+            "Still, the final version of the talking points is stripped of material \u2014 including a reference to Libya being awash with weapons and fighters that made it a dangerous environment \u2014 which critics say would have raised questions about the State Department\u2019s security posture."
+        ],
+        [
+            "Republicans welcomed the release of the e-mails, saying they confirmed that the administration had airbrushed its account of the attack during an election campaign.",
+            "They also said the e-mails belied the White House\u2019s insistence that it had changed only one word in the talking points."
+        ],
+        [
+            "\u201cThe seemingly political nature of the State Department\u2019s concerns raises questions about the motivations behind these changes and who at the State Department was seeking them,\u201d said Brendan Buck, a spokesman for Speaker John A. Boehner."
+        ],
+        [
+            "In releasing the e-mails, the White House was hoping to show that intelligence officials, not political advisers, drove the debate over the talking points.",
+            "It drew attention to a draft of the talking points \u2014 the only document provided by the White House that was not part of an e-mail chain \u2014 in which Mr. Morell, in his own writing, crossed out five lines that referred to C.I.A. warnings about the threat of attacks by Al Qaeda-linked extremists in Benghazi and eastern Libya."
+        ],
+        [
+            "But there is no other evidence in the e-mails that Mr. Morell himself objected to the inclusion of this material.",
+            "In an e-mail to Mr. Petraeus accompanying the final version of the talking points, Mr. Morell referred to the State Department\u2019s deep concerns about the references."
+        ],
+        [
+            "The release of the e-mails offers a rare glimpse inside the White House five days after the attack as it struggled to piece together intelligence to formulate a public account of what happened."
+        ],
+        [
+            "The process began in earnest at 4:20 p.m. on Friday, Sept. 14, when Stephen W. Preston, the C.I.A. general counsel, sent an e-mail to other agency officials warning them not to disclose information that might interfere with the F.B.I.\u2019s investigation."
+        ],
+        [
+            "At 6:20 p.m., the spokesman for the National Security Council at the time, Tommy Vietor, e-mailed to remind officials that Denis McDonough, then the deputy national security adviser and now the White House chief of staff, wanted to ensure that the edits were coordinated with the State Department."
+        ],
+        [
+            "At 6:41 p.m., Shawn Turner, the spokesman for the director of national intelligence, suggested saying that on Sept. 10, the C.I.A. had \u201cnotified\u201d the American embassy in Cairo, not \u201cwarned\u201d it, of social media reports calling for a demonstration and encouraging jihadists to break into the embassy.",
+            "Mr. Morell later removed the entire reference."
+        ],
+        [
+            "At 7:16 p.m., Victoria Nuland, the State Department spokeswoman, weighed in with her initial concerns about ensuring that the talking points provided to lawmakers did not go further than what the administration was telling reporters."
+        ],
+        [
+            "Twenty-three minutes later, Ms. Nuland sent White House and intelligence officials an even more pointed e-mail, objecting that the talking points could be \u201cabused\u201d by lawmakers \u201cto beat the State Department for not paying attention to agency warnings so why do we want to feed that either? Concerned ... \u201d"
+        ],
+        [
+            "At 7:51 p.m., the F.B.I. offered only minor changes to the draft, the bureau\u2019s only suggestions during the contentious process."
+        ],
+        [
+            "At 9:24 p.m., Ms. Nuland, reading the latest draft, complained in an e-mail, \u201cThese don\u2019t resolve all my issues or those of my building leadership.\u201d",
+            "Ten minutes later, Benjamin J. Rhodes, a deputy national security adviser, offered his first comments, saying, \u201cWe need to resolve this in a way that respects all of the relevant equities, especially the investigation.\u201d"
+        ],
+        [
+            "In a report that set off the latest tempest over the talking points, ABC News reported incorrectly that Mr. Rhodes had emphasized the need to protect the State Department\u2019s interests."
+        ],
+        [
+            "At 9:52 p.m., a C.I.A. spokesman e-mailed to other agency staff members a draft note intended for Mr. Petraeus, warning him that while the White House had quickly cleared the proposed talking points, the State Department had \u201cmajor concerns.\u201d"
+        ],
+        [
+            "Mr. Obama\u2019s national security deputies reviewed the talking points at a meeting the next day, Sept. 15, Mr. Rhodes said."
+        ],
+        [
+            "At 11:25 a.m., Mr. Rhodes changed a reference to the United States \u201cconsulate\u201d in Benghazi to \u201cdiplomatic post.\u201d"
+        ],
+        [
+            "Over the next couple of hours, aides made small final changes and e-mailed a final version to lawmakers shortly after 3 p.m."
+        ],
+        [
+            "With time short before Ms. Rice began taping her appearances on Sunday morning news programs, the White House also supplied her aides with the final talking points."
+        ],
+        [
+            "Asked by one of Ms. Rice\u2019s aides, \u201cIs this the final language you want to use on Benghazi,\u201d Mr. Rhodes replied with a single word: \u201cYup.\u201d"
+        ]
+    ]
+}

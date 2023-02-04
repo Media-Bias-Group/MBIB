@@ -1,0 +1,78 @@
+{
+    "source": "hpo",
+    "main-entities": ["Ruth Bader Ginsburg", "Donald Trump"],
+    "main-event": "Ruth Bader Ginsburg criticizes Trump",
+    "title": "Did Ruth Bader Ginsburg Cross The Line With Her Donald Trump Comments?",
+    "url": "https://www.huffingtonpost.com/entry/ruth-bader-ginsburg-donald-trump_us_5783af3de4b01edea78ea5c8",
+    "word-count": 716,
+    "date": "2016-07-11",
+    "uuid": "52d0bf09-037d-46b4-b72a-6a3dd552729b",
+    "triplet-uuid": "8385a996-1afc-4778-a06d-7070a8f19e27",
+    "body-paragraphs": [
+        [
+            "Supreme Court Justice Ruth Bader Ginsburg hasn\u2019t been shy in recent days about the prospect of a Donald Trump presidency, joking that she might move to New Zealand if it ever happens."
+        ],
+        [
+            "\u201cI can\u2019t imagine what this place would be \u2015 I can\u2019t imagine what the country would be \u2015 with Donald Trump as our president,\u201d Ginsburg told The New York Times in an article published Sunday.",
+            "\u201cFor the country, it could be four years.",
+            "For the court, it could be \u2015 I don\u2019t even want to contemplate that.\u201d"
+        ],
+        [
+            "That tracks a comment she made in a separate interview with The Associated Press, when the justice stopped short of noting she\u2019d rather have presumptive Democratic presidential nominee Hillary Clinton making future appointments to the Supreme Court."
+        ],
+        [
+            "\u201cI don\u2019t want to think about that possibility,\u201d Ginsburg said when asked to consider Trump in the role of appointer-in-chief. "
+        ],
+        [
+            "Now a number of legal academics and Supreme Court observers are raising questions about the propriety of Ginsburg\u2019s candor and what it might mean for the court\u2019s integrity \u2015 with some suggesting she might have to recuse herself from considering any Trump-related case that reaches the high court."
+        ],
+        [
+            "\u201cThe other justices should hold an intervention, and tell her to be quiet or step down,\u201d wrote Josh Blackman, a Houston College of Law professor who frequently writes about the high court.",
+            "\u201cThis isn\u2019t funny anymore.\u201d He added that Ginsburg\u2019s comments are \u201cbeyond the pale.\u201d"
+        ],
+        [
+            "Rick Hasen, another avid court watcher who specializes in election law, wrote that Ginsburg\u2019s statements could very well lead a \u201creasonable person\u201d to question her impartiality in a future politically charged case."
+        ],
+        [
+            "\u201cI think this is ultimately a question for judicial ethicists, but I do think following these comments it is a legitimate question to raise, should Donald Trump\u2019s campaign come to the Court with any legal questions before the election,\u201d he wrote in his widely read Election Law Blog."
+        ],
+        [
+            "Dmitry Bam, a professor at the University of Maine School of Law who has written on judicial recusals and ethics, said \u201cthere is little question that she has crossed a line.\u201d"
+        ],
+        [
+            "\u201cFor a court that cares a great deal about appearances, this certainly creates the appearance that justices take sides in elections,\u201d Bam wrote in an email.",
+            "\u201cAnd if Trump v. Clinton arises in the fall, I would say that there is at the very least an appearance of bias if Justice Ginsburg participates.\u201d"
+        ],
+        [
+            "Under federal law, justices must step aside from cases where their \u201cimpartiality might reasonably be questioned\u201d \u2015 and they did so in 180 cases during the court\u2019s last term, according to a new analysis by Fix the Court, a group that pushes for structural reform at the Supreme Court."
+        ],
+        [
+            "Fix the Court found that the bulk of recent recusals were due to the justices\u2019 prior work as appellate judges or in government positions.",
+            "Other recusals were related to stock ownership and family ties to judges or lawyers who participated in earlier stages of the cases."
+        ],
+        [
+            "But recusals for political views or implicit support for certain positions are exceedingly rare, even in the face of a code of judicial conduct that guides federal judges on extra-judicial activities and how to avoid even the appearance of impropriety."
+        ],
+        [
+            "Even with that guidance and other self-imposed checks in place, the justices have time and again declined to step aside in cases of high political salience \u2015 most recently in the same-sex marriage cases, where Ginsburg and Justices Elena Kagan and Clarence Thomas all took part despite calls for them to recuse."
+        ],
+        [
+            "\u201cI\u2019m not aware [that] any justice before has ever commented on the merits or demerits of a presidential candidate,\u201d said Ed Whelan, the president of the Ethics and Public Policy Center and a frequent contributor to the conservative National Review Online, where he has chronicled this episode and what he deems Ginsburg\u2019s \u201cremarkable record of indiscretions.\u201d"
+        ],
+        [
+            "\u201cI may very well share her concerns about Donald Trump ... but the ethics concerns don\u2019t depend on the soundness or unsoundness of the candidate,\u201d Whelan added."
+        ],
+        [
+            "But what if this is less a question about ethics and more about wanting our judges to be candid about their positions and biases \u2015 and that the political process itself has done away with the veneer that the high court is entirely apolitical?"
+        ],
+        [
+            "\u201cMost people now recognize that judges are heavily influenced by their personal beliefs and experiences,\u201d said Bam, of the Maine School of Law."
+        ],
+        [
+            "\u201cWe have watched one party refuse to hold hearings based the politics of the president and his potential nominees.",
+            "Judges time their retirements to coincide with a certain party being in office.",
+            "And the 5-4 decision in Bush v. Gore, along partisan lines, also shows the political nature of the court,\u201d Bam said.",
+            "\u201cSo perhaps the pretense that judges are nonpartisan and apolitical does more harm than good.\u201d"
+        ]
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "source": "nyt",
+    "main-entities": ["Donald Trump", "Barack Obama"],
+    "main-event": "Trump holds birther meeting",
+    "title": "Trump Plans Meeting on Arizona Birth Bill ",
+    "url": "http://thecaucus.blogs.nytimes.com/2011/04/07/trump-plans-meeting-on-arizona-birth-bill/?ref=politics",
+    "word-count": 480,
+    "date": "2011-04-07",
+    "uuid": "3654ab65-221d-4503-9867-581904c346d5",
+    "triplet-uuid": "005a2961-0c2e-4575-8eec-770ba52a08e0",
+    "body-paragraphs": [
+        [
+            "Donald Trump is investing more in the conspiracy theories about President Obama\u2019s birth certificate as he explores his own bid for the presidency."
+        ],
+        [
+            "In his latest embrace of the birther strategy, Mr. Trump has invited Tea Party leaders and a legislator from Arizona to his office in Manhattan on Friday morning to discuss a bill moving through the Arizona legislature that would require candidates for president to prove that they are natural born citizens."
+        ],
+        [
+            "The Arizona group said the call from Mr. Trump on Wednesday came unexpectedly, and the group had spent much of the day Thursday scurrying to make travel arrangements to New York."
+        ],
+        [
+            "\u201cOf course I was surprised, who wouldn\u2019t be?\u201d said the legislator, Representative Carl Seel.",
+            "\u201cI\u2019m honored to get the ability to meet with him and discuss it, and I want to thank him for being such a supporter of this issue.\u201d"
+        ],
+        [
+            "In an interview shown Thursday on the \u201cToday\u201d show, Mr. Trump told Meredith Vieira that he had \u201creal doubts\u201d about whether Mr. Obama was born in this country, and that he has sent his own investigators to Hawaii to research the issue.",
+            "An NBC News/Wall Street Journal poll showed Mr. Trump as the most favored candidate among Republicans who consider themselves Tea Party supporters."
+        ],
+        [
+            "Mr. Obama has shown a certificate of live birth from Hawaii, which is the standard form of birth certificate in the state, and state officials \u2013 including the Republican who was governor during the 2008 campaign \u2013 have confirmed its authenticity.",
+            "Several conservatives, including Glenn Beck and Bill O\u2019Reilly, have criticized Mr. Trump for raising questions about it."
+        ],
+        [
+            "But polls show that many Republicans continue to believe that Mr. Obama was not born in this country, and therefore is not eligible to be president."
+        ],
+        [
+            "Kelly Townsend, a founder of the Greater Phoenix Tea Party, said Mr. Trump told them that he was interested in learning more about the legislation in Arizona."
+        ],
+        [
+            "The bill, which has been approved by committees of the House and Senate, allows great latitude to the secretary of state in denying a presidential candidate a spot on the ballot, saying that the secretary can do so if he or she believes that the documents do not prove citizenship."
+        ],
+        [
+            "\u201cIt\u2019s not a birther bill,\u201d Ms. Townsend said.",
+            "\u201cIt\u2019s not about Mr. Obama. It\u2019s about preventing any questions from coming up in the future, putting something in place so no one could question it.\u201d"
+        ],
+        [
+            "But a release from Mr. Seel\u2019s office about the planned meeting noted that Mr. Trump \u201chas brought the issue of President Barack Obama failing to provide a birth certificate front and center recently.\u201d"
+        ],
+        [
+            "Ms. Townsend said she had her own agenda for the meeting at Trump Tower.",
+            "\u201cI want to invite him to Arizona to talk to people and to meet our leaders,\u201d she said.",
+            "\u201cI think he\u2019d have a good audience with Tea Partiers.\u201d"
+        ]
+    ]
+}

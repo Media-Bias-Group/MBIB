@@ -1,0 +1,42 @@
+{
+    "source": "fox",
+    "main-entities": ["Chris Christie"],
+    "main-event": "Christ Christie campaign documents subpoenaed",
+    "title": "Federal prosecutors subpoena Christie's campaign, NJ GOP committee",
+    "url": "http://www.foxnews.com/politics/2014/01/23/federal-prosecutors-subpoena-new-jersey-gov-christie-campaign-gop/?intcmp=latestnews",
+    "word-count": 296,
+    "date": "2014-01-23",
+    "uuid": "37569447-dbc6-4515-a2af-9848a133b8f7",
+    "triplet-uuid": "d1344998-0e7c-409e-aaad-df5be687fc94",
+    "body-paragraphs": [
+        [
+            "Federal prosecutors have subpoenaed New Jersey Gov. Chris Christie's campaign and a state Republican Party committee, escalating their probe into allegations that his aides created traffic jams as political payback."
+        ],
+        [
+            "Mark Sheridan, the attorney representing Christie's campaign, confirmed to Fox News that the campaign and the Republican State Committee received subpoenas relating to the closure of traffic lanes near the George Washington Bridge last year."
+        ],
+        [
+            "\"We can confirm that the Christie for Governor re-election campaign and the New Jersey Republican State Committee received subpoenas for documents from the U.S. Attorney's office, in addition to the subpoena the campaign previously received from the state legislative committee,\" he said.",
+            "\"All three subpoenas focus on the closure of lanes on the George Washington Bridge.",
+            "The campaign and the state party intend to cooperate with the U.S. Attorney's office and the state legislative committee and will respond to the subpoenas accordingly.\""
+        ],
+        [
+            "The subpoenas were disclosed Thursday, the same day the Republican governor's campaign announced it had hired the Washington, D.C., law firm Patton Boggs in the case.",
+            "Sheridan works for the firm and is general counsel for the state Republican committee."
+        ],
+        [
+            "A state legislative committee investigating the traffic jams has also issued subpoenas to the two organizations."
+        ],
+        [
+            "The federal subpoenas are due Feb. 5.",
+            "The state committee subpoenas must be returned Feb. 3."
+        ],
+        [
+            "Earlier this month, U.S. Attorney Paul Fishman said only that his office was reviewing the matter \"to determine whether a federal law was implicated.\""
+        ],
+        [
+            "The traffic lanes were closed for four days in September, creating traffic gridlock in Fort Lee, the town at the base of the bridge on the New Jersey side.",
+            "Emails and text messages turned over to legislators suggest it may have been a message to the town's Democratic mayor for not endorsing Christie."
+        ]
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "source": "nyt",
+    "main-entities": ["AARP", "social security", "fiscal conservatives"],
+    "main-event": "AARP drops its opposition to Social Security cuts",
+    "title": "AARP Open to Social Security Cuts",
+    "url": "http://www.nytimes.com/2011/06/18/us/18aarp.html?_r=2&hp",
+    "word-count": 879,
+    "date": "2011-06-17",
+    "uuid": "c5444cb5-e352-40cb-9d83-6735ff7eec64",
+    "triplet-uuid": "576116e5-2b18-4d35-be73-36f5863c9468",
+    "body-paragraphs": [
+        [
+            "WASHINGTON \u2014 AARP, the powerful lobby for older Americans that has been seen as one of the leading opponents of Social Security benefit cuts, said on Friday that it was open to modest reductions in benefits for future recipients."
+        ],
+        [
+            "The group\u2019s stance, which generated quick reaction from all sides because of its powerful voice on the issue, could provide added ammunition to fiscal conservatives who have sought unsuccessfully to restructure Social Security and chip away at the benefits it promises older Americans."
+        ],
+        [
+            "\u201cOur goal is to limit any changes in benefits,\u201d John Rother, AARP\u2019s policy chief, said in a telephone interview, \u201cbut we also want to see the system made solvent.\u201d"
+        ],
+        [
+            "Mr. Rother said the group\u2019s stance on possible cuts, which was first reported in The Wall Street Journal in Friday\u2019s editions, should be seen less as a major change in position than as a reflection of the political and financial realities facing the Social Security system and the country as a whole."
+        ],
+        [
+            "\u201cYou have to look at all the tradeoffs,\u201d Mr. Rother said, \u201cand what we\u2019re trying to do is engage the American public in that debate.\u201d"
+        ],
+        [
+            "He made clear that the group\u2019s willingness to discuss cuts comes with conditions: Reductions in benefits should be \u201cminimal,\u201d they should not affect current recipients and instead should be directed \u201cfar off in the future,\u201d and they should be offset by increases in tax-generated revenue."
+        ],
+        [
+            "Nonetheless, the group\u2019s openness to the possibility of unspecified cuts was seen as a significant development by people on all sides of the Social Security question because of AARP\u2019s influence on federal policies affecting older Americans, including Medicare, prescription drugs and many more."
+        ],
+        [
+            "Third Way, a moderate Democratic group in Washington that has favored possible reductions in benefits, called AARP\u2019s position \u201ca watershed moment\u201d in the debate over Social Security."
+        ],
+        [
+            "\u201cNow that they have opened the door to reform, it is time for lawmakers to walk through it,\u201d said Jonathan Cowan, president of Third Way."
+        ],
+        [
+            "But other advocacy groups that are pushing to preserve Social Security benefits accused AARP of effectively abandoning its core constituency."
+        ],
+        [
+            "Max Richtman, executive vice president of the National Committee to Preserve Social Security and Medicare, an advocacy group in Washington, said the timing of AARP\u2019s statements was particularly bad because it came in the midst of deliberations between the Obama administration and Congressional Republicans about the debt ceiling and overall deficit reduction."
+        ],
+        [
+            "AARP insisted that the Social Security trust funds should not be raided to reduce the deficit and that the two issues were separate.",
+            "But Mr. Richtman said the group\u2019s openness to considering future cuts would no doubt be used by deficit hawks to push for immediate cuts in Social Security benefits as part of the debate over deficit reduction."
+        ],
+        [
+            "\u201cI think it\u2019s tragic that AARP would, wittingly or unwittingly, play into the hands of people who have never really liked Social Security and want to decimate it,\u201d Mr. Richtman said.",
+            "\u201cAARP is the 800-pound gorilla, but they do not speak for seniors.\u201d"
+        ],
+        [
+            "Republican leaders, who have led calls for revamping Social Security, had no immediate comments on AARP\u2019s willingness to consider benefit reductions."
+        ],
+        [
+            "An aide to the Republican-led House Ways and Means Committee, who spoke on condition of anonymity under committee protocol, said AARP\u2019s position was a welcome acknowledgment that Social Security would be unable to pay future benefits at the current rate and that it must be restructured."
+        ],
+        [
+            "\u201cThe longer we wait,\u201d the aide said, \u201cthe more difficult it will be to protect current beneficiaries and those who rely on Social Security the most.\u201d"
+        ],
+        [
+            "The most recent projections from the Social Security Administration, issued last month, indicate that at the current rate, the program\u2019s trust funds will be exhausted by 2036, and that $6.5 trillion in additional money will be needed over a 75-year period to pay all scheduled benefits."
+        ],
+        [
+            "Mr. Rother said AARP expected to hear criticism from some of its members over its position on possible cuts."
+        ],
+        [
+            "\u201cWe have such a broad membership, Mr. Rother said.",
+            "\u201cI\u2019m sure there will be some who will not be happy, but others will be eager to see the program put on a stronger financial footing for the long term.\u201d"
+        ],
+        [
+            "While AARP has not issued specific recommendations or figures on how benefit reductions might be carried out, the group\u2019s recent discussions with its members signal support for using increased revenue to fill two-thirds of the projected gap, and benefits reductions for one-third, Mr. Rother said."
+        ],
+        [
+            "As word of AARP\u2019s position set off debate in Washington on Friday, the group\u2019s chief executive, Barry Rand, issued a formal statement saying that the group\u2019s position had not changed in any substantive way and refuting what he described as \u201cmisleading\u201d media reports."
+        ],
+        [
+            "\u201cLet me be clear \u2014 AARP is as committed as we\u2019ve ever been to fighting to protect Social Security for today\u2019s seniors and strengthening it for future generations,\u201d Mr. Rand said."
+        ],
+        [
+            "While he did not directly address the question of possible cuts in benefits in his statement, Mr. Rand said his group would be working to evaluate any proposed changes in Social Security \u201cto determine how each might \u2014 individually or in different combinations \u2014 impact the lives of current and future retirees.\u201d"
+        ]
+    ]
+}

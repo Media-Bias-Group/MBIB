@@ -1,0 +1,54 @@
+{
+    "source": "hpo",
+    "main-entities": ["Mitt Romney", "Todd Akin"],
+    "main-event": "Romney urges Akin to drop out of Senate race",
+    "title": "Mitt To Akin: Drop Out",
+    "url": "http://www.huffingtonpost.com/2012/08/21/todd-akin-comments_n_1819655.html",
+    "word-count": 382,
+    "date": "2012-08-21",
+    "uuid": "a4389be5-a63c-4f92-bca0-f89c69407a47",
+    "triplet-uuid": "08bb9bee-c167-4c17-9c6d-4a1259231eb7",
+    "body-paragraphs": [
+        [
+            "Presumptive GOP presidential nominee Mitt Romney on Tuesday joined a chorus of Republicans calling for Rep. Todd Akin (R-Mo.) to drop out of the U.S. Senate race in Missouri."
+        ],
+        [
+            "\"As I said yesterday, Todd Akin's comments were offensive and wrong and he should very seriously consider what course would be in the best interest of our country,\" said Romney in a statement.",
+            "\"Today, his fellow Missourians urged him to step aside, and I think he should accept their counsel and exit the Senate race.\""
+        ],
+        [
+            "Akin, however, continued his refusal to step down Tuesday in a subsequent interview on Sean Hannity's radio show."
+        ],
+        [
+            "\"It still seems to me that there has to be room \u2026 to broaden the scope of what a campaign needs to be about,\" he said, going on to suggest Romney had made a bigger deal of the remark than he needed to."
+        ],
+        [
+            "\"Why can't Mitt Romney run his race and I'll run mine?\" Akin continued."
+        ],
+        [
+            "He later confirmed that vice presidential candidate Paul Ryan called him and told him to \"give some thought to stepping down,\" but didn't tell him to get out."
+        ],
+        [
+            "Akin also claimed he would help Romney and the Republican party in November by soldiering on, but admitted that no senator had called him to ask him to stay in the race."
+        ],
+        [
+            "On Sunday, Akin prompted outrage with his response to a question about supporting abortion in the case of rape."
+        ],
+        [
+            "\"From what I understand from doctors, that's really rare,\" said Akin said of pregnancies caused by rape.",
+            "\"If it's a legitimate rape, the female body has ways to try to shut that whole thing down.",
+            "But let's assume maybe that didn't work or something.",
+            "I think there should be some punishment, but the punishment ought to be on the rapist.\""
+        ],
+        [
+            "Romney had stopped short of calling on Akin to resign in an interview with WMUR Monday."
+        ],
+        [
+            "Other officials in the GOP, including five senior Missouri Republicans, were less forgiving, however, suggesting that Akin had created an irreversible distraction and could no longer run as a viable candidate."
+        ],
+        [
+            "Akin had also vowed to remain in the race earlier Tuesday on the radio show of former Republican presidential candidate Mike Huckabee.",
+            "During the interview, Akin said he would continue campaigning because he still believed he could win."
+        ]
+    ]
+}

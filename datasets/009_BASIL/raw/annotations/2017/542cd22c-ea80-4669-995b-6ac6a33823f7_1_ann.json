@@ -1,0 +1,88 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Donald_Trump": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Donald_Trump": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "ind_pro",
+            "bias": "inf",
+            "end": 217,
+            "id": "p14",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "Donald Trump Jr.",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 103,
+            "target": "Donald_Trump",
+            "txt": "including one photo that showed Donald Trump Jr. with a severed elephant tail in one hand and a knife in the other"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 87,
+            "id": "p23",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_neutral",
+            "start": 17,
+            "target": "Donald_Trump",
+            "txt": "public outrage has forced Trump to reconsider this despicable decision"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 49,
+            "id": "p12",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Donald_Trump",
+            "txt": "It is unclear why Mr. Trump reversed the decision"
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 135,
+            "id": "p13",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_neutral",
+            "start": 127,
+            "target": "Donald_Trump",
+            "txt": "gruesome"
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 78,
+            "id": "p23",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_neutral",
+            "start": 68,
+            "target": "Donald_Trump",
+            "txt": "despicable"
+        }
+    ],
+    "triplet-uuid": "542cd22c-ea80-4669-995b-6ac6a33823f7",
+    "uuid": "02eca38d-a69b-4427-a69f-34121bca6358"
+}

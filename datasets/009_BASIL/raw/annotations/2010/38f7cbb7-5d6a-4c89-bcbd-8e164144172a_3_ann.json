@@ -1,0 +1,77 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Bill_Clinton": "neu",
+        "author_feeling_Joe_Sestak": "neu",
+        "author_feeling_Obama_administration": "pos",
+        "author_feeling_main_event": "neu",
+        "notes": "barely mentions the conversations could have been illegal",
+        "relative_stance": "liberal",
+        "you_feeling_Bill_Clinton": "neu",
+        "you_feeling_Joe_Sestak": "neu",
+        "you_feeling_Obama_administration": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 103,
+            "id": "p17",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 84,
+            "target": "Obama_administration",
+            "txt": "dangled in front of"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 40,
+            "id": "p25",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Obama_administration",
+            "txt": "It certainly wasn't historically unique."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 135,
+            "id": "p26",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "may be lexical",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 93,
+            "target": "Obama_administration",
+            "txt": "have approached the Sestak news with yawns"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 67,
+            "id": "p19",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 29,
+            "target": "Obama_administration",
+            "txt": "declined repeated attempts for comment"
+        }
+    ],
+    "triplet-uuid": "38f7cbb7-5d6a-4c89-bcbd-8e164144172a",
+    "uuid": "333aa94a-629a-4025-9af2-40bdc51c5bf1"
+}

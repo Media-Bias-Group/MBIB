@@ -1,0 +1,47 @@
+{
+    "source": "hpo",
+    "main-entities": ["Donald Trump", "Ted Cruz", "National Enquirer"],
+    "main-event": "Trump and Cruz argue over personal attacks",
+    "title": "Ted Cruz Accuses Donald Trump Of Planting 'Garbage' Affair Story",
+    "url": "https://www.huffingtonpost.com/entry/ted-cruz-donald-trump-affair_us_56f57995e4b0143a9b4821b3",
+    "word-count": 357,
+    "date": "2016-03-25",
+    "uuid": "8eeda8bb-f396-49ed-b993-f0c6ed36715d",
+    "triplet-uuid": "59f2f47c-5da0-4fbc-be6e-4f15d45d82e2",
+    "body-paragraphs": [
+        [
+            "Sen. Ted Cruz (R-Texas) on Friday lashed out at Donald Trump, accusing the billionaire of enlisting \"his friends at the National Enquirer and his political henchmen to do his bidding.\""
+        ],
+        [
+            "The tabloid published a story earlier this week claiming that Cruz had extramarital affairs with five women.",
+            "Cruz vehemently denied the rumors, which rippled through the Washington media establishment on Friday."
+        ],
+        [
+            "\"I want to be crystal clear: these attacks are garbage,\" Cruz said Friday in a statement posted on Facebook."
+        ],
+        [
+            "Earlier in the day, the allegations spilled over into an almost surreal exchange on CNN between Cruz's former communications director Amanda Carpenter and Boston Herald columnist Adriana Cohen, in which Cohen accused Carpenter of having an affair with Cruz.",
+            "\"You\u2019ve been named as well, Amanda,\" Cohen said, referring to the National Enquirer piece."
+        ],
+        [
+            "Trump responded to Cruz's allegations in a statement on Friday afternoon:"
+        ],
+        [
+            "\u201cI have no idea whether or not the cover story about Ted Cruz in this week's issue of the National Enquirer is true or not, but I had absolutely nothing to do with it, did not know about it, and have not, as yet, read it.",
+            "I have nothing to do with the National Enquirer and unlike Lyin' Ted Cruz I do not surround myself with political hacks and henchman (sic) and then pretend total innocence."
+        ],
+        [
+            "Ted Cruz's problem with the National Enquirer is his and his alone, and while they were right about O.J. Simpson, John Edwards, and many others, I certainly hope they are not right about Lyin' Ted Cruz.\u201d"
+        ],
+        [
+            "While the Enquirer has an infamous reputation for tabloid journalism, it has also broken a number of major sex scandals over the years, including the extramarital affairs of former Sen. John Edwards (D-N.C.) and golfer Tiger Woods."
+        ],
+        [
+            "Reached for comment, a spokesman for American Media Inc., the Enquirer's parent company, also denied that the story had been influenced by Trump backers."
+        ],
+        [
+            "\"No one influences the reporting that The National Enquirer does other than our own reporters and editors.",
+            "We stand by the integrity of our coverage and remain committed to our aggressive reporting on such an important topic,\" a spokesman said."
+        ]
+    ]
+}

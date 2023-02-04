@@ -1,0 +1,90 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Barack_Obama": "neg",
+        "author_feeling_Senate_Democrats": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "negative towards Dems, both in senate and White House",
+        "relative_stance": "conservative",
+        "you_feeling_Barack_Obama": "neu",
+        "you_feeling_Senate_Democrats": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 254,
+            "id": "p2",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 131,
+            "target": "Barack_Obama",
+            "txt": "withering criticism from liberal Democrats over the two-year extension of tax cuts for the rich as well as the middle class"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 108,
+            "id": "p11",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Barack_Obama",
+            "txt": "Both provisions are seen by many Democrats as giveaways to the rich that will do little to help the economy."
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 209,
+            "id": "p15",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 181,
+            "target": "Senate_Democrats",
+            "txt": "from seeing the light of day"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 38,
+            "id": "p26",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Senate_Democrats",
+            "txt": "But House Democrats are not listening."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 112,
+            "id": "p12",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Barack_Obama",
+            "txt": "In return, Democrats would get extended jobless benefits for people who have been unemployed for long stretches."
+        }
+    ],
+    "triplet-uuid": "df5fe55a-dfcb-4817-8631-830f47c21a72",
+    "uuid": "cdffd251-cd87-44e1-a3a1-7fb5cd7defd9"
+}

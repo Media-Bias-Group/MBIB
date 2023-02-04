@@ -1,0 +1,31 @@
+{
+    "triplet-uuid": "13792511-5142-449f-8d3e-d77d790f65ec",
+    "url": "http://www.foxnews.com/us/2015/06/30/nj-gov-chris-christie-to-throw-his-hat-in-ring-for-white-house-run.html",
+    "keywords": "",
+    "word-count": 646,
+    "body-paragraphs": [
+        [
+            "NJ Gov Chris Christie to Throw His Hat in the Ring for White House Run"
+        ],
+        [
+            "New Jersey Governor Chris Christie expected to become the latest Republican to throw his hat in the ring for 2016.",
+            "He\u2019ll make the announcement today at 11am from his hometown of Livingston, New Jersey."
+        ],
+        [
+            "The Governor faces an uphill climb for the nomination with low poll numbers, and a fundraising deficit.",
+            "The Washington Post reporter Robert Costa writes of Christie today, \u201chis status as the establishment favorite for the GOP nomination has vanished.",
+            "Dogged by scandals and plummeting popularity in his home state, Christie has seen many of the mega-donors who once toasted him drift toward his rivals, including former Florida governor Jeb Bush.\u201d"
+        ],
+        [
+            "But don\u2019t write him off.",
+            "Maggie Haberman in the New York Times today explains why, \u201cMore than any other candidate, Mr. Christie is poised to run a race that sells his personality -- brash, challenging and often combative -- as his main asset.",
+            "He has become a maestro of the town hall meeting, standing in a suit taking questions from New Jersey residents around the state until none remain, leaving some people enraged but many more laughing, weeping or hoping he would come over and clasp their hand.\u201d"
+        ]
+    ],
+    "uuid": "6c7827e9-646c-4357-b674-764ab4264a50",
+    "source": "fox",
+    "title": "NJ Gov Chris Christie to Throw His Hat in the Ring for White House Run",
+    "date": "2015-06-30",
+    "main-event": "Chris Christie announces bid for presidency",
+    "main-entities": ["Chris Christie"]
+}

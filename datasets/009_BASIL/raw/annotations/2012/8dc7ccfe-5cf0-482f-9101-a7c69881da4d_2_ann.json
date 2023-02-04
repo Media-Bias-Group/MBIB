@@ -1,0 +1,45 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Barack_Obama": "neu",
+        "author_feeling_Mitt_Romney": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "right",
+        "you_feeling_Barack_Obama": "neu",
+        "you_feeling_Mitt_Romney": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "ind_pro",
+            "bias": "lex",
+            "end": 72,
+            "id": "p13",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "Obama campaign",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 53,
+            "target": "Barack_Obama",
+            "txt": "immediately pounced"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 134,
+            "id": "p14",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 20,
+            "target": "Mitt_Romney",
+            "txt": "\"@MittRomney just refused to say he supports hospital visitation rights at a federal level for gays and lesbians.\""
+        }
+    ],
+    "triplet-uuid": "8dc7ccfe-5cf0-482f-9101-a7c69881da4d",
+    "uuid": "eb195642-9702-4a41-8f0d-cf77c2d62f19"
+}

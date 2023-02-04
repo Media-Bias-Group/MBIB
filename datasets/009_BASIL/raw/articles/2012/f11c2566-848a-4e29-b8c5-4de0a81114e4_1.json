@@ -1,0 +1,42 @@
+{
+    "source": "nyt",
+    "main-entities": ["John Boehner", "Democrats", "Republicans"],
+    "main-event": "John Boehner discusses chance GOP will lose House",
+    "title": "Boehner Sees One-in-Three Chance G.O.P. Will Lose House",
+    "url": "http://thecaucus.blogs.nytimes.com/2012/04/23/boehner-offers-g-o-p-a-warning-on-control-of-the-house/",
+    "word-count": 346,
+    "date": "2012-04-23",
+    "uuid": "c39f3076-8f47-4546-83db-ad6254a9cec9",
+    "triplet-uuid": "f11c2566-848a-4e29-b8c5-4de0a81114e4",
+    "body-paragraphs": [
+        [
+            "Speaker John A. Boehner of Ohio said on Monday that Republicans had a one-in-three chance of losing control of the House in November, a surprisingly downbeat assessment from a Republican leader who until now has expressed no fears of losing the gavel."
+        ],
+        [
+            "In an interview with Fox News, to be shown on Tuesday, Mr. Boehner delivered what aides called a wake-up call to his troops."
+        ],
+        [
+            "\u201cI would say that there is a two-in-three chance that we win control of the House again, but there\u2019s a one-in-three chance that we could lose, and I\u2019m being myself, frank,\u201d he said in an interview first posted online by the newspaper The Hill.",
+            "\u201cWe\u2019ve got a big challenge, and we\u2019ve got work to do.\u201d"
+        ],
+        [
+            "Mr. Boehner pointed to what aides called \u201corphan districts\u201d in Democratic-leaning states that would not be a factor in the presidential campaign.",
+            "Local Republican Party affiliates are less organized in such states and turnout may be depressed."
+        ],
+        [
+            "\u201cWe have 50 of our members in tough races, 89 freshmen running for their first re-elections, and we have 32 districts that are in states where there is no presidential campaign going to be run, no big Senate race,\u201d he said.",
+            "\u201cYou take 18 of them, California, Illinois and New York, where you know we\u2019re not likely to do well at the top of the ticket, and those districts are frankly pretty vulnerable.\u201d"
+        ],
+        [
+            "House political analysts also have looked at such states, but redistricting in California \u2013 run by an independent commission \u2013 has been as tough on Democrats as it has been on Republicans.",
+            "Illinois and New York could be a problem for Mr. Boehner\u2019s party, but Republican-run redistricting in North Carolina and Indiana would appear to counter those Democratic gains."
+        ],
+        [
+            "But Democrats have become bolder on their predictions.",
+            "An NBC News/Wall Street Journal poll last week found that voters favored a Democratic-controlled Congress over a Republican one 46 percent to 41 percent, a spread that has not changed much all year."
+        ],
+        [
+            "\u201cWe\u2019ve got a real challenge,\u201d Mr. Boehner said."
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "source": "nyt",
+    "main-entities": ["Marco Rubio"],
+    "main-event": "Marco Rubio announces his foreign policy",
+    "title": "Marco Rubio to Outline His Approach to Foreign Policy",
+    "url": "https://www.nytimes.com/politics/first-draft/2015/05/13/marco-rubio-to-outline-his-approach-to-foreign-policy/",
+    "word-count": 374,
+    "date": "2015-05-13",
+    "uuid": "7c1ef53d-6333-462a-81d6-d996d9b7f67d",
+    "triplet-uuid": "7f9c83f7-3efa-4c7a-adef-3ebdeda96042",
+    "keywords": "Rubio Marco,Presidential Election of 2016,Council on Foreign Relations,Uncategorized",
+    "body-paragraphs": [
+        [
+            "The Obama Doctrine is a slightly saltier version of \u201cDon\u2019t Do Stupid Stuff.\u201d",
+            "The Bush Doctrine argued for preventive strikes in the interest of self-defense and national security."
+        ],
+        [
+            "And on Wednesday, in a speech before the Council on Foreign Relations in New York, Senator Marco Rubio, Republican of Florida and a 2016 presidential candidate, will outline his own approach to foreign policy."
+        ],
+        [
+            "The Rubio approach, according to excerpts from his speech provided by his campaign, has three main pillars \u2014 ensuring American strength; protecting the American economy in a globalized world; and preserving the moral clarity of America\u2019s core values."
+        ],
+        [
+            "Mr. Rubio\u2019s first priority will be to \u201cadequately fund\u201d the nation\u2019s military.",
+            "\u201cThis would be a priority even in times of peace and stability, though the world today is neither,\u201d Mr. Rubio is expected to say."
+        ],
+        [
+            "Mr. Rubio, who sits on the Senate Foreign Relations and Senate Intelligence committees, has used his time in Congress to burnish his foreign policy credits and cast himself as a defense hawk: a position that could help him stand out in a crowded primary field."
+        ],
+        [
+            "In his speech, he will promise to use American power \u201cto oppose any violations of international waters, airspace, cyberspace or outer space,\u201d including the \u201ceconomic disruption caused when one country invades another,\u201d according to excerpts."
+        ],
+        [
+            "And, Mr. Rubio will offer his greater vision of the country\u2019s broader role in the world."
+        ],
+        [
+            "\u201cAs president, I will support the spread of economic and political freedom, reinforce our alliances, resist efforts by large powers to subjugate their smaller neighbors, maintain a robust commitment to transparent and effective foreign assistance programs, and advance the rights of the vulnerable, including women and the religious minorities that are so often persecuted, so that the afflicted peoples of the world know the truth: The American people hear their cries, see their suffering and most of all, desire their freedom,\u201d he is expected to say."
+        ]
+    ]
+}

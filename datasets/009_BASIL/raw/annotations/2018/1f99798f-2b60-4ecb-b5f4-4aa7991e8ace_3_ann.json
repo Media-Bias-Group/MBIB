@@ -1,0 +1,62 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Cesar_Sayoc": "neg",
+        "author_feeling_Donald_Trump": "neg",
+        "author_feeling_Law_enforcement/Federal_authorities": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "liberal",
+        "you_feeling_Cesar_Sayoc": "neu",
+        "you_feeling_Donald_Trump": "neu",
+        "you_feeling_Law_enforcement/Federal_authorities": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 204,
+            "id": "p8",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 149,
+            "target": "Donald_Trump",
+            "txt": "but refusing to tone down his own inflammatory rhetoric"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 125,
+            "id": "p9",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Donald_Trump",
+            "txt": "Minutes after addressing the threats to prominent Democrats, Trump claimed Republicans are often attacked for supporting him."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 100,
+            "id": "p31",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Cesar_Sayoc",
+            "txt": "He has a history of multiple arrests, including for felony grand theft and misdemeanor retail theft."
+        }
+    ],
+    "triplet-uuid": "1f99798f-2b60-4ecb-b5f4-4aa7991e8ace",
+    "uuid": "9dd8a512-94fc-4f18-893e-7bcad0e1b078"
+}

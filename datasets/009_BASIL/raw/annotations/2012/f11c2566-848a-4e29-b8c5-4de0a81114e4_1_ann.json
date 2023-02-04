@@ -1,0 +1,16 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Democrats": "neu",
+        "author_feeling_John_Boehner": "neu",
+        "author_feeling_Republicans": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Democrats": "neu",
+        "you_feeling_John_Boehner": "neu",
+        "you_feeling_Republicans": "neu"
+    },
+    "phrase-level-annotations": [],
+    "triplet-uuid": "f11c2566-848a-4e29-b8c5-4de0a81114e4",
+    "uuid": "c39f3076-8f47-4546-83db-ad6254a9cec9"
+}

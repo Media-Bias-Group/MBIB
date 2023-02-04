@@ -1,0 +1,88 @@
+{
+    "article-level-annotations": {
+        "author_feeling_joint_tax_rule_for_homosexual_couples": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "right",
+        "you_feeling_joint_tax_rule_for_homosexual_couples": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 166,
+            "id": "p8",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "other_pro",
+            "start": 0,
+            "target": "joint_tax_rule_for_homosexual_couples",
+            "txt": "\u201cThis ruling also assures legally married same-sex couples that they can move freely throughout the country knowing that their federal filing status will not change.\u201d"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 160,
+            "id": "p10",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "other_pro",
+            "start": 0,
+            "target": "joint_tax_rule_for_homosexual_couples",
+            "txt": "\u201cCommitted and loving gay and lesbian married couples will now be treated equally under our nation\u2019s federal tax laws, regardless of what state they call home,\u201d"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 152,
+            "id": "p11",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "other_pro",
+            "start": 0,
+            "target": "joint_tax_rule_for_homosexual_couples",
+            "txt": "\u201cThese families finally have access to crucial tax benefits and protections previously denied to them under the discriminatory Defense of Marriage Act.\u201d"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 88,
+            "id": "p12",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "joint_tax_rule_for_homosexual_couples",
+            "txt": "But the Treasury decision could have ramifications for many gay couples\u2019 tax liabilities"
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 35,
+            "id": "p9",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 28,
+            "target": "joint_tax_rule_for_homosexual_couples",
+            "txt": "praised"
+        }
+    ],
+    "triplet-uuid": "70c744ad-e950-445c-8a7a-0782b0a7d20b",
+    "uuid": "f46331f4-1519-4fcf-af35-e0f7a990329c"
+}

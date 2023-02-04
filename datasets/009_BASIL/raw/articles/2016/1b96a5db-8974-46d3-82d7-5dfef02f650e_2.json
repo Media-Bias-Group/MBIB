@@ -1,0 +1,75 @@
+{
+    "source": "hpo",
+    "main-entities": ["Barack Obama"],
+    "main-event": "Senate set to override Obama's veto on 9/11 bill",
+    "title": "Senate Overrides Obama's Veto Of 9/11 Victims Bill",
+    "url": "https://www.huffingtonpost.com/entry/911-victims-saudi-arabia-veto-override_us_57ebcee1e4b082aad9b80f0a",
+    "word-count": 656,
+    "date": "2016-09-28",
+    "uuid": "0a64117e-518e-447b-a60f-2bdc2bf6ffe7",
+    "triplet-uuid": "1b96a5db-8974-46d3-82d7-5dfef02f650e",
+    "body-paragraphs": [
+        [
+            "WASHINGTON \u2015 In a stinging blow to President Barack Obama, the Senate voted Wednesday to override his veto of a bill to let 9/11 victims sue Saudi Arabia for its alleged role in the terrorist attacks."
+        ],
+        [
+            "It\u2019s the first time a chamber of Congress has had the votes to overrule Obama on a veto.",
+            "It\u2019s also the result of some unusual alliances: Sen. Chuck Schumer (N.Y.), who is on track to become the next Democratic leader, led the effort against the president alongside Sen. John Cornyn (Texas), a conservative member of Republican leadership."
+        ],
+        [
+            "\u201cThis is pretty much close to a miraculous occurrence,\u201d Cornyn said before the vote.",
+            "\u201cAll of us have come together and agreed this is the appropriate and right thing to do.\u201d"
+        ],
+        [
+            "It takes two-thirds of the Senate to override a veto.",
+            "Party leaders got well above that level.",
+            "The final tally was 97-1.",
+            "Senate Minority Leader Harry Reid (D-Nev.) was the lone opposition.",
+            "Two senators didn\u2019t vote at all: Sens. Tim Kaine (D-Va.), who is Hillary Clinton\u2019s vice presidential running mate, and Bernie Sanders (I-Vt.), who was Clinton\u2019s runner-up in the presidential race."
+        ],
+        [
+            "A Kaine spokesman later told HuffPost that the senator was traveling during the vote, but had he been there, he would have voted to sustain the veto.",
+            "That puts him on the same page as Clinton, who has said she backs the bill."
+        ],
+        [
+            "The House voted later on Wednesday to override the veto, causing the bill to become law."
+        ],
+        [
+            "The bill, known as the Justice Against Sponsors of Terrorism Act, prevents Saudi Arabia and other countries with alleged ties to terrorist groups from invoking their legal immunity in U.S. courts.",
+            "It overrides the 1976 Foreign Sovereign Immunities Act, which grants immunity to countries that aren\u2019t designated state sponsors of terrorism."
+        ],
+        [
+            "Fifteen of the 19 hijackers on 9/11 were Saudi citizens, but the Saudi government denies any role in the attacks and multiple U.S. government investigations have cleared it of blame."
+        ],
+        [
+            "\u201cI deeply respect the president and the reasons he has given for vetoing the Justice Against Sponsors of Terrorism Act,\u201d Sen. Richard Blumenthal (D-Conn.) said ahead of the vote.",
+            "\u201cBut I urge my colleagues to move swiftly and soundly to reverse this veto so that these families can have their day in court.\u201d"
+        ],
+        [
+            "The White House has fought against the bill for months, to no avail.",
+            "Administration officials warn that it would put Americans overseas at legal risk and leave the United States vulnerable to bogus lawsuits \u2015 and hefty bills \u2015 in court systems around the world.",
+            "The European Union and former top executive branch officials have urged Obama to stop it, in the name of protecting sovereign immunity.",
+            "Saudi Arabia has threatened to retaliate by selling off hundreds of billions of dollars in American assets."
+        ],
+        [
+            "But those arguments didn\u2019t sway lawmakers, who say the White House\u2019s case is overblown.",
+            "The bill originally passed the House and Senate without a single \u201cno\u201d vote."
+        ],
+        [
+            "\u201cThe bill is near and dear to my heart as a New Yorker because it would allow the victims of 9/11 to pursue some small measure of justice,\u201d Schumer said Wednesday.",
+            "\u201cCourts in New York have dismissed their claims against foreign entities alleged to have helped in the 9/11 attacks.",
+            "They are following an incorrect reading of the Foreign Sovereign Immunities Act.\u201d"
+        ],
+        [
+            "Obama vetoed the bill last week and issued a lengthy statement with it.",
+            "In sum, he said he sympathizes with 9/11 victims and has expanded efforts to help them, but that JASTA undermines \u201ccore U.S. interests.\u201d"
+        ],
+        [
+            "White House press secretary Josh Earnest last week downplayed the significance of Obama getting such a strong rebuke from Congress, including from Democratic leaders."
+        ],
+        [
+            "\u201cThe president is not particularly concerned about that,\u201d Earnest said in his Friday briefing.",
+            "\u201cThis president has gone longer in his tenure in the White House than just about any other president in modern history before facing the prospect of having his veto overridden.\u201d"
+        ]
+    ]
+}

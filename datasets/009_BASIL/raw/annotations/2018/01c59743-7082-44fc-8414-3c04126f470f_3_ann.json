@@ -1,0 +1,45 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Donald_Trump": "neg",
+        "author_feeling_James_Mattis": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Donald_Trump": "neu",
+        "you_feeling_James_Mattis": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 46,
+            "id": "p2",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 20,
+            "target": "James_Mattis",
+            "txt": "nicknamed \u201cMad Dog Mattis\u201d"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 208,
+            "id": "p14",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 119,
+            "target": "Donald_Trump",
+            "txt": "Mattis once told staffers that Trump has the understanding of a \u201cfifth- or sixth-grader.\u201d"
+        }
+    ],
+    "triplet-uuid": "01c59743-7082-44fc-8414-3c04126f470f",
+    "uuid": "a174c139-afde-4106-8a68-11667e42f31f"
+}

@@ -1,0 +1,61 @@
+{
+    "uuid": "01068367-cedb-432e-95ad-ccd754362c74",
+    "main-event": "Trump Accuses Social Media Firms of Discrimination Against Conservatives",
+    "main-entities": [
+        "Donald Trump",
+        "social media companies"
+    ],
+    "title": "Trump Accuses Social Media Firms of Discrimination Against Conservatives",
+    "triplet-uuid": "ad409798-ee94-4436-92c5-92669193be14",
+    "body-paragraphs": [
+        [
+            "BERKELEY HEIGHTS, N.J. \u2014 President Trump said on Saturday that conservative voices were being unfairly censored on social media, hinting that he might intervene if his allies\u2019 accounts continued to be shut down."
+        ],
+        [
+            "\u201cSocial Media is totally discriminating against Republican/Conservative voices,\u201d Mr. Trump wrote on Twitter, saying that \u201ccensorship is a very dangerous thing.\u201d"
+        ],
+        [
+            "\u201cSpeaking loudly and clearly for the Trump Administration, we won\u2019t let that happen,\u201d he added."
+        ],
+        [
+            "Social media companies, facing pressure from lawmakers and users over their role in the rise of misinformation and partisan division, have promised to step up their enforcement practices. ",
+            "They have banned a number of pages and accounts in recent weeks for being involved in activity intended to disrupt the midterm elections, and almost all of the major platforms removed content from Alex Jones, the far-right conspiracy theorist, this month over what they called hateful and violent speech."
+        ],
+        [
+            "After the content from Mr. Jones and his website, Infowars, was removed, he issued a plea to Mr. Trump to block the companies\u2019 actions and \u201ccome out before the midterms and make the censorship the big issue.\u201d"
+        ],
+        [
+            "In the same video appeal, Mr. Jones urged Mr. Trump to \u201cpoint out that the communist Chinese have penetrated and infiltrated\u201d the American election system and are \u201cway, way worse than the Russians.\u201d"
+        ],
+        [
+            "Minutes after his tweets on Saturday morning about social media, the president \u2014 who has long had an affinity for conspiracy theories \u2014 appeared to do just that."
+        ],
+        [
+            "\u201cAll of the fools that are so focused on looking only at Russia should start also looking in another direction, China,\u201d Mr. Trump wrote. ",
+            "\u201cBut in the end, if we are smart, tough and well prepared, we will get along with everyone!"
+        ],
+        [
+            "Mr. Trump\u2019s tweets on Saturday, sent from his golf club in Bedminster, N.J., were not the first time he has accused social media companies of discriminating against Republicans. ",
+            "Last month, he joined with prominent conservatives who have seized on the heightened enforcement of guidelines and the concept of shadow banning on Twitter \u2014 making social media posts invisible to everyone except the posters themselves \u2014 as proof of biased attacks on their views."
+        ],
+        [
+            "Twitter has said that it does not shadow ban users, although it has struggled to define what its policies against hate speech are. ",
+            "In the case of Mr. Jones, it did not initially join the other major platforms in removing his content, and has since taken relatively minor steps against him."
+        ],
+        [
+            "Mr. Jones has had his posts and videos on his personal account and on Infowars severely restricted or removed by Apple, Facebook, Google and Spotify. ",
+            "Twitter, which initially said Mr. Jones and Infowars had not violated its policies, later suspended the two accounts for a week for violating rules against inciting violence."
+        ],
+        [
+            "In his tweets on Saturday, Mr. Trump urged social media companies to \u201clet everybody participate, good & bad,\u201d saying that while networks like CNN and MSNBC might be \u201cfake news,\u201d he does not \u201cask that their sick behavior be removed.\u201d"
+        ],
+        [
+            "Yet Mr. Trump has waged relentless attacks on news coverage that he does not like, and has long expressed hostility toward traditional press freedoms. ",
+            "He has vowed to \u201copen up\u201d the nation\u2019s libel laws, even though those statutes are in fact state, not federal, laws.",
+            ""
+        ]
+    ],
+    "source": "nyt",
+    "url": "https://www.nytimes.com/2018/08/18/us/politics/trump-social-media-conservatives.html",
+    "date": "2018-08-18"
+}

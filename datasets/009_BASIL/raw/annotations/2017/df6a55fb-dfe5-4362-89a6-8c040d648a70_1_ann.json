@@ -1,0 +1,16 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Adam_Schiff": "neu",
+        "author_feeling_Donald_Trump": "neu",
+        "author_feeling_Michael_Flynn": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Adam_Schiff": "neu",
+        "you_feeling_Donald_Trump": "neu",
+        "you_feeling_Michael_Flynn": "neu"
+    },
+    "phrase-level-annotations": [],
+    "triplet-uuid": "df6a55fb-dfe5-4362-89a6-8c040d648a70",
+    "uuid": "45d4c618-20d4-4383-980d-cd0da1e4b2f9"
+}

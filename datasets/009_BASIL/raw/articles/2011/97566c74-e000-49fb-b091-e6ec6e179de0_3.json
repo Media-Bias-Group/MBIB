@@ -1,0 +1,35 @@
+{
+    "uuid": "empty",
+    "date": "2011-12-13",
+    "main-entities": ["Donald Trump"],
+    "main-event": "Donald Trump drops plans to moderate presidential debate",
+    "source": "HPO",
+    "url": "http://www.huffingtonpost.com/2011/12/13/donald-trump-pulling-out-debate_n_1146267.html?ref=politics&ir=Politics",
+    "keywords": "donald trump newsmax,video,donald trump debate,donald trump debate out,Donald Trump",
+    "triplet-uuid": "97566c74-e000-49fb-b091-e6ec6e179de0",
+    "body-paragraphs": [
+        [
+            "Donald Trump has announced Tuesday that he is pulling out of his own Dec. 27th debate."
+        ],
+        [
+            "\"I have decided not to be the moderator of the Newsmax debate,\" Trump said in a statement.",
+            "\"I believe this would not only have been the most watched debate, but also the most substantive and interesting debate.\""
+        ],
+        [
+            "Trump said that he was ending the debate because he did not want to \"give up my right to run as an independent candidate,\" which he claimed the Republican Party was asking him to do if he wanted to moderate the debate.",
+            "(Trump made waves by very loudly claiming he was considering running as a Republican earlier in the year.)"
+        ],
+        [
+            "The announcement came just eleven days after Trump initially said he was partnering with the conservative magazine to host a forum with the remaining Republican presidential candidates.",
+            "Since then, a majority of those candidates made clear that they would not be turning up, with only Newt Gingrich and Rick Santorum pledging to appear."
+        ],
+        [
+            "Trump also attracted the usual share of public ridicule for his decision to moderate, as well as his pledge to endorse whichever candidate he liked best at the debate."
+        ],
+        [
+            "As the days went on, Trump began making noises about possibly canceling the debate; however, as late as Monday night, he was still saying that the forum was taking place."
+        ]
+    ],
+    "title": "Trump Pulling Out Of Debate",
+    "word-count": 411
+}

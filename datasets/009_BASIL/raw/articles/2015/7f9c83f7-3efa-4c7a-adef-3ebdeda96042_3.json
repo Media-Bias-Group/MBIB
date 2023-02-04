@@ -1,0 +1,57 @@
+{
+    "source": "hpo",
+    "main-entities": ["Marco Rubio", "Barack Obama"],
+    "main-event": "Marco Rubio announces his foreign policy",
+    "title": "Marco Rubio Lays Out Hawkish Foreign Policy Doctrine Invoking Kennedy",
+    "url": "https://www.huffingtonpost.com/2015/05/13/marco-rubio-foreign-policy_n_7276584.html",
+    "word-count": 576,
+    "date": "2015-05-13",
+    "uuid": "0acf2cec-34eb-4482-806d-efaf5d8a1501",
+    "triplet-uuid": "7f9c83f7-3efa-4c7a-adef-3ebdeda96042",
+    "body-paragraphs": [
+        [
+            "NEW YORK -- U.S. Sen. Marco Rubio (R-Fla.) set forth a foreign policy vision Wednesday that invoked President John F. Kennedy in an assertive call to project American power abroad."
+        ],
+        [
+            "In comments delivered at the Council on Foreign Relations, the conservative senator vying for the GOP presidential nomination said the world would be safer if the U.S. military had a bigger budget and America asserted itself more aggressively across the globe."
+        ],
+        [
+            "While the threats facing the United States have changed in the 21st century, America's global influence remains a benevolent force, Rubio said."
+        ],
+        [
+            "\"President Kennedy, like most presidents before and since, understood what I believe our current president does not: that American strength is a means of preventing war, not promoting it,\u201d Rubio said.",
+            "\u201cAnd that weakness, on the other hand, is the friend of danger and the enemy of peace.\""
+        ],
+        [
+            "\"Sadly, I believe President Obama often disagrees with that simple truth,\" Rubio added.",
+            "\"He entered office believing America was too hard on our adversaries, too engaged in too many places, and that if we just took a step back and did some more 'nation building at home' -- ceding leadership to other countries -- America would be better liked and the world better off.\""
+        ],
+        [
+            "In laying out what his campaign calls the \"Rubio Doctrine,\" the presidential hopeful said he was guided by three principles: \"American strength,\" \"the protection of the American economy in a globalized world\" and \"moral clarity regarding America\u2019s core values.\""
+        ],
+        [
+            "From his seat on the Senate Foreign Relations Committee, Rubio has already played a key role in U.S. foreign policy debates, often staking out positions that directly counter President Barack Obama's administration."
+        ],
+        [
+            "The son of Cuban immigrants, Rubio has challenged Obama's efforts to normalize diplomatic relations with the island, saying that closer ties would only help the communist Castro government keep power.",
+            "Rubio has also opposed the Obama administration\u2019s negotiations with Iran over its nuclear program, pressed for more support of rebels in Syria and advocated to increase aid to the government of Ukraine to counter Russia's influence in the east of the country."
+        ],
+        [
+            "In Wednesday's speech the senator also took a swipe at Democratic presidential hopeful Hillary Clinton, calling her tenure as secretary of state \"ineffective at best and dangerously negligent at worst.\""
+        ],
+        [
+            "Journalist Charlie Rose asked Rubio after the speech whether invoking Kennedy and the Cold War might make him appear backward-looking at a time that Rubio's campaign portrays other U.S. leaders as \u201ctrapped in the past.\"",
+            "Rubio responded that the Kennedy statements represented \"timeless\" truths."
+        ],
+        [
+            "Rubio also told Rose he would not have authorized the 2003 invasion of Iraq that toppled Saddam Hussein's regine if he knew Hussein did not have weapons of mass destruction."
+        ],
+        [
+            "\u201cNot only would I have not been in favor of it, but President [George W.] Bush wouldn\u2019t have been in favor of it,\u201d Rubio said."
+        ],
+        [
+            "Bush\u2019s brother Jeb, who has all but formally announced his bid for the Republican presidential nomination, raised eyebrows Monday after telling Fox News he supported the invasion even now that he knows Iraq did not have weapons of mass destruction.",
+            "Jeb Bush later said he had misunderstood the question."
+        ]
+    ]
+}

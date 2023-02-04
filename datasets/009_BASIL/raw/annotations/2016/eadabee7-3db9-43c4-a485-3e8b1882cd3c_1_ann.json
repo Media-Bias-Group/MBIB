@@ -1,0 +1,77 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Barack_Obama": "neu",
+        "author_feeling_Bernie_Sanders": "neu",
+        "author_feeling_Hillary_Clinton": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "liberal",
+        "you_feeling_Barack_Obama": "neu",
+        "you_feeling_Bernie_Sanders": "neu",
+        "you_feeling_Hillary_Clinton": "neu"
+    },
+    "pair-uuid": "eadabee7-3db9-43c4-a485-3e8b1882cd3c",
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 12,
+            "id": "p3",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "other_pro",
+            "start": 4,
+            "target": "Hillary_Clinton",
+            "txt": "historic"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 39,
+            "id": "p3",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "other_pro",
+            "start": 0,
+            "target": "Hillary_Clinton",
+            "txt": "Her historic campaign inspired millions"
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 129,
+            "id": "p6",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "other_pro",
+            "start": 116,
+            "target": "Bernie_Sanders",
+            "txt": "extraordinary"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 190,
+            "id": "p4",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "other_pro",
+            "start": 0,
+            "target": "Bernie_Sanders",
+            "txt": "\"The President thanked Senator Sanders for energizing millions of Americans with his commitment to issues like fighting economic inequality and special interests' influence on our politics.\""
+        }
+    ],
+    "uuid": "16e15add-59e5-468a-af38-bfff42466f18"
+}

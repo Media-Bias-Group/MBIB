@@ -1,0 +1,103 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Duncan_and_Margaret_Hunter": "neg",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "liberal",
+        "you_feeling_Duncan_and_Margaret_Hunter": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 160,
+            "id": "p15",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 87,
+            "target": "Duncan_and_Margaret_Hunter",
+            "txt": "Duncan Hunter Jr. is in it for himself instead of representing the people"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 139,
+            "id": "p18",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_neutral",
+            "start": 101,
+            "target": "Duncan_and_Margaret_Hunter",
+            "txt": "as if they were personal bank accounts"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 111,
+            "id": "p19",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_neutral",
+            "start": 72,
+            "target": "Duncan_and_Margaret_Hunter",
+            "txt": "abuse their positions for personal gain"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 347,
+            "id": "p0",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 304,
+            "target": "Duncan_and_Margaret_Hunter",
+            "txt": "even a $600 airline ticket for a pet rabbit"
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 78,
+            "id": "p18",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_neutral",
+            "start": 72,
+            "target": "Duncan_and_Margaret_Hunter",
+            "txt": "dipped"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 64,
+            "id": "p20",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_neutral",
+            "start": 0,
+            "target": "Duncan_and_Margaret_Hunter",
+            "txt": "\u201cToday\u2019s indictment is a reminder that no one is above the law.\u201d"
+        }
+    ],
+    "triplet-uuid": "eb17fa36-89f2-4d0b-8133-7bb4682228e1",
+    "uuid": "ed0e1a57-8836-43ac-8b80-eacbdfb8429b"
+}

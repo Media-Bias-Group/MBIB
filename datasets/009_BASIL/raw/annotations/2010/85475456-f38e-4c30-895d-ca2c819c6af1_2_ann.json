@@ -1,0 +1,28 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Richard_Blumenthal": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Richard_Blumenthal": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 121,
+            "id": "p4",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 114,
+            "target": "Richard_Blumenthal",
+            "txt": "clearly"
+        }
+    ],
+    "triplet-uuid": "85475456-f38e-4c30-895d-ca2c819c6af1",
+    "uuid": "8a841e62-6284-49a9-a2ed-931b603750f1"
+}

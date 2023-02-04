@@ -1,0 +1,61 @@
+{
+    "source": "nyt",
+    "main-entities": ["Michael Grimm", "Justice Department"],
+    "main-event": "Federal charges filed against Grimm",
+    "title": "Indictment Expected for Grimm, Staten Island Congressman",
+    "url": "https://www.nytimes.com/2014/04/26/nyregion/indictment-expected-for-representative-michael-grimm.html",
+    "word-count": 722,
+    "date": "2014-04-25",
+    "uuid": "2a087321-f6c5-4ba3-870f-03f18d70e029",
+    "triplet-uuid": "33521e65-12da-4521-b132-7b606243b0e4",
+    "body-paragraphs": [
+        [
+            "Representative Michael G. Grimm, a former F.B.I. agent and Marine who capitalized on his straight-arrow image to win a seat in Congress, was expected to be indicted on federal fraud charges after a lengthy corruption investigation, people with knowledge of the case said on Friday."
+        ],
+        [
+            "The charges against Mr. Grimm, 44, a Republican who was first elected in 2010 and represents Staten Island and part of Brooklyn, were expected to include mail fraud and wire fraud, and to focus largely on his conduct in connection with a health food restaurant he owned on the Upper East Side of Manhattan after he left the Federal Bureau of Investigation in 2006, two of the people said.",
+            "He was also expected to be charged with obstruction of justice, for allegedly lying under oath in a federal lawsuit."
+        ],
+        [
+            "The investigation of the second-term congressman, by the F.B.I. and the United States attorney\u2019s office in Brooklyn, began more than two years ago with an examination of Mr. Grimm\u2019s fund-raising for his 2010 race and expanded.",
+            "Two of his fund-raisers have already been charged.",
+            "One, Diana Durand of Houston, was charged with illegally funneling more than $10,000 into his campaign.",
+            "The other, Ofer Biton, pleaded guilty to visa fraud charges."
+        ],
+        [
+            "But on Friday, it did not appear that the indictment would include any campaign finance charges or accusations that the congressman had misused his office, although several of the people noted that the investigation was continuing.",
+            "They all spoke on the condition of anonymity as the charges had not been formally announced and they were not authorized to discuss the case."
+        ],
+        [
+            "A lawyer for Mr. Grimm, William McGinley of Patton Boggs, confirmed in a statement that prosecutors intended to file criminal charges against his client and said that Mr. Grimm \u201casserts his innocence\u201d and that the investigation was \u201ca politically driven vendetta.\u201d"
+        ],
+        [
+            "\u201cAfter more than two years of investigation plagued by malicious leaks, violations of grand jury secrecy and strong-arm tactics, the U.S. attorney\u2019s office has disclosed its intent to file criminal charges against Congressman Grimm,\u201d Mr. McGinley said.",
+            "\u201cWhen the dust settles, he will be vindicated.",
+            "Until then, he will continue to serve his constituents with the same dedication and tenacity that has characterized his lifetime of public service as a member of Congress, Marine Corps combat veteran and decorated F.B.I. special agent.\u201d"
+        ],
+        [
+            "Spokesmen for the office of the United States attorney in Brooklyn, Loretta E. Lynch, and for the New York F.B.I. office declined to comment."
+        ],
+        [
+            "Mr. Grimm, the only Republican member of New York City\u2019s congressional delegation, is up for re-election in November and faces a potentially formidable challenger in former City Councilman Domenic M. Recchia Jr., a Democrat who headed the Council\u2019s Finance Committee and was Christine C. Quinn\u2019s chief lieutenant when she was Council speaker.",
+            "Healthalicious, the restaurant that the people said was a focus of the indictment, was on Second Avenue near 83rd Street.",
+            "The company Mr. Grimm formed to operate it was called Granny Sayz, L.L.C., and was affiliated with a company connected to Mr. Biton, the fund-raiser."
+        ],
+        [
+            "In January 2012, the New York State Workers\u2019 Compensation Board ordered Healthalicious to pay $88,000 for not carrying workers\u2019 compensation insurance.",
+            "About a year earlier, two former deliverymen hired a lawyer who contacted Mr. Grimm\u2019s congressional office to complain that the restaurant had paid them less than minimum wage, did not pay for work beyond 40 hours per week and paid them in cash to evade scrutiny.",
+            "Shortly afterward, Mr. Grimm filed papers with the state to dissolve Granny Sayz.",
+            "The lawyer eventually sued Granny Sayz in federal court."
+        ],
+        [
+            "Mr. Grimm over time developed something of a reputation for being hot-tempered, which did not set him apart from many others in Congress.",
+            "But this year, during an encounter with a television reporter, he set a new standard for on-air congressional misbehavior and delivered a bizarre threat."
+        ],
+        [
+            "After President Obama\u2019s State of the Union address, NY1\u2019s Washington reporter, Michael Scotto, interviewed the congressman about the speech.",
+            "When he asked about the federal campaign financing investigation, Mr. Grimm stormed off camera but returned and threatened to throw Mr. Scotto off the balcony.",
+            "Then, the congressman, speaking in a barely audible whisper as he stood close to the reporter, said Mr. Scotto was \u201cnot man enough\u201d and added: \u201cI\u2019ll break you in half. Like a boy.\u201d"
+        ]
+    ]
+}

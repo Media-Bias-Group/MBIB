@@ -1,0 +1,32 @@
+{
+    "source": "hpo",
+    "main-entities": ["Barack Obama","Benjamin Netanyahu"],
+    "main-event": "Netanyahu plans to deliver a speech to Congress",
+    "title": "Susan Rice: Netanyahu Visit 'Destructive' To U.S.-Israel Relationship",
+    "url": "https://www.huffingtonpost.com/2015/02/25/susan-rice-netanyahu_n_6751146.html",
+    "word-count": 246,
+    "date": "2015-02-25",
+    "uuid": "32d3eab9-fd13-46e6-ab3a-d1eb680e1978",
+    "triplet-uuid": "2b9468af-4ab0-4f25-85f4-c3ef93d72006",
+    "body-paragraphs": [
+        [
+            "Susan Rice, President Barack Obama's national security adviser, said Israeli Prime Minister Benjamin Netanyahu's planned speech in front of a joint session of Congress will be \"destructive\" to U.S.-Israel relations."
+        ],
+        [
+            "\"What has happened over the last several weeks, by virtue of the invitation that was issued by the Speaker [John Boehner] and the acceptance of it by Prime Minister Netanyahu two weeks in advance of his election, is that on both sides, there has now been injected a degree of partisanship, which is not only unfortunate, I think it's destructive of the fabric of the relationship,\" Rice told PBS' Charlie Rose."
+        ],
+        [
+            "\"It's always been bipartisan,\" Rice added.",
+            "\"We need to keep it that way. We want it that way. I think Israel wants it that way. The American people want it that way.",
+            "When it becomes injected or infused with politics, that's a problem.\""
+        ],
+        [
+            "Obama has said he will not meet with Netanyahu ahead of his speech in March, saying it would be \"inappropriate\" to meet with the leader two weeks before the Israeli elections.",
+            "Netanyahu was invited to speak in front of a joint session of Congress by House Speaker John Boehner (R-Ohio), who did not seek approval from the White House before sending the invitation."
+        ],
+        [
+            "Several lawmakers have spoken out against the speech, saying it could cause additional strain on international talks over Iran's nuclear plans.",
+            "Sen. Patrick Leahy (D-Vt.) called Netanyahu's speech \"a tawdry and high-handed stunt\" in a statement earlier this month."
+        ]
+    ]
+}

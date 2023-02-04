@@ -1,0 +1,75 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Donald_Trump": "neg",
+        "author_feeling_Hillary_Clinton": "neu",
+        "author_feeling_main_event": "neg",
+        "notes": "",
+        "relative_stance": "liberal",
+        "you_feeling_Donald_Trump": "neu",
+        "you_feeling_Hillary_Clinton": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 80,
+            "id": "p2",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 31,
+            "target": "Donald_Trump",
+            "txt": "after spending the holidays at his Florida resort"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 67,
+            "id": "p7",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 37,
+            "target": "Donald_Trump",
+            "txt": "repeatedly sought to undermine"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 141,
+            "id": "p9",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Donald_Trump",
+            "txt": "Last week, Trump asserted in a New York Times interview that he had the \u201cabsolute right to do what I want to do with the Justice Department.\u201d"
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 123,
+            "id": "p2",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 112,
+            "target": "Donald_Trump",
+            "txt": "lashing out"
+        }
+    ],
+    "triplet-uuid": "87609973-bd58-42a5-96e2-ee5aa47433f5",
+    "uuid": "4f59fb4e-0876-4d5f-953e-16fbbb779201"
+}

@@ -1,0 +1,77 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Walmart": "neu",
+        "author_feeling_main_event": "neu",
+        "author_feeling_plaintiffs": "neu",
+        "author_feeling_supreme_court": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Walmart": "neu",
+        "you_feeling_plaintiffs": "sli-neg",
+        "you_feeling_supreme_court": "neu"
+    },
+    "pair-uuid": "2058ec60-5372-4f5f-83a3-da780be3a350",
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 60,
+            "id": "p11",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 29,
+            "target": "plaintiffs",
+            "txt": "unrepresentative and unreliable"
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 98,
+            "id": "p34",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 66,
+            "target": "Walmart",
+            "txt": "\u201cstandardless\u201d and \u201crecordless.\u201d"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 149,
+            "id": "p1",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "plaintiffs",
+            "txt": "Even some justices who seemed sympathetic to the plaintiffs expressed qualms about how to administer a lawsuit involving as many as 1.5 million women"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 177,
+            "id": "p28",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 0,
+            "target": "plaintiffs",
+            "txt": "\u201cOne of them was promoted into a managerial position. One was terminated for disciplinary violations. One was promoted and then had a disciplinary problem and then was demoted.\u201d"
+        }
+    ],
+    "uuid": "208ea167-d640-45c8-8769-68723bd74399"
+}

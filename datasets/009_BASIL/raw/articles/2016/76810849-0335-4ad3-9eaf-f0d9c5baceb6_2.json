@@ -1,0 +1,88 @@
+{
+    "source": "nyt",
+    "main-entities": ["Barack Obama", "Hillary Clinton", "Donald Trump"],
+    "main-event": "Obama comments on Orlando shooting",
+    "title": "After Nightclub Massacre, Obama Expresses Outrage and a Familiar Lament",
+    "url": "https://www.nytimes.com/2016/06/13/us/politics/president-obama-expresses-outrage-over-massacre-at-nightclub.html?_r=0",
+    "word-count": 933,
+    "date": "2016-06-12",
+    "uuid": "f71a83f7-57c7-40e2-a10a-e55cf79d9ac6",
+    "triplet-uuid": "76810849-0335-4ad3-9eaf-f0d9c5baceb6",
+    "body-paragraphs": [
+        [
+            "WASHINGTON \u2014 The tableau at the White House was chillingly familiar: The somber president, nearing the end of his eight-year term, walked grim-faced to the podium to offer his condolences, promised action in the wake of suffering and pleaded for a new resolve that just might prevent more deaths in a hail of bullets."
+        ],
+        [
+            "The list of tragedies on President Obama\u2019s watch seems countless by now.",
+            "An elementary classroom. A church. A military base. A movie theater. And, now, a gay nightclub.",
+            "Mr. Obama said Sunday\u2019s massacre, by a gunman with a handgun and an assault weapon, is another brutal reminder of how easy it is for someone to slaughter dozens."
+        ],
+        [
+            "\u201cWe have to decide if that\u2019s the kind of country we want to be,\u201d Mr. Obama said on Sunday as he mourned the nation\u2019s deadliest mass shooting.",
+            "\u201cAnd to actively do nothing is a decision, as well.\u201d"
+        ],
+        [
+            "Mr. Obama vowed to respond forcefully to what he called a devastating \u201cact of terror and an act of hate.\u201d",
+            "This time, it was a tragedy that combined gun violence, a hatred of gays and ties to Islamist terrorism."
+        ],
+        [
+            "In his remarks, Mr. Obama said it was still unclear to the authorities whether there was a direct link between the gunman and international terrorist groups.",
+            "But in the hours after he spoke, law enforcement officials said that the gunman had pledged his allegiance to the Islamic State, and they acknowledged that he had twice been investigated for terrorism connections."
+        ],
+        [
+            "It took only hours for questions about those connections to become fodder in the presidential campaign.",
+            "Donald J. Trump, the presumptive Republican presidential nominee, seized on the attacks as evidence of America\u2019s weakness in facing terrorism.",
+            "He demanded that Mr. Obama resign because he refused to say the words \u201cradical Islam\u201d in his remarks."
+        ],
+        [
+            "\u201cIf we do not get tough and smart real fast, we are not going to have a country anymore,\u201d Mr. Trump said in a statement.",
+            "\u201cBecause our leaders are weak, I said this was going to happen \u2014 and it is only going to get worse.",
+            "I am trying to save lives and prevent the next terrorist attack.\u201d"
+        ],
+        [
+            "Hillary Clinton, the presumptive Democratic presidential nominee, called the massacre in Orlando, Fla., an \u201cact of terror\u201d and an \u201cact of hate\u201d and called for \u201chardening our defenses at home\u201d while \u201crefusing to be intimidated and staying true to our values\u201d in the United States."
+        ],
+        [
+            "Mr. Obama pleaded with Americans during his remarks not to \u201cgive in to fear or turn against each other,\u201d a somewhat muted reference to Mr. Trump\u2019s previous call for a ban on Muslims entering the United States."
+        ],
+        [
+            "\u201cIn the face of hate and violence, we will love one another,\u201d Mr. Obama said.",
+            "Rather than giving in to fear, the president said, \u201cwe will stand united, as Americans, to protect our people, and defend our nation, and to take action against those who threaten us.\u201d"
+        ],
+        [
+            "Speaking to reporters, Mr. Obama said the country had again been traumatized by grievous violence, which shattered more than 100 lives during a three-hour nightmare early Sunday, with 50 people killed and 53 wounded in the attack."
+        ],
+        [
+            "During his presidency, Mr. Obama has repeatedly mourned victims of mass shootings, often expressing anger and frustration at what he has said is the country\u2019s apparent willingness to let them become a \u201cnormal\u201d part of life."
+        ],
+        [
+            "That anger has been compounded by Mr. Obama\u2019s inability to persuade lawmakers to impose new restrictions on the availability of firearms, especially the assault-style rifles like the one believed to have been used by the gunman in Sunday morning\u2019s attack in Orlando.",
+            "A major push for a ban on assault weapons after the 2012 massacre of schoolchildren in Newtown, Conn., ended in failure."
+        ],
+        [
+            "\u201cCan we say that we\u2019re truly doing enough to give all the children of this country the chance they deserve to live out their lives in happiness and with purpose?\u201d an emotional Mr. Obama said after the Newtown attack."
+        ],
+        [
+            "Mr. Obama on Sunday gave his deepest condolences to the families of the victims, and he said Americans should, in particular, keep the country\u2019s gay and lesbian community in mind as they offer their prayers.",
+            "He called it an \u201cespecially heartbreaking day\u201d for the gay community."
+        ],
+        [
+            "\u201cThe shooter targeted a nightclub where people came together to be with friends, to dance and to sing, and to live,\u201d Mr. Obama said.",
+            "\u201cThe place where they were attacked is more than a nightclub \u2014 it is a place of solidarity and empowerment where people have come together to raise awareness, to speak their minds and to advocate for their civil rights.\u201d"
+        ],
+        [
+            "Mr. Obama has often hailed the progress on gay rights that has been made during his presidency, especially the decision by the United States Supreme Court to allow same-sex marriage.",
+            "But those legal protections have not erased hatred in the country."
+        ],
+        [
+            "\u201cThis is a sobering reminder that attacks on any American \u2014 regardless of race, ethnicity, religion or sexual orientation \u2014 is an attack on all of us and on the fundamental values of equality and dignity that define us as a country,\u201d he said."
+        ],
+        [
+            "Mr. Obama took no questions from reporters after delivering his five-minute remarks.",
+            "He turned from the podium to walk back into the West Wing, once again left to monitor the investigation, prepare a likely eulogy for the dead and wonder when he might have to come into the briefing room again."
+        ],
+        [
+            "Shortly after he spoke, Mr. Obama ordered that flags at the White House and other federal sites around the world be lowered to half-staff. Again."
+        ]
+    ]
+}

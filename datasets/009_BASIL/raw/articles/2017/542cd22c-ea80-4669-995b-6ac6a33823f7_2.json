@@ -1,0 +1,53 @@
+{
+    "source": "fox",
+    "main-entities": ["Donald Trump"],
+    "main-event": "Trump reverses decision to allow import of elephant trophies",
+    "title": "Trump holds off reversing ban on elephant trophy imports",
+    "url": "http://www.foxnews.com/politics/2017/11/17/trump-holds-off-reversing-ban-on-elephant-trophy-imports.html",
+    "word-count": 487,
+    "date": "2017-11-17",
+    "uuid": "698c4b16-4302-4d84-bc3a-188575dd2fe8",
+    "triplet-uuid": "542cd22c-ea80-4669-995b-6ac6a33823f7",
+    "body-paragraphs": [
+        [
+            "It looks like President Trump is having a change of heart when it comes to his recent decision to lift the ban on importing elephant trophies from Africa."
+        ],
+        [
+            "In a tweet on Friday night, Trump said he decided to put the \"big game trophy decision on hold.\u201d",
+            "The comment comes less than 48 hours after it was first announced that the Trump administration would reverse a 2014 ban made under President Obama on permits for elephant trophies from Zambia and Zimbabwe."
+        ],
+        [
+            "Secretary of the Interior Ryan Zinke echoed Trump's comment in his own tweet, saying that he and the president had spoken and \"both believe that conservation & healthy herds are critical...the issuing of permits is put on hold...\""
+        ],
+        [
+            "It was not immediately clear why Trump made the announcement, but it came on the same day as the top Republican on the House Foreign Affairs Committee called on the Trump administration to reverse its newly announced policy, labeling it the \"wrong move at the wrong time.\""
+        ],
+        [
+            "California Rep. Ed Royce on Friday questioned the action because of concerns not only about African wildlife but U.S. national security, citing the political upheaval in Zimbabwe, where the longtime president was placed under house arrest this week by the military."
+        ],
+        [
+            "\"The administration should withdraw this decision until Zimbabwe stabilizes,\" the committee chairman said in a statement.",
+            "\"Elephants and other big game in Africa are blood currency for terrorist organizations, and they are being killed at an alarming rate.",
+            "Stopping poaching isn't just about saving the world's most majestic animals for the future \u2014 it's about our national security.\""
+        ],
+        [
+            "Royce said that when carefully regulated, conservation hunts could help the wildlife population, but \"that said, this is the wrong move at the wrong time.\""
+        ],
+        [
+            "The U.S. Fish and Wildlife Service said in a written notice issued Thursday that permitting elephants from Zimbabwe and Zambia to be brought back as trophies will raise money for conservation programs.",
+            "The change marks a shift in efforts to stop the importation of elephant tusks and hides, overriding a 2014 ban imposed by the Obama administration.",
+            "The newly announced policy applies to the remains of African elephants killed between January 2016 and December 2018."
+        ],
+        [
+            "\"Legal, well-regulated sport hunting as part of a sound management program can benefit certain species by providing incentives to local communities to conserve those species and by putting much-needed revenue back into conservation,\" the agency said in a statement."
+        ],
+        [
+            "The illicit demand for elephant ivory has led to devastating losses from illegal poaching as the natural habitat available for the animals to roam has also dwindled by more than half.",
+            "As a result, the number of African elephants has shrunk from about 5 million a century ago to about 400,000 remaining.",
+            "And that number continues to decline each year."
+        ],
+        [
+            "Two other lawmakers, Rep. Vern Buchanan, R-Fla., and Rep. Earl Blumenauer, D-Ore., co-chairs of the Congressional Animal Protection Caucus, assailed the administration's decision."
+        ]
+    ]
+}

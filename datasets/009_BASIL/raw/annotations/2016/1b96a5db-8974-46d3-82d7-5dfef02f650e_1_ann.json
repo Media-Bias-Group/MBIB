@@ -1,0 +1,28 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Barack_Obama": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Barack_Obama": "neu"
+    },
+    "pair-uuid": "1b96a5db-8974-46d3-82d7-5dfef02f650e",
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 33,
+            "id": "p5",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "other_pro",
+            "start": 0,
+            "target": "Barack_Obama",
+            "txt": "\u201cIt\u2019s not against the president,\u201d"
+        }
+    ],
+    "uuid": "8895b355-34b0-4060-ab55-0183874fe4ef"
+}

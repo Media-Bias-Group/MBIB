@@ -1,0 +1,72 @@
+{
+    "source": "hpo",
+    "main-entities": ["Romney campaign", "Obama campaign"],
+    "main-event": "Obama and Romney campaigns argue on Medicare",
+    "title": "Obama Medicare Attack In 2008 Targeted McCain For Cutting $800 Billion From Program",
+    "url": "https://www.huffingtonpost.com/2012/08/14/obama-medicare-attack-in-_n_1775537.html",
+    "word-count": 780,
+    "date": "2012-08-14",
+    "uuid": "847d3a62-f06b-449e-8be1-f864e4d88a2d",
+    "triplet-uuid": "2ec04201-2016-4227-baf7-ba8289058203",
+    "body-paragraphs": [
+        [
+            "WASHINGTON -- In the wake of Mitt Romney's choice of Paul Ryan as his vice presidential nominee, the politics of Medicare have become almost as complicated as the policy itself."
+        ],
+        [
+            "The most recent back-and-forth between the Romney and Obama campaigns concerns which candidate would do more harm to people's benefits.",
+            "While the president's team has pointed to the Republican plan to turn Medicare into a quasi-voucher program -- in which recipients would receive a check to buy either insurance through the private market or traditional Medicare -- the Romney team has responded by noting that Obama took more than $700 billion out of Medicare as part of his health care overhaul."
+        ],
+        [
+            "\"He stole $700 billion from Medicare to fund Obamacare,\" said RNC Chair Reince Priebus.",
+            "\"If any person in this entire debate has blood on their hands in regard to Medicare, it's Barack Obama.\""
+        ],
+        [
+            "That rejoinder is now a subject of intense debate.",
+            "The money being taken out of the system by the Affordable Care Act is mostly derived from limiting the expected rate of growth in the program."
+        ],
+        [
+            "The savings come predominantly from limiting waste, fraud and abuse, mostly in Medicare Advantage, and are budgeted to help subsidize insurance for people under the ACA.",
+            "As such, independent fact-checkers and news analysts alike have disputed the Romney campaign's characterization."
+        ],
+        [
+            "Part of the reason that the Obama campaign is crying foul over this line of criticism, however, may be because it knows how effective it can be.",
+            "Republicans also used the charge that Obamacare raided Medicare as a primary attack line in the 2010 congressional elections.",
+            "Two years prior, then-Senator Obama used virtually identical language to beat up on his general election opponent, Sen. John McCain (R-Ariz.):"
+        ],
+        [
+            "\"How would your golden years turn out under John McCain?",
+            "His health care plan would cut Medicare by $800 billion -- that means a 22 percent cut in benefits.",
+            "Higher premiums and co-pays ... after a lifetime of work, senior's health care shouldn't be a gamble.",
+            "John McCain's plan, it's not the change we need.\""
+        ],
+        [
+            "Obama made the same argument on the stump."
+        ],
+        [
+            "\"It turns out, Senator McCain would pay for part of his plan by making drastic cuts in Medicare: $882 billion worth -- $882 billion in Medicare cuts to pay for a ill-conceived, badly thought-through health care plan that won't provide more health care to people, even though Medicare is already facing a looming shortfall,\" Obama declared at a campaign stop in Roanoke, Va."
+        ],
+        [
+            "Douglas Holtz-Eakin, McCain's policy director at the time, recalled that the attack originated with a Wall Street Journal article that referenced his saying that McCain would assume savings in Medicare and Medicaid spending to make his health care plan budget neutral.",
+            "Those savings were expected to come from eliminating fraud and reforming payment policies.",
+            "The possibility of increasing Medicare premiums for higher-income earners was also floated."
+        ],
+        [
+            "FactCheck.org rated the Obama ad as \"false,\" noting that the McCain campaign wasn't talking about slashing benefits but limiting waste and slowing the rate of growth.",
+            "Holtz-Eakin said, \"We were looking for efficiencies in delivery a la Managed Medicaid.\""
+        ],
+        [
+            "This was a relatively minor aspect of the Obama campaign's assault on McCain's Medicare record.",
+            "The more substantive criticism concerned McCain's proposal to tax worker health care plans as a way of generating money to give people a new tax credit so that they could buy private insurance."
+        ],
+        [
+            "\"Like Governor Romney has refused to specify how he will pay for his $5 trillion tax cuts weighted toward millionaires, Senator McCain would have cut $1.3 trillion from health care programs to pay for tax cuts while refusing to rule out cutting benefits or to say what he was cutting,\" Obama's current campaign press secretary, Ben LaBolt, said in an email to The Huffington Post.",
+            "\"President Obama achieved a third as much savings by eliminating unnecessary subsidies to insurances companies and getting waste and fraud out of the system in order to improve seniors' benefits -- saving them $600 a year on prescription drugs and providing them with access to preventive care.",
+            "Senator McCain and Governor Romney have subsequently opposed the savings that the president identified and demagogued the issue, ironically, since Governor Romney's running mate kept them in his budget.\""
+        ],
+        [
+            "But the attack on McCain's accounting was part of the assault nonetheless.",
+            "And in light of the current debate over Medicare proposals, it could complicate the political dialogue even further.",
+            "Certainly, as the Washington Examiner's Phillip Klein notes, it will contribute to the general reluctance to talk substantively about Medicare reform out of a concern that it merely invites future attacks."
+        ]
+    ]
+}

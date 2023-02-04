@@ -1,0 +1,90 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Justice_Department": "neu",
+        "author_feeling_Michael_Grimm": "neg",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "left",
+        "you_feeling_Justice_Department": "neu",
+        "you_feeling_Michael_Grimm": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 109,
+            "id": "p0",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 66,
+            "target": "Michael_Grimm",
+            "txt": "who capitalized on his straight-arrow image"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 234,
+            "id": "p12",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "other_pro",
+            "start": 120,
+            "target": "Michael_Grimm",
+            "txt": "lifetime of public service as a member of Congress, Marine Corps combat veteran and decorated F.B.I. special agent"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 152,
+            "id": "p22",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 63,
+            "target": "Michael_Grimm",
+            "txt": "he set a new standard for on-air congressional misbehavior and delivered a bizarre threat"
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 83,
+            "id": "p24",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 76,
+            "target": "Michael_Grimm",
+            "txt": "stormed"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 180,
+            "id": "p25",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Michael_Grimm",
+            "txt": "Then, the congressman, speaking in a barely audible whisper as he stood close to the reporter, said Mr. Scotto was \u201cnot man enough\u201d and added: \u201cI\u2019ll break you in half. Like a boy.\u201d"
+        }
+    ],
+    "triplet-uuid": "33521e65-12da-4521-b132-7b606243b0e4",
+    "uuid": "2a087321-f6c5-4ba3-870f-03f18d70e029"
+}

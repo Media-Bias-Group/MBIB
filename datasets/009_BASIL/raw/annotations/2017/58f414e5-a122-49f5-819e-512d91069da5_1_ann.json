@@ -1,0 +1,32 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Democratic_Lawmakers": "neu",
+        "author_feeling_Republican_Lawmakers": "neu",
+        "author_feeling_Steve_Scalise": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "this whole triple is very unbiased, maybe not worth including?",
+        "relative_stance": "center",
+        "you_feeling_Democratic_Lawmakers": "neu",
+        "you_feeling_Republican_Lawmakers": "neu",
+        "you_feeling_Steve_Scalise": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 140,
+            "id": "p6",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "Republican_Lawmakers",
+            "start": 102,
+            "target": "Steve_Scalise",
+            "txt": "God knows how bad that might have been"
+        }
+    ],
+    "triplet-uuid": "58f414e5-a122-49f5-819e-512d91069da5",
+    "uuid": "34ed48f7-3ad7-47ee-953d-906aad9b37fd"
+}

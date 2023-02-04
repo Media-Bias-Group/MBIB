@@ -1,0 +1,103 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Donald_Trump": "neg",
+        "author_feeling_main_event": "neg",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Donald_Trump": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 57,
+            "id": "p17",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 1,
+            "target": "Donald_Trump",
+            "txt": "This is plainly a power grab by a disappointed President"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 136,
+            "id": "p18",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 0,
+            "target": "Donald_Trump",
+            "txt": "\"The President's actions clearly violate the Congress\u2019s exclusive power of the purse, which our Founders enshrined in the Constitution.\""
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 141,
+            "id": "p20",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 0,
+            "target": "Donald_Trump",
+            "txt": "\"The President\u2019s declaration of a national emergency would be an abuse of his constitutional oath and an affront to the separation of powers."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 55,
+            "id": "p22",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 0,
+            "target": "Donald_Trump",
+            "txt": "This is a gross abuse of power that cannot be tolerated"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 238,
+            "id": "p38",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 156,
+            "target": "Donald_Trump",
+            "txt": "despite his criticisms of former President Barack Obama for using executive action"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 28,
+            "id": "p7",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Donald_Trump",
+            "txt": "And in an almost-casual tone"
+        }
+    ],
+    "triplet-uuid": "3ae35b16-7f7f-4a5e-9f24-5ce724106a73",
+    "uuid": "06ed783e-f462-4003-af6a-20ee3e69b6a4"
+}

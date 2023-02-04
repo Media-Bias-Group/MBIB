@@ -1,0 +1,63 @@
+{
+    "source": "fox",
+    "main-entities": ["Michael Grimm", "Justice Department"],
+    "main-event": "Federal charges filed against Grimm",
+    "title": "Federal prosecutors plan to file charges against Rep. Grimm, attorney says",
+    "url": "http://www.foxnews.com/politics/2014/04/25/federal-prosecutors-plan-to-file-charges-against-rep-grimm-attorney-says.html?intcmp=trending",
+    "word-count": 441,
+    "date": "2014-04-25",
+    "uuid": "6d996e37-445d-47f7-a273-a8a341667d2b",
+    "triplet-uuid": "33521e65-12da-4521-b132-7b606243b0e4",
+    "body-paragraphs": [
+        [
+            "New York Republican Rep. Michael Grimm's attorney confirmed late Friday that federal prosecutors plan to file criminal charges against the congressman."
+        ],
+        [
+            "The decision follows a two-year FBI investigation into various aspects of Grimm's business and campaign history."
+        ],
+        [
+            "\"We are disappointed by the government's decision, but hardly surprised,\" said the statement from Grimm's attorney, William McGinley.",
+            "\"From the beginning, the government has pursued a politically driven vendetta against Congressman Grimm and not an independent search for the truth.\""
+        ],
+        [
+            "The statement said Grimm \"asserts his innocence of any wrongdoing\" and \"will be vindicated.\""
+        ],
+        [
+            "\"Until then, he will continue to serve his constituents with the same dedication and tenacity that has characterized his lifetime of public service as a Member of Congress, Marine Corps combat veteran, and decorated FBI Special Agent,\" the statement said."
+        ],
+        [
+            "The House Ethics Committee announced in November that Grimm was under investigation for possible campaign finance violations.",
+            "That committee said it would defer its inquiry because of a separate Department of Justice investigation."
+        ],
+        [
+            "A spokesman for the U.S. attorney in Brooklyn said he could not confirm, deny or comment on the case."
+        ],
+        [
+            "Grimm made headlines in January after confronting a New York City cable news station reporter who tried to question him about a long-running FBI investigation into campaign finance on a balcony in the Capitol."
+        ],
+        [
+            "After reporter Michael Scotto finished his report, Grimm stormed back, leaned into him and said, \"Let me be clear to you.",
+            "If you ever do that to me again, I'll throw you off this (expletive) balcony.\""
+        ],
+        [
+            "Scotto, who was asking about fundraising during Grimm's first campaign, protested, saying he was asking \"a valid question.\""
+        ],
+        [
+            "During that race, Grimm has acknowledged receiving $250,000 to $300,000 in contributions from followers of an Israeli rabbi, Yoshiyahu Yosef Pinto.",
+            "Some members of Pinto's congregation subsequently said they made tens of thousands of dollars in illegal contributions, including gifts passed through straw donors."
+        ],
+        [
+            "Grimm has denied knowledge of any improprieties, and the FBI hasn't accused him of any wrongdoing.",
+            "The Israeli businessman who had served as Grimm's liaison to Pinto's followers, Ofer Biton, pleaded guilty in August to an immigration fraud charge."
+        ],
+        [
+            "Three days after that guilty plea, the FBI filed a sealed criminal complaint accusing a Houston woman who had been romantically involved with Grimm of using straw donors to make illegal campaign contributions."
+        ],
+        [
+            "In that case, made public this month, the woman was accused of funneling at least $10,000 to Grimm's campaign by passing them through friends who agreed to have the donations listed under their names."
+        ],
+        [
+            "A spokesman in Grimm's Washington office, Nick Iacono, did not immediately return emails or a telephone message seeking comment Friday."
+        ]
+    ]
+}

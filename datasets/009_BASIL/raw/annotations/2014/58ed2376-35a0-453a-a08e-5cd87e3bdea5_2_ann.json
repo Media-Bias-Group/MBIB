@@ -1,0 +1,90 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Jan_Brewer": "neu",
+        "author_feeling_SB_1062_bill": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "outright calls bill \"discrimination\"",
+        "relative_stance": "left",
+        "you_feeling_Jan_Brewer": "neu",
+        "you_feeling_SB_1062_bill": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 191,
+            "id": "p0",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "sarcasm",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 172,
+            "target": "SB_1062_bill",
+            "txt": "\"religious freedom\""
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 242,
+            "id": "p0",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 230,
+            "target": "SB_1062_bill",
+            "txt": "discriminate"
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 86,
+            "id": "p10",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 67,
+            "target": "SB_1062_bill",
+            "txt": "open discrimination"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 90,
+            "id": "p3",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "Jan_Brewer",
+            "start": 0,
+            "target": "SB_1062_bill",
+            "txt": "\"I have not heard one example where business owners' religious liberty has been violated.\""
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 289,
+            "id": "p8",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 85,
+            "target": "SB_1062_bill",
+            "txt": "[W]e have heard loud and clear from our various stakeholders that adoption of this legislation would not only run contrary to that goal but deal a significant blow to the state's economic growth potential"
+        }
+    ],
+    "triplet-uuid": "58ed2376-35a0-453a-a08e-5cd87e3bdea5",
+    "uuid": "37cedba7-4b83-4c10-9707-120e759c5e0c"
+}

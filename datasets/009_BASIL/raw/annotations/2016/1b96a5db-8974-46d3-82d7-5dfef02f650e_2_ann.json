@@ -1,0 +1,58 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Barack_Obama": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Barack_Obama": "neu"
+    },
+    "pair-uuid": "1b96a5db-8974-46d3-82d7-5dfef02f650e",
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 31,
+            "id": "p0",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 18,
+            "target": "Barack_Obama",
+            "txt": "stinging blow"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 177,
+            "id": "p31",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "other_pro",
+            "start": 0,
+            "target": "Barack_Obama",
+            "txt": "\u201cThis president has gone longer in his tenure in the White House than just about any other president in modern history before facing the prospect of having his veto overridden.\u201d"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 31,
+            "id": "p16",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "other_pro",
+            "start": 1,
+            "target": "Barack_Obama",
+            "txt": "I deeply respect the president"
+        }
+    ],
+    "uuid": "0a64117e-518e-447b-a60f-2bdc2bf6ffe7"
+}

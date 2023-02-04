@@ -1,0 +1,45 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Internal_Revenue_Service": "neu",
+        "author_feeling_Lois_Lerner": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Internal_Revenue_Service": "neu",
+        "you_feeling_Lois_Lerner": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "ind_anti",
+            "bias": "inf",
+            "end": 111,
+            "id": "p4",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "Lerner's testimony",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "other_pro",
+            "start": 55,
+            "target": "Lois_Lerner",
+            "txt": "\"have no purpose other than to embarrass or burden her.\""
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 115,
+            "id": "p16",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 105,
+            "target": "Internal_Revenue_Service",
+            "txt": "outrageous"
+        }
+    ],
+    "triplet-uuid": "84678e18-0b79-4570-9c9f-cb1cf88d968e",
+    "uuid": "10724f30-b51e-4ad0-aa3e-c34baf08d626"
+}

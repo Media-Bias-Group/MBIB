@@ -1,0 +1,60 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Donald_Trump_Jr.": "neu",
+        "author_feeling_WikiLeaks": "neg",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "right",
+        "you_feeling_Donald_Trump_Jr.": "neu",
+        "you_feeling_WikiLeaks": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 209,
+            "id": "p21",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Donald_Trump_Jr.",
+            "txt": "Trump Jr. became embroiled in the Russia investigation after it was revealed he and other campaign officials met with a Kremlin-backed attorney in June 2016 who had promised damaging information about Clinton."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 168,
+            "id": "p4",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "WikiLeaks",
+            "txt": "(Federal officials believe WikiLeaks published material, including emails from the Democratic National Committee\u2019s servers, that had been obtained via Russian hackers.)"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 166,
+            "id": "p23",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "Donald_Trump_Jr.",
+            "start": 0,
+            "target": "WikiLeaks",
+            "txt": "\u201cTo the extent they had information concerning the fitness, character or qualifications of a presidential candidate, I believed that I should at least hear them out,\u201d"
+        }
+    ],
+    "triplet-uuid": "dd1e6e3b-f36c-4064-8ef9-940984e9afa2",
+    "uuid": "5eeaf107-771b-4c4d-be7c-4304d4c75a6e"
+}

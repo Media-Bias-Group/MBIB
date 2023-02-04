@@ -1,0 +1,78 @@
+{
+    "source": "nyt",
+    "main-entities": ["Barack Obama","Benjamin Netanyahu", "Susan Rice"],
+    "main-event": "Netanyahu plans to deliver a speech to Congress",
+    "title": "Obama Aide Calls Netanyahu\u2019s Planned Visit \u2018Destructive\u2019 to U.S.-Israel Ties",
+    "url": "https://www.nytimes.com/2015/02/26/us/politics/susan-rice-calls-netanyahus-planned-visit-destructive-to-us-israel-ties.html",
+    "word-count": 686,
+    "date": "2015-02-25",
+    "uuid": "428ef98c-26e1-4a69-80fb-e95cd2b2b4ab",
+    "triplet-uuid": "2b9468af-4ab0-4f25-85f4-c3ef93d72006",
+    "body-paragraphs": [
+        [
+            "WASHINGTON \u2014 Susan E. Rice, President Obama\u2019s national security adviser, sharply criticized Prime Minister Benjamin Netanyahu of Israel on Tuesday over his plans to address a joint meeting of Congress next week, saying his actions had hurt his nation\u2019s relationship with the United States."
+        ],
+        [
+            "Mr. Netanyahu\u2019s decision to travel to Washington to deliver the speech two weeks before the Israeli elections has \u201cinjected a degree of partisanship, which is not only unfortunate, I think it\u2019s destructive of the fabric of the relationship,\u201d Ms. Rice said in an interview on the PBS television program \u201cCharlie Rose.\u201d"
+        ],
+        [
+            "Her comments marked the strongest public rebuke to date by the Obama administration since Mr. Netanyahu accepted an invitation from Speaker John A. Boehner to make his case to Congress against a nuclear deal with Iran, which is a priority of Mr. Obama\u2019s.",
+            "It is also the frankest acknowledgment yet by a top American official of the degree to which the controversy has damaged United States-Israeli relations."
+        ],
+        [
+            "The speech, scheduled for March 3, was arranged by Mr. Boehner and the Israeli ambassador without consulting the White House \u2014 a move that Mr. Obama\u2019s team has called a breach of protocol."
+        ],
+        [
+            "The president has said he will not meet with Mr. Netanyahu during his visit to avoid any appearance that he is trying to influence the Israeli elections that are scheduled for mid-March."
+        ],
+        [
+            "The episode is a low point in the tense relationship between Mr. Obama and Mr. Netanyahu and has touched off weeks of mostly anonymous sniping and finger-pointing."
+        ],
+        [
+            "Top administration officials have hinted more openly of their displeasure in recent days."
+        ],
+        [
+            "The White House on Wednesday said that Mr. Obama agreed with Ms. Rice\u2019s assessment, saying he had raised the same concerns several times."
+        ],
+        [
+            "Her comments, said Josh Earnest, the White House press secretary, are \u201centirely consistent with what the president has already said.\u201d"
+        ],
+        [
+            "\u201cAllowing this relationship to be subjected to party politics does weaken the relationship,\u201d Mr. Earnest said."
+        ],
+        [
+            "Mr. Earnest said he did not know whether Mr. Obama and Ms. Rice had talked in advance of the interview about what she would say about Mr. Netanyahu\u2019s visit."
+        ],
+        [
+            "Vice President Joseph R. Biden Jr., who as president of the Senate would be expected to attend, has said he will be traveling abroad.",
+            "Secretary of State John Kerry said Tuesday that he would be in Switzerland negotiating with the Iranians.",
+            "The White House has also not committed to sending a representative next week to the American Israel Public Affairs Committee\u2019s conference, where Mr. Netanyahu is also scheduled to appear."
+        ],
+        [
+            "The Israeli prime minister himself has turned down a request by Democratic senators for a private meeting, Senator Richard J. Durbin, Democrat of Illinois, said Tuesday."
+        ],
+        [
+            "\u201cWe offered the prime minister an opportunity to balance the politically divisive invitation from Speaker Boehner with a private meeting with Democrats who are committed to keeping the bipartisan support of Israel strong,\u201d Mr. Durbin said in a statement.",
+            "\u201cHis refusal to meet is disappointing to those of us who have stood by Israel for decades.\u201d"
+        ],
+        [
+            "In a letter released by Mr. Durbin\u2019s office, Mr. Netanyahu said such a meeting \u201ccould compound the misperception of partisanship regarding my upcoming visit.\u201d"
+        ],
+        [
+            "Mr. Netanyahu said Tuesday that he was making the trip because it was his obligation to \u201cdo everything I can to prevent\u201d a nuclear agreement with Iran."
+        ],
+        [
+            "\u201cTherefore, I will go to Washington to address the American Congress, because the American Congress is likely to be the final brake before the agreement between the major powers and Iran,\u201d he said as he toured a military base in southern Israel."
+        ],
+        [
+            "Ms. Rice demurred when asked whether she believed Mr. Netanyahu was making the speech to gain political favor."
+        ],
+        [
+            "\u201cI\u2019m not going to ascribe motives to the prime minister,\u201d she told Mr. Rose.",
+            "\u201cThe point is, we want the relationship between the United States and Israel to be unquestionably strong, immutable, regardless of political seasons in either country, regardless of which party may be in charge in either country."
+        ],
+        [
+            "\u201cWe\u2019ve worked very hard to have that,\u201d she said, \u201cand we will work very hard to maintain that.\u201d"
+        ]
+    ]
+}

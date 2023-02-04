@@ -1,0 +1,88 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Donald_Trump": "neg",
+        "author_feeling_main_event": "pos",
+        "notes": "",
+        "relative_stance": "liberal",
+        "you_feeling_Donald_Trump": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 154,
+            "id": "p7",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 142,
+            "target": "Donald_Trump",
+            "txt": "ill-prepared"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 122,
+            "id": "p10",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 93,
+            "target": "Donald_Trump",
+            "txt": "cannot claim to love the U.S."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 226,
+            "id": "p16",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Donald_Trump",
+            "txt": "The indictments did reveal that attempts to hack into Democratic Party emails occurred later the same day that Trump called on Russians in a speech to uncover emails that his rival Hillary Clinton had held on a private server."
+        },
+        {
+            "aim": "ind_anti",
+            "bias": "inf",
+            "end": 196,
+            "id": "p20",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "Robert Mueller",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "other_pro",
+            "start": 0,
+            "target": "Donald_Trump",
+            "txt": "\u201cIt\u2019s a big F-U from [special prosecutor Robert] Mueller,\u201d a White House official told Politico, adding that it \u201cwasn\u2019t an accident\u201d that the indictments were announced before the Helsinki summit."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 153,
+            "id": "p6",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 60,
+            "target": "Donald_Trump",
+            "txt": "\u201ccancel your ridiculous Putin summit and get your butt on a plane back to the United States.\u201d"
+        }
+    ],
+    "triplet-uuid": "c6a0e65c-4f8b-41de-8200-cd700f683c64",
+    "uuid": "f2571aa2-563a-4850-9bb4-37721d7d95df"
+}

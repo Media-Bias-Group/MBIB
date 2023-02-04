@@ -1,0 +1,76 @@
+{
+    "source": "fox",
+    "main-entities": ["Adam Schiff", "GOP committee members", "Donald Trump"],
+    "main-event": "House Intelligence Committee demand Adam Schiff's resignation",
+    "title": "Adam Schiff urged to step down as chairman by House Intelligence Committee Republicans",
+    "url": "https://www.foxnews.com/politics/adam-schiff-urged-to-step-down-by-gop-members-on-house-intelligence-committee",
+    "word-count": 590,
+    "date": "2019-03-28",
+    "uuid": "3bc7d2c3-d9b2-43d5-b34b-d36dd0b0ac49",
+    "triplet-uuid": "b7021938-ff8d-42ea-adec-5704c0b65237",
+    "body-paragraphs": [
+        [
+            "Every Republican on the House Intelligence Committee on Thursday demanded Rep. Adam Schiff step down as chairman over the California Democrat\u2019s repeated claims to have evidence of Trump-Russia collusion."
+        ],
+        [
+            "In a letter, obtained by Fox News and signed by every Republican on the committee, the lawmakers slammed Schiff for his claims in the media that there was \u201cmore than circumstantial evidence\u201d of collusion between the Trump campaign and Russia.",
+            "They repeated their demand in person during a feisty hearing Thursday morning."
+        ],
+        [
+            "\u201cYour actions both past and present are incompatible with your duty as Chairman of this Committee,\u201d the letter stated.",
+            "\u201cWe have no faith in your ability to discharge your duties in a manner consistent with your Constitutional responsibility and urge your immediate resignation as Chairman of this Committee.\u201d"
+        ],
+        [
+            "The letter follows the conclusion of Special Counsel Robert Mueller's Russia probe, which turned up no evidence of collusion between Trump campaign members and Russia during the 2016 presidential election."
+        ],
+        [
+            "President Trump himself went even further than congressional Republicans Thursday morning, tweeting:"
+        ],
+        [
+            "\u201cCongressman Adam Schiff, who spent two years knowingly and unlawfully lying and leaking, should be forced to resign from Congress!\u201d"
+        ],
+        [
+            "Another top Republican, Sen. Lindsey Graham of South Carolina, also lambasted Schiff on Thursday - comparing the California lawmaker to director Oliver Stone."
+        ],
+        [
+            "\"He's made some pretty outrageous comments that Mueller could not verify, Graham said.",
+            "\"He's getting into conspiracy land and he's acting like an Oliver Stone type figure.",
+            "That to me is not helpful to him but I'm not going to ask him to resign for Congress.\""
+        ],
+        [
+            "Schiff, a vocal critic of the president, has doubled down on his claim that Trump and his administration colluded with foreign powers despite Mueller\u2019s findings."
+        ],
+        [
+            "\u201cUndoubtedly, there is collusion,\u201d Schiff told The Washington Post after Attorney General William Barr's four-page summary of Mueller's investigation was released Sunday.",
+            "He told the paper that the question of whether Trump or the people around him were compromised by a hostile foreign power was not in any part of Mueller\u2019s report."
+        ],
+        [
+            "The letter to Schiff was sent as those same Republicans confronted Schiff at the start of a Russia-themed hearing Thursday morning."
+        ],
+        [
+            "Rep. Michael Conaway, R-Texas, attacked Schiff for driving a \u201cfalse narrative\u201d about collusion between Trump and Russia and \u201cundermining the faith\u201d of the American people.",
+            "Conaway then went on to demand Schiff immediately resign his committee chairmanship, saying that Republicans on the committee have \u201cno faith in you.\u201d"
+        ],
+        [
+            "Schiff defended himself during Thursday\u2019s hearing \u2013 pointing to evidence of Russian hacking during the last presidential election, that Russian operatives offered dirt on Hillary Clinton during the campaign and that members of Trump\u2019s campaign and family took meetings with Russians."
+        ],
+        [
+            "\u201cYou might think that\u2019s okay that they lied about the meeting,\u201d Schiff said.",
+            "\u201cI don\u2019t think that\u2019s okay.\u201d"
+        ],
+        [
+            "Schiff on Monday signed a letter with his fellow House committee chairs demanding the full Mueller report by April 2."
+        ],
+        [
+            "House Speaker Nancy Pelosi, D-Calif., said earlier this week that the mounting calls to remove Schiff were \"absolutely ridiculous.\"",
+            "She consulted with Schiff and other committee leaders over the weekend as Barr notified Congress of Mueller's report and summarized the details."
+        ],
+        [
+            "A Pelosi aide said Schiff was being attacked because he's done \"an outstanding job.\""
+        ],
+        [
+            "\"Democrats aren't going to be intimidated by the White House or Congressional Republicans,\" spokeswoman Ashley Etienne said.",
+            "\"We're not going to be distracted from securing the release of the full Mueller report and the underlying evidence, and we will continue to pursue legitimate oversight because that's what the Constitution requires.\""
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Adam_Schiff": "neu",
+        "author_feeling_Donald_Trump": "neu",
+        "author_feeling_Michael_Flynn": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Adam_Schiff": "neu",
+        "you_feeling_Donald_Trump": "neu",
+        "you_feeling_Michael_Flynn": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 197,
+            "id": "p12",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 93,
+            "target": "Michael_Flynn",
+            "txt": "a rarely invoked process that, should lawmakers choose to pursue it, could result in a criminal citation"
+        }
+    ],
+    "triplet-uuid": "df6a55fb-dfe5-4362-89a6-8c040d648a70",
+    "uuid": "f508943e-e091-4924-8c33-c1a3b0215ffd"
+}

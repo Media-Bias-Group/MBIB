@@ -1,0 +1,51 @@
+{
+    "source": "hpo",
+    "main-entities": ["Donald Trump", "Barack Obama", "Hillary Clinton"],
+    "main-event": "Trump criticizes Obama and Clinton over Orlando shooting",
+    "title": "Donald Trump Calls On Obama To Resign Over Orlando Shooting",
+    "url": "https://www.huffingtonpost.com/entry/trump-orlando-obama-resign_us_575dc769e4b0e39a28adebd3",
+    "word-count": 449,
+    "date": "2016-06-12",
+    "uuid": "0692a19b-2db5-446d-adbe-552e73d47b6a",
+    "triplet-uuid": "76810849-0335-4ad3-9eaf-f0d9c5baceb6",
+    "body-paragraphs": [
+        [
+            "Presumptive Republican presidential nominee Donald Trump issued a bombastic call for President Barack Obama to resign on Sunday over the president\u2019s response to a shooting at an Orlando night club that left 50 people dead and scores of others injured."
+        ],
+        [
+            "\"In his remarks today, President Obama disgracefully refused to even say the words 'Radical Islam'.",
+            "For that reason alone, he should step down.",
+            "If Hillary Clinton, after this attack, still cannot say the two words 'Radical Islam' she should get out of this race for the Presidency,\" Trump said in a statement released by his campaign."
+        ],
+        [
+            "\"If we do not get tough and smart real fast, we are not going to have a country anymore.",
+            "Because our leaders are weak, I said this was going to happen \u2013 and it is only going to get worse.",
+            "I am trying to save lives and prevent the next terrorist attack.",
+            "We can't afford to be politically correct anymore,\" the statement continued."
+        ],
+        [
+            "In their remarks on Sunday, both Obama and Clinton referred to the shooting as an \u201cact of terror\" and an \"act of hate.\"",
+            "Obama last year explained that he refuses to describe the self-proclaimed Islamic State and al Qaeda as groups fueled by \u201cradical Islam\u201d because the term grants them a religious legitimacy they don\u2019t deserve."
+        ],
+        [
+            "Trump noted in his statement that the gunman, Omar Mateen, was \"the son of an immigrant from Afghanistan who openly published his support for the Afghanistani Taliban and even tried to run for President of Afghanistan.\"",
+            "According to the Washington Post, Seddique Mateen expressed gratitude toward the Afghan Taliban in videos posted online.",
+            "His son had reportedly pledged allegiance to ISIS before executing the attack, though officials say there is no evidence he had direct ties to the group."
+        ],
+        [
+            "Trump also criticized Clinton, his presumptive Democratic challenger, for wanting to \"dramatically increase admissions\" of Syrian refugees into the United States."
+        ],
+        [
+            "\"We need to protect all Americans, of all backgrounds and all beliefs, from Radical Islamic Terrorism - which has no place in an open and tolerant society,\" Trump said.",
+            "\"Radical Islam advocates hate for women, gays, Jews, Christians and all Americans.",
+            "I am going to be a President for all Americans, and I am going to protect and defend all Americans.\""
+        ],
+        [
+            "In a follow-up tweet posted later Sunday, Trump reiterated his call for a ban on Muslims entering the United States -- even though the Orlando gunman was an American citizen, born in New York.",
+            "He obtained his weapons legally, despite having been investigated by the FBI several times."
+        ],
+        [
+            "Trump's campaign said he would be delivering a \"major speech\" in New Hampshire on Monday that would address \"this terrorist attack, immigration, and national security.\""
+        ]
+    ]
+}

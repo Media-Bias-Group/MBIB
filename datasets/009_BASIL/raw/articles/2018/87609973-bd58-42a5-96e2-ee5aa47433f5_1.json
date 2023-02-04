@@ -1,0 +1,53 @@
+{
+    "triplet-uuid": "87609973-bd58-42a5-96e2-ee5aa47433f5",
+    "url": "http://www.foxnews.com/politics/2018/01/02/jail-trump-slams-crooked-hillary-aide-huma-calls-on-deep-state-doj-to-act.html",
+    "keywords": "",
+    "word-count": 427,
+    "body-paragraphs": [
+        [
+            "'Jail!' Trump slams 'crooked' Hillary aide Huma, calls on 'Deep State' DOJ to act"
+        ],
+        [
+            "President Trump went after \"Crooked\" Hillary Clinton aide Huma Abedin on Tuesday, appearing to call on the \u201cDeep State\u201d Justice Department to look at potential security issues in her handling of classified material after a recent email dump."
+        ],
+        [
+            "\u201cCrooked Hillary Clinton\u2019s top aide, Huma Abedin, has been accused of disregarding basic security protocols.",
+            "She put Classified Passwords into the hands of foreign agents.",
+            "Remember sailors pictures on the submarine?",
+            "Jail!\u201d Trump tweeted early Tuesday.",
+            "\u201cDeep State Justice Dept must finally act?",
+            "Also on Comey & others.\u201d"
+        ],
+        [
+            "Trump was referring to U.S. Navy Sailor Kristian Saucier, who was put in prison for taking unauthorized photos inside a nuclear submarine.",
+            "He seemed to suggest a double standard is at play, compared with the lack of punishment for Clinton and her aides."
+        ],
+        [
+            "The president\u2019s tweet comes after the State Department, in a Friday news dump, released a batch of emails from Abedin\u2019s account that were discovered by the FBI on a laptop belonging to her estranged husband, Anthony Weiner.",
+            "At least four of the documents were marked \u201cclassified.\u201d"
+        ],
+        [
+            "Abedin also forwarded sensitive State Department emails to her personal Yahoo email account before every Yahoo account was hacked, first reported by the Daily Caller.",
+            "Abedin also sent passwords for her government laptop to her Yahoo account on Aug. 24, 2009."
+        ],
+        [
+            "In 2013, Yahoo was hacked, and the company said in a statement that \u201call Yahoo user accounts were affected\u201d by the theft."
+        ],
+        [
+            "Former FBI Director James Comey, who led the Clinton email investigation, said during a congressional hearing last year that he believed Abedin forwarded emails to Weiner for him to print out so that she could give them to Clinton."
+        ],
+        [
+            "Abedin\u2019s emails shook the 2016 presidential race, as Comey told Congress on Oct. 28, 2016, just days before the election, that the FBI had found more of Clinton\u2019s messages on Weiner\u2019s laptop as they investigated a sexting case against him."
+        ],
+        [
+            "The discovery of those records reopened the case against Clinton, several months after Comey said he wasn\u2019t recommending any charges be filed in the case.",
+            "Comey at the time said Clinton was \u201cextremely careless\u201d in her handling of classified emails on her private server."
+        ]
+    ],
+    "uuid": "a611b9f8-d0f4-46c6-a363-3c7bafeb0770",
+    "source": "fox",
+    "title": "'Jail!' Trump slams 'crooked' Hillary aide Huma, calls on 'Deep State' DOJ to act",
+    "date": "2018-01-02",
+    "main-event": "Trump Accuses Former Clinton Aide of Failing to Follow Security Protocols",
+    "main-entities": ["Donald Trump","Hillary Clinton"]
+}

@@ -1,0 +1,76 @@
+{
+    "source": "fox",
+    "main-entities": ["AARP","Barack Obama","social security"],
+    "main-event": "AARP drops its opposition to Social Security cuts",
+    "title": "AARP Pushes Back on Claim About Social Security Concessions as Lawmakers Push Reform",
+    "url": "http://www.foxnews.com/politics/2011/06/17/stage-set-for-social-security-talks-lawmakers-push-reform-aarp-reportedly-open",
+    "word-count": 655,
+    "date": "2011-06-17",
+    "uuid": "0915bc56-9392-4096-99d9-5956d24874cd",
+    "triplet-uuid": "576116e5-2b18-4d35-be73-36f5863c9468",
+    "body-paragraphs": [
+        [
+            "The AARP pushed back Friday on a report claiming the nation's most powerful seniors lobby was dropping its opposition to benefits cuts -- but at the same time acknowledged \"benefit adjustments\" would be necessary to make the system solvent."
+        ],
+        [
+            "The flurry of reports and statements left unclear whether AARP was opening up to new concessions in the debate over Social Security, as several lawmakers place reform proposals on the table."
+        ],
+        [
+            "The Wall Street Journal first reported Friday that the AARP, which opposed President George W. Bush's push to partially privatize Social Security, has decided to accept cuts -- though it would reportedly push for tax hikes to close most of the long-term Social Security shortfall."
+        ],
+        [
+            "AARP CEO Barry Rand later issued a statement calling the article \"misleading\" and claiming \"AARP has not changed its position on Social Security.\""
+        ],
+        [
+            "He said AARP remains opposed to cutting Social Security for the sake of deficit reduction and to any privatization plan.",
+            "\"We are currently fighting proposals to cut Social Security to pay the nation's bills,\" he said."
+        ],
+        [
+            "However, AARP legislative policy director David Certner told Fox News that Social Security needs a \"package of revenue and benefit adjustments ... to make it solvent.\""
+        ],
+        [
+            "While the AARP claims its position on strengthening Social Security remains unchanged, others outside the organization detected a shift."
+        ],
+        [
+            "Sen. Kay Bailey Hutchison, R-Texas, who on Thursday unveiled her own Social Security reform package, said Friday that the AARP has marked \"a huge shift in the debate on the solvency of Social Security.\""
+        ],
+        [
+            "\"AARP's new and welcome position is a positive step towards the type of reforms I've championed, and I look forward to working with the organization to shape the changes in a way that makes the least detrimental impact to present and future retirees,\" she said in a statement."
+        ],
+        [
+            "There is still plenty of space between the kind of plan Hutchison is calling for and what groups like the AARP would accept."
+        ],
+        [
+            "Hutchison's plan does not include tax hikes.",
+            "Her office claims the bill would cut deficits by $416 billion over the next decade and keep Social Security solvent by instead raising the retirement age to 69 over 16 years and cutting yearly cost-of-living adjustments by 1 percent.",
+            "Workers who are 58 and older would not be affected."
+        ],
+        [
+            "\"Those two things would keep our Social Security system solvent for 75 years with really, I think, minor pain and a big gain,\" she told Fox News on Thursday."
+        ],
+        [
+            "But the AARP has told Fox News that Hutchison's proposal is not acceptable."
+        ],
+        [
+            "Asked about the possibility of Social Security entering budget talks at some point, White House Press Secretary Jay Carney reiterated past statements in saying President Obama does not see Social Security as a \"driver\" of the country's near-term deficits."
+        ],
+        [
+            "\"The president supports measures to strengthen Social Security, but he does not support anything that would slash benefits for future generations,\" Carney said Friday."
+        ],
+        [
+            "The back-and-forth comes amid new warnings about the future of Social Security.",
+            "Trustees of the Social Security and Medicare Trust Fund last week warned the Social Security Trust Fund will be exhausted in 2036 and under current law, seniors would then face a 23 percent across-the-board cut in benefits."
+        ],
+        [
+            "But the president's budget director told Fox News that even when the trust funds run out, both Social Security and Medicare would still have some income."
+        ],
+        [
+            "\"We have a little bit of time,\" said Jack Lew, director of the Office of Management and Budget.",
+            "\"We do have a challenge, but it's not that we fall off of a cliff.\""
+        ],
+        [
+            "With AARP potentially backing off its opposition, other groups are poised to take up the fight.",
+            "A coalition of groups called Strengthen Social Security has railed against cuts to cost-of-living adjustments, recently releasing a report claiming \"even the modest COLA on which Social Security benefits are adjusted isn't safe.\""
+        ]
+    ]
+}

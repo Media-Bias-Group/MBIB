@@ -1,0 +1,78 @@
+{
+    "source": "nyt",
+    "main-entities": ["Donald Trump", "Joe Lieberman"],
+    "main-event": "Donald Trump considers Joe Lieberman for FBI Director",
+    "title": "Lieberman Is a Finalist for F.B.I. Director, Trump Says",
+    "url": "https://mobile.nytimes.com/2017/05/18/us/politics/trump-fbi-director-lieberman.html",
+    "word-count": 849,
+    "date": "2017-05-18",
+    "uuid": "3955ca2a-5289-4089-bafc-326a1a2e6bc6",
+    "triplet-uuid": "72fa9b13-4e59-4716-8df9-4c3580e7dddf",
+    "body-paragraphs": [
+        [
+            "President Trump, 24 hours from his self-imposed deadline for picking a new F.B.I. director, told reporters on Thursday that he was \u201cvery close\u201d to choosing a successor to James B. Comey, and he named Joseph I. Lieberman, the former Democratic senator and vice-presidential nominee, as a finalist."
+        ],
+        [
+            "But members of Mr. Trump\u2019s staff \u2014 alarmed by his rapid embrace of Mr. Lieberman, a charming 75-year-old political operator with no federal law enforcement experience \u2014 have quietly urged him to take more time to make such a critical hire.",
+            "By late Thursday, the president appeared increasingly likely to leave Friday for a nine-day foreign trip without picking a new director, according to three senior administration officials speaking on the condition of anonymity."
+        ],
+        [
+            "Mr. Lieberman, who served three terms in the Senate as a Democrat and one as an independent, would be an atypical choice to lead the F.B.I., whose agents prize the bureau\u2019s independence as one of Washington\u2019s few apolitical institutions.",
+            "Judges and former prosecutors, not elected officials, have frequently been chosen."
+        ],
+        [
+            "Administration officials described the search as fluid and said the president and his team were keeping the decision-making process closely held to avoid the leaks that Mr. Trump believes are endemic to the West Wing."
+        ],
+        [
+            "Still, Mr. Trump, speaking briefly with reporters in the Oval Office as he met with President Juan Manuel Santos of Colombia, offered an emphatic \u201cyes\u201d when asked whether Mr. Lieberman was among the finalists."
+        ],
+        [
+            "\u201cWe need a great director of the F.B.I. I cherish the F.B.I.",
+            "It\u2019s special,\u201d he told reporters later at a joint East Room news conference with Mr. Santos.",
+            "\u201cAll over the world, no matter where you go, the F.B.I. is special.",
+            "The F.B.I. has not had that special reputation with what happened in the campaign, what happened with respect to the Clinton campaign, and even, you could say \u2014 directly or indirectly \u2014 with respect to the much more successful Trump campaign.\u201d"
+        ],
+        [
+            "It was unclear whether the president\u2019s acknowledgment that Mr. Lieberman was a finalist was intended to stoke the \u201cApprentice\u201d-style frenzy of speculation he has favored with other high-profile picks, only to opt for a lesser-known candidate."
+        ],
+        [
+            "Mr. Trump is still seeking applicants, and some aides, along with many law enforcement officials, have suggested that he hire from within the agency to repair some of the damage to morale wrought by Mr. Comey\u2019s sudden firing.",
+            "Adam S. Lee, the well-regarded special agent in charge of the bureau\u2019s Richmond, Va., field office, was interviewed, as were Richard A. McFeely, a former senior official at the F.B.I., and Andrew G. McCabe, the acting director."
+        ],
+        [
+            "Mr. McCabe, a veteran agent who joined the bureau in 1996 and once specialized in Russian organized crime, was named deputy director in 2016.",
+            "It is not clear whether he will return to that role once Mr. Comey\u2019s replacement is confirmed."
+        ],
+        [
+            "All three men are under consideration, the administration officials said, even if Mr. Lieberman, who was Al Gore\u2019s running mate in the 2000 presidential campaign, is the front-runner."
+        ],
+        [
+            "Mr. Trump and Mr. Lieberman had good chemistry when they met privately, one White House aide said \u2014 a key ingredient for Mr. Trump in hiring people.",
+            "He is also friendly with Attorney General Jeff Sessions, a former senator, who has told Trump aides that Mr. Lieberman would most likely receive overwhelming support in the Senate."
+        ],
+        [
+            "Democrats pushed back hard on that notion, casting the conservative Mr. Lieberman as a Democrat in name only and noting that he publicly supported Mr. Trump\u2019s pick of Michael T. Flynn as his first national security adviser.",
+            "At a closed-door Democratic lunch on Thursday, Senators Sheldon Whitehouse of Rhode Island and Richard J. Durbin of Illinois urged party members to hold the line if he is selected."
+        ],
+        [
+            "But casting Mr. Lieberman as the most likely choice did have one immediate advantage: It appealed to Senator John McCain, Republican of Arizona, who had suggested this week that the firestorm over Mr. Trump\u2019s ouster of Mr. Comey was as bad as Watergate.",
+            "Mr. McCain defended Mr. Lieberman, who endorsed his 2008 run for president."
+        ],
+        [
+            "The White House remains divided, and several senior officials expressed serious doubts about Mr. Lieberman.",
+            "His age, 75, could be problematic, they said, given that F.B.I. directors serve 10-year terms.",
+            "And he is employed by one of the firms where Marc E. Kasowitz, a lawyer for Mr. Trump, works, raising the prospect of conflict-of-interest accusations."
+        ],
+        [
+            "If Mr. Trump picks Mr. Lieberman, one adviser said he might serve for a short stint \u2014 to lend his bipartisan reputation to a president badly in needed of credibility \u2014 instead of the full term.",
+            "Mr. Lieberman also has law enforcement experience as the former attorney general of Connecticut."
+        ],
+        [
+            "Others on Mr. Trump\u2019s list are former Gov. Frank Keating of Oklahoma and former Representative Mike Rogers of Michigan, both Republicans.",
+            "Mr. Rogers, a former F.B.I. agent, was endorsed by the agents\u2019 association."
+        ],
+        [
+            "Also interviewed were two other judges, Michael J. Garcia of the New York State Court of Appeals and Henry E. Hudson of Federal District Court for the Eastern District of Virginia."
+        ]
+    ]
+}

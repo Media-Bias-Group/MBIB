@@ -1,0 +1,44 @@
+{
+    "source": "hpo",
+    "main-entities": ["Donald Trump", "Roy Moore"],
+    "main-event": "White House responds to sexual misconduct allegations against Roy Moore",
+    "title": "White House Responds To Sexual Misconduct Allegations Against Roy Moore",
+    "url": "https://www.huffingtonpost.com/entry/donald-trump-roy-moore-sexual-assault_us_5a04ab12e4b0f76b05c43f87?utm_hp_ref=donald-trump",
+    "word-count": 326,
+    "date": "2017-11-10",
+    "uuid": "e927160f-3829-4de2-a46e-7dae3e3ab2a2",
+    "triplet-uuid": "be026bd1-52b1-4789-bfd3-3632af17b054",
+    "body-paragraphs": [
+        [
+            "WASHINGTON \u2015 The White House relayed President Donald Trump\u2019s response late Thursday to bombshell allegations that Alabama GOP Senate nominee Roy Moore sexually molested a 14-year-old girl in 1979."
+        ],
+        [
+            "White House press secretary Sarah Huckabee Sanders, traveling with the president on his trip to Asia, told reporters that Trump \u201cbelieves that we cannot allow a mere allegation \u2015 in this case, one from many years ago \u2015 to destroy a person\u2019s life\u201d but that if the allegations are true, \u201cJudge Moore will do the right thing and step aside.\u201d"
+        ],
+        [
+            "A spokesperson for Vice President Mike Pence said the veep \u201cfound the allegations in the story disturbing and believes, if true, this would disqualify anyone from serving in office.\u201d"
+        ],
+        [
+            "Moore\u2019s campaign denied the allegations, which The Washington Post first reported, telling the paper the accusations of four women are \u201cthe very definition of fake news.\u201d",
+            "The Post reporters talked to more than 30 sources in the course of their investigation."
+        ],
+        [
+            "On Thursday, numerous Republican lawmakers on Capitol Hill called on Moore to drop out of the race \u2015 if the allegations are true."
+        ],
+        [
+            "During his 2016 campaign, Trump dismissed allegations of sexual misconduct against himself from more than a dozen women and threatened to sue some of his accusers.",
+            "He claimed that a 2005 tape of him bragging about sexual assault, which was released last fall, was \u201clocker room talk.\u201d"
+        ],
+        [
+            "In September, Moore, a controversial judge in Alabama, won the primary for the special election.",
+            "He beat GOP establishment candidate Sen. Luther Strange (R-Ala.), who was chosen to fill the seat left vacant when Jeff Sessions became Trump\u2019s attorney general."
+        ],
+        [
+            "Trump notably backed Strange over Moore, though many members of his base, including former White House chief strategist Steve Bannon, supported Moore."
+        ],
+        [
+            "But after Moore won, Trump disavowed his endorsement of Strange, deleting tweets in support of him.",
+            "And the day after the primary, the president tweeted in support of Moore, calling him \u201ca really great guy.\u201d"
+        ]
+    ]
+}

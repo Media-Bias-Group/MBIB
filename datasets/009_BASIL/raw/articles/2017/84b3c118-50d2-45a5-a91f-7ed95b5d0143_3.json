@@ -1,0 +1,33 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Donald Trump"
+    ],
+    "main-event": "Donald Trump is inaugurated",
+    "title": "Donald Trump Sworn In As 45th President",
+    "url": "https://www.huffpost.com/entry/trump-oath-of-office_n_58823730e4b070d8cad2087f",
+    "word-count": 193,
+    "date": "2017-01-20",
+    "uuid": "98ccf4b4-3ad1-4c85-af98-559389a43515",
+    "triplet-uuid": "84b3c118-50d2-45a5-a91f-7ed95b5d0143",
+    "body-paragraphs": [
+        [
+            "WASHINGTON \u2013 Five hundred and eighty-four days after descending his Trump Tower escalator to announce his candidacy, Donald J. Trump took the oath of office Friday to become the 45th president of the United States."
+        ],
+        [
+            "Chief Justice John Roberts administered the 38-word oath at 12:00 p.m., capping Trump\u2019s unlikely journey from New York City real estate developer and reality TV star to the nation\u2019s highest office."
+        ],
+        [
+            "Trump won the Republican nomination against a crowded field of 16 other candidates, many far more experienced in politics.",
+            "But he was able to capitalize on a primary voting base that was angry at the establishment GOP for not more aggressively fighting President Barack Obama\u2019s policies."
+        ],
+        [
+            "He trailed Democratic nominee Hillary Clinton in the general election nearly the entire way.",
+            "In the final month of the race, he was helped by the near daily release of internal Democratic Party emails stolen by Russian hackers as well as by FBI Director James Comey\u2019s decision to reopen, briefly, the probe into Clinton\u2019s use of a private email server."
+        ],
+        [
+            "Trump wound up winning Wisconsin, Michigan and Pennsylvania by a total of 78,000 votes.",
+            "Clinton had counted on winning all three."
+        ]
+    ]
+}

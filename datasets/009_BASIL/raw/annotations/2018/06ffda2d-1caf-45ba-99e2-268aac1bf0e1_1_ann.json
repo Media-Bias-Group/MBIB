@@ -1,0 +1,58 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Blake_Farenthold": "neg",
+        "author_feeling_main_event": "pos",
+        "notes": "",
+        "relative_stance": "liberal",
+        "you_feeling_Blake_Farenthold": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 72,
+            "id": "p10",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Blake_Farenthold",
+            "txt": "Among other things, Greene claimed Farenthold asked her for a threesome."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 186,
+            "id": "p14",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Blake_Farenthold",
+            "txt": "Other staffers accused Farenthold of routinely commenting on the size of women\u2019s breasts and making jokes about being on \u201credhead patrol\u201d because he was attracted to women with red hair."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 228,
+            "id": "p13",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 151,
+            "target": "Blake_Farenthold",
+            "txt": "which ranged from making sexually graphic jokes to verbally abusing his aides"
+        }
+    ],
+    "triplet-uuid": "06ffda2d-1caf-45ba-99e2-268aac1bf0e1",
+    "uuid": "c7f8467e-2dca-4ad7-bb2e-52d01356510c"
+}

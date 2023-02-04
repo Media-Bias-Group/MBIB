@@ -1,0 +1,58 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Asa_Hutchinson": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Asa_Hutchinson": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 224,
+            "id": "p16",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 39,
+            "target": "Asa_Hutchinson",
+            "txt": "Hutchinson has faced pressure from the state's top employers, including retail giant Wal-Mart, which complained that the measure was discriminatory and would stifle economic development"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 160,
+            "id": "p17",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Asa_Hutchinson",
+            "txt": "Little Rock's mayor, the city's Chamber of Commerce and Arkansas-based data services company Acxiom all urged the governor to reject the measure in recent days."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 172,
+            "id": "p1",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Asa_Hutchinson",
+            "txt": "Hutchinson had initially said he planned to sign the bill but backed off as his state, overnight, became the new focal point of a nationwide backlash over such legislation."
+        }
+    ],
+    "triplet-uuid": "2742e9c1-2943-496f-8b23-faf5332e1612",
+    "uuid": "1a70c4b1-dba8-4f9a-8067-7f2293109289"
+}

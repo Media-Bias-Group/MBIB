@@ -1,0 +1,75 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Roger Stone",
+        "Robert Mueller",
+        "Donald Trump"
+    ],
+    "main-event": "Roger Stone has been indicted by Mueller",
+    "title": "Trump Associate Roger Stone Indicted In Mueller Investigation",
+    "url": "https://www.huffingtonpost.com/entry/roger-stone-indicted-mueller-investigation_us_5b928d30e4b0cf7b003f3321",
+    "word-count": 575,
+    "date": "2019-01-25",
+    "uuid": "77d6cf0e-fc7d-4aa3-9f2b-e3f8ecb3dea5",
+    "triplet-uuid": "aab91277-8d56-4844-a581-45630f873f49",
+    "body-paragraphs": [
+        [
+            "Roger Stone, an eccentric longtime Republican strategist with a tattoo of Richard Nixon\u2019s face on his back, was arrested early Friday on criminal charges that include obstruction of an official proceeding, false statements and witness tampering."
+        ],
+        [
+            "A federal grand jury impaneled by special counsel Robert Mueller charged Stone in a seven-count indictment.",
+            "FBI agents arrested him at his home in Fort Lauderdale, Florida, and he appeared in court later Friday."
+        ],
+        [
+            "CNN shared footage of FBI agents arriving at the property:"
+        ],
+        [
+            "Kristin Davis, the former Manhattan madam, reportedly told The Washington Post\u2019s Manuel Roig-Franzia that FBI agents also executed a search warrant at the New York City apartment she shared with Stone."
+        ],
+        [
+            "Stone \u2015 who worked on presidential campaigns for Nixon, Ronald Reagan, Bob Dole and others \u2015 took credit for Donald Trump\u2019s presidential run and served as an informal adviser after he left Trump\u2019s campaign in August 2015."
+        ],
+        [
+            "He repeatedly has said it was \u201ca possibility\u201d that he would be indicted in Mueller\u2019s investigation into Russian interference in the 2016 presidential election and possible Trump campaign collusion."
+        ],
+        [
+            "Stone has previously admitted to being in contact with Julian Assange of WikiLeaks during the Trump campaign."
+        ],
+        [
+            "The indictment alleges he spoke \u201cto senior Trump Campaign officials\u201d about WikiLeaks and \u201cinformation it might have had that would be damaging\u201d to the campaign of Trump\u2019s Democratic rival, Hillary Clinton, in the summer before the election."
+        ],
+        [
+            "Stone was \u201ccontacted by senior Trump Campaign officials to inquire about future releases\u201d by WikiLeaks, according to the indictment, which refers to WikiLeaks as \u201cOrganization 1.\u201d"
+        ],
+        [
+            "Stone\u2019s attorney, Grant Smith, said in a statement that \u201cthere was no Russian collusion\u201d and that the charges were \u201ca clear attempt at silencing Roger.\u201d"
+        ],
+        [
+            "After appearing in court on Friday, Stone said he plans to plead not guilty to the charges, saying he was \u201cfalsely accused\u201d and calling the investigation \u201cpolitically motivated.\u201d"
+        ],
+        [
+            "\u201cI look forward to being fully and completely vindicated,\u201d he said, while onlookers booed."
+        ],
+        [
+            "He also affirmed that he does not plan to testify against Trump, but would not say if he seeks a pardon from the president."
+        ],
+        [
+            "The July 2018 indictment of 12 Russian intelligence officers in connection with the hack of a Democratic National Committee server during the 2016 election referred to Stone as \u201ca person who was in regular contact with senior members of the presidential campaign of Donald J. Trump.\u201d"
+        ],
+        [
+            "Stone has described his contact with the Russians \u2015 who used the handle \u201cGuccifer 2.0\u201d \u2015 as \u201cbenign.\u201d",
+            "He told The Washington Post that he met with a Russian national who wanted to sell Trump damaging information on Hillary Clinton for a sum of $2 million.",
+            "The man had previously worked as an informant for the FBI, but told the Post that he was not working on the FBI\u2019s behalf when he met with Stone in May 2016."
+        ],
+        [
+            "Stone\u2019s indictment came after his associate Randy Credico, a radio show host, testified before the grand jury."
+        ],
+        [
+            "Stone, according to the indictment, \u201con multiple occasions\u201d around Dec. 1, 2017, told Credico (\u201cPerson 2\u201d) that he should \u201cdo a \u2018Frank Pentangeli\u2019\u201d in his testimony before the House Permanent Select Committee on Intelligence \u201cto avoid contradicting Stone\u2019s testimony.\u201d"
+        ],
+        [
+            "It was a reference to the \u201cFrankie Five Angels\u201d character from \u201cThe Godather: Part II,\u201d whom the indictment alleges Stone and Credico had previously discussed.",
+            "In the film, the character testifies and \u201cclaims not to know critical information that he does in fact know,\u201d the indictment recounts."
+        ]
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "source": "fox",
+    "main-entities": ["Mitt Romney", "Barack Obama"],
+    "main-event": "Romney reaffirms opposition to same sex marriage",
+    "title": "Romney reaffirms belief in marriage as between man, woman",
+    "url": "http://www.foxnews.com/politics/2012/05/09/romney-reaffirms-belief-in-marriage-as-between-man-woman/",
+    "word-count": 352,
+    "date": "2012-05-09",
+    "uuid": "eb195642-9702-4a41-8f0d-cf77c2d62f19",
+    "triplet-uuid": "8dc7ccfe-5cf0-482f-9101-a7c69881da4d",
+    "body-paragraphs": [
+        [
+            "Following President Obama's comments in a TV interview expressing his support for same-sex marriage, his likely GOP rival Mitt Romney said Wednedsay he maintains his opposition to it -- the same position he's had since he \"started running for office\""
+        ],
+        [
+            "\"I have the same view on marriage that I had when I was governor and that I expressed many times.",
+            "I believe marriage is between a man and a woman,\" he told reporters following an event at the Oklahoma Republican Party headquartersk, where he garnered the endorsement of Oklahoma Gov. Mary Fallin."
+        ],
+        [
+            "Obama made the groundbreaking news in an interview with ABC."
+        ],
+        [
+            "\"It is important for me personally to go ahead and affirm that same-sex couples should be able to get married,\" Obama stated.",
+            "He previously had said he supported equal rights for same-sex couples but stopped short of endorsing gay marriage."
+        ],
+        [
+            "When asked if he believed the president had flip-flopped on the issue, Romney said it's up to the public to be the judge."
+        ],
+        [
+            "\u201cI believe that based upon the interview that he gave today on ABC it said that he had changed his view, but you\u2019re a better judge of that than I,\" Romney said.",
+            "\"I just saw the reports that he had previously said he opposed same-sex marriage and now according to ABC News he saying that he supports it.",
+            "If that\u2019s the case then you\u2019ll be able to make that determination on your own.\""
+        ],
+        [
+            "Last year Romney had signed a pledge sponsored by the National Organization for Marriage promising to support a federal ammendment defining marriage as the union of one man and one woman.",
+            "On Wednedsay, though, he said that the rights of domestic partners should be decided by the states."
+        ],
+        [
+            "\u201cStates are able to make decisions with regards to domestic partnership benefits such as hospital visitation rights, benefits and so forth of various kinds can be determined state by state,\" Romney said."
+        ],
+        [
+            "Following Romney's news conference, Obama's campaign immediately pounced on the former governor's comments."
+        ],
+        [
+            "Ben Labolt tweeted, \"@MittRomney just refused to say he supports hospital visitation rights at a federal level for gays and lesbians.\""
+        ]
+    ]
+}

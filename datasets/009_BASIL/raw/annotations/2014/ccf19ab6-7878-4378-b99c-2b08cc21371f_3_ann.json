@@ -1,0 +1,32 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Barack_Obama": "neu",
+        "author_feeling_Kevin_McCarthy": "neu",
+        "author_feeling_Senate_Republicans": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "left",
+        "you_feeling_Barack_Obama": "neu",
+        "you_feeling_Kevin_McCarthy": "neu",
+        "you_feeling_Senate_Republicans": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 181,
+            "id": "p17",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "other_anti",
+            "start": 77,
+            "target": "Senate_Republicans",
+            "txt": "\u201cI think our Republican colleagues realize that to be blocking immigration reform is not good for them.\u201d"
+        }
+    ],
+    "triplet-uuid": "ccf19ab6-7878-4378-b99c-2b08cc21371f",
+    "uuid": "e94ea105-6d01-4573-9ae2-57df392473cd"
+}

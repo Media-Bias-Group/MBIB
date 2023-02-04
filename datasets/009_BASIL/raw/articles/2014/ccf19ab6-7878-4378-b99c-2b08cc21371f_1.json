@@ -1,0 +1,32 @@
+{
+    "source": "hpo",
+    "main-entities": ["Kevin McCarthy"],
+    "main-event": "Kevin McCarthy open to immigration reform",
+    "title": "Top House Republican Hints At Immigration Principles",
+    "url": "https://www.huffingtonpost.com/2014/01/22/kevin-mccarthy-immigration_n_4645358.html?utm_hp_ref=tw",
+    "word-count": 223,
+    "date": "2014-01-22",
+    "uuid": "9114ac9d-aad2-41fb-a0c6-6a2f6b613ba5",
+    "triplet-uuid": "ccf19ab6-7878-4378-b99c-2b08cc21371f",
+    "body-paragraphs": [
+        [
+            "House Majority Whip Kevin McCarthy (R-Calif.), a longtime target of immigration activists, said Tuesday that he would support allowing undocumented immigrants to stay in the U.S., but stopped short of calling for a path to citizenship."
+        ],
+        [
+            "Advocates are hoping for a plan that would give undocumented immigrants a chance to both remain in the country and eventually become citizens, but House Republicans have indicated that the latter is something most cannot support.",
+            "Although he's expressed openness to legal status previously, his comments could be a hint at what's to come in the House GOP's plan to soon release its own principles for immigration reform."
+        ],
+        [
+            "\"The principles aren't combined, written out yet, but in my personal belief I think it'll go with legal status that will allow you to work and pay your taxes,\" McCarthy told KBFX Eyewitnesses News.",
+            "\"But if you want to become a citizen, you'll have to go through the path.",
+            "There won't be amnesty inside it.\""
+        ],
+        [
+            "He added later, \"That's a decision that every Republican will have to make in laying out the principles, but that's my personal position.\""
+        ],
+        [
+            "McCarthy has previously been more open to immigration reform than many of his House Republican colleagues, and, as TPM notes, his district is 35 percent Latino.",
+            "Immigration activists have targeted McCarthy specifically due to his high rank in the House GOP."
+        ]
+    ]
+}

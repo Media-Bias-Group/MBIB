@@ -1,0 +1,59 @@
+{
+    "source": "hpo",
+    "main-entities": ["Hillary Clinton","Benghazi attacks"],
+    "main-event": "Clinton Benghazi Hearings Show Classified Report Could Not Determine Causes Of Attacks",
+    "title": "Clinton Benghazi Hearings Show Classified Report Could Not Determine Causes Of Attacks",
+    "url": "https://www.huffingtonpost.com/2013/01/24/clinton-benghazi-hearings_n_2542142.html",
+    "word-count": 483,
+    "date": "2013-01-24",
+    "uuid": "ae5815f3-c056-4ed0-83b7-9a5a25d86c7b",
+    "triplet-uuid": "9879bbc0-eab3-482f-bf6b-a4b519393986",
+    "body-paragraphs": [
+        [
+            "WASHINGTON -- The classified version of a State Department review of last year's assault on an American compound in Benghazi, Libya, found that it was impossible to say what exactly motivated the attackers, Secretary of State Hillary Clinton revealed Wednesday."
+        ],
+        [
+            "Speaking at a pair of hearings on Capitol Hill to examine the Obama administration's handling of and response to the attacks, Clinton repeatedly cited the classified version of the review by a State Department Accountability Review Board, distributed to lawmakers last month."
+        ],
+        [
+            "\"As the ARB makes clear, after their months of research the picture remains still somewhat complicated,\" Clinton said, during an exchange with Sen. James Risch (R-Idaho) at the Senate Foreign Relations Committee.",
+            "\"And I say that because in the unclassified ARB, it is -- I quote: 'Key questions surrounding the identity, actions and motivations of the perpetrators remain to be determined.'\""
+        ],
+        [
+            "The question of what motivated the Benghazi attacks has often been viewed as a duality: Either it was the result of a mob angry over a recently released anti-Islamic video, or it was a terrorist attack."
+        ],
+        [
+            "That the administration wavered over its public declarations of the cause of the assault -- repeatedly citing the video before eventually confirming that it was clearly an act of terrorism -- was widely interpreted among critics as evidence of a desire to suppress or conceal the truth."
+        ],
+        [
+            "But from the start, the evidence on the scene in Benghazi was more complex."
+        ],
+        [
+            "Reporters from The New York Times and Reuters who were on the ground immediately after the attacks relayed that people involved in the mob scene around the compound repeatedly cited the video as a cause of their anger."
+        ],
+        [
+            "The Times later stood by that version of events, citing it in its fact-check of Republican attacks on Obama during the presidential campaign."
+        ],
+        [
+            "The ARB, in its unclassified form, mentions that the attackers' motivation is the subject of an ongoing FBI investigation.",
+            "But the classified version, Clinton said, detailed the possible motivations for the attack, and suggested while they were pre-coordinated and deliberate, they were also opportunistic and not planned extensively."
+        ],
+        [
+            "In citing the classified report to rebuff congressional queries about the administration's handling of the crisis, Clinton was drawing on a powerful tool of her office, although discussing a classified document is sure to raise further questions."
+        ],
+        [
+            "The added complexity wasn't always satisfying to the legislators who grilled her Wednesday."
+        ],
+        [
+            "While being questioned at the House Foreign Relations Committee by Rep. Jeff Duncan (R-S.C.), Clinton urged that he read the classified ARB report to find his answers."
+        ],
+        [
+            "\"There are key questions surrounding the identity, actions and motivations of the perpetrators that remain to be determined,\" she said.",
+            "\"I recommend that every member read the classified version, which goes into greater detail that I cannot speak to here today."
+        ],
+        [
+            "To which Duncan replied: \"It was a terrorist attack.",
+            "It's pretty clear what the motivation was.\""
+        ]
+    ]
+}

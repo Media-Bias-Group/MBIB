@@ -1,0 +1,37 @@
+{
+    "source": "fox",
+    "main-entities": ["Elizabeth Lauten", "Barack Obama", "Sasha and Malia Obama"],
+    "main-event": "Elizabeth Lauten apologizes for criticizing Obama daughters",
+    "title": "Aide to GOP lawmaker apologizes for Facebook post ripping Obama daughters",
+    "url": "http://www.foxnews.com/politics/2014/11/30/aide-to-gop-lawmaker-apologizes-for-facebook-post-ripping-obama-daughters.html",
+    "word-count": 288,
+    "date": "2014-11-30",
+    "uuid": "b65549b9-fe00-43ad-a468-724d04aef134",
+    "triplet-uuid": "96b7046f-f584-422f-a626-6f86a26dfd8b",
+    "body-paragraphs": [
+        [
+            "The communications director for a Republican member of Congress had to apologize Saturday for a Facebook post critical of the first daughters during President Barack Obama's Thanksgiving address earlier this week."
+        ],
+        [
+            "Elizabeth Lauten wrote in a now-deleted Facebook post Friday that Malia and Sasha Obama, aged 16 and 13 respectively, should \"try showing a little class\" and described their outfits as more appropriate for \"a spot at the bar.\""
+        ],
+        [
+            "\"Rise to the occasion.",
+            "Dress like you deserve respect ... And certainly don\u2019t make faces during televised, public events.\" added Lauten, who works for Rep. Stephen Fincher, R-Tenn.",
+            "The communications pro also took a shot at President Obama and the first lady, writing \"your mother and father don\u2019t respect their positions very much, or the nation for that matter, so I\u2019m guessing you\u2019re coming up a little short in the 'good role model' department.\u201d"
+        ],
+        [
+            "The girls accompanied their daughter to Wednesday's ceremony, in which he pardoned two turkeys named Mac and Cheese.",
+            "The tradition of Thanksgiving turkeys being presented to the president dates back to 1947, with the turkey pardon being permanently instituted in 1989."
+        ],
+        [
+            "Lauten later apologized for her original post, writing \"I quickly judged the two young ladies in a way that I would never have wanted to be judged myself as a teenager.",
+            "After many hours of prayer, talking to my parents, and re-reading my words online I can see more clearly just how hurtful my words were. ...",
+            "I pledge to learn and grow (and I assure you I have) from this experience.\""
+        ],
+        [
+            "The Washington Post reported that Lauten had confirmed that she had made both Facebook postings attributed to her.",
+            "Neither the White House nor Fincher made any public comment about the issue Saturday."
+        ]
+    ]
+}

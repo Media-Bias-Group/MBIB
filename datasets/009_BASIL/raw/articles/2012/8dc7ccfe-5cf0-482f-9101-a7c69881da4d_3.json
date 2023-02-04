@@ -1,0 +1,47 @@
+{
+    "source": "hpo",
+    "main-entities": ["Mitt Romney", "Barack Obama"],
+    "main-event": "Romney reaffirms opposition to same sex marriage",
+    "title": "Romney: My 'Preference' Is Marriage Between A Man And A Woman",
+    "url": "https://www.huffingtonpost.com/2012/05/09/mitt-romney-same-sex-marriage-man-woman_n_1504177.html",
+    "word-count": 396,
+    "date": "2012-05-09",
+    "uuid": "d5c8102a-ac43-4c17-ab3b-e84b9dcd5382",
+    "triplet-uuid": "8dc7ccfe-5cf0-482f-9101-a7c69881da4d",
+    "body-paragraphs": [
+        [
+            "Republican presidential candidate Mitt Romney on Wednesday reiterated that he opposes same-sex marriage, a few hours after President Barack Obama said for the first time he supports it."
+        ],
+        [
+            "\"My view is that marriage itself is a relationship between a man and a woman and that's my own preference,\" Romney told reporters in Oklahoma.",
+            "\"I know other people have differing views.",
+            "This is a very tender and sensitive topic, as are many social issues, but I have the same view that I've had since running for office.\""
+        ],
+        [
+            "Obama came out in support of same-sex marriage on Wednesday in an interview with ABC.",
+            "The announcement prompted a flurry of responses, from Democrats praising his statements to Republicans decrying them."
+        ],
+        [
+            "Romney said he supports states' rights to make decisions on domestic partnership benefits, including hospital visitation.",
+            "Obama, while saying he personally supports same-sex marriage, also said the issue should be left to the states to decide."
+        ],
+        [
+            "Romney's comments were far more measured than some other Republicans, who have openly accused the president of disrespecting religion and using the issue for political gain.",
+            "Former GOP candidate Rick Santorum, for example, put out a statement shortly after Romney's remarks that claimed Obama \"has consistently fought against protecting the institution of marriage from radical social engineering at both the state and federal level.\""
+        ],
+        [
+            "When asked whether Obama flip-flopped on same-sex marriage -- an accusation Romney has some experience with -- the presumptive Republican presidential nominee acknowledged the president's change, but said he'd leave the significance for others to decide."
+        ],
+        [
+            "\u201cI believe that, based upon the interview he gave today on ABC, it said that he had changed his view, but you\u2019re a better judge of that than I am,\" Romney said.",
+            "\u201cI just saw the reports that he had previously said he opposed same sex marriage and now, according to ABC News, he said that he supports it.",
+            "So if that\u2019s the case you\u2019ll have to make that determination on your own.\""
+        ],
+        [
+            "Romney told a local Denver TV station earlier on Wednesday that he opposes both same-sex marriage and civil unions."
+        ],
+        [
+            "\"Well, when these issues were raised in my state of Massachusetts, I indicated my view, which is I do not favor marriage between people of the same gender, and I do not favor civil unions if they are identical to marriage other than by name,\" Romney told Denver Fox affiliate KDVR-TV."
+        ]
+    ]
+}

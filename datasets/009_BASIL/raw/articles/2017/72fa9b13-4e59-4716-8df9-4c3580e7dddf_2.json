@@ -1,0 +1,46 @@
+{
+    "source": "fox",
+    "main-entities": ["Donald Trump", "Joe Lieberman"],
+    "main-event": "Donald Trump considers Joe Lieberman for FBI Director",
+    "title": "Joe Lieberman emerges as Trump's top choice for FBI director",
+    "url": "http://www.foxnews.com/politics/2017/05/18/joe-lieberman-emerges-as-trumps-top-choice-for-fbi-director.print.html",
+    "word-count": 335,
+    "date": "2017-05-18",
+    "uuid": "a82174d9-e45b-4958-b4c6-545ae992de7c",
+    "triplet-uuid": "72fa9b13-4e59-4716-8df9-4c3580e7dddf",
+    "body-paragraphs": [
+        [
+            "President Trump said Thursday he is \u201cvery close\u201d to naming a new FBI director to replace James Comey, and his leading contender is former Democratic Sen. Joe Lieberman."
+        ],
+        [
+            "Lieberman, 75, who served in the Senate from 1989-2013, first as a Democrat and then as an independent, met with Trump at the White House on Wednesday afternoon to discuss leading the law enforcement agency.",
+            "A late and somewhat unlikely addition to Trump's short list, Lieberman is nonetheless the sudden frontrunner."
+        ],
+        [
+            "When asked point-blank by a reporter in the Oval Office Thursday if Lieberman was the leading contender, Trump replied, \"Yes.\""
+        ],
+        [
+            "Trump also met Wednesday with current acting FBI Director Andrew McCabe, former Oklahoma Gov. Frank Keating and FBI official Richard McFeely."
+        ],
+        [
+            "Lieberman\u2019s law enforcement experience stems from his two-term tenure as Connecticut\u2019s attorney general, spanning from 1983 until his resignation in 1989 when he was elected to the U.S. Senate."
+        ],
+        [
+            "Lieberman, who ran as vice president on Al Gore's 2000 ticket, became an independent after losing the Democratic primary in 2006.",
+            "He won re-election, and two years later further angered Democrats when he endorsed John McCain for president against eventual winner Barack Obama, even speaking at the Republican National Convention."
+        ],
+        [
+            "Lieberman told Fox Business Network last year that he \u201cnever changed parties\u201d and in fact ended up endorsing Hillary Clinton in the 2016 presidential campaign against Trump."
+        ],
+        [
+            "Some Republican senators called the idea of Lieberman replacing Comey \u201cintriguing,\u201d but Sen. Claire McCaskill, D-Mo., said it was a \u201cmistake\u201d to nominate him."
+        ],
+        [
+            "\"Lieberman is probably the only person who can get 100 votes in the Senate,\" Senate Majority Whip John Cornyn, R-Texas, said on Capitol Hill on Thursday after the closed Senate briefing with Deputy Attorney General Rod Rosenstein.",
+            "Cornyn was on the White House's shortlist to replace Comey, but withdrew himself from consideration this week."
+        ],
+        [
+            "On Thursday morning on the Senate floor, Senate Minority Leader Chuck Schumer, D-N.Y., argued against a \u201ccareer politician\u201d of either party to lead the FBI, though he did not name Lieberman."
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "source": "hpo",
+    "main-entities": ["Michael Bloomberg", "Donald Trump"],
+    "main-event": "Bloomberg criticizes Trump at DNC",
+    "title": "Clinton Is 'Sane' And 'Competent,' Unlike Trump, Bloomberg Tells U.S.",
+    "url": "https://www.huffingtonpost.com/entry/trump-business-michael-bloomberg-dnc_us_579957a2e4b0d3568f85fbb7",
+    "word-count": 487,
+    "date": "2016-07-27",
+    "uuid": "9889aa14-9681-46c9-92af-36fb1bf108b1",
+    "triplet-uuid": "472158a1-4e39-4214-8397-904e66f2b4c5",
+    "body-paragraphs": [
+        [
+            "PHILADELPHIA \u2015 Americans should vote for Hillary Clinton because, unlike Republican nominee Donald Trump, she is a \u201csane, competent person,\u201d Michael Bloomberg, the former New York mayor and founder of the Bloomberg financial news and information empire, said at the Democratic National Convention Wednesday."
+        ],
+        [
+            "The line was an unscripted addition to a speech in which Bloomberg criticized Democrats, but argued that Trump was a \u201cdangerous demagogue\u201d and a bad businessman who would be a disastrous president.",
+            "\u201cI\u2019m a New Yorker,\u201d he said, \u201cand New Yorkers know a con when we see one.\u201d"
+        ],
+        [
+            "The billionaire ex-Republican, who has endorsed Democratic presidential nominee Hillary Clinton, made the case that Trump\u2019s career is characterized by a litany of collapses and missteps, and that the Republican presidential nominee\u2019s boasts don\u2019t match reality.",
+            "Americans who want a great businessperson in the White House should look for someone who isn\u2019t Trump, Bloomberg said."
+        ],
+        [
+            "\u201cThroughout his career, Trump has left behind a well-documented record of bankruptcies, thousands of lawsuits, angry stockholders and contractors who feel cheated and disillusioned customers who feel ripped off,\u201d Bloomberg said.",
+            "\u201cTrump says he wants to run the nation like he\u2019s running his business? God help us."
+        ],
+        [
+            "Bloomberg\u2019s scathing speech seemed designed to chafe Trump\u2019s rawest nerves, mocking Trump\u2019s business prowess, his inheritance from his late father, his ego and his intellect."
+        ],
+        [
+            "\u201cTruth be told, the richest thing about Donald Trump is his hypocrisy,\u201d Bloomberg said.",
+            "Trump claims great wealth, but won\u2019t disclose his real net worth and refuses to release his tax returns.",
+            "The real-estate developer also reacts defensively when his success is questioned."
+        ],
+        [
+            "Bloomberg \u2015 who rivals Trump in unwavering self-assurance \u2015 favorably compared his own achievements in business and politics with Trump\u2019s."
+        ],
+        [
+            "\u201cWe\u2019ve heard a lot of talk in this campaign about needing a leader who understands business.",
+            "I couldn\u2019t agree more.",
+            "I\u2019ve built a business \u2015 and I didn\u2019t start it with a million-dollar check from my father,\u201d Bloomberg said.",
+            "\u201cBecause of my success in the private sector, I had the chance to run America\u2019s largest city for 12 years.\u201d"
+        ],
+        [
+            "Bloomberg weighed an independent bid for president this year because he objected to both Trump and Sen. Bernie Sanders (I-Vt.), Clinton\u2019s primary challenger.",
+            "Bloomberg was a vocal critic of the Republican candidate \u2015 his former friend \u2015 long before backing Clinton\u2019s White House run."
+        ],
+        [
+            "The financial industry tycoon ridiculed Trump\u2019s statements on immigration, national security, foreign trade, and his use of overseas labor.",
+            "And Bloomberg made dire predictions about the damage a Trump presidency would wreak on virtually every aspect of American life."
+        ],
+        [
+            "\u201cI understand the appeal of a businessman president,\u201d Bloomberg said.",
+            "\u201cBut Trump\u2019s business plan is a disaster in the making.",
+            "He would make it harder for small businesses to compete, do great damage to our economy, threaten the retirement savings of millions of Americans, lead to greater debt and more unemployment, erode our influence around the world and make our communities less safe.\u201d"
+        ]
+    ]
+}

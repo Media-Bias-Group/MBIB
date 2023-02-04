@@ -1,0 +1,103 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Donald_Trump": "neg",
+        "author_feeling_main_event": "neg",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Donald_Trump": "neu"
+    },
+    "pair-uuid": "97566c74-e000-49fb-b091-e6ec6e179de0",
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 154,
+            "id": "p2",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 147,
+            "target": "Donald_Trump",
+            "txt": "threats"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 195,
+            "id": "p6",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 72,
+            "target": "Donald_Trump",
+            "txt": "Mr. Trump has flirted with running for president several times since the 1980s but has always decided not to follow through"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 170,
+            "id": "p10",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 112,
+            "target": "Donald_Trump",
+            "txt": "Mr. Trump\u2019s self-proclaimed status as Republican kingmaker"
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 54,
+            "id": "p11",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 31,
+            "target": "Donald_Trump",
+            "txt": "exclamation-point laden"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 82,
+            "id": "p1",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Donald_Trump",
+            "txt": "In fact, Republicans may have gotten more than they bargained for by shunning him."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 193,
+            "id": "p5",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 109,
+            "target": "Donald_Trump",
+            "txt": "while openly saying that he might still run if he was displeased with the candidates"
+        }
+    ],
+    "uuid": "9e1c1946-d568-4435-a7fe-20df1bbf3618"
+}

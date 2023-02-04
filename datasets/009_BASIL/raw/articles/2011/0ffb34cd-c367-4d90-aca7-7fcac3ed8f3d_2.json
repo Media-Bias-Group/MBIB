@@ -1,0 +1,44 @@
+{
+    "source": "hpo",
+    "main-entities": ["Joe Arpaio", "Rick Perry"],
+    "main-event": "Joe Arpaio officially endorses Texas Governor Rick Perry after the candidate was criticized for his immigration platform",
+    "title": "'America's Toughest Sheriff' Endorses Rick Perry",
+    "url": "http://www.huffingtonpost.com/2011/11/29/arizona-sheriff-joe-arpaio-rick-perry_n_1118565.html",
+    "word-count": 414,
+    "date": "2011-11-29",
+    "uuid": "0a8a693b-41fa-4895-bbb5-d4521646eb72",
+    "triplet-uuid": "0ffb34cd-c367-4d90-aca7-7fcac3ed8f3d",
+    "body-paragraphs": [
+        [
+            "Controversial Arizona Sheriff Joe Arpaio announced on Tuesday he will officially endorse Texas Governor Rick Perry for the Republican presidential nomination, which could give Perry something of a credibility boost on immigration and border issues."
+        ],
+        [
+            "Arpaio is a hardliner on immigration, leading a push in Maricopa County for more enforcement.",
+            "He is famous for pushing worksite raids and creating a \"Tent City,\" a military-style holding ground for inmates, now in its eighteenth year."
+        ],
+        [
+            "His endorsement of Perry comes after the candidate was criticized for his immigration platform, which rests on the idea that deportation of all 11 million undocumented immigrants in the country is impractical and unlikely.",
+            "Perry also opposes a full border fence, although he calls for more enforcement along the southwest border with Mexico."
+        ],
+        [
+            "\"The federal government has failed on border crime and border enforcement, and no candidate for president has done more to secure the border than Governor Rick Perry,\" Arpaio said in a statement.",
+            "\"I have been watching Governor Perry and Texas closely and know his border surge operations with state, local and federal law enforcement officials have helped shut down the illegal trafficking of weapons, drugs and people.",
+            "I'm endorsing Rick Perry because we need a tough-on-crime president who will champion and fund full-time border security operations from Brownsville to San Diego.",
+            "Governor Perry has a superior border security record and plan to make our border and our nation safer.\""
+        ],
+        [
+            "Perry said in a statement that if elected president, he would \"secure the border within a year.\"",
+            "As Texas governor, he directed funds to enforcement along the border and requested more National Guard troops from President Barack Obama."
+        ],
+        [
+            "\"Sheriff Arpaio knows the struggle border states face as Washington politicians and bureaucrats fail time and again to properly secure our nation's southern boundary with Mexico,\" Perry said in a statement.",
+            "\"I am honored to have Sheriff Arpaio's support for my presidential campaign and our shared goals of fighting border crime with more personnel, border fencing and surveillance.",
+            "A secure border is vital to protecting America's national security, public safety and jobs.",
+            "As president, I will secure the border within a year putting thousands more federal boots on the ground, strategic fencing and aerial resources to fight border crime and make our states and nation safer.\""
+        ],
+        [
+            "Arpaio endorsed Mitt Romney in 2008, choosing him over eventual nominee and fellow Arizonan John McCain.",
+            "He held a joint press conference with Herman Cain in October after the two met to discuss immigration enforcement."
+        ]
+    ]
+}

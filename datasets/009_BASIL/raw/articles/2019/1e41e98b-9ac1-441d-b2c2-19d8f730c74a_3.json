@@ -1,0 +1,55 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Donald Trump"
+    ],
+    "main-event": "Trump reopens government after shutdown",
+    "title": "Trump Caves To Democrats, Agrees To Reopen Government Short-Term Without Border Wall",
+    "url": "https://www.huffingtonpost.com/entry/trump-government-shutdown-reopen-deal_us_5c4b4dd6e4b0e1872d436a2c",
+    "word-count": 394,
+    "date": "2019-01-25",
+    "uuid": "08fc7de9-337f-40a8-a126-a65398b01eb2",
+    "triplet-uuid": "1e41e98b-9ac1-441d-b2c2-19d8f730c74a",
+    "body-paragraphs": [
+        [
+            "President Donald Trump announced Friday a short-term plan that will reopen the government for three weeks so that border security negotiations may continue without the devastating effects of the partial government shutdown."
+        ],
+        [
+            "Trump said he\u2019s prepared to sign a bill to open the government through Feb. 15.",
+            "Federal employees will get back pay \u201cvery quickly or as soon as possible,\u201d he said.",
+            "Shortly after the announcement, the Senate and House both passed a resolution to reopen the government through that date."
+        ],
+        [
+            "The announcement comes on the 35th day of the longest shutdown in United States history and is a clear cave by Trump, whose impasse over the budget stems from his demands for $5.7 billion in funds for his long-promised wall along the U.S.-Mexico border \u2015 a project Democratic lawmakers say is a firm deal-breaker."
+        ],
+        [
+            "If funding for his border wall is not secured by the end of the negotiation period, Trump said he is prepared to shut down the government again or issue a national emergency declaration in order to get funding \u2015 a plan that would strip funding from disaster recovery efforts."
+        ],
+        [
+            "Throughout the shutdown, Trump\u2019s reputation has suffered across parties as airports have grappled with severe delays and federal workers have gone without paychecks, putting many at risk of losing their homes, defaulting on loans and missing other crucial payments."
+        ],
+        [
+            "Trump\u2019s statement comes a day after the Senate failed to pass his proposal to reopen the government with border wall funding in exchange for temporary legal protection for some undocumented immigrants."
+        ],
+        [
+            "House Speaker Nancy Pelosi (D-Calif.) was in the middle of a roundtable with Capitol Hill reporters when reports began surfacing of Trump\u2019s support for a short-term government funding bill.",
+            "She was mum on whether she considered his proposal a final deal."
+        ],
+        [
+            "\u201cWe\u2019re going in that direction but we\u2019re not to that place,\u201d said Pelosi.",
+            "\u201cI\u2019m hopeful.\u201d"
+        ],
+        [
+            "Senate Minority Leader Chuck Schumer (D-N.Y.) spoke on the Senate floor shortly after Trump\u2019s announcement, congratulating lawmakers on the development."
+        ],
+        [
+            "\u201cThe solution to this impasse was to separate funding the government from our disagreements over border security,\u201d Schumer said, adding that \u201cwe can never hold American workers hostage again.\u201d"
+        ],
+        [
+            "Trump spent most of his speech on Friday rehashing his usual talking points about crime at the border."
+        ],
+        [
+            "\u201cWe really have no choice but to build a powerful wall or a steel barrier,\u201d he said."
+        ]
+    ]
+}

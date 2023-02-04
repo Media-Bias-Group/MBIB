@@ -1,0 +1,90 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Donald_Trump": "pos",
+        "author_feeling_Hillary_Clinton": "neg",
+        "author_feeling_main_event": "pos",
+        "notes": "",
+        "relative_stance": "conservative",
+        "you_feeling_Donald_Trump": "neu",
+        "you_feeling_Hillary_Clinton": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 36,
+            "id": "p1",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 27,
+            "target": "Hillary_Clinton",
+            "txt": "\"Crooked\""
+        },
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 8,
+            "id": "p2",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "Donald_Trump",
+            "start": 1,
+            "target": "Hillary_Clinton",
+            "txt": "Crooked"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 115,
+            "id": "p18",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Hillary_Clinton",
+            "txt": "Comey at the time said Clinton was \u201cextremely careless\u201d in her handling of classified emails on her private server."
+        },
+        {
+            "aim": "ind_pro",
+            "bias": "lex",
+            "end": 5,
+            "id": "p5",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "Huma Abedin",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "Donald_Trump",
+            "start": 0,
+            "target": "Hillary_Clinton",
+            "txt": "Jail!"
+        },
+        {
+            "aim": "ind_pro",
+            "bias": "inf",
+            "end": 56,
+            "id": "p11",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "Huma Abedin",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Hillary_Clinton",
+            "txt": "At least four of the documents were marked \u201cclassified.\u201d"
+        }
+    ],
+    "triplet-uuid": "87609973-bd58-42a5-96e2-ee5aa47433f5",
+    "uuid": "a611b9f8-d0f4-46c6-a363-3c7bafeb0770"
+}

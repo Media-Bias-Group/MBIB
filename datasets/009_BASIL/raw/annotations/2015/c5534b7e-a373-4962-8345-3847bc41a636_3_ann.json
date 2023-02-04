@@ -1,0 +1,60 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Hillary_Clinton": "neu",
+        "author_feeling_Trey_Gowdy": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "left",
+        "you_feeling_Hillary_Clinton": "neu",
+        "you_feeling_Trey_Gowdy": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 86,
+            "id": "p12",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Hillary_Clinton",
+            "txt": "She admitted that \u201clooking back,\u201d it would have been better to carry the second phone."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 170,
+            "id": "p10",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Hillary_Clinton",
+            "txt": "Gowdy went on to call Clinton\u2019s email situation \u201chighly unusual, if not unprecedented,\u201d and said it \u201cexacerbates\u201d lawmakers\u2019 needs to \u201cunderstand what the Secretary did.\u201d"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 185,
+            "id": "p11",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "Hillary_Clinton",
+            "start": 77,
+            "target": "Hillary_Clinton",
+            "txt": "\u201cthought it would be easier to carry just one device for my work and for my personal emails instead of two.\u201d"
+        }
+    ],
+    "triplet-uuid": "c5534b7e-a373-4962-8345-3847bc41a636",
+    "uuid": "61809002-229a-45a6-a258-b18490579bc3"
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "ea48f3f5-b83d-44f0-bfcd-dcc267262604",
+    "main-event": "Flynn pleaded guilty",
+    "main-entities": [
+        "Michael Flynn",
+        "Donald Trump"
+    ],
+    "title": "F.B.I. 'Destroyed' Flynn’s Life for Lying, Trump Says, but 'Nothing Happened' to Clinton",
+    "triplet-uuid": "0c78e748-efbf-417c-a8c1-beeb6480147f",
+    "body-paragraphs": [
+        [
+            "WASHINGTON — President Trump on Monday said the F.B.I. ruined the life of his former national security adviser and said his Democratic opponent for president, Hillary Clinton, suffered no consequences after she lied \u201cmany times\u201d to the F.B.I."
+        ],
+        [
+            "Michael T. Flynn, Mr. Trump\u2019s first national security adviser, pleaded guilty on Friday to lying to the F.B.I. when he was questioned early this year about his conversations with the Russian ambassador.",
+            "He was the fourth person charged in the investigation of Robert S. Mueller III, the special counsel appointed to lead an inquiry into Russia\u2019s influence on the 2016 election and possible ties to Trump associates."
+        ],
+        [
+            "As he left for Utah on Monday, the president said he felt \u201cvery badly\u201d for Mr. Flynn, whom he fired in February for lying to the vice president about the content of these conversations."
+        ],
+        [
+            "Mr. Trump\u2019s comments Monday on Mr. Flynn come at a time when the special counsel investigation is focusing intensely on the president\u2019s inner circle.",
+            "Mr. Trump once encouraged Mr. Flynn to seek an immunity deal.",
+            "Presidents typically do not weigh in on federal investigations to avoid appearing to influence the outcome."
+        ],
+        [
+            "\u201cI feel badly for General Flynn,\u201d Mr. Trump said on Monday. \u201cI feel very badly.",
+            "He\u2019s led a very strong life and I feel very badly.",
+            "Hillary Clinton lied many times to the F.B.I. Nothing happened to her.",
+            "Flynn lied and they destroyed his life.\u201d"
+        ],
+        [
+            "Mr. Trump did not cite specifically what Mrs. Clinton said that he considered a lie."
+        ],
+        [
+            "Mrs. Clinton gave a voluntary interview to the bureau in July 2016 during its investigation into whether she or her aides broke the law by corresponding through a private email server set up for her use as secretary of state.",
+            "A few days later, the F.B.I. director at the time, James B. Comey, recommended no charges be filed against her in the matter."
+        ]
+    ],
+    "source": "nyt",
+    "url": "https://www.nytimes.com/2017/12/04/us/politics/fbi-michael-flynn-trump.html",
+    "date": "2017-12-04"
+}

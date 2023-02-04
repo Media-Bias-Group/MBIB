@@ -1,0 +1,78 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "BuzzFeed",
+        "Robert Mueller",
+        "Donald Trump",
+        "Michael Cohen"
+    ],
+    "main-event": "Mueller\u2019s office disputes BuzzFeed report",
+    "title": "Mueller Disputes BuzzFeed Report That Trump Told Michael Cohen To Lie To Congress",
+    "url": "https://www.huffingtonpost.com/entry/mueller-denial-buzzfeed-trump-cohen_us_5c427385e4b027c3bbc1d076",
+    "word-count": 584,
+    "date": "2019-01-18",
+    "uuid": "1de08e6e-55b4-4b5b-892b-69a8ff5aa881",
+    "triplet-uuid": "c9e4d35f-aeae-462b-a8bf-e08d09a93b6e",
+    "body-paragraphs": [
+        [
+            "In a rare statement issued Friday night, special counsel Robert Mueller\u2019s team disputed BuzzFeed\u2019s explosive report Thursday that said President Donald Trump directed attorney Michael Cohen to lie to Congress."
+        ],
+        [
+            "Peter Carr, a spokesman for the special counsel, told BuzzFeed that its \u201cdescription\u201d of statements to Mueller\u2019s office, as well as the \u201ccharacterization\u201d of documents and testimony the office obtained, was inaccurate."
+        ],
+        [
+            "\u201cBuzzFeed\u2019s description of specific statements to the Special Counsel\u2019s Office, and characterization of documents and testimony obtained by this office, regarding Michael Cohen\u2019s Congressional testimony are not accurate,\u201d Carr told BuzzFeed."
+        ],
+        [
+            "The special counsel\u2019s statement adds more confusion over what Mueller\u2019s team knows in its ongoing investigation into President Donald Trump\u2019s ties to Russia."
+        ],
+        [
+            "Citing two federal law enforcement officials involved in the investigation, BuzzFeed\u2019s Thursday night report claimed that Trump directed Cohen to lie about negotiations over a Trump Tower in Moscow."
+        ],
+        [
+            "Mueller\u2019s office, the report said, learned of Trump\u2019s orders to Cohen \u201cthrough interviews with multiple witnesses from the Trump Organization and internal company emails, text messages, and a cache of other documents.\u201d"
+        ],
+        [
+            "According to BuzzFeed, \u201cCohen then acknowledged those instructions during his interviews with that office.\u201d"
+        ],
+        [
+            "Responding to the statement from Mueller\u2019s office on their report, BuzzFeed Editor-in-Chief Ben Smith said it stands by its reporting and asked the special counsel\u2019s office to clarify its statement."
+        ],
+        [
+            "\u201cWe stand by our reporting and the sources who informed it, and we urge the Special Counsel to make clear what he\u2019s disputing,\u201d Smith tweeted."
+        ],
+        [
+            "In a follow-up statement on Saturday, a BuzzFeed spokesman told The New York Times that the news site had \u201cre-confirmed\u201d its reporting and seen \u201cno indication that any specific aspect of our story is inaccurate.\u201d"
+        ],
+        [
+            "The special counsel\u2019s statement Friday homed in on the statements, documents and testimony that was obtained by Mueller, but it did not directly dispute that Trump had directed Cohen to lie to Congress, nor did it make mention of the Trump Tower deal in Moscow."
+        ],
+        [
+            "BuzzFeed\u2019s original reporting sent Democrats on Capitol Hill into a furor as it suggested that Trump may have obstructed justice, thus providing grounds for impeachment or criminal charges.",
+            "Some top Democrats called on Mueller to release what his team knows about Trump\u2019s Moscow deal as a matter of public duty."
+        ],
+        [
+            "In a strong statement issued Friday night, Sen. Dianne Feinstein joined a chorus of her Democratic colleagues in threatening serious action, including impeachment, against Trump if the allegations proved true.",
+            "Feinstein is a ranking member of the Senate Judiciary Committee."
+        ],
+        [
+            "\u201cWe\u2019ve previously known about attempts to develop Trump Tower Moscow and the misrepresentations surrounding those efforts,\u201d Feinstein said."
+        ],
+        [
+            "\u201cNow, media reports say President Trump directed Michael Cohen to lie to Congress about that business deal,\u201d Feinstein continued.",
+            "\u201cIf true, the president committed a crime and must be held accountable.\u201d"
+        ],
+        [
+            "Earlier Friday, chairman of the House Intelligence Committee Rep. Adam Schiff (D-Calif.) revealed that his committee had already begun searching for witnesses and documents to confirm BuzzFeed\u2019s report. "
+        ],
+        [
+            "\u201cOur committee is already working to secure additional witness testimony and documents related to the Trump Tower Moscow deal and other investigative matters,\u201d Schiff said."
+        ],
+        [
+            "\u201cAs a counterintelligence concern of the greatest magnitude, and given that these alleged efforts were intended to interfere with our investigation, our Committee is determined to get to the bottom of this and follow the evidence wherever it may lead,\u201d he added."
+        ],
+        [
+            "Trump has maintained he is innocent and on Friday accused Cohen of lying to the special counsel in order to reduce his jail time."
+        ]
+    ]
+}

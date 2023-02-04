@@ -1,0 +1,30 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Hillary_Clinton": "neu",
+        "author_feeling_Trey_Gowdy": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Hillary_Clinton": "neu",
+        "you_feeling_Trey_Gowdy": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 111,
+            "id": "p4",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 30,
+            "target": "Hillary_Clinton",
+            "txt": "she had \u201cunilaterally decided\u201d to wipe it clean and permanently delete all emails"
+        }
+    ],
+    "triplet-uuid": "c5534b7e-a373-4962-8345-3847bc41a636",
+    "uuid": "747b0b60-79b6-4de3-9226-d532fa59c385"
+}

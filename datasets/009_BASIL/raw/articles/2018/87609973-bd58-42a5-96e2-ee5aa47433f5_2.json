@@ -1,0 +1,50 @@
+{
+    "keywords": "",
+    "word-count": 429,
+    "date": "2018-01-02",
+    "uuid": "2eb35726-5228-4b2b-bf07-4710316916f2",
+    "body-paragraphs": [
+        [
+            "Trump Accuses Former Clinton Aide of Failing to Follow Security Protocols"
+        ],
+        [
+            "WASHINGTON \u2014 President Trump made his first \u201cCrooked Hillary\u201d Twitter post less than 48 hours into the new year on Tuesday, accusing a former Clinton aide of \u201cdisregarding basic security protocols,\u201d and calling his own Justice Department a \u201cdeep state.\u201d"
+        ],
+        [
+            "Attacking Hillary Clinton, his former Democratic opponent from the 2016 presidential election, and taking aim at his own Justice Department struck familiar tones for the new year.",
+            "Almost 14 months after the election, Mr. Trump has kept up a regular drumbeat of attacks on Mrs. Clinton.",
+            "Last year, Mr. Trump also criticized the Justice Department and Attorney General Jeff Sessions for not pursuing investigations of his political opponents."
+        ],
+        [
+            "The Twitter post on Tuesday morning followed an article in The Daily Caller, a conservative publication that Mr. Trump closely monitors.",
+            "The article said the aide, Huma Abedin, forwarded some government passwords to her private Yahoo email account in 2009, when Mrs. Clinton was secretary of state.",
+            "Yahoo was hacked in 2013, which affected all three billion of its accounts.",
+            "After the breach, the data was offered for sale by a hacking collective based in Eastern Europe.",
+            "Mr. Trump also implored his administration to investigate Ms. Abedin."
+        ],
+        [
+            "The term \u201cdeep state\u201d typically refers to a shadow government of agency officials who secretly plot to influence policy; they are usually associated with countries that have authoritarian elements that undercut democratically elected leaders."
+        ],
+        [
+            "On Friday, the State Department released about 3,000 of Ms. Abedin\u2019s work-related emails.",
+            "The emails were found on the laptop of Ms. Abedin\u2019s now estranged husband, Anthony D. Weiner, and were released as part of a public records request."
+        ],
+        [
+            "The emails found on Mr. Weiner\u2019s computer are a sore spot for Mrs. Clinton.",
+            "James B. Comey, the former F.B.I. director, had notified Congress shortly before the 2016 election about the existence of newly discovered emails that could be relevant to the closed investigation into Mrs. Clinton\u2019s use of a private email server while secretary of state."
+        ],
+        [
+            "Mrs. Clinton, in a book released last year, said Mr. Comey\u2019s disclosure hurt her campaign\u2019s momentum and helped Mr. Trump win the election."
+        ],
+        [
+            "In his Twitter post, Mr. Trump also referred to the case of a Navy sailor who was jailed for taking pictures inside a military submarine.",
+            "According to a report in Fox News, the sailor had hoped to receive a pardon from the president, but has not."
+        ]
+    ],
+    "triplet-uuid": "87609973-bd58-42a5-96e2-ee5aa47433f5",
+    "title": "Trump Accuses Former Clinton Aide of Failing to Follow Security Protocols",
+    "source": "nyt",
+    "url": "https://www.nytimes.com/2018/01/02/us/politics/trump-clinton-aide-huma-abedin.html",
+    "main-event": "Trump Accuses Former Clinton Aide of Failing to Follow Security Protocols",
+    "main-entities": ["Donald Trump", "Hillary Clinton"]
+}

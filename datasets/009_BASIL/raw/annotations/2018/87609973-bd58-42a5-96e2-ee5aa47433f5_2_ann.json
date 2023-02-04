@@ -1,0 +1,60 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Donald_Trump": "neg",
+        "author_feeling_Hillary_Clinton": "neu",
+        "author_feeling_main_event": "neg",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Donald_Trump": "neu",
+        "you_feeling_Hillary_Clinton": "sli-pos"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 218,
+            "id": "p1",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 211,
+            "target": "Donald_Trump",
+            "txt": "his own"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 75,
+            "id": "p13",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Hillary_Clinton",
+            "txt": "The emails found on Mr. Weiner\u2019s computer are a sore spot for Mrs. Clinton."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 104,
+            "id": "p3",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 37,
+            "target": "Donald_Trump",
+            "txt": "Mr. Trump has kept up a regular drumbeat of attacks on Mrs. Clinton"
+        }
+    ],
+    "triplet-uuid": "87609973-bd58-42a5-96e2-ee5aa47433f5",
+    "uuid": "2eb35726-5228-4b2b-bf07-4710316916f2"
+}

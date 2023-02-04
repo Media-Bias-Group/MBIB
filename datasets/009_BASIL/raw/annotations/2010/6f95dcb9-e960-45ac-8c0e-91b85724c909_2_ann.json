@@ -1,0 +1,58 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Glenn_Beck": "neu",
+        "author_feeling_main_event": "pos",
+        "notes": "lots of phrasing commending Beck",
+        "relative_stance": "conservative",
+        "you_feeling_Glenn_Beck": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 127,
+            "id": "p1",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 108,
+            "target": "Glenn_Beck",
+            "txt": "ripped the roof off"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 143,
+            "id": "p7",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 89,
+            "target": "Glenn_Beck",
+            "txt": "the thousands of people packed into the hotel ballroom"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 31,
+            "id": "p17",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 0,
+            "target": "Glenn_Beck",
+            "txt": "He held the audience spellbound"
+        }
+    ],
+    "triplet-uuid": "6f95dcb9-e960-45ac-8c0e-91b85724c909",
+    "uuid": "17a9d9cb-727d-4173-b829-ceded51002e5"
+}

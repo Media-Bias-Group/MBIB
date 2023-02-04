@@ -1,0 +1,87 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Donald_Trump": "pos",
+        "author_feeling_Michael_Flynn": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "right",
+        "you_feeling_Donald_Trump": "neu",
+        "you_feeling_Michael_Flynn": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "ind_anti",
+            "bias": "inf",
+            "end": 110,
+            "id": "p3",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "Hillary Clinton",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "Donald_Trump",
+            "start": 0,
+            "target": "Michael_Flynn",
+            "txt": "\u201cHillary Clinton lied many times to the FBI, nothing happened to her. Flynn lied and they destroyed his life,\u201d"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 41,
+            "id": "p4",
+            "indirect-ally-opponent-sentiment": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 15,
+            "target": "Donald_Trump",
+            "txt": "without offering specifics"
+        },
+        {
+            "aim": "ind_anti",
+            "bias": "inf",
+            "end": 84,
+            "id": "p5",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "Hillary Clinton",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "Donald_Trump",
+            "start": 73,
+            "target": "Michael_Flynn",
+            "txt": "Very unfair"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 68,
+            "id": "p13",
+            "indirect-ally-opponent-sentiment": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "Donald_Trump",
+            "start": 0,
+            "target": "Michael_Flynn",
+            "txt": "It is a shame because his actions during the transition were lawful."
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 185,
+            "id": "p23",
+            "indirect-ally-opponent-sentiment": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 106,
+            "target": "Donald_Trump",
+            "txt": "though it\u2019s unclear what exactly he might reveal about Trump and his associates"
+        }
+    ],
+    "triplet-uuid": "0c78e748-efbf-417c-a8c1-beeb6480147f",
+    "uuid": "6fdef7db-1260-4505-ade6-94dda1d19569"
+}

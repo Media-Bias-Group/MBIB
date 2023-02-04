@@ -1,0 +1,71 @@
+{
+    "source": "nyt",
+    "main-entities": ["Hillary Clinton", "Bernie Sanders", "Barack Obama"],
+    "main-event": "Hillary Clinton urges Obama to listen to Democrats on trade deal",
+    "title": "Hillary Clinton Urges Obama to Listen to Democrats on Trade Deal",
+    "url": "https://www.nytimes.com/politics/first-draft/2015/06/14/hillary-clinton-urges-obama-to-listen-to-democrats-on-trade-deal/?_r=0",
+    "word-count": 793,
+    "date": "2015-06-14",
+    "uuid": "0211f3a6-2764-4a25-8635-0939e831feee",
+    "triplet-uuid": "8dac6c12-b5ca-468c-a249-7e0ab42f6b52",
+    "body-paragraphs": [
+        [
+            "DES MOINES \u2013 Hillary Rodham Clinton on Sunday urged President Obama to listen to congressional Democrats \u2013 particular the House minority leader, Nancy Pelosi \u2013 and make changes to the Trans-Pacific Partnership trade deal that reflect their concerns about protecting American jobs and wages."
+        ],
+        [
+            "In her first detailed comments on the trade deal since the House of Representatives refused on Friday to allow Mr. Obama to negotiate it freely, Mrs. Clinton laid out a far more calibrated position on the deal than many Democrats and Republicans have taken.",
+            "She declined to take sides on the Friday vote itself but instead allied herself with Democratic critics of the deal \u2014 without actually opposing it."
+        ],
+        [
+            "She argued that the House vote gave Mr. Obama \u201cthis amazing opportunity\u201d to seek concessions from Pacific trading partners to salvage the deal."
+        ],
+        [
+            "\u201cThe president should listen to and work with his allies in Congress, starting with Nancy Pelosi, who have expressed their concerns about the impact that a weak agreement would have on our workers to make sure we get the best, strongest deal possible,\u201d Mrs. Clinton said at a rally here."
+        ],
+        [
+            "\u201cAnd if we don\u2019t get it, there should be no deal,\u201d she added."
+        ],
+        [
+            "Mrs. Clinton indicated that if she were president, she would not abandon the 12-nation Pacific trade deal \u2013 as some Democrats want \u2013 but would use the opposition in Congress as negotiating leverage."
+        ],
+        [
+            "\u201cI am willing to try now to see whether you can push to get rid of the objectionable parts, to drive a harder bargain on some of the other parts,\u201d Mrs. Clinton said at the rally, her first here as a candidate for the 2016 presidential nomination."
+        ],
+        [
+            "Mrs. Clinton has been criticized by Republicans and some Democrats for saying little about the Trans-Pacific Partnership deal in recent weeks, especially since she had made favorable comments about it as secretary of state.",
+            "She is facing many Democratic primary voters who have deep misgivings about trade agreements, including the North American Free Trade Agreement, or Nafta, that President Bill Clinton signed, and she faces rivals for the 2016 nomination like Senator Bernie Sanders of Vermont who flatly oppose the Trans-Pacific Partnership."
+        ],
+        [
+            "A few hours before Mrs. Clinton\u2019s remarks, Mr. Sanders repeated his challenge to her to oppose the trade agreement."
+        ],
+        [
+            "\u201cI would hope that the secretary joins Elizabeth Warren, Sherrod Brown and the vast majority of Democrats in the Congress in saying, \u2018No, we have got to defeat this piece of legislation,\u2019 \u201d Mr. Sanders said on CBS\u2019s \u201cFace the Nation,\u201d referring to fellow senators."
+        ],
+        [
+            "Without naming names, Mrs. Clinton sought to distinguish herself from Mr. Sanders and Ms. Warren, as well as from fervent supporters of the deal like some of the Republicans running for president."
+        ],
+        [
+            "\u201cNo president would be a tougher negotiator on behalf of American workers with either our trading partners or Republicans on Capitol Hill than I would be,\u201d Mrs. Clinton said.",
+            "\u201cThere are the voices that are for the deal no matter what\u2019s in it, and there are voices that are against the deal no matter what\u2019s in it.",
+            "I kind of fall in the group that says, \u2018Let\u2019s find out what\u2019s in it, and let\u2019s make it as good as it can be before we make the decision.\u2019\u201d"
+        ],
+        [
+            "Mrs. Clinton invoked Ms. Pelosi\u2019s name twice during her remarks and appeared to agree with Ms. Pelosi that \u201cthere are some specifics in there that could and should be changed.\u201d",
+            "She said she supported trade adjustment authority to protect American jobs, but otherwise did not delve into details."
+        ],
+        [
+            "\u201cLet\u2019s take the lemons and turn it into lemonade,\u201d she said."
+        ],
+        [
+            "Later on Sunday, at a house party with Democrats in Burlington, Iowa, Mrs. Clinton was more explicit in challenging Mr. Obama by setting expectations for him to work with congressional Democrats on the trade deal.",
+            "Mrs. Clinton called Ms. Pelosi \u201cas strong a supporter\u201d as Mr. Obama has, and said she hoped Mr. Obama would \u201cseize\u201d the chance to work with Democrats to improve the trade pact."
+        ],
+        [
+            "\u201cMy view is the White House should call Nancy and a few other of the Democrats to say, \u2018What would it take to get an agreement that would be better and not worse for American workers?\u2019\u201d Mrs. Clinton said, aligning herself with a potential future ally (Ms. Pelosi) over a lame-duck president."
+        ],
+        [
+            "\u201cI have held my peace because I thought it was important for the Congress to have a full debate without thrusting presidential politics and candidates into it,\u201d Mrs. Clinton added.",
+            "\u201cBut now I think the president and his team could have a chance to drive a harder bargain, because they are now in the position of saying to all of these other countries \u2018we need to maximize the number of winners.\u2019\u201d"
+        ]
+    ]
+}

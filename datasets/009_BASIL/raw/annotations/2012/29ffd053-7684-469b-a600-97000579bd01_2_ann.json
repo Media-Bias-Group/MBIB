@@ -1,0 +1,75 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Catholics": "neu",
+        "author_feeling_Paul_Ryan": "neu",
+        "author_feeling_main_event": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Catholics": "neu",
+        "you_feeling_Paul_Ryan": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 150,
+            "id": "p0",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 104,
+            "target": "Catholics",
+            "txt": "old-fashioned, Catholic school knuckle-rapping"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 279,
+            "id": "p3",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "yes",
+            "speaker": "Catholics",
+            "start": 55,
+            "target": "Paul_Ryan",
+            "txt": "your continuing misuse of Catholic teaching to defend a budget plan that decimates food programs for struggling families, radically weakens protections for the elderly and sick and gives more tax breaks to the wealthiest few"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 146,
+            "id": "p7",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 59,
+            "target": "Paul_Ryan",
+            "txt": "misappropriated the Catholic teaching as a \u201crationale for gutting government programs.\u201d"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 70,
+            "id": "p14",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 6,
+            "target": "Paul_Ryan",
+            "txt": "who was raised on Social Security benefits after his father died"
+        }
+    ],
+    "triplet-uuid": "29ffd053-7684-469b-a600-97000579bd01",
+    "uuid": "4f1c51a2-3894-438f-aa6c-2265adce9812"
+}

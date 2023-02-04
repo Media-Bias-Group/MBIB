@@ -1,0 +1,58 @@
+{
+    "source": "nyt",
+    "main-entities": ["U.S. Congress","Democratic Lawmakers", "Republican Lawmakers"],
+    "main-event": "House Reading of Constitution Is Not Without Issues",
+    "title": "House Reading of Constitution Is Not Without Issues",
+    "url": "https://thecaucus.blogs.nytimes.com/2011/01/06/house-reading-of-the-constitution-is-not-without-issues/?_r=0",
+    "word-count": 768,
+    "date": "2011-01-06",
+    "uuid": "7a5e2a48-3788-4db9-8018-9466bf1d8bc8",
+    "triplet-uuid": "a28a0329-0887-42dc-bd3d-3bb4f8926757",
+    "body-paragraphs": [
+        [
+            "Setting the tone for the 112th Congress \u2014 in which every House bill must cite the constitutional source of its authority \u2014 members of the House of Representatives began to read the United States Constitution aloud from the chamber\u2019s floor on Thursday morning."
+        ],
+        [
+            "Like the Constitutional Convention itself, things did not begin auspiciously."
+        ],
+        [
+            "Before the reading began, Jay Inslee, Democrat of Washington, asked Republicans to illuminate exactly what part of the Constitution would be read, what parts would be deleted and who would decide how things would unfold."
+        ],
+        [
+            "It was decided in advance that any portion of the Constitution that was superseded by amendments \u2014 including the amendments themselves \u2014 would not be read, preventing lawmakers from having to make references to slaves, referred to in Article 1, Section 2 as \u201cthree fifths of all other persons,\u201d or to things like prohibition."
+        ],
+        [
+            "These inquiries about parliamentary procedure were not well received, and for several minutes, before a word of the preamble could be uttered, Democrats and Republicans battled back and forth over the issue of language, perhaps presaging future partisan battles over the meaning, purpose and application of the document."
+        ],
+        [
+            "Once that was settled, just after 11 a.m., Representative John A. Boehner, the newly installed speaker of the House, read the preamble (that magical \u201cWe the people\u201d), before yielding to the woman who handed him the gavel on Wednesday, Representative Nancy Pelosi, who picked up with Article 1, Section 1 (\u201cAll legislative powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives\u201d), followed by Representative Eric Cantor, the House majority leader, and other House leaders."
+        ],
+        [
+            "From there, members who wished to read were recognized from their seats, beginning with Representative Steve Rothman, Democrat of New Jersey.",
+            "And so, sentence by sentence, in accents that reflect the myriad districts that did not even exist when the document came into being, by women and African Americans whose full rights were not recognized at that time, the constitutional language fluttered through the chamber."
+        ],
+        [
+            "At one point, there was yelling in the chamber, and the sergeant-at-arms was called to remove a protester."
+        ],
+        [
+            "The reading of the document on the floor of the House, an act that is part of the new rules package, serves several purposes, said Representative Robert W. Goodlatte, Republican of Virginia, who came up with the idea for the live reading.",
+            "Largely, it was meant to instruct members, who now must use it to underlie their bills, and to inform voters."
+        ],
+        [
+            "\u201cThroughout the last year there has been a great debate about the expansion of the federal government, and lots of my constituents have said that Congress has gone beyond its powers granted in the Constitution,\u201d said Mr. Goodlatte, a senior member of the House Judiciary Committee, which has jurisdiction over constitutional amendments.",
+            "He added: \u201cI think it is important that we send a message to people at home that the constitution is an important document.\u201d"
+        ],
+        [
+            "But it was also clearly meant as a nod to the Tea Party, a loosely organized political movement whose members cite the Constitution as the basis for much of their political theory concerning federal powers and the rights and responsibilities of Congress.",
+            "To wit, the document reading happened on the same day that House Republicans began the contentious process of repealing the health care law, which they have long said lacks constitutional basis."
+        ],
+        [
+            "The order of reading was ironed out at the last minute, with the goal of letting all who wished to read do so, but making sure there was party parity, Mr. Goodlatte said.",
+            "\u201cWe have spread the word to everyone, and there was a lot of interest,\u201d he said."
+        ],
+        [
+            "According to the Office of the Historian of the House of Representatives, the only two prior instances in which a full or partial text of the Constitution was inserted into the Congressional Record was in 1882, when Roswell Flower of New York \u201cappended\u201d a text of the Constitution \u2014 minus the amendments \u2014 into the record, and in 1915, when Thomas Reilly of Connecticut inserted the full text of the Constitution into the Congressional Record as an extension of his remarks.",
+            "But the office could not find any examples of the full text of the Constitution actually being read out loud on the House Floor."
+        ]
+    ]
+}

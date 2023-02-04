@@ -1,0 +1,32 @@
+{
+    "article-level-annotations": {
+        "author_feeling_Democratic_Lawmakers": "neu",
+        "author_feeling_Republican_Lawmakers": "neu",
+        "author_feeling_Steve_Scalise": "neu",
+        "author_feeling_main_event": "neg",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_Democratic_Lawmakers": "neu",
+        "you_feeling_Republican_Lawmakers": "neu",
+        "you_feeling_Steve_Scalise": "neu"
+    },
+    "phrase-level-annotations": [
+        {
+            "aim": "ind_anti",
+            "bias": "inf",
+            "end": 112,
+            "id": "p27",
+            "indirect-ally-opponent-sentiment": "neg",
+            "indirect-target-name": "James Hodgkinson",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "Democratic_Lawmakers",
+            "start": 0,
+            "target": "Democratic_Lawmakers",
+            "txt": "\u201cViolence of any kind is unacceptable in our society and I condemn this action in the strongest possible terms.\u201d"
+        }
+    ],
+    "triplet-uuid": "58f414e5-a122-49f5-819e-512d91069da5",
+    "uuid": "1f817770-ae60-467d-8a53-0d3ee8caa05c"
+}

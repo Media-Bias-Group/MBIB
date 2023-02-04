@@ -1,0 +1,48 @@
+{
+    "source": "hpo",
+    "main-entities": ["Michael Grimm", "Justice Department"],
+    "main-event": "Federal charges filed against Grimm",
+    "title": "GOP Congressman Expected To Be Indicted",
+    "url": "https://www.huffingtonpost.com/2014/04/25/michael-grimm-indicted_n_5215385.html",
+    "word-count": 317,
+    "date": "2014-04-25",
+    "uuid": "75f1b2bf-d46d-4bc4-a917-62488d5bf352",
+    "triplet-uuid": "33521e65-12da-4521-b132-7b606243b0e4",
+    "body-paragraphs": [
+        [
+            "Rep. Michael Grimm (R-N.Y.) is expected to be indicted by the U.S. attorney for the Eastern District of New York, Grimm's lawyer said Friday."
+        ],
+        [
+            "Politico was first to report the news of the expected indictment.",
+            "Grimm's lawyer, William McGinley, said in a statement that the U.S. attorney's office \"has disclosed its intent to file criminal charges.\""
+        ],
+        [
+            "\"We are disappointed by the government\u2019s decision, but hardly surprised,\" he said.",
+            "\"From the beginning, the government has pursued a politically driven vendetta against Congressman Grimm and not an independent search for the truth.",
+            "Congressman Grimm asserts his innocence of any wrongdoing."
+        ],
+        [
+            "\"When the dust settles, he will be vindicated,\" McGinley added.",
+            "\"Until then, he will continue to serve his constituents with the same dedication and tenacity that has characterized his lifetime of public service as a Member of Congress, Marine Corps combat veteran, and decorated FBI Special Agent.\u201d"
+        ],
+        [
+            "The New York Times reported the charges against Grimm \"will include mail fraud and wire fraud and focus on his conduct in connection with a health food restaurant he owned on the Upper East Side of Manhattan after he left the Federal Bureau of Investigation in 2006,\" citing someone familiar with the case."
+        ],
+        [
+            "The Justice Department began investigating Grimm two years ago on allegations that he filed erroneous campaign finance reports and accepted improper donations during his first congressional campaign."
+        ],
+        [
+            "More recently, Grimm was in the news in January after he physically threatened a reporter in the Capitol."
+        ],
+        [
+            "The second-term congressman represents New York\u2019s 11th District, which includes Staten Island and part of Brooklyn."
+        ],
+        [
+            "The Washington Post reported that Grimm is likely to turn himself in once the indictment is unsealed."
+        ],
+        [
+            "UPDATE: 7:19 p.m. -- The Washington Post now reports that Grimm has already \"been secretly indicted by a federal grand jury in Brooklyn, according to people familiar with the case.",
+            "The indictment is expected to be unsealed in the coming days.\""
+        ]
+    ]
+}

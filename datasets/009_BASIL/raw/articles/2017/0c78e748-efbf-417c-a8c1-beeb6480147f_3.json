@@ -1,0 +1,58 @@
+{
+    "source": "hpo",
+    "main-entities": [
+        "Michael Flynn",
+        "Donald Trump"
+    ],
+    "main-event": "Flynn pleaded guilty",
+    "title": "Donald Trump Defends Michael Flynn By Saying Hillary Clinton Is The Real Liar",
+    "url": "https://www.huffingtonpost.com/entry/donald-trump-defends-michael-flynn_us_5a255146e4b03c44072ed3e1",
+    "word-count": 377,
+    "date": "2017-12-04",
+    "uuid": "f404bddb-8ab6-4fc7-a3e4-3622ddf4256f",
+    "triplet-uuid": "0c78e748-efbf-417c-a8c1-beeb6480147f",
+    "body-paragraphs": [
+        [
+            "WASHINGTON \u2015 President Donald Trump on Monday defended his former national security adviser, Michael Flynn, by invoking his 2016 election opponent, Hillary Clinton."
+        ],
+        [
+            "\u201cI feel very badly for Gen. Flynn,\u201d Trump told reporters before leaving for a trip to Utah, saying that Flynn\u2019s life has been \u201cruined.\u201d"
+        ],
+        [
+            "Trump then pivoted to Clinton, apparently referring to the FBI\u2019s investigation into her use of a private email server."
+        ],
+        [
+            "\u201cHillary Clinton lied many times to the FBI, and nothing happened to her.",
+            "Flynn lied, and it destroyed his life, and I think it\u2019s a shame,\u201d Trump said, before again claiming that Clinton \u201clied many times, [and] nothing happened to her.",
+            "Flynn lied, and it\u2019s like, it ruined his life.",
+            "It\u2019s very unfair.\u201d"
+        ],
+        [
+            "The president this morning says 'I feel badly for General Flynn.'",
+            "#MorningJoe pic.twitter.com/tBp5aXWhBj \u2014 Morning Joe (@Morning_Joe) December 4, 2017"
+        ],
+        [
+            "Flynn pleaded guilty on Friday for lying to the FBI in special counsel Robert Mueller\u2019s investigation into possible collusion between Trump\u2019s campaign and Russia, becoming the first former administration official to face charges in the probe."
+        ],
+        [
+            "Trump and the White House have long claimed that the investigations into the campaign have nothing to do with Trump himself.",
+            "Flynn\u2019s indictment, however, makes it increasingly difficult for the president to distance himself."
+        ],
+        [
+            "Flynn stepped down in February, saying that he had misled the transition team, including then Vice President-elect Mike Pence, about the extent of his contacts with Russian officials, which included discussing sanctions and the creation of a backchannel with the Kremlin."
+        ],
+        [
+            "Trump and his lawyer, John Dowd, now claim that the president already knew about Flynn lying to the FBI, renewing questions of whether Trump obstructed justice in the investigation."
+        ],
+        [
+            "In May, Trump told NBC\u2019s Lester Holt that he fired then-FBI Director James Comey with \u201cthis Russia thing\u201d in mind.",
+            "The following month, Comey testified before the Senate that Trump had requested that Comey put an end to the agency\u2019s investigation into Flynn."
+        ],
+        [
+            "In an interview with Axios published Monday, Dowd brought out a new defense: Trump isn\u2019t guilty of obstructing justice because he is the president."
+        ],
+        [
+            "The \u201cPresident cannot obstruct justice because he is the chief law enforcement officer under [the Constitution\u2019s Article II] and has every right to express his view of any case,\u201d Dowd said."
+        ]
+    ]
+}

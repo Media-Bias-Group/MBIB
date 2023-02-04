@@ -1,0 +1,63 @@
+{
+    "source": "fox",
+    "main-entities": ["Asa Hutchinson"],
+    "main-event": "Arkansas Republican Gov. Asa Hutchinson urged state lawmakers to change a controversial religious freedom bill",
+    "title": "Arkansas governor seeks changes in religious freedom bill",
+    "url": "http://www.foxnews.com/politics/2015/04/01/arkansas-governor-sends-religious-freedom-bill-back-to-legislature-seeks.html",
+    "word-count": 514,
+    "date": "2015-04-01",
+    "uuid": "1a70c4b1-dba8-4f9a-8067-7f2293109289",
+    "triplet-uuid": "2742e9c1-2943-496f-8b23-faf5332e1612",
+    "body-paragraphs": [
+        [
+            "Arkansas Republican Gov. Asa Hutchinson on Wednesday urged state lawmakers to change a controversial religious freedom bill sent to his desk a day earlier, in the face of criticism that it could allow businesses and others to discriminate based on sexual orientation."
+        ],
+        [
+            "Hutchinson had initially said he planned to sign the bill but backed off as his state, overnight, became the new focal point of a nationwide backlash over such legislation.",
+            "Indiana for days has faced similar criticism for a related religious freedom bill."
+        ],
+        [
+            "During a press conference in the state capital of Little Rock, Hutchinson said he wants to strike the \"right balance.\"",
+            "The governor, amid calls by critics to veto the bill, made clear he still supports the intent of the legislation -- which prohibits state and local governments from infringing upon someone's religious beliefs without a compelling interest.",
+            "But he said he wants changes made so it more closely mirrors a 1993 federal law."
+        ],
+        [
+            "\"I asked that changes be made in the legislation,\" Hutchinson said, urging state lawmakers to \"recall\" the bill -- or pass additional legislation -- to \"remedy\" the issue."
+        ],
+        [
+            "The announcement reflects the intense debate in state capitals across the country where such legislation is being considered.",
+            "Backers say the intent was to simply replicate the 1993 federal law and similar laws in place in 19 other states.",
+            "But when Indiana passed a slightly more expansive version which critics said could allow discrimination by businesses, Indiana lawmakers and Gov. Mike Pence later vowed to \"clarify\" the language in response to complaints."
+        ],
+        [
+            "Hutchinson, too, said the country is clearly split on how to balance religious traditions with non-discrimination."
+        ],
+        [
+            "At its heart, he said, \"this bill is not really complicated.\"",
+            "But he cited a \"generational gap.\"",
+            "As evidence, the governor said even his own son had signed a petition urging him to veto the bill."
+        ],
+        [
+            "Hutchinson's chief complaint was that some provisions do not \"precisely mirror\" the federal law, and he wants that addressed.",
+            "He said he's also working on an executive order to address the issue of tolerance."
+        ],
+        [
+            "Echoing the reaction to Indiana's law, Hutchinson has faced pressure from the state's top employers, including retail giant Wal-Mart, which complained that the measure was discriminatory and would stifle economic development.",
+            "Little Rock's mayor, the city's Chamber of Commerce and Arkansas-based data services company Acxiom all urged the governor to reject the measure in recent days."
+        ],
+        [
+            "The Human Rights Campaign, the nation's largest lesbian, gay, bisexual and transgender rights group, has run ads in Silicon Valley targeting technology firms Hutchinson hopes to attract to the state."
+        ],
+        [
+            "Prior to the passage Tuesday of the Arkansas bill, the White House repeated its opposition to the Indiana law."
+        ],
+        [
+            "\"This kind of public outcry ... is indicative of how this piece of legislation flies in the face of values that people all across America strongly support,\" said White House Press Secretary Josh Earnest.",
+            "\"Governor Pence falsely tried to suggest the law is the same as the 1993 law.",
+            "That is not true.\""
+        ],
+        [
+            "Earnest also said the Indiana law was a \"significant expansion\" of current law."
+        ]
+    ]
+}

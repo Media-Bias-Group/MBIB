@@ -1,0 +1,83 @@
+{
+    "source": "nyt",
+    "main-entities": ["Duncan and Margaret Hunter"],
+    "main-event": "Congressman Hunter and wife indicted on corruption charges",
+    "title": "Representative Duncan Hunter Is Indicted, Accused of Misusing Campaign Funds",
+    "url": "https://www.nytimes.com/2018/08/21/us/politics/duncan-hunter-indicted.html",
+    "word-count": 894,
+    "date": "2018-08-21",
+    "uuid": "ed0e1a57-8836-43ac-8b80-eacbdfb8429b",
+    "triplet-uuid": "eb17fa36-89f2-4d0b-8133-7bb4682228e1",
+    "body-paragraphs": [
+        [
+            "WASHINGTON \u2014 Representative Duncan Hunter was indicted by a federal grand jury in San Diego on Tuesday after a monthslong criminal investigation into allegations that he spent tens of thousands of dollars in campaign funds on family trips to Hawaii and Italy, private school tuition for his children and even a $600 airline ticket for a pet rabbit."
+        ],
+        [
+            "In a 48-page indictment released by the Justice Department, Mr. Hunter, Republican of California, and his wife, Margaret, are charged with converting more than $250,000 in campaign funds to pay for personal expenses and filing false campaign finance records with the Federal Election Commission."
+        ],
+        [
+            "Mr. Hunter, 41, becomes the second Republican congressman to be indicted this month.",
+            "Representative Chris Collins, Republican of New York, was indicted on insider trading charges, and announced days later that he had suspended his re-election campaign.",
+            "The two were the earliest congressional supporters of the presidential campaign of Donald J. Trump."
+        ],
+        [
+            "Mr. Collins, who is accused of passing insider information to his son about a drug company on whose board he served, has said he expects to be \u201cfully vindicated and exonerated.\u201d"
+        ],
+        [
+            "A spokesman for Mr. Hunter, Michael Harrison, said Tuesday that the congressman \u201cbelieves this action is purely politically motivated,\u201d and referred a reporter to a letter that Mr. Hunter\u2019s lawyer, Gregory A. Vega, sent this month to Rod J. Rosenstein, the deputy attorney general.",
+            "Mr. Vega, anticipating an indictment, asserted in the letter that two prosecutors involved in the investigation had attended a fund-raiser for Hillary Clinton, and complained that bringing charges so close to the election would effectively deliver a \u201csolidly Republican\u201d House seat into Democratic hands."
+        ],
+        [
+            "The back-to-back indictments are all but certain to give ammunition to Democrats, who have been promising to clean up corruption in Washington if voters give them control of the House."
+        ],
+        [
+            "And for California Republicans, it has immediate implications, expanding from seven to eight the field of Republican-held seats being seriously targeted by Democrats.",
+            "Mr. Hunter cannot take his name off the ballot, according to a spokesman for the California secretary of state, and California does not allow write-in candidates."
+        ],
+        [
+            "Mr. Hunter easily won California\u2019s nonpartisan primary with 48 percent of the vote; the next highest vote-getter, Ammar Campa-Najjar, a Democrat, took only 17 percent.",
+            "Despite that, Democrats have long thought they could make a play for Mr. Hunter\u2019s seat, especially if he were indicted.",
+            "At the very least, the indictment will require Republicans to spend money to defend the seat."
+        ],
+        [
+            "\u201cThe division, chaos and corruption in Washington has gone too far,\u201d Mr. Campa-Najjar said in a statement.",
+            "\u201cToday\u2019s indictment confirms just how deep this corruption can reach when someone like Duncan Hunter Jr. is in it for himself instead of representing the people.\u201d"
+        ],
+        [
+            "The indictment details scores of instances, beginning in 2009 and continuing through 2016, in which the Justice Department said the Hunters spent campaign money on themselves.",
+            "The department said that the improper use of campaign funds continued despite \u201cnumerous warnings\u201d and \u201crepeated inquiries\u201d from Mr. Hunter\u2019s campaign treasurer about questionable purchases."
+        ],
+        [
+            "\u201cThe indictment alleges that Congressman Hunter and his wife repeatedly dipped into campaign coffers as if they were personal bank accounts, and falsified F.E.C. campaign finance reports to cover their tracks,\u201d Adam L. Braverman, the United States attorney for the Southern District of California, said in a statement, referring to the Federal Election Commission."
+        ],
+        [
+            "\u201cElected representatives should jealously guard the public\u2019s trust, not abuse their positions for personal gain,\u201d Mr. Braverman added.",
+            "\u201cToday\u2019s indictment is a reminder that no one is above the law.\u201d"
+        ],
+        [
+            "Beyond the family vacations and private school tuition, the indictment said expenses included dental work, theater tickets, and domestic and international travel for almost a dozen relatives, as well as \u201ctens of thousands of dollars on smaller purchases, including fast food, movie tickets, golf outings, video games, coffee, groceries, home utilities and expensive meals,\u201d according to a statement released by the Justice Department."
+        ],
+        [
+            "The \u201ccabin rabbit transport fees\u201d were first reported in January 2017 by a California newspaper, The Press-Enterprise."
+        ],
+        [
+            "To conceal their personal spending, the Hunters mischaracterized the purchases as \u201ccampaign travel,\u201d \u201cdinner with volunteers/contributors,\u201d \u201ctoy drives,\u201d \u201cteacher/parent and supporter events,\u201d \u201cgift cards\u201d for charitable donations and \u201cgift basket items,\u201d the statement said."
+        ],
+        [
+            "Family dental bills paid with campaign funds were characterized as a charitable contribution to \u201cSmiles for Life.\u201d",
+            "Theater tickets were mischaracterized as \u201choliday gift certificates.\u201d",
+            "Tickets for the family to see the Irish dance show Riverdance at the San Diego Civic Theater became \u201cSan Diego Civic Center for Republican Women Federated/Fund-raising.\u201d"
+        ],
+        [
+            "The Hunters are scheduled to be arraigned Thursday morning in San Diego."
+        ],
+        [
+            "A former Marine in Iraq and Afghanistan, Mr. Hunter was first elected in 2008 to a seat held by his father, and now serves on the House Armed Services Committee.",
+            "He was for a time considered as a possible choice for defense secretary or another top job in the Trump administration, and told The San Diego Union-Tribune days after Mr. Trump\u2019s election that he wanted to restore \u201ca warrior culture, a warrior mentality\u201d to the government."
+        ],
+        [
+            "By March 2017, when the Justice Department opened its criminal investigation, Mr. Hunter was already being investigated by the House Ethics Committee.",
+            "His lawyer said then that the congressman intended to cooperate fully and had already repaid about $60,000 to his campaign to correct for mistaken payments for personal items."
+        ]
+    ]
+}

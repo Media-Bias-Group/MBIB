@@ -1,0 +1,54 @@
+{
+    "source": "nyt",
+    "main-entities": ["Vicente Fox", "Felipe Calder", "Donald Trump"],
+    "main-event": "Fox and Calder say Mexico isn't paying for border wall",
+    "title": "Vicente Fox and Felipe Calder\u00f3n, 2 Ex-Presidents of Mexico, Say No Way Country Is Paying for Donald Trump's Wall",
+    "url": "https://www.nytimes.com/politics/first-draft/2016/02/25/2-ex-presidents-of-mexico-say-no-way-theyre-paying-for-donald-trumps-wall/",
+    "word-count": 327,
+    "date": "2016-02-25",
+    "uuid": "9eaef0d4-421f-4eaf-a256-e2494ed0efae",
+    "triplet-uuid": "d4a4bc34-e48b-4485-86b2-f1daf4d464dd",
+    "body-paragraphs": [
+        [
+            "At almost all of his campaign rallies, Donald J. Trump leads a familiar refrain as he details his plan to build a giant wall along the border with Mexico."
+        ],
+        [
+            "\u201cWho\u2019s gonna pay?\u201d he asks."
+        ],
+        [
+            "Without fail, Mr. Trump\u2019s adoring fans reply, \u201cMexico!\u201d"
+        ],
+        [
+            "While the Mexican government has said little about Mr. Trump\u2019s plan to beef up border security, two of the country\u2019s former presidents have a message for Mr. Trump: Mexico won\u2019t pay."
+        ],
+        [
+            "\u201cI\u2019m not going to pay,\u201d Vicente Fox said, using a profanity to comment about the wall Thursday in an interview with Fusion.",
+            "\u201cHe should pay for it. He\u2019s got the money.\u201d"
+        ],
+        [
+            "Mr. Fox, who was president of Mexico from 2000 to 2006, was clear in his opposition to Mr. Trump, calling him \u201cegocentric\u201d and lacking in any political values.",
+            "Mr. Fox also expressed disbelief that Mr. Trump did well with Hispanic voters in the Nevada caucuses on Tuesday and called on them to open their eyes."
+        ],
+        [
+            "\u201cI\u2019d like to know who those Hispanics are,\u201d Mr. Fox said.",
+            "\u201cThey are followers of a false prophet.\u201d"
+        ],
+        [
+            "Mr. Fox\u2019s successor, Felipe Calder\u00f3n, expressed similar concerns about the wall this month."
+        ],
+        [
+            "\u201cMexican people, we are not going to pay any single cent for such a stupid wall!\u201d Mr. Calder\u00f3n told CNBC.",
+            "\u201cAnd it\u2019s going to be completely useless.\u201d"
+        ],
+        [
+            "Mr. Calder\u00f3n, who was president from 2006 until 2012, went on to argue that Mr. Trump was misinformed about the flow of immigrants from Mexico to the United States and that closing the border would harm America\u2019s economy."
+        ],
+        [
+            "For his part, Mr. Trump has insisted that as president he would have the leverage to compel Mexico to pay for the wall, which he estimates would cost about $8 billion."
+        ],
+        [
+            "On Thursday, however, he appeared to be more angered by Mr. Fox\u2019s tone.",
+            "Mr. Trump, who has been criticized for lacing his campaign speeches with profanity, called on Mr. Fox to apologize for using foul language when talking about the wall."
+        ]
+    ]
+}

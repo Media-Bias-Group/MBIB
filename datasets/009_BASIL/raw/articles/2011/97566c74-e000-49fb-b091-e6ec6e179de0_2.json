@@ -1,0 +1,56 @@
+{
+    "uuid": "172fb859-4d82-49ec-8fa1-52c3cfd0e645",
+    "date": "2011-12-13",
+    "main-entities": ["Donald Trump"],
+    "main-event": "Donald Trump drops plans to moderate presidential debate",
+    "source": "FOX",
+    "url": "http://www.foxnews.com/politics/2011/12/13/trump-bows-out-as-moderator-gop-debate-reserves-right-to-run-for-president/",
+    "keywords": "Fox News,Republican National Committee Chairman Reince Priebus,Rick Santorum,presidential debate,Republican Party,Donald Trump,economy,Republican National Committee,Obama,Sen Rick Santorum,Reince Priebus,House,opinion,Pennsylvania,Newt Gingrich",
+    "triplet-uuid": "97566c74-e000-49fb-b091-e6ec6e179de0",
+    "body-paragraphs": [
+        [
+            "Donald Trump announced Tuesday that he is bowing out as the moderator for a Republican presidential debate later this month, after most candidates in the field opted not to attend."
+        ],
+        [
+            "Trump said he wanted to make sure there's no \"conflict of interest\" in case he decides to run as a third-party candidate next year.",
+            "He cast his decision as a way to keep his options open."
+        ],
+        [
+            "He said later on Fox News that he's still considering an independent bid.",
+            "\"I am looking at it, if the Republicans choose the wrong candidate, which is a possibility, and if the economy continues to be bad, which I think it will be,\" Trump said."
+        ],
+        [
+            "The real estate mogul and reality TV star said he wants to make sure Republicans pick the \"right\" candidate -- he said he still plans to make an endorsement despite his threatened third-party run."
+        ],
+        [
+            "Though the Dec. 27 debate technically is sponsored by Newsmax, Trump quickly became the face of it after he was named as moderator."
+        ],
+        [
+            "While former House Speaker Newt Gingrich and former Pennsylvania Sen. Rick Santorum agreed to attend early on, other Republican candidates subsequently bowed out."
+        ],
+        [
+            "Some expressed concern that Trump, who previously flirted with a possible Republican presidential bid before shelving the idea, would not definitively rule out running as a third-party candidate."
+        ],
+        [
+            "Trump on Tuesday specifically cited Republican National Committee Chairman Reince Priebus' concerns about his involvement.",
+            "He said he does not expect Newsmax to follow through with the debate now that he's out."
+        ],
+        [
+            "\"We would have done very well.",
+            "We would have gotten great ratings,\" Trump said, voicing his trademark confidence."
+        ],
+        [
+            "Trump first announced his debate decision in a written statement Tuesday afternoon."
+        ],
+        [
+            "\"It is very important to me that the right Republican candidate be chosen to defeat the failed and very destructive Obama administration, but if that Republican, in my opinion, is not the right candidate, I am not willing to give up my right to run as an independent candidate,\" he said.",
+            "\"Therefore, so that there is no conflict of interest within the Republican Party, I have decided not to be the moderator of the Newsmax debate.",
+            "... I must leave all of my options open because, above all else, we must make America great again!\""
+        ],
+        [
+            "Trump went on to praise Gingrich and Santorum for \"having the courage, conviction, and confidence\" to agree to the debate."
+        ]
+    ],
+    "title": "Trump Bows Out as Moderator of GOP Debate, Reserves Right to Run for President",
+    "word-count": 424
+}

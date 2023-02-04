@@ -1,0 +1,62 @@
+{
+    "article-level-annotations": {
+        "author_feeling_AARP": "neu",
+        "author_feeling_Barack_Obama": "neu",
+        "author_feeling_main_event": "neu",
+        "author_feeling_social_security": "neu",
+        "notes": "",
+        "relative_stance": "center",
+        "you_feeling_AARP": "neu",
+        "you_feeling_Barack_Obama": "neu",
+        "you_feeling_social_security": "neu"
+    },
+    "pair-uuid": "576116e5-2b18-4d35-be73-36f5863c9468",
+    "phrase-level-annotations": [
+        {
+            "aim": "dir",
+            "bias": "lex",
+            "end": 75,
+            "id": "p0",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "no",
+            "speaker": "",
+            "start": 62,
+            "target": "AARP",
+            "txt": "most powerful"
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 251,
+            "id": "p9",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "pos",
+            "quote": "yes",
+            "speaker": "other_neutral",
+            "start": 0,
+            "target": "AARP",
+            "txt": "\"AARP's new and welcome position is a positive step towards the type of reforms I've championed, and I look forward to working with the organization to shape the changes in a way that makes the least detrimental impact to present and future retirees,\""
+        },
+        {
+            "aim": "dir",
+            "bias": "inf",
+            "end": 222,
+            "id": "p19",
+            "indirect-ally-opponent-sentiment": "",
+            "indirect-target-name": "",
+            "notes": "",
+            "polarity": "neg",
+            "quote": "no",
+            "speaker": "",
+            "start": 153,
+            "target": "social_security",
+            "txt": "seniors would then face a 23 percent across-the-board cut in benefits"
+        }
+    ],
+    "uuid": "0915bc56-9392-4096-99d9-5956d24874cd"
+}

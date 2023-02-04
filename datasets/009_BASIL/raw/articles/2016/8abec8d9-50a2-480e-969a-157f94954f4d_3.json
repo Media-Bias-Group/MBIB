@@ -1,0 +1,54 @@
+{
+    "source": "nyt",
+    "main-entities": ["Donald Trump", "Vicente Fox"],
+    "main-event": "Trump gets into Twitter feud with Vicente Fox",
+    "title": "Vicente Fox, Ex-President of Mexico, Scoffs at Donald Trump\u2019s Visit",
+    "url": "https://mobile.nytimes.com/2016/09/01/us/politics/vicente-fox-mexico.html",
+    "word-count": 371,
+    "date": "2016-08-31",
+    "uuid": "e986de6e-dfa2-4f2f-95de-214838376b3f",
+    "triplet-uuid": "8abec8d9-50a2-480e-969a-157f94954f4d",
+    "body-paragraphs": [
+        [
+            "Donald J. Trump is heading to Mexico on Wednesday to meet with President Enrique Pe\u00f1a Nieto, but one of the Mexican leader\u2019s predecessors had a different message for the Republican presidential nominee: You are not welcome here."
+        ],
+        [
+            "Vicente Fox, Mexico\u2019s president from 2000 to 2006, said on Wednesday that the invitation from Mr. Pe\u00f1a Nieto was a mistake and that Mr. Trump should never be trusted in the country because of the way he has demonized its people."
+        ],
+        [
+            "\u201cHe is not welcome to Mexico,\u201d Mr. Fox told CNN.",
+            "\u201cWe don\u2019t want him. We reject his visit.\u201d"
+        ],
+        [
+            "Mr. Fox has been critical of Mr. Trump\u2019s plan to build a wall on the border between the United States and Mexico and on Wednesday he shrugged off recent signs of Mr. Trump softening his plans to deport 11 million undocumented immigrants."
+        ],
+        [
+            "\u201cYou cannot trust a guy like this,\u201d Mr. Fox said.",
+            "\u201cHow can we grant confidence and support to ideas that change everyday?",
+            "He cynically continues to disregard his own people and disregard Mexicans.\u201d"
+        ],
+        [
+            "Despite Mr. Trump\u2019s promises that Mexico will pay for his border wall, Mr. Fox vowed in February that it would never happen.",
+            "He also called Mr. Trump a \u201cfalse prophet\u201d who was misleading his followers."
+        ],
+        [
+            "On Wednesday, Mr. Fox expressed disbelief that Mr. Pe\u00f1a Nieto would invite Mr. Trump for the private meeting.",
+            "He suggested that Mr. Trump was only coming as part of a \u201cdesperate\u201d strategy to improve his sagging poll numbers and in explicit terms he urged Americans not to vote for him."
+        ],
+        [
+            "\u201cI cannot envision him sitting in that chair, that was the chair of President Washington, President Jefferson, President Kennedy, President Reagan,\u201d Mr. Fox said.",
+            "\u201cHe doesn\u2019t know how to run a nation.",
+            "He doesn\u2019t even know how to run a business.\u201d"
+        ],
+        [
+            "As he prepared to travel to Mexico, Mr. Trump responded to Mr. Fox\u2019s attacks, noting on Twitter that the former Mexican president once suggested that he pay the country a visit."
+        ],
+        [
+            "Mr. Fox fired back with a Twitter post of his own, reminding Mr. Trump that he invited him to come to Mexico and personally apologize to all Mexicans."
+        ],
+        [
+            "\u201cStop lying!\u201d Mr. Fox wrote.",
+            "\u201cMexico is not yours to play with, show some respect.\u201d"
+        ]
+    ]
+}

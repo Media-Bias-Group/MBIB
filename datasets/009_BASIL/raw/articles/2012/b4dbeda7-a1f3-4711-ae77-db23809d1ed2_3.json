@@ -1,0 +1,38 @@
+{
+    "source": "nyt",
+    "main-entities": ["Benjamin Netanyahu", "Barack Obama", "Secure America Now"],
+    "main-event": "Benjamin Netanyahu Used In Conservative Attack Ad Against Obama",
+    "title": "Netanyahu Appears in Conservative Group's Ad ",
+    "url": "http://thecaucus.blogs.nytimes.com/2012/09/20/netanyahu-appears-in-conservative-groups-ad/?ref=politics",
+    "word-count": 231,
+    "date": "2012-09-20",
+    "uuid": "fde38be9-5895-4bed-9b1b-2370210f3b63",
+    "triplet-uuid": "b4dbeda7-a1f3-4711-ae77-db23809d1ed2",
+    "body-paragraphs": [
+        [
+            "Israel and Middle East policy have a tendency of surfacing in presidential politics in rather combustible ways.",
+            "And a new advertisement that will run in areas of Florida with large Jewish populations attempts to stoke anxiety over American policies in the region, using a news clip of Prime Minister Benjamin Netanyahu of Israel warning of the risks of a nuclear Iran."
+        ],
+        [
+            "\u201cThe fact is that every day that passes, Iran gets closer and closer to nuclear arms,\u201d Mr. Netanyahu is shown saying."
+        ],
+        [
+            "For dramatic effect, a soundtrack fit for an episodic drama like \u201cHomeland\u201d plays as the prime minister continues.",
+            "\u201cThe world tells Israel, \u2018Wait. There\u2019s still time.\u2019",
+            "And I say wait for what?",
+            "Wait until when?\u201d",
+            "Then an unseen announcer concludes: \u201cThe world needs American strength, not apologies.\u201d"
+        ],
+        [
+            "That line is a not-so-veiled swipe at President Obama.",
+            "Mitt Romney and other Republicans have criticized his foreign policy as apologetic, toward volatile countries like Iran."
+        ],
+        [
+            "The group that produced the ad, Secure America Now, is run by two longtime Republican strategists, Nelson Warfield ? and John ?McLaughlin, and ?Pat Caddell, a former aide to Jimmy Carter who is now a Fox News contributor.",
+            "They have reserved $500,000 of airtime in Fort Myers, West Palm Beach and Miami."
+        ],
+        [
+            "A senior Israeli official said the government was not consulted on the ad and did not approve it."
+        ]
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "source": "nyt",
+    "main-entities": ["Hillary Clinton"],
+    "main-event": "Hillary Clinton asks state department to vet emails for release",
+    "title": "Hillary Clinton Asks State Department to Vet Emails for Release",
+    "url": "https://www.nytimes.com/2015/03/06/us/politics/hillary-clinton-asks-state-dept-to-review-emails-for-public-release.html",
+    "word-count": 839,
+    "date": "2015-03-05",
+    "uuid": "81110ee8-ab27-467f-86f3-c26ed2ede9a4",
+    "triplet-uuid": "a4edca3f-931f-4785-8c3f-f3d8fa84cbec",
+    "body-paragraphs": [
+        [
+            "WASHINGTON \u2014 As State Department lawyers sifted last summer through a new batch of documents related to the Benghazi attacks, they repeatedly saw something that caught their attention: emails sent to and from a personal account for Hillary Rodham Clinton."
+        ],
+        [
+            "The lawyers, according to current and former State Department officials, were working to respond to a request from a specially appointed House committee investigating the 2012 attacks in Libya.",
+            "But they noticed that among the 15,000 documents they examined, there were no emails to or from an official departmental account for Mrs. Clinton."
+        ],
+        [
+            "\u201cThis all raised the question to us: What else are we missing, and what do we need to comply\u201d with the request, said one official briefed on the matter."
+        ],
+        [
+            "Mrs. Clinton\u2019s spokesman and the State Department have cast her decision to hand over her emails as motivated by efforts to update the department\u2019s record management system.",
+            "\u201cWhen the department asked former secretaries last year for help ensuring their emails were in fact retained, we immediately said yes,\u201d Nick Merrill, the Clinton spokesman, said on Sunday."
+        ],
+        [
+            "But it was the review of Benghazi-related documents last summer that, within the State Department, set off the chain of events leading to the public disclosure this week of Mrs. Clinton\u2019s use of a private email account, according to the current and former department officials."
+        ],
+        [
+            "The decision to ask Mrs. Clinton for her emails went all the way to Secretary of State John Kerry\u2019s chief of staff, who, along with officials working on the response to the Benghazi requests, signed off on it."
+        ],
+        [
+            "Beginning in August, senior State Department officials held negotiations with Mrs. Clinton\u2019s lawyers and advisers to gain access to her personal email records.",
+            "At one point, her advisers met face-to-face with department officials in Washington."
+        ],
+        [
+            "In October, the State Department sent a letter to Mrs. Clinton and all former secretaries of state back to Madeleine K. Albright, seeking emails and other documents in their possession that related to their government work."
+        ],
+        [
+            "Finally, in December, dozens of boxes filled with 50,000 pages of printed emails from Mrs. Clinton\u2019s personal account were delivered to the State Department.",
+            "Those documents were then examined by department lawyers, who found roughly 900 pages pertaining to the Benghazi attacks."
+        ],
+        [
+            "Three weeks ago, the State Department handed over the Benghazi emails to the House Select Committee on Benghazi, which is led by Representative Trey Gowdy, Republican of South Carolina."
+        ],
+        [
+            "Mrs. Clinton\u2019s spokesman, Mr. Merrill, did not respond to an email seeking comment.",
+            "A senior State Department official said, \u201cIt would be oversimplified and inaccurate to draw the conclusion that the preservation of her records was done for one purpose.\u201d"
+        ],
+        [
+            "Late Wednesday night, two days after The New York Times first reported that she had exclusively used a personal email account as secretary of state, Mrs. Clinton announced that she had asked the State Department to release those communications."
+        ],
+        [
+            "\u201cI want the public to see my email,\u201d Mrs. Clinton wrote in a Twitter post shortly before midnight, addressing the issue publicly for the first time.",
+            "\u201cI asked State to release them.",
+            "They said they will review them for release as soon as possible.\u201d"
+        ],
+        [
+            "Mrs. Clinton\u2019s decision leaves it to the State Department to determine whether parts of her correspondence should be redacted if they contain information that could be damaging to national security, or for other reasons."
+        ],
+        [
+            "That process could take several months, officials said, because different parts of the State Department must weigh in on whether information should be redacted.",
+            "Other government agencies, like the C.I.A. and the Defense Department, may also need to be consulted on any information related to them."
+        ],
+        [
+            "While the State Department has said there does not appear to be any classified material in Mrs. Clinton\u2019s emails, officials said on Thursday that they needed to go through the trove again to determine whether it contained any \u201csensitive\u201d information."
+        ],
+        [
+            "Sensitive information is different from classified information.",
+            "It can be personal data, like Social Security numbers, or information on matters that other countries consider classified or important to their national security."
+        ],
+        [
+            "One State Department official said that if many lawyers were dedicated to the project, it could be completed in several weeks."
+        ],
+        [
+            "Since the disclosure that Mrs. Clinton used the private account, a spokeswoman for the State Department has described the request from Mrs. Clinton as part of the department\u2019s larger efforts to improve its record-keeping.",
+            "The spokeswoman, Marie Harf, was asked on Tuesday whether there was any connection between the requests from Congress and the decision to ask the former secretaries of state for emails from their personal accounts."
+        ],
+        [
+            "\u201cThe letter actually went before we got the request from the select committee,\u201d Ms. Harf said of the request to the former secretaries.",
+            "\u201cIt went in October of 2014 \u2014 that was before we had gotten a request from the committee \u2014 as part of our records-maintenance upgrading and the process we go through.\u201d"
+        ],
+        [
+            "Ms. Harf said that Mrs. Clinton was the only secretary of state who had sent back copies of emails."
+        ]
+    ]
+}

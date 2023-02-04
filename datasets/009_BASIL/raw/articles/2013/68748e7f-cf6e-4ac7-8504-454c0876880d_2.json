@@ -1,0 +1,73 @@
+{
+    "source": "nyt",
+    "main-entities": ["Asa Hutchinson", "National Rifle Association"],
+    "main-event": "NRA and Hutchinson recommends schools to have armed staff",
+    "title": "N.R.A. Details Plan for Armed School Guards",
+    "url": "http://www.nytimes.com/2013/04/03/us/nra-details-plan-for-armed-school-guards.html?n=Top/Reference/Times%20Topics/People/S/Stolberg,%20Sheryl%20Gay?ref=sherylgaystolberg&_r=0",
+    "word-count": 729,
+    "date": "2013-04-02",
+    "uuid": "a550672c-45e6-42e2-b05a-93d025d0227c",
+    "triplet-uuid": "68748e7f-cf6e-4ac7-8504-454c0876880d",
+    "body-paragraphs": [
+        [
+            "Report Sees Guns as Path to Safety in Schools"
+        ],
+        [
+            "WASHINGTON \u2014 With the Senate set to debate gun control this month, a National Rifle Association task force released a 225-page report on Tuesday that called for armed police officers, security guards or staff members in every American school, and urged states to loosen gun restrictions to allow trained teachers and administrators to carry weapons."
+        ],
+        [
+            "Asa Hutchinson, a former Republican congressman from Arkansas who led the task force, unveiled the report at a packed news conference with unusually heavy security, including a bomb-sniffing yellow Labrador retriever.",
+            "A dozen officers in plain clothes and uniforms stood watch as he spoke; one warned photographers to \u201cremain stationary\u201d during the event."
+        ],
+        [
+            "Among the study\u2019s central conclusions is that \u201cthe presence of armed security personnel adds a layer of security and diminishes response time\u201d in a shooting, Mr. Hutchinson said.",
+            "He cited a 1997 Mississippi case in which an assistant principal ran to his truck to retrieve a .45-caliber semiautomatic pistol and subdued a gunman who had killed two students."
+        ],
+        [
+            "The recommendations \u2014 which also included expanding the police presence in schools \u2014 drew immediate criticism from gun control advocates and many Democrats, who have been fighting to tighten gun restrictions after the massacre at Sandy Hook Elementary School in Newtown, Conn., in December."
+        ],
+        [
+            "\u201cArming the teacher is merely a response to the last tragedy,\u201d said Representative Mike Thompson, a California Democrat who is chairman of a House task force on gun violence.",
+            "\u201cThe one before that was in a shopping mall in Oregon, and the one before that was in a movie theater in Colorado.",
+            "I don\u2019t think the proper response is to arm all the projectionists in the movie theaters or all the vendors in the mall.\u201d"
+        ],
+        [
+            "After the Newtown shooting, Wayne LaPierre, the rifle association\u2019s executive director, announced that it would devise a plan to put armed guards in every school.",
+            "Technically, Mr. Hutchison\u2019s task force is independent of the rifle association, even though it paid for the study, and Mr. LaPierre was not present on Tuesday.",
+            "But critics see no distinction between the two."
+        ],
+        [
+            "Marian Wright Edelman, president of the Children\u2019s Defense Fund, an advocacy group here, criticized the study as \u201cnothing more than a continuation of the N.R.A.\u2019s attempts to prey on America\u2019s fears, saturate our schools with more guns and turn them into armed fortresses.\u201d"
+        ],
+        [
+            "But the report did get support from at least one Newtown parent: Mark Mattioli, whose 6-year-old son, James, was killed."
+        ],
+        [
+            "\u201cI think politics needs to be set aside here, and I hope this doesn\u2019t lead to name-calling,\u201d said Mr. Mattioli, who joined Mr. Hutchinson at the news conference.",
+            "\u201cThis is a recommendation for solutions, real solutions that will make our kids safer.",
+            "That\u2019s what we need.\u201d"
+        ],
+        [
+            "At least one state, Indiana, is considering the idea of armed officers at schools.",
+            "On Tuesday, a proposal that would require public and charter schools to have an armed \u201cprotection officer\u201d on school property during class hours passed a State House committee."
+        ],
+        [
+            "The task force panel called on the Departments of Homeland Security, Education and Justice to coordinate school safety efforts and provide grant money for schools to assess their ability to prevent and respond to attacks.",
+            "It recommended that officers or employees who are armed take a 40- to 60-hour training course to be developed by the rifle association based on a model the task force has designed."
+        ],
+        [
+            "The group also called on states to require schools to develop security plans."
+        ],
+        [
+            "But how and whether the task force recommendations will be put into effect \u2014 and the cost \u2014 was unclear."
+        ],
+        [
+            "The timing of Tuesday\u2019s announcement was not a coincidence: Congress will wrap up its spring recess after this week and is expected to consider gun legislation after lawmakers return.",
+            "President Obama has called for tough new controls on gun ownership, but the prospects for such legislation are murky \u2014 a testimony to the rifle association\u2019s prowess as a lobbying force."
+        ],
+        [
+            "A plan to revive and revamp a ban on assault weapons, which expired in 2004, is almost certain to be defeated.",
+            "Mr. Obama is pushing for a measure that would impose mandatory background checks for gun buyers, and the Senator Harry Reid, Democrat of Nevada, the majority leader, has promised to present a bill that would expand background checks to the floor for a vote."
+        ]
+    ]
+}
