@@ -49,4 +49,6 @@ for topic in topics:
     tweets_rumour['rumour'] = 1
     df = pd.concat([df, tweets_rumour])
 df['text'] = df['text'].apply(prepare_text)
+df.reset_index(inplace=True)
+df['id'] = df.index
 df.to_csv(clean_path)
