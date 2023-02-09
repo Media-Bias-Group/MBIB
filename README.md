@@ -1,10 +1,19 @@
 # Introducing MBIB - the first Media Bias Benchmark Task and Dataset Collection
+![d](img.png)
 
 # 1. Introduction
 This repository contains all resources from the paper "Introducing MBIB - the first Media Bias Benchmark Task and Dataset Collection"
-![d](img.png)
 
-# 2. Requirements
+# 2. Setup
+To use scripts in this repository install the python requirements:
+1. For dataset processing
+```
+pip install -r datasets/requirements.txt
+ ```
+2. For training a model 
+```
+pip install -r baseline/requirements.txt
+ ```
 
 # 3. Datasets
 
@@ -23,5 +32,23 @@ This repository contains all resources from the paper "Introducing MBIB - the fi
 # 4. Baseline
 
 # 5. Citation
-
-
+Please cite us as:
+```
+@InProceedings{Spinde2021f,
+    title = "Neural Media Bias Detection Using Distant Supervision With {BABE} - Bias Annotations By Experts",
+    author = "Spinde, Timo  and
+      Plank, Manuel  and
+      Krieger, Jan-David  and
+      Ruas, Terry  and
+      Gipp, Bela  and
+      Aizawa, Akiko",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2021",
+    month = nov,
+    year = "2021",
+    address = "Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.findings-emnlp.101",
+    doi = "10.18653/v1/2021.findings-emnlp.101",
+    pages = "1166--1177",
+}
+```
