@@ -1,0 +1,8 @@
+transformers==4.23.1
+pandas==1.5.2
+torch==1.12.1
+wandb==0.13.6
+accelerate==0.16.0
+scikit-learn==1.2.1
+tqdm==4.64.1
+numpy==1.23.5
