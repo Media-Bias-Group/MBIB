@@ -10,28 +10,19 @@ from torch.utils.data import DataLoader, SubsetRandomSampler
 from tqdm import trange
 from tqdm.auto import tqdm
 from transformers import get_scheduler
+from config import WANDB_API_KEY
 
 
-class ModelTraining:
+class ModelTrainer:
     def __init__(self, category, model_name):
-        self.max_epochs = 50  # Set it low for testing
+        self.max_epochs = 50
         self.category = category
         self.model_name = model_name
+        self.gpu_available = torch.cuda.is_available()
 
-    def training(self, model, optimizer, train_dataloader, dev_dataloader, device, accelerator, lr_scheduler):
-        """
-        Method for Training loop with Early Stopping based on the DevSet
-        :param model: Model Loaded in the Wrapper
-        :param optimizer: AdamW
-        :param train_dataloader:
-        :param dev_dataloader:
-        :param device: GPU
-        :param accelerator:
-        :return: trained model
-        """
-        # SHOW A PROGRESS BAR
+    def fit(self, model, optimizer, train_dataloader, dev_dataloader, device, accelerator, lr_scheduler):
+        """Method for Training loop with Early Stopping based on the DevSet"""
         num_training_steps = self.max_epochs * len(train_dataloader)
-
         progress_bar = tqdm(range(num_training_steps))
 
         # EARLY STOPPING CRITERIA
@@ -41,7 +32,6 @@ class ModelTraining:
         trigger = 0
 
         for epoch in trange(self.max_epochs, desc='Epoch'):
-            '''Need to implement Early Stopping Here'''
             print(f'Started Training Epoch {epoch}')
             # Training
             model.train()
@@ -56,7 +46,6 @@ class ModelTraining:
                             input_ids=batch['input_ids'], attention_mask=batch['attention_mask'], labels=batch['labels'])
                     loss = outputs.loss
                     accelerator.backward(loss)
-                    # loss.backward()
                     optimizer.step()
                     optimizer.zero_grad()
                     lr_scheduler.step()
@@ -81,8 +70,7 @@ class ModelTraining:
                 dev_actuals.extend(batch['labels'])
                 dev_predictions.extend(torch.argmax(logits, dim=-1))
 
-            current_loss = sum(loss_lst) / len(loss_lst)  # Dev Loss
-            # Logging of Dev Loss
+            current_loss = sum(loss_lst) / len(loss_lst)
             wandb.log({"loss": current_loss, "epoch": epoch})
             dev_predictions = torch.stack(dev_predictions).cpu()
             dev_actuals = torch.stack(dev_actuals).cpu()
@@ -106,14 +94,7 @@ class ModelTraining:
         return model
 
     def evaluate(self, model, test_dataloader, device, fold):
-        """
-        Evaluation model on the Test set
-        Generates and saves a report on Scores
-        :param model:
-        :param test_dataloader:
-        :param device:
-        :return:
-        """
+        """Evaluation model on the Test set"""
         num_test_steps = len(test_dataloader)
         progress_bar = tqdm(range(num_test_steps))
 
@@ -152,25 +133,11 @@ class ModelTraining:
         return f1_score
 
     def main(self, fold, train_ids, val_ids, data, model, learning_rate, batch_size, gpu_no):
-        """
-        Main Method calling the training and evaluation, starting wandb, setting the GPU, and initializes e.g. Optimizer and Accelerator
-        :param fold:
-        :param train_ids:
-        :param val_ids:
-        :param data:
-        :param model:
-        :param learning_rate:
-        :param batch_size:
-        :param gpu_no:
-        :return: None
-        """
-
+        """Main Method calling the training and evaluation, starting wandb, setting the GPU, and initializes e.g. Optimizer and Accelerator"""
         print(f'Training Initialized for fold {fold}')
         # Initialize Weights & Biases
-        wandb.login(
-            key="cf92a015b88020c5706b90817fdee3566cb8c5e5", relogin=True)
-        wandb.init(project="MBG-Model-testing-" +
-                   str(self.category) + str(self.model_name), reinit=True)
+        wandb.login(key =WANDB_API_KEY, relogin = True)
+        wandb.init(project=str(self.category) + str(self.model_name), reinit=True)
         wandb.config = {
             "learning_rate": learning_rate,
             "epochs": 20,
@@ -179,8 +146,7 @@ class ModelTraining:
         wandb.run.name = "Fold-" + str(fold)
 
         # Set the GPU
-        device = torch.device(gpu_no)
-        # print(device)
+        device = torch.device(gpu_no) if self.gpu_available else torch.device("cpu")
 
         # Create DEV and TEST Set from the K-folds Test Set
         # DEV Set used for early stopping criteria, the test set only for final evaluation
@@ -197,7 +163,9 @@ class ModelTraining:
             data, batch_size=batch_size, sampler=dev_sampler)
         test_dataloader = DataLoader(
             data, batch_size=batch_size, sampler=test_sampler)
-        model.to(device)  # Push model to GPU
+
+        # Push model to GPU
+        model.to(device)
         optimizer = torch.optim.AdamW(
             model.parameters(), lr=learning_rate)  # Initialize Optimizer
         # Enable gradient checkpointing to save memory
@@ -210,16 +178,16 @@ class ModelTraining:
         )
         # Start Accelerator See https://huggingface.co/docs/transformers/v4.20.1/en/perf_train_gpu_one
         accelerator = Accelerator(
-            fp16=True, device_placement=False, gradient_accumulation_steps=4)
-        model, optimizer, dataloader, lr_scheduler = accelerator.prepare(
+            device_placement=False, cpu=True, gradient_accumulation_steps=4)
+        model, optimizer,_,lr_scheduler = accelerator.prepare(
             model, optimizer, train_dataloader, lr_scheduler)
 
         # Model Training with Dev Evaluation for Early Stopping
-        model = self.training(model, optimizer, train_dataloader,
-                              dev_dataloader, device, accelerator, lr_scheduler)
+        model = self.fit(model, optimizer, train_dataloader,
+                         dev_dataloader, device, accelerator, lr_scheduler)
 
         # Evaluation on TestSet
         score = self.evaluate(model, test_dataloader, device, fold)
-        # torch.cuda.empty_cache()
+
         wandb.finish()
         return score
