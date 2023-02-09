@@ -1,1 +1,1 @@
-mbib-resources
+# Introducing MBIB- the first Media Bias Benchmark Task and Dataset Collection
