@@ -49,7 +49,7 @@ python process_all_datasets.py
 which processes all the datasets, if they have their raw data available and subsequently merges the datasets into 8 Tasks. For more information about the Tasks please see our paper.
 The output of the script can be found in `/datasets/mbib-full`
 
-# 3. Datasets
+The example instances of each MBIB task can be found in the following:
 
 | Task | Example from the MBIB datasets |
 | -|----|
