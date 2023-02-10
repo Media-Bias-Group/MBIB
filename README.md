@@ -1,8 +1,11 @@
 # Introducing MBIB - the first Media Bias Benchmark Task and Dataset Collection
 ![d](mbib_scheme.png)
 
-# 1. Introduction
-This repository contains all resources from the paper "Introducing MBIB - the first Media Bias Benchmark Task and Dataset Collection"
+# Introduction
+This repository contains all resources from the paper "Introducing MBIB - the first Media Bias Benchmark Task and Dataset Collection". MBIB (Media Bias Identification Benchmark) consists of 22 carefully selected bias datasets. For the full overview of all 118 collected media bias related datasets follow the [link](https://docs.google.com/spreadsheets/d/1BXcDcnBluSzv1bwwAEpRH61ObXd3Mxf66qsOVxilTXM/edit#gid=0).
+
+
+___
 
 [1. Datasets](#2-datasets)
   * [1. Getting started](#get-started-with-mbib)
@@ -13,10 +16,10 @@ This repository contains all resources from the paper "Introducing MBIB - the fi
 
 [3. Citation](#5-citation)
 
-# 2. Datasets
+# 1. Datasets
 ## Get started with MBIB
 ___
-To facilitate research of media bias we share our MBIB corpus on huggingface, as an easy entrypoint for data scientists of all skill levels. The corpus can be found on https://huggingface.co/datasets/mediabiasgroup/mbib and fetched through few lines of code:
+To facilitate research of media bias we share our MBIB corpus on huggingface, to provide an easy entrypoint for data scientists of all skill levels. The corpus can be found on https://huggingface.co/datasets/mediabiasgroup/mbib and fetched through few lines of code:
 ```python 
 from datasets import load_dataset
 
@@ -77,7 +80,7 @@ The example instances of each MBIB task can be found in the following:
 | Gender Bias | “For a woman that is good.” |
 | Political bias | “Generally happy with her fiscally prudent, dont-buy-what-you-cant-afford approach [...]” (classified right) vs “[...] some German voters have also begun to question austerity.” (classified left) 
 
-# 4. Baseline
+# 2. Baseline
 In order to reproduce the baseline results from our paper, 
 please install the python requirements:
 ```
@@ -89,9 +92,10 @@ python baseline/run_baseline.py
 ```
 For more information about the methods and training procedure please see [README in baseline directory](./baseline/README.md).
 
-# 5. Citation
+# 3. Citation
 Please cite us as:
 ```
+#PLACEHOLDER
 @InProceedings{Spinde2021f,
     title = "Neural Media Bias Detection Using Distant Supervision With {BABE} - Bias Annotations By Experts",
     author = "Spinde, Timo  and
