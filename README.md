@@ -15,6 +15,50 @@ pip install -r datasets/requirements.txt
 pip install -r baseline/requirements.txt
  ```
 
+# 3. Usage
+## Datasets
+----
+To facilitate research of media bias we share our MBIB corpus on huggingface, as an easy entrypoint for data scientists of all skill levels. The corpus can be found on https://huggingface.co/datasets/mediabiasgroup/mbib and fetched through few lines of code:
+```python 
+from datasets import load_dataset
+
+dataset = load_dataset("mediabiasgroup/mbib", "cognitive-bias")
+# use any of the following config names as a second argument:
+"cognitive-bias", "fake-news", "gender-bias", "hate-speech", 
+"linguistic-bias", "political-bias", "racial-bias", "text-level-bias"
+```
+
+For preprocessing of the datasets, please first install python dependencies:
+```
+pip install -r datasets/requirements.txt
+```
+The `/datasets` directory contains directories for all 22 MBIB datasets. Each dataset has it's ID unique within [this list](https://docs.google.com/spreadsheets/d/1BXcDcnBluSzv1bwwAEpRH61ObXd3Mxf66qsOVxilTXM/edit#gid=0).
+
+Each dataset directory is structured as follows:
+```
+├─ id_name
+     |
+     ├─── raw
+     |    ├─── raw_data
+     |    └─── README.md
+     |
+     ├──── id-name.csv
+     ├──── process.py
+     └──── README.md
+```
+Where 
+1. `raw` directory contains raw data and `README.md` file with instructions how to obtain the raw data. Few datasets we either cannot distribute or are too large in its raw form, therefore it's on the user to get them according to the instructions.
+2. `process.py` is a processing script that generates processed file `id-name.csv` out of raw data.
+3. `README.md` contains information about the dataset, citation information and original source.
+
+ 
+In order, to obtain the full MBIB corpus run
+```
+python process_all_datasets.py
+```
+which processes all the datasets, if they have their raw data available and subsequently merges the datasets into 8 Tasks. For more information about the Tasks please see our paper.
+The output of the script can be found in `/datasets/mbib-full`
+
 # 3. Datasets
 
 | Task | Example from the MBIB datasets |
