@@ -73,7 +73,7 @@ and run the training script:
 ```
 python baseline/run_baseline.py
 ```
-For more information about the methods and training procedure please see [README in baseline directory](baseline/../README.md).
+For more information about the methods and training procedure please see [README in baseline directory](./baseline/README.md).
 
 # 5. Citation
 Please cite us as:
