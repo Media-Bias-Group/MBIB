@@ -8,6 +8,7 @@ This repository contains all resources from the paper "Introducing MBIB - the fi
 
 # 2. Datasets
 ----
+## Get started with MBIB
 To facilitate research of media bias we share our MBIB corpus on huggingface, as an easy entrypoint for data scientists of all skill levels. The corpus can be found on https://huggingface.co/datasets/mediabiasgroup/mbib and fetched through few lines of code:
 ```python 
 from datasets import load_dataset
@@ -18,6 +19,7 @@ dataset = load_dataset("mediabiasgroup/mbib", "cognitive-bias")
 "linguistic-bias", "political-bias", "racial-bias", "text-level-bias"
 ```
 
+## Dataset processing
 For preprocessing of the datasets, please first install python dependencies:
 ```
 pip install -r datasets/requirements.txt
@@ -42,6 +44,7 @@ Where
 3. `README.md` contains information about the dataset, citation information and original source.
 
  
+## Create MBIB
 In order, to obtain the full MBIB corpus run
 ```
 python process_all_datasets.py
