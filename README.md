@@ -4,7 +4,14 @@
 # 1. Introduction
 This repository contains all resources from the paper "Introducing MBIB - the first Media Bias Benchmark Task and Dataset Collection"
 
+[1. Datasets](#2-datasets)
+  * [1. Getting started](#get-started-with-mbib)
+  * [2. Dataset processing](#dataset-processing)
+  * [3. Create MBIB](#create-mbib)
+   
+[2. Baseline](#4-baseline)
 
+[3. Citation](#5-citation)
 
 # 2. Datasets
 ----
