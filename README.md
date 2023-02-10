@@ -1,5 +1,5 @@
 # Introducing MBIB - the first Media Bias Benchmark Task and Dataset Collection
-![d](img.png)
+![d](mbib_scheme.png)
 
 # 1. Introduction
 This repository contains all resources from the paper "Introducing MBIB - the first Media Bias Benchmark Task and Dataset Collection"
@@ -14,8 +14,8 @@ This repository contains all resources from the paper "Introducing MBIB - the fi
 [3. Citation](#5-citation)
 
 # 2. Datasets
-----
 ## Get started with MBIB
+___
 To facilitate research of media bias we share our MBIB corpus on huggingface, as an easy entrypoint for data scientists of all skill levels. The corpus can be found on https://huggingface.co/datasets/mediabiasgroup/mbib and fetched through few lines of code:
 ```python 
 from datasets import load_dataset
@@ -27,6 +27,7 @@ dataset = load_dataset("mediabiasgroup/mbib", "cognitive-bias")
 ```
 
 ## Dataset processing
+___
 For preprocessing of the datasets, please first install python dependencies:
 ```
 pip install -r datasets/requirements.txt
@@ -50,11 +51,14 @@ Where
 2. `process.py` is a processing script that generates processed file `id-name.csv` out of raw data.
 3. `README.md` contains information about the dataset, citation information and original source.
 
+For one dataset, Twitter API is needed to fetch the data. In order to be able to fetch the tweets, put your twitter API credentials into `config.py`. If you don't have the Twitter API credentials, this dataset will be skipped.
+
  
 ## Create MBIB
+___
 In order, to obtain the full MBIB corpus run
 ```
-python process_all_datasets.py
+python create_corpus.py
 ```
 which processes all the datasets, if they have their raw data available and subsequently merges the datasets into 8 Tasks. For more information about the Tasks please see our paper.
 The output of the script can be found in `/datasets/mbib-full`
