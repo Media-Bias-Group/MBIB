@@ -4,19 +4,9 @@
 # 1. Introduction
 This repository contains all resources from the paper "Introducing MBIB - the first Media Bias Benchmark Task and Dataset Collection"
 
-# 2. Setup
-To use scripts in this repository install the python requirements:
-1. For dataset processing
-```
-pip install -r datasets/requirements.txt
- ```
-2. For training a model 
-```
-pip install -r baseline/requirements.txt
- ```
 
-# 3. Usage
-## Datasets
+
+# 2. Datasets
 ----
 To facilitate research of media bias we share our MBIB corpus on huggingface, as an easy entrypoint for data scientists of all skill levels. The corpus can be found on https://huggingface.co/datasets/mediabiasgroup/mbib and fetched through few lines of code:
 ```python 
@@ -74,6 +64,16 @@ The output of the script can be found in `/datasets/mbib-full`
 | Political bias | “Generally happy with her fiscally prudent, dont-buy-what-you-cant-afford approach [...]” (classified right) vs “[...] some German voters have also begun to question austerity.” (classified left) 
 
 # 4. Baseline
+In order to reproduce the baseline results from our paper, 
+please install the python requirements:
+```
+pip -r install baseline/requirements.txt
+```
+and run the training script:
+```
+python baseline/run_baseline.py
+```
+For more information about the methods and training procedure please see [README in baseline directory](baseline/../README.md).
 
 # 5. Citation
 Please cite us as:
