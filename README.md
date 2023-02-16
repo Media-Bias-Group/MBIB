@@ -67,26 +67,13 @@ which processes all the datasets, if the particular raw data are available and s
 The output of the script can be found in `/datasets/mbib-full`
 
 
-
-| Task | Data Points|
-|------|-----------|
-| Linguistic Bias                                 | 433,677 |
-| Cognitive Bias                                  | 2,344,387 |
-| Text-Level Context | 28,329|
-| Hate Speech                                     | 2,050,674|
-| Gender Bias                                     | 33,121 |
-| Racial Bias                                     | 2,371|
-| Fake News                                       |24,394|
-| Political Bias                                  |2,348,198|
-
-dd 
+The final size of each MBIB task as well as sample instance can be seen below. For details about each task and sizes of its datasets please see [README in datasets directory](/datasets/README.md).
 
 | Task | Linguistic Bias |  Cognitive Bias | Text-Level Context | Hate Speech| Gender Bias| Racial Bias| Fake News| Political Bias| 
 | -----|--------|-------|-------|-----|-------|-------|-------|------|
 | Total size | 433,677 | 2,344,387 | 28,329|2,050,674|33,121 |2,371|24,394|2,348,198|
 
 
-The example instances of each MBIB task can be found in the following:
 
 | Task | Example from the MBIB datasets |
 | -|----|
