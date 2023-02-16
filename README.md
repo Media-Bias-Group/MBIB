@@ -1,10 +1,11 @@
 # Introducing MBIB - the first Media Bias Benchmark Task and Dataset Collection
-![d](mbib_scheme.png)
+![d](figures/pokus.png)
 
 # Introduction
-This repository contains all resources from the paper "Introducing MBIB - the first Media Bias Benchmark Task and Dataset Collection". MBIB (Media Bias Identification Benchmark) consists of 22 carefully selected bias datasets. For the full overview of all 118 collected media bias related datasets follow the [link](https://docs.google.com/spreadsheets/d/1BXcDcnBluSzv1bwwAEpRH61ObXd3Mxf66qsOVxilTXM/edit#gid=0).
+This repository contains all resources from the paper "Introducing MBIB - the first Media Bias Benchmark Task and Dataset Collection". MBIB (Media Bias Identification Benchmark) consists of 22 carefully selected bias datasets.
 
-
+we distill or investigate 118 tasks, from X publications, and come up with these 22
+ For the full overview of all 118 collected media bias related datasets follow the [link](https://docs.google.com/spreadsheets/d/1BXcDcnBluSzv1bwwAEpRH61ObXd3Mxf66qsOVxilTXM/edit#gid=0).
 ___
 
 [1. Datasets](#2-datasets)
@@ -63,7 +64,7 @@ In order, to obtain the full MBIB corpus run
 ```
 python create_corpus.py
 ```
-which processes all the datasets, if they have their raw data available and subsequently merges the datasets into 8 Tasks. For more information about the Tasks please see our paper.
+which processes all the datasets, if the particular raw data are available and subsequently merges the datasets into 8 Tasks. For more information about the Tasks please see our paper.
 The output of the script can be found in `/datasets/mbib-full`
 
 The example instances of each MBIB task can be found in the following:
