@@ -83,7 +83,7 @@ dd
 
 | Task | Linguistic Bias |  Cognitive Bias | Text-Level Context | Hate Speech| Gender Bias| Racial Bias| Fake News| Political Bias| 
 | -----|--------|-------|-------|-----|-------|-------|-------|------|
-| d | dd|
+| Total size | 433,677 | 2,344,387 | 28,329|2,050,674|33,121 |2,371|24,394|2,348,198|
 
 
 The example instances of each MBIB task can be found in the following:
