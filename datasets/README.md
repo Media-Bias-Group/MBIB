@@ -8,15 +8,15 @@ The 22 tasks in this repository were carefully selected out of bigger, more exte
 
 | Bias Type |Total size|Dataset| Data Points|
 |-----------|----------|-------|------------|
-| Linguistic Bias                                 | Wikipedia NPOV \cite{hubeNeuralBasedStatement2019b}                          | 11,945               |
-|                                                 | BABE \cite{spindeNeuralMediaBias2021}                                        | 3,673                |
-|                                                 | Wiki Neutrality Corpus \cite{pryzantAutomaticallyNeutralizingSubjective2019} | 362,991              |
-|                                                 | UsVsThem \cite{huguetcabotUsVsThem2021}                                      | 6,863                |
-|                                                 | RedditBias \cite{barikeriRedditBiasRealWorldResource2021a}                   | 10,583               |
-|                                                 | Media Frames Corpus \cite{kwakSystematicMediaFrame2020}                      | 37,622               |
-|                                                 | BASIL \cite{fanPlainSightMedia2019}                                          | 1,726                |
-|                                                 | Biased Sentences \cite{zotero-1084}                                          | 842                  |
-|                                                 |                                                                              | 433,677* \tnote{*}   |
+| Linguistic Bias| 433,677 |Wikipedia NPOV | 11,945|
+|| |BABE|3,673|
+|| |Wiki Neutrality Corpus| 362,991 |
+|| |UsVsThem| 6,863 |
+|| |RedditBias | 10,583 |
+|| |Media Frames Corpus | 37,622|
+|| |BASIL| 1,726|
+|| |Biased Sentences |842 |
+||
 | Cognitive Bias                                  | BIGNEWS \cite{liuPOLITICSPretrainingSamestory2022}                           | 2,331,552            |
 |                                                 | Liar Dataset \cite{wangLiarLiarPants2017a}                                   | 12,835               |
 |                                                 |                                                                              | 2,344,387* \tnote{*} |
