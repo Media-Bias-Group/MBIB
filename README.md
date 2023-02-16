@@ -68,6 +68,17 @@ The output of the script can be found in `/datasets/mbib-full`
 
 The example instances of each MBIB task can be found in the following:
 
+| Task | Data Points|
+|------|-----------|
+| Linguistic Bias                                 | 433,677 |
+| Cognitive Bias                                  | 2,344,387 |
+| Text-Level Context | 28,329|
+| Hate Speech                                     | 2,050,674|
+| Gender Bias                                     | 33,121 |
+| Racial Bias                                     | 2,371|
+| Fake News                                       |24,394|
+| Political Bias                                  |2,348,198|
+
 | Task | Example from the MBIB datasets |
 | -|----|
 | Linguistic bias | “A Trump-loving white security guard with a racist past shot and killed an unarmed Black man during an unprovoked hotel parking lot attack"|
@@ -80,51 +91,7 @@ The example instances of each MBIB task can be found in the following:
 | Gender Bias | “For a woman that is good.” |
 | Political bias | “Generally happy with her fiscally prudent, dont-buy-what-you-cant-afford approach [...]” (classified right) vs “[...] some German voters have also begun to question austerity.” (classified left) 
 
-| Bias Type |Dataset| Data Points|
-|------|-----------|----------|
-| Linguistic Bias                                 | Wikipedia NPOV| 11,945               |
-|                                                 | BABE                           | 3,673                |
-|                                                 | Wiki Neutrality Corpus| 362,991              |
-|                                                 | UsVsThem                                | 6,863                |
-|                                                 | RedditBias                | 10,583               |
-|                                                 | Media Frames Corpus                 | 37,622               |
-|                                                 | BASIL                      | 1,726                |
-|                                                 | Biased Sentences                                        | 842                  |
-|                                                 |                                                                              | Σ 433,677 |
-||
-| Cognitive Bias                                  | BIGNEWS   | 2,331,552            |
-|                                                 | Liar Dataset   | 12,835               |
-|                                                 |                                                                              | Σ 2,344,387 |
-||
-| Text-Level Context | Contextual Abuse Dataset | 26,235|
-|                                                 | Multidimensional Dataset     | 2,094                |
-|                                                 |                                                                              |Σ 28,329|
-||
-| Hate Speech                                     | Kaggle Jigsaw         | 1,999,516            |
-|                                                 | HateXplain                     | 20,148               |
-|                                                 | RedditBias        | 10,583               |
-|                                                 | Online Harassment Corpus             | 20,427               |
-|                                                 |                                                                              |Σ 2,050,674|
-||
-| Gender Bias                                     | RedditBias               | 3,000                |
-|                                                 | RtGender                         | 15,351               |
-|                                                 | WorkPlace sexism                 | 1,136                |
-|                                                 | CMSB                   | 13,634               |
-|                                                 |                                                                              |Σ 33,121 |
-||
-| Racial Bias                                     | RedditBias                 | 2,620                |
-|                                                 | RacialBias                             | 751                  |
-|                                                 |                                                                              |Σ 2,371|
-||
-| Fake News                                       | Liar Dataset                              | 12,835               |
-|                                                 | PHEME                           | 5,222                |
-|                                                 | FakeNewsNet                     | 6,337                |
-|                                                 |                                                                              |Σ 24,394|
-||
-| Political Bias                                  | UsVsThem                                  | 6,863                |
-|                                                 | BIGNEWS                  | 2,331,552            |
-|                                                 | SemEval                             | 9,783                |
-|                                                 |                                                                              |Σ 2,348,198|
+
 
 # 2. Training & Evaluation
 In order to reproduce the baseline results from our paper, 
