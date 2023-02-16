@@ -16,11 +16,11 @@ The 22 tasks in this repository were carefully selected out of bigger, more exte
 |                                                 | Media Frames Corpus                 | 37,622               |
 |                                                 | BASIL                      | 1,726                |
 |                                                 | Biased Sentences                                        | 842                  |
-|                                                 |                                                                              | $\sum$ 433,677 |
+|                                                 |                                                                              | Σ 433,677 |
 ||
 | Cognitive Bias                                  | BIGNEWS   | 2,331,552            |
 |                                                 | Liar Dataset   | 12,835               |
-|                                                 |                                                                              | $\sum$ 2,344,387 |
+|                                                 |                                                                              | Σ 2,344,387 |
 ||
 | Text-Level Context | Contextual Abuse Dataset | 26,235|
 |                                                 | Multidimensional Dataset     | 2,094                |
@@ -30,23 +30,28 @@ The 22 tasks in this repository were carefully selected out of bigger, more exte
 |                                                 | HateXplain                     | 20,148               |
 |                                                 | RedditBias        | 10,583               |
 |                                                 | Online Harassment Corpus             | 20,427               |
-|                                                 |                                                                              | 2,050,674|
+|                                                 |                                                                              |Σ 2,050,674|
+||
 | Gender Bias                                     | RedditBias               | 3,000                |
 |                                                 | RtGender                         | 15,351               |
 |                                                 | WorkPlace sexism                 | 1,136                |
 |                                                 | CMSB                   | 13,634               |
-|                                                 |                                                                              | 33,121 |
+|                                                 |                                                                              |Σ 33,121 |
+||
 | Racial Bias                                     | RedditBias                 | 2,620                |
 |                                                 | RacialBias                             | 751                  |
-|                                                 |                                                                              | 2,371|
+|                                                 |                                                                              |Σ 2,371|
+||
 | Fake News                                       | Liar Dataset                              | 12,835               |
 |                                                 | PHEME                           | 5,222                |
 |                                                 | FakeNewsNet                     | 6,337                |
-|                                                 |                                                                              | 24,394|
+|                                                 |                                                                              |Σ 24,394|
+||
 | Political Bias                                  | UsVsThem                                  | 6,863                |
 |                                                 | BIGNEWS                  | 2,331,552            |
 |                                                 | SemEval                             | 9,783                |
-|                                                 |                                                                              | 2,348,198|
+|                                                 |                                                                              |Σ 2,348,198|
+
 
 
 
