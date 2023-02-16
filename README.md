@@ -66,7 +66,7 @@ python create_corpus.py
 which processes all the datasets, if the particular raw data are available and subsequently merges the datasets into 8 Tasks. For more information about the Tasks please see our paper.
 The output of the script can be found in `/datasets/mbib-full`
 
-The example instances of each MBIB task can be found in the following:
+
 
 | Task | Data Points|
 |------|-----------|
@@ -78,6 +78,15 @@ The example instances of each MBIB task can be found in the following:
 | Racial Bias                                     | 2,371|
 | Fake News                                       |24,394|
 | Political Bias                                  |2,348,198|
+
+dd 
+
+| Task | Linguistic Bias |  Cognitive Bias | Text-Level Context | Hate Speech| Gender Bias| Racial Bias| Fake News| Political Bias| 
+| -----|--------|-------|-------|-----|-------|-------|-------|------|
+| d | dd|
+
+
+The example instances of each MBIB task can be found in the following:
 
 | Task | Example from the MBIB datasets |
 | -|----|
