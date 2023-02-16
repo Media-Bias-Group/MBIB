@@ -1,5 +1,5 @@
 # Introducing MBIB - the first Media Bias Benchmark Task and Dataset Collection
-![d](figures/pokus.png)
+![d](figures/transparent.png)
 
 # Introduction
 This repository contains all resources from the paper "Introducing MBIB - the first Media Bias Benchmark Task and Dataset Collection". MBIB (Media Bias Identification Benchmark) consists of 22 carefully selected bias datasets.
