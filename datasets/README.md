@@ -59,5 +59,6 @@ The 22 tasks in this repository were carefully selected out of bigger, more exte
 ## Files description
 * `data_utils.py`
   * Contains `TweetLoader` class that fetches batches or single tweets from TwitterAPI.
-  * Contains `MBIBDataLoader` class, that aggregates processed datasets into 8 Tasks. This class is used by `create_corpus.py` script to create final corpus.
+  * Contains `MBIBDataLoader` class, that aggregates processed datasets into 8 Tasks. 
+  This class is used by `create_corpus.py` script to create final corpus.
   
