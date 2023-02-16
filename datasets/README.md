@@ -17,6 +17,7 @@ The 22 tasks in this repository were carefully selected out of bigger, more exte
 |                                                 | BASIL                      | 1,726                |
 |                                                 | Biased Sentences                                        | 842                  |
 |                                                 |                                                                              | 433,677 |
+||
 | Cognitive Bias                                  | BIGNEWS   | 2,331,552            |
 |                                                 | Liar Dataset   | 12,835               |
 |                                                 |                                                                              | 2,344,387 |
