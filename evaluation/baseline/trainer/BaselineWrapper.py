@@ -12,12 +12,12 @@ import numpy as np
 import pandas as pd
 import os
 import torch
-from baseline.trainer.ModelTrainer import ModelTrainer
-from baseline.trainer.model_specification import modelspecifications
+from evaluation.baseline.trainer.BaselineTrainer import BaselineTrainer
+from evaluation.model_specification import modelspecifications
 from sklearn.model_selection import StratifiedKFold
 
 
-class TrainerWrapper:
+class BaselineWrapper:
 
     def __init__(self, k, category:str, model_name, gpu, batch_size=256, model_length=512):
         self.k = k
@@ -29,7 +29,7 @@ class TrainerWrapper:
 
     def load_data(self, category):
         """Loads the data from stored place and returns df"""
-        df = pd.read_csv(os.getcwd() + "/datasets/mbib-aggregated/" + self.category + ".csv")
+        df = pd.read_csv(os.getcwd() + "/datasets/mbib-full/" + self.category + ".csv")
         data = []
         for index, row in df.iterrows():
             data.append({'text': str(
@@ -39,7 +39,7 @@ class TrainerWrapper:
     def run_parallel(self, args: list):
         """Method to run multiple functions in parallel"""
 
-        training = ModelTraining()
+        training = BaselineTrainer()
         process = []
         for arg in args:
             # with queue (queue,) +
@@ -62,8 +62,7 @@ class TrainerWrapper:
         """Tokenizer for now takes a list with dictionaries of the shape [{'text': 'sometext','label':0}, ...]"""
         tokenized = []
         for i in range(len(data)):
-            token = tokenizer(
-                data[i]["text"], padding="max_length", truncation=True)
+            token = tokenizer(data[i]["text"], padding="max_length", truncation=True)
             token['labels'] = data[i]['label']
             # Need to input the dataset number in the dataloader class
             token['dataset_id'] = int(data[i]['dataset_id'])
@@ -106,14 +105,13 @@ class TrainerWrapper:
         # Split Data into Folds and Input Folds into ModelTraining Method from MBTraining.py
         splits = StratifiedKFold(
             n_splits=self.k, shuffle=True, random_state=42)
-        trainer = ModelTrainer(self.category, self.model_name)
+        trainer = BaselineTrainer(self.category, self.model_name)
 
         score_lst, time_lst = [], []
         for fold, (train_ids, val_ids) in enumerate(splits.split(np.arange(len(data)), [ele['dataset_id'] for ele in data])):
             start = time.time()
             score = trainer.main(fold, train_ids, val_ids, data, copy.deepcopy(
                 model), learning_rate, self.batch_size, "cuda:" + str(self.gpu))
-            score = 5
             fold_time = time.time() - start
             print(f'fold_time: {fold_time}')
             score_lst.append(score)

@@ -6,6 +6,44 @@ The 22 tasks in this repository were carefully selected out of bigger, more exte
 ![d](../figures/mbib_process.png)
 
 
+| Bias Type |Total size|Dataset| Data Points|
+|-----------|----------|-------|------------|
+| Linguistic Bias                                 | Wikipedia NPOV \cite{hubeNeuralBasedStatement2019b}                          | 11,945               |
+|                                                 | BABE \cite{spindeNeuralMediaBias2021}                                        | 3,673                |
+|                                                 | Wiki Neutrality Corpus \cite{pryzantAutomaticallyNeutralizingSubjective2019} | 362,991              |
+|                                                 | UsVsThem \cite{huguetcabotUsVsThem2021}                                      | 6,863                |
+|                                                 | RedditBias \cite{barikeriRedditBiasRealWorldResource2021a}                   | 10,583               |
+|                                                 | Media Frames Corpus \cite{kwakSystematicMediaFrame2020}                      | 37,622               |
+|                                                 | BASIL \cite{fanPlainSightMedia2019}                                          | 1,726                |
+|                                                 | Biased Sentences \cite{zotero-1084}                                          | 842                  |
+|                                                 |                                                                              | 433,677* \tnote{*}   |
+| Cognitive Bias                                  | BIGNEWS \cite{liuPOLITICSPretrainingSamestory2022}                           | 2,331,552            |
+|                                                 | Liar Dataset \cite{wangLiarLiarPants2017a}                                   | 12,835               |
+|                                                 |                                                                              | 2,344,387* \tnote{*} |
+| \multirow{2}{*}{\makecell[l]{Text-Level Context |
+|                                                 | Multidimensional Dataset \cite{farberMultidimensionalDatasetBased2020a}      | 2,094                |
+|                                                 |                                                                              | 28,329* \tnote{*}    |
+| Hate Speech                                     | Kaggle Jigsaw \cite{jigsaw/conversationaiJigsawUnintendedBias2019}           | 1,999,516            |
+|                                                 | HateXplain \cite{mathewHateXplainBenchmarkDataset2021a}                      | 20,148               |
+|                                                 | RedditBias \cite{barikeriRedditBiasRealWorldResource2021a}                   | 10,583               |
+|                                                 | Online Harassment Corpus \cite{golbeckLargeLabeledCorpus2017}                | 20,427               |
+|                                                 |                                                                              | 2,050,674* \tnote{*} |
+| Gender Bias                                     | RedditBias \cite{barikeriRedditBiasRealWorldResource2021a}                   | 3,000                |
+|                                                 | RtGender \cite{voigtRtGenderCorpusStudying2018}                              | 15,351               |
+|                                                 | WorkPlace sexism \cite{groszAutomaticDetectionSexist2020}                    | 1,136                |
+|                                                 | CMSB \cite{samoryCallMeSexist2020}                                           | 13,634               |
+|                                                 |                                                                              | 33,121* \tnote{*}    |
+| Racial Bias                                     | RedditBias \cite{barikeriRedditBiasRealWorldResource2021a}                   | 2,620                |
+|                                                 | RacialBias \cite{ghoshalRacialBiasTwitter2018}                               | 751                  |
+|                                                 |                                                                              | 2,371* \tnote{*}     |
+| Fake News                                       | Liar Dataset \cite{wangLiarLiarPants2017a}                                   | 12,835               |
+|                                                 | PHEME \cite{zubiagaExploitingContextRumour2017}                              | 5,222                |
+|                                                 | FakeNewsNet \cite{shuFakeNewsNetDataRepository2020}                          | 6,337                |
+|                                                 |                                                                              | 24,394* \tnote{*}    |
+| Political Bias                                  | UsVsThem \cite{huguetcabotUsVsThem2021}                                      | 6,863                |
+|                                                 | BIGNEWS \cite{liuPOLITICSPretrainingSamestory2022}                           | 2,331,552            |
+|                                                 | SemEval \cite{kieselDataPANSemEval2018}                                      | 9,783                |
+|                                                 |                                                                              | 2,348,198* \tnote{*} |
 
 
 

@@ -19,7 +19,7 @@ Implementation of the experiments performed in the paper. See baseline performan
     wrapper = TrainerWrapper(5, 'cognitive-bias', "bart", gpu=0,batch_size=64, model_length=78)
     result = wrapper.run()
    ```
-* `model_specifications.py`
+* `trainer/model_specifications.py`
     - This file is used by `TrainerWrapper.py` for specification of the model, which is accessed through huggingface.
     - used models:
       * [ConvBert](https://huggingface.co/YituTech/conv-bert-base)
@@ -27,7 +27,7 @@ Implementation of the experiments performed in the paper. See baseline performan
       * [TwitterRoBERTa](https://huggingface.co/cardiffnlp/twitter-roberta-base)
       * [GPT2](https://huggingface.co/gpt2)
       * [Electra](https://huggingface.co/google/electra-base-discriminator)
-* `TrainerWrapper.py`
+* `trainer/TrainerWrapper.py`
   * This is a wrapper class that wraps tokenization, configuration and training of the model into k-fold cross-validation.
-* `ModelTrainer.py`
+* `trainer/ModelTrainer.py`
   * Main training class using accelerator for improved training and [Weights & Biases](https://wandb.ai/home) for logging. If you want to use the weights & biases, put your wandb API key to the `config.py`

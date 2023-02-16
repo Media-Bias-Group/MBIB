@@ -2,11 +2,12 @@ from transformers import (AutoModelForSequenceClassification, AutoTokenizer,
                           BartForSequenceClassification, BartTokenizer,
                           ConvBertForSequenceClassification, ConvBertTokenizer,
                           ElectraForSequenceClassification, ElectraTokenizer,
-                          GPT2ForSequenceClassification, GPT2Tokenizer)
+                          GPT2ForSequenceClassification, GPT2Tokenizer,
+                          RobertaForSequenceClassification,RobertaTokenizer)
 
 
 
-def modelspecifications(name, model_length):
+def modelspecifications(name, model_length=128):
     if name == "convbert":
         convbert_tokenizer = ConvBertTokenizer.from_pretrained(
             'YituTech/conv-bert-base', model_max_length=model_length)
@@ -48,7 +49,14 @@ def modelspecifications(name, model_length):
             'google/electra-base-discriminator', num_labels=2)
         learning_rate = 5e-5
         return electra_model, electra_tokenizer, learning_rate
-
+    
+    elif name == "roberta":
+        roberta_twitter_tokenizer = AutoTokenizer.from_pretrained(
+            "roberta-base", model_max_length=model_length,use_fast=False)
+        roberta_twitter_model = AutoModelForSequenceClassification.from_pretrained(
+            'roberta-base', num_labels=2)
+        learning_rate = 5e-5
+        return roberta_twitter_model, roberta_twitter_tokenizer, learning_rate
     else:
         print('Model not found')
         raise ValueError

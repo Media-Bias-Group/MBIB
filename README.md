@@ -4,8 +4,6 @@
 # Introduction
 This repository contains all resources from the paper "Introducing MBIB - the first Media Bias Benchmark Task and Dataset Collection". MBIB (Media Bias Identification Benchmark) consists of 22 carefully selected bias datasets.
 
-we distill or investigate 118 tasks, from X publications, and come up with these 22
- For the full overview of all 118 collected media bias related datasets follow the [link](https://docs.google.com/spreadsheets/d/1BXcDcnBluSzv1bwwAEpRH61ObXd3Mxf66qsOVxilTXM/edit#gid=0).
 ___
 
 [1. Datasets](#2-datasets)
@@ -36,7 +34,8 @@ For preprocessing of the datasets, please first install python dependencies:
 ```
 pip install -r datasets/requirements.txt
 ```
-The `/datasets` directory contains directories for all 22 MBIB datasets. Each dataset has it's ID unique within [this list](https://docs.google.com/spreadsheets/d/1BXcDcnBluSzv1bwwAEpRH61ObXd3Mxf66qsOVxilTXM/edit#gid=0).
+The `/datasets` directory contains directories for all 22 MBIB datasets. We distilled the datasets from broad collection of datasets that we collected. This full collection can be found [here](https://docs.google.com/spreadsheets/d/1BXcDcnBluSzv1bwwAEpRH61ObXd3Mxf66qsOVxilTXM/edit#gid=0).
+Each datasets ID is unique within the collection mentioned above.
 
 Each dataset directory is structured as follows:
 ```
@@ -81,7 +80,7 @@ The example instances of each MBIB task can be found in the following:
 | Gender Bias | “For a woman that is good.” |
 | Political bias | “Generally happy with her fiscally prudent, dont-buy-what-you-cant-afford approach [...]” (classified right) vs “[...] some German voters have also begun to question austerity.” (classified left) 
 
-# 2. Baseline
+# 2. Training & Evaluation
 In order to reproduce the baseline results from our paper, 
 please install the python requirements:
 ```

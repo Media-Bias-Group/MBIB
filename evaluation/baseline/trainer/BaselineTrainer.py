@@ -13,9 +13,9 @@ from transformers import get_scheduler
 from config import WANDB_API_KEY
 
 
-class ModelTrainer:
+class BaselineTrainer:
     def __init__(self, category, model_name):
-        self.max_epochs = 50
+        self.max_epochs = 10
         self.category = category
         self.model_name = model_name
         self.gpu_available = torch.cuda.is_available()
@@ -146,7 +146,7 @@ class ModelTrainer:
         wandb.run.name = "Fold-" + str(fold)
 
         # Set the GPU
-        device = torch.device(gpu_no) if self.gpu_available else torch.device("cpu")
+        device =  torch.device("cpu")
 
         # Create DEV and TEST Set from the K-folds Test Set
         # DEV Set used for early stopping criteria, the test set only for final evaluation
