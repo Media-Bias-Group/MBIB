@@ -24,7 +24,8 @@ The 22 tasks in this repository were carefully selected out of bigger, more exte
 ||
 | Text-Level Context | Contextual Abuse Dataset | 26,235|
 |                                                 | Multidimensional Dataset     | 2,094                |
-|                                                 |                                                                              | 28,329|
+|                                                 |                                                                              |Σ 28,329|
+||
 | Hate Speech                                     | Kaggle Jigsaw         | 1,999,516            |
 |                                                 | HateXplain                     | 20,148               |
 |                                                 | RedditBias        | 10,583               |
