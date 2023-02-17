@@ -6,12 +6,12 @@ This repository contains all resources from the paper "Introducing MBIB - the fi
 
 ___
 
-[1. Datasets](#2-datasets)
+[1. Datasets](#1-datasets)
   * [1. Getting started](#get-started-with-mbib)
   * [2. Dataset processing](#dataset-processing)
   * [3. Create MBIB](#create-mbib)
    
-[2. Training & evaluation](#2-Training-&-evaluation)
+[2. Training & evaluation](#2-training-and-evaluation)
 
 [3. Citation](#5-citation)
 
@@ -89,12 +89,12 @@ The final size of each MBIB task as well as sample instance can be seen below. F
 
 
 
-# 2. Training & Evaluation
+# 2. Training and Evaluation
 As a part of our contribution, we share the evaluation script that can be used for evaluating your own models on the MBIB.
 
 
 
-**For evaluation** please install the python requirements 
+**For evaluation on MBIB** please install the python requirements 
 ```
 pip -r install evaluation/requirements.txt
 ``` 
