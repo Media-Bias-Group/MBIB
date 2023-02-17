@@ -12,7 +12,7 @@ import numpy as np
 import pandas as pd
 import os
 import torch
-from evaluation.baseline.trainer.BaselineTrainer import BaselineTrainer
+from baseline.trainer.BaselineTrainer import BaselineTrainer
 from evaluation.model_specification import modelspecifications
 from sklearn.model_selection import StratifiedKFold
 

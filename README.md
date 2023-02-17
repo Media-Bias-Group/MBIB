@@ -90,16 +90,25 @@ The final size of each MBIB task as well as sample instance can be seen below. F
 
 
 # 2. Training & Evaluation
-In order to reproduce the baseline results from our paper, 
-please install the python requirements:
+As a part of our contribution, we share the evaluation script that can be used for evaluating your own models on the MBIB.
+
+
+
+**For evaluation** please install the python requirements 
 ```
-pip -r install baseline/requirements.txt
+pip -r install evaluation/requirements.txt
+``` 
+
+and run the eval script:
 ```
-and run the training script:
+python evaluation/run_evaluation.py
 ```
-python baseline/run_baseline.py
-```
-For more information about the methods and training procedure please see [README in baseline directory](./baseline/README.md).
+
+If you want to evaluate your own models and/or configure the training parameters, please follow instructions in [README in evaluation directory](evaluation/).
+
+
+Additionally we also share the code of our baseline training for the sake of reproducibility. For more information please see README in [baseline directory](baseline/)
+
 
 # 3. Citation
 Please cite us as:

@@ -12,6 +12,18 @@ Implementation of the experiments performed in the paper. See baseline performan
 | political-bias | ConvBERT/ConvBERT | 0.7041 | 0.7110 |
 | racial-bias | ConvBERT/ELECTRA | 0.8772 | 	0.6170 |
 | text-level-bias | ConvBERT/ConvBERT | 0.7697 | 	0.7532 |
+
+## Reproduce results
+In order to reproduce the baseline results 
+please install the python requirements:
+```
+pip -r install baseline/requirements.txt
+```
+and run the training script:
+```
+python baseline/run_baseline.py
+```
+
 ## Files descriptions
 * `run_baseline.py`
   * script where specifics of the training are defined, see example below
