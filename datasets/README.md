@@ -1,4 +1,3 @@
-datasets
 # Dataset collection
 The 22 tasks in this repository were carefully selected out of bigger, more extenstive collection under several criteria.
 

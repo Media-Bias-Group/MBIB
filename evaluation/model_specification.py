@@ -51,12 +51,12 @@ def modelspecifications(name, model_length=128):
         return electra_model, electra_tokenizer, learning_rate
     
     elif name == "roberta":
-        roberta_twitter_tokenizer = AutoTokenizer.from_pretrained(
+        roberta_tokenizer = RobertaTokenizer.from_pretrained(
             "roberta-base", model_max_length=model_length,use_fast=False)
-        roberta_twitter_model = AutoModelForSequenceClassification.from_pretrained(
+        roberta_model = RobertaForSequenceClassification.from_pretrained(
             'roberta-base', num_labels=2)
         learning_rate = 5e-5
-        return roberta_twitter_model, roberta_twitter_tokenizer, learning_rate
+        return roberta_model, roberta_tokenizer, learning_rate
     else:
         print('Model not found')
         raise ValueError

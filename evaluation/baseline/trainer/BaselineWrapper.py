@@ -42,7 +42,6 @@ class BaselineWrapper:
         training = BaselineTrainer()
         process = []
         for arg in args:
-            # with queue (queue,) +
             p = Process(target=training.fit, args=arg)
             p.start()
             process.append(p)
