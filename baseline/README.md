@@ -1,5 +1,6 @@
 # Baseline training & evaluation
-Implementation of the experiments performed in the paper. See baseline performance on various tested models below:
+Implementation of the experiments performed in the paper. See baseline performance on various tested models below.
+Baseline performances are the best results of the five transfomer models tested:
 
 
 | Task | Model | Micro F1 | Macro F1 |
@@ -33,7 +34,7 @@ python baseline/run_baseline.py
    ```
 * `trainer/model_specifications.py`
     - This file is used by `TrainerWrapper.py` for specification of the model, which is accessed through huggingface.
-    - used models:
+    - the following models were evaluated, models were chosen because they showed best performances on the BABE dataset:
       * [ConvBert](https://huggingface.co/YituTech/conv-bert-base)
       * [Bart](https://huggingface.co/facebook/bart-base)
       * [TwitterRoBERTa](https://huggingface.co/cardiffnlp/twitter-roberta-base)
@@ -43,3 +44,9 @@ python baseline/run_baseline.py
   * This is a wrapper class that wraps tokenization, configuration and training of the model into k-fold cross-validation.
 * `trainer/ModelTrainer.py`
   * Main training class using accelerator for improved training and [Weights & Biases](https://wandb.ai/home) for logging. If you want to use the weights & biases, put your wandb API key to the `config.py`
+  
+## Result analysis
+All baseline evaluation results: 
+
+The figure below depicts the performance of all models per dataset:
+![d](figures/per_dataset_performance.png)
