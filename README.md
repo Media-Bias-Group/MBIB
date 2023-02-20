@@ -18,7 +18,7 @@ ___
 # 1. Datasets
 ## Get started with MBIB
 ___
-To facilitate research of media bias we share our MBIB corpus on huggingface, to provide an easy entrypoint for data scientists of all skill levels. The corpus can be found on https://huggingface.co/datasets/mediabiasgroup/mbib and fetched through few lines of code:
+To facilitate research of media bias we share our MBIB corpus on huggingface, to provide an easy entrypoint for data scientists of all skill levels. The corpus can be found on https://huggingface.co/datasets/mediabiasgroup/mbib and fetched through a few lines of code:
 ```python 
 from datasets import load_dataset
 
@@ -50,11 +50,11 @@ Each dataset directory is structured as follows:
      └──── README.md
 ```
 Where 
-1. `raw` directory contains raw data and `README.md` file with instructions how to obtain the raw data. Few datasets we either cannot distribute or are too large in its raw form, therefore it's on the user to get them according to the instructions.
-2. `process.py` is a processing script that generates processed file `id-name.csv` out of raw data.
+1. `raw` directory contains raw data and `README.md` the file with instructions how to obtain the raw data. Few datasets we either cannot distribute or are too large in their raw form, therefore a user can get them externally according to our instructions.
+2. `process.py` is a processing script that generates a processed file `id-name.csv` out of raw data.
 3. `README.md` contains information about the dataset, citation information and original source.
 
-For one dataset, Twitter API is needed to fetch the data. In order to be able to fetch the tweets, put your twitter API credentials into `config.py`. If you don't have the Twitter API credentials, this dataset will be skipped.
+For one dataset, the Twitter API is needed to fetch the data. In order to be able to fetch the tweets, put your twitter API credentials into `config.py`. If you don't have the Twitter API credentials, this dataset will be skipped.
 
  
 ## Create MBIB
