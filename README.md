@@ -115,7 +115,7 @@ Please cite us as:
 ```python
 @inproceedings{
     title = {Introducing MBIB - the first Media Bias Identification Benchmark Task and Dataset Collection},
-    author = {Wessel, Martin and Spinde, Timo and Horych, Tomáš and Ruas, Terry and Aizawa, Akiko and Gipp, Bela},
+    author = {Wessel, Martin and Horych, Tomáš and Ruas, Terry and Aizawa, Akiko and Gipp, Bela and Spinde, Timo},
     year = {2023},
     note = {[in review]}
 }
