@@ -97,6 +97,17 @@ All baseline evaluation results:
 |		|	4	|	GPT-2	|	0.6909	|	4	|	GPT2	|	0.696	|
 |		|	5	|	Bart	|	0.6804	|	5	|	ELECTRA	|	0.6255	|
 
+This results into the following final MBIB scores:
+
+|	Model	|	Final Macro-Score	|	Final Micro-Score	|
+|	---	|	---	|	---	|
+|	Bart	|	0.6955375	|	0.7675125	|
+|	ConvBERT	|	0.697775	|	0.7691125	|
+|	ELECTRA	|	0.6879375	|	0.751925	|
+|	GPT-2	|	0.675225	|	0.749425	|
+|	RoBERTa-Twitter	|	0.6978875	|	0.768725	|
+
+
 
 The figure below depicts the performance of all models per dataset:
 ![d](../figures/per_dataset_performance.png)
