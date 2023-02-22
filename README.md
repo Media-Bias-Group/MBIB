@@ -18,11 +18,11 @@ ___
 # 1. Datasets
 ## Get started with MBIB
 ___
-To facilitate research of media bias we share our MBIB corpus on huggingface, to provide an easy entrypoint for data scientists of all skill levels. The corpus can be found on https://huggingface.co/datasets/mediabiasgroup/mbib and fetched through a few lines of code:
+To facilitate research of media bias we share our MBIB corpus on huggingface, to provide an easy entrypoint for data scientists of all skill levels. The corpus can be found on https://huggingface.co/datasets/mediabiasgroup/mbib-base and fetched through a few lines of code:
 ```python 
 from datasets import load_dataset
 
-dataset = load_dataset("mediabiasgroup/mbib", "cognitive-bias")
+dataset = load_dataset("mediabiasgroup/mbib-base", "cognitive-bias")
 # use any of the following config names as a second argument:
 "cognitive-bias", "fake-news", "gender-bias", "hate-speech", 
 "linguistic-bias", "political-bias", "racial-bias", "text-level-bias"
