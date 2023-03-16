@@ -117,10 +117,10 @@ Additionally we also share the code of our baseline training for the sake of rep
 # 3. Citation
 Please cite us as:
 ```python
-@inproceedings{
-    title = {Introducing MBIB - the first Media Bias Identification Benchmark Task and Dataset Collection},
+@inproceedings{WesselMBIB22,
+    title = {Introducing {MBIB} - the first {M}edia {B}ias {I}dentification {B}enchmark {T}ask and {D}ataset {C}ollection},
     author = {Wessel, Martin and Horych, Tomáš and Ruas, Terry and Aizawa, Akiko and Gipp, Bela and Spinde, Timo},
     year = {2023},
-    note = {[in review]}
+    note = {[in review]},
 }
 ```
