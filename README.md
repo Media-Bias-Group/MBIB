@@ -120,7 +120,7 @@ Please cite us as:
 @inproceedings{WesselMBIB22,
     title = {Introducing {MBIB} - the first {M}edia {B}ias {I}dentification {B}enchmark {T}ask and {D}ataset {C}ollection},
     author = {Wessel, Martin and Horych, Tomáš and Ruas, Terry and Aizawa, Akiko and Gipp, Bela and Spinde, Timo},
-    year = {2023},
-    note = {[in review]},
+    booktitle = {Proceedings of 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’23)},
+    year = {2023}
 }
 ```
