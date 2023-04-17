@@ -3,11 +3,7 @@ The evaluation script allows you to train and evaluate the models on our MBIB be
 
 If you want to add your own model for evaluation, add your custom loading function into `model_specification.py`.
 
-To run the script first install dependencies
-```
-pip -r install evaluation/requirements.txt
-```
-and subseqently:
+For the evaluation run:
 ```
 python evaluation/run_evaluation.py
 ```

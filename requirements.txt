@@ -1,3 +1,10 @@
+pandas==1.5.2
+ijson==3.2.0.post0
+more-itertools==8.10.0
+beautifulsoup4==4.11.1
+numpy==1.23.5
+tweepy==4.10.1
+tqdm==4.64.1
 transformers==4.23.1
 pandas==1.5.2
 torch==1.12.1

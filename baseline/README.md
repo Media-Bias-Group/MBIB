@@ -15,12 +15,7 @@ Baseline performances are the best results of the five transfomer models tested:
 | text-level-bias | ConvBERT/ConvBERT | 0.7697 | 	0.7532 |
 
 ## Reproduce results
-In order to reproduce the baseline results 
-please install the python requirements:
-```
-pip -r install baseline/requirements.txt
-```
-and run the training script:
+In order to reproduce the baseline results run the training script:
 ```
 python baseline/run_baseline.py
 ```
