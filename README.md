@@ -119,10 +119,19 @@ Additionally we also share the code of our baseline training for the sake of rep
 # 3. Citation
 Please cite us as:
 ```python
-@inproceedings{WesselMBIB22,
-    title = {Introducing {MBIB} - the first {M}edia {B}ias {I}dentification {B}enchmark {T}ask and {D}ataset {C}ollection},
-    author = {Wessel, Martin and Horych, Tomáš and Ruas, Terry and Aizawa, Akiko and Gipp, Bela and Spinde, Timo},
-    booktitle = {Proceedings of 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’23)},
-    year = {2023}
+@inproceedings{Wessel2023,
+title = {Introducing MBIB - the first Media Bias Identification Benchmark Task and Dataset Collection},
+author = {Martin Wessel and Tomas Horych and Terry Ruas and Akiko Aizawa and Bela Gipp and Timo Spinde},
+url = {https://media-bias-research.org/wp-content/uploads/2023/04/Wessel2023Preprint.pdf
+},
+doi = {https://doi.org/10.1145/3539618.3591882},
+isbn = {978-1-4503-9408-6/23/07},
+year = {2023},
+date = {2023-07-01},
+urldate = {2023-07-01},
+booktitle = {Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’23)},
+publisher = {ACM},
+address = {New York, NY, USA},
+abstract = {Although media bias detection is a complex multi-task problem, there is, to date, no unified benchmark grouping these evaluation tasks. We introduce the Media Bias Identification Benchmark (MBIB), a comprehensive benchmark that groups different types of media bias (e.g., linguistic, cognitive, political) under a common framework to test how prospective detection techniques generalize. After reviewing 115 datasets, we select nine tasks and carefully propose 22 associated datasets for evaluating media bias detection techniques. We evaluate MBIB using state-of-the-art Transformer techniques (e.g., T5, BART). Our results suggest that while hate speech, racial bias, and gender bias are easier to detect, models struggle to handle certain bias types, e.g., cognitive and political bias. However, our results show that no single technique can outperform all the others significantly.We also find an uneven distribution of research interest and resource allocation to the individual tasks in media bias. A unified benchmark encourages the development of more robust systems and shifts the current paradigm in media bias detection evaluation towards solutions that tackle not one but multiple media bias types simultaneously.}
 }
 ```
