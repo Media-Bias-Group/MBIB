@@ -3,6 +3,7 @@
 
 # Introduction
 This repository contains all resources from the paper "Introducing MBIB - the first Media Bias Identification Benchmark Task and Dataset Collection". MBIB (Media Bias Identification Benchmark) consists of 22 carefully selected bias datasets.
+The paper can be found on https://media-bias-research.org/wp-content/uploads/2023/04/Wessel2023Preprint.pdf
 
 ___
 
