@@ -1,1 +1,1 @@
-1. The dataset is available after filling out a form. See more details and link [here](https://github.com/launchnlp/POLITICS).
+![image](https://github.com/Media-Bias-Group/MBIB/assets/67648067/e82e376a-ca89-4daa-84e5-da7b63dcba6c)1. The dataset is available after filling out a form. See more details and link [here](https://github.com/launchnlp/POLITICS). For the script, please download ![image](https://github.com/Media-Bias-Group/MBIB/assets/67648067/e6dd253f-0618-48fd-80a2-e4397f50ca77)
