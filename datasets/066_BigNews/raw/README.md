@@ -1,1 +1,4 @@
-![image](https://github.com/Media-Bias-Group/MBIB/assets/67648067/e82e376a-ca89-4daa-84e5-da7b63dcba6c)1. The dataset is available after filling out a form. See more details and link [here](https://github.com/launchnlp/POLITICS). For the script, please download ![image](https://github.com/Media-Bias-Group/MBIB/assets/67648067/e6dd253f-0618-48fd-80a2-e4397f50ca77)
+1. The dataset is available after filling out a form. See more details and link [here](https://github.com/launchnlp/POLITICS).
+2. The processing script requires BIGNEWSBLN version, see an image below
+
+![image](https://github.com/Media-Bias-Group/MBIB/assets/67648067/cfb2c4ee-55f4-40bc-9cd5-cc56516edbf7)
