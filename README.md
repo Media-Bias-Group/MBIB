@@ -23,10 +23,12 @@ To facilitate research of media bias we share our MBIB corpus on huggingface, to
 ```python 
 from datasets import load_dataset
 
-dataset = load_dataset("mediabiasgroup/mbib-base", "cognitive-bias")
+dataset_dict = load_dataset("mediabiasgroup/mbib-base")
+gender_dataset = dataset_dict['gender_bias']
+
 # use any of the following config names as a second argument:
-"cognitive-bias", "fake-news", "gender-bias", "hate-speech", 
-"linguistic-bias", "political-bias", "racial-bias", "text-level-bias"
+"cognitive_bias", "fake_news", "gender_bias", "hate_speech", 
+"linguistic_bias", "political_bias", "racial_bias", "text_level_bias"
 ```
 ### Note
 ___
