@@ -26,7 +26,7 @@ from datasets import load_dataset
 dataset_dict = load_dataset("mediabiasgroup/mbib-base")
 gender_dataset = dataset_dict['gender_bias']
 
-# use any of the following config names as a second argument:
+# use any of the following config names as a key:
 "cognitive_bias", "fake_news", "gender_bias", "hate_speech", 
 "linguistic_bias", "political_bias", "racial_bias", "text_level_bias"
 ```
